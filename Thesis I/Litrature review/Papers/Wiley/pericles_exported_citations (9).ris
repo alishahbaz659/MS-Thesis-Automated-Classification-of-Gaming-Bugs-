@@ -1,0 +1,680 @@
+
+TY  - JOUR
+T1  - Semi-supervised learning based on convolutional neural network and uncertainty filter for façade defects classification
+AU  - Guo, Jingjing
+AU  - Wang, Qian
+AU  - Li, Yiting
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - https://doi.org/10.1111/mice.12632
+DO  - https://doi.org/10.1111/mice.12632
+T2  - Computer-Aided Civil and Infrastructure Engineering
+JF  - Computer-Aided Civil and Infrastructure Engineering
+JO  - Computer-Aided Civil and Infrastructure Engineering
+JA  - Computer‐Aided Civil and Infrastructure Engineering
+SP  - 302
+EP  - 317
+VL  - 36
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 1093-9687
+M3  - https://doi.org/10.1111/mice.12632
+UR  - https://doi.org/10.1111/mice.12632
+Y2  - 2021/11/08
+N2  - Abstract Developing a classifier to identify the defects from façade images using deep learning requires abundant labeled images. However, it is time-consuming and uneconomical to label the collected images. Hence, it is desired to train an accurate classifier with only a small amount of labeled data. Therefore, this study proposes a semi-supervised learning algorithm that uses only a small amount of labeled data for training, but still achieves high classification accuracy. In addition, based on the mean teacher algorithm, this study develops a novel uncertainty filter to select reliable unlabeled data for initial training epochs to further improve the classification accuracy. Validation experiments demonstrate that the proposed method can improve the model accuracy from 79.26% to 84.36% compared to the traditional supervised learning algorithm with 10% of labeled data in a dataset. From another perspective, compared to supervised learning algorithm, the proposed technique can help reduce the time and cost for preparing the labeled data.
+ER  - 
+
+TY  - JOUR
+T1  - Should any genetic defect affecting α-granules in platelets be classified as gray platelet syndrome?
+AU  - Nurden, Alan T.
+AU  - Nurden, Paquita
+Y1  - 2016/07/01
+PY  - 2016
+DA  - 2016/07/01
+N1  - https://doi.org/10.1002/ajh.24359
+DO  - https://doi.org/10.1002/ajh.24359
+T2  - American Journal of Hematology
+JF  - American Journal of Hematology
+JO  - American Journal of Hematology
+JA  - Am. J. Hematol.
+SP  - 714
+EP  - 718
+VL  - 91
+IS  - 7
+PB  - John Wiley & Sons, Ltd
+SN  - 0361-8609
+M3  - https://doi.org/10.1002/ajh.24359
+UR  - https://doi.org/10.1002/ajh.24359
+Y2  - 2021/11/08
+N2  - There is much current interest in the role of the platelet storage pool of α-granule proteins both in hemostasis and non-hemostatic events. As well as in the arrest of bleeding, the secreted proteins participate in wound healing, inflammation, and innate immunity while in pathology they may be actors in arterial thrombosis and atherosclerosis as well as cancer and metastasis. For a long time, gray platelet syndrome (GPS) has been regarded as the classic inherited platelet disorder caused by an absence of α-granules and their contents. While NBEAL2 is the major source of mutations in GPS, other gene variants may give rise to significant α-granule deficiencies in platelets. These include GATA1, VPS33B, or VIPAS39 in the arthrogryposis, renal dysfunction, and cholestasis (ARC) syndrome and now GFI1B. Nevertheless, many phenotypic differences are associated with mutations in these genes. This critical review was aimed to assess genotype/phenotype variability in disorders of platelet α-granule biogenesis and to urge caution in grouping all genetic defects of α-granules as GPS. Am. J. Hematol. 91:714?718, 2016. ? 2016 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Peri-implant marginal mucosa defects: Classification and clinical management
+AU  - Gamborena, Iñaki
+AU  - Avila-Ortiz, Gustavo
+Y1  - 2021/07/01
+PY  - 2021
+DA  - 2021/07/01
+N1  - https://doi.org/10.1002/JPER.20-0519
+DO  - https://doi.org/10.1002/JPER.20-0519
+T2  - Journal of Periodontology
+JF  - Journal of Periodontology
+JO  - Journal of Periodontology
+JA  - J Periodontol
+SP  - 947
+EP  - 957
+VL  - 92
+IS  - 7
+KW  - clinical decision-making
+KW  - dental implant
+KW  - oral mucosa
+KW  - plastic surgery
+PB  - John Wiley & Sons, Ltd
+SN  - 0022-3492
+M3  - https://doi.org/10.1002/JPER.20-0519
+UR  - https://doi.org/10.1002/JPER.20-0519
+Y2  - 2021/11/08
+N2  - Abstract Peri-implant marginal mucosa defects (PMMDs) are alterations of the peri-implant soft tissue architecture characterized by an apical discrepancy of the mucosal margin respective to its ideal position with or without exposure of transmucosal prosthetic components or the implant fixture surface. PMMDs may not only represent an esthetic concern but also predispose to biofilm accumulation and subsequent initiation and progression of peri-implant inflammatory diseases. A treatment-driven classification for tooth-bound, facial PMMDs in non-molar sites, consisting of three different levels of complexity, is proposed. Clinical recommendations pertaining to the prosthetic and surgical management of each type of PMMD, illustrated with practical examples, are provided with the purpose of facilitating decision-making processes in daily practice.
+ER  - 
+
+TY  - JOUR
+T1  - A tentative classification of centrosome abnormalities in cancer
+AU  - Duensing, Stefan
+Y1  - 2005/05/01
+PY  - 2005
+DA  - 2005/05/01
+N1  - https://doi.org/10.1016/j.cellbi.2005.03.005
+DO  - https://doi.org/10.1016/j.cellbi.2005.03.005
+T2  - Cell Biology International
+JF  - Cell Biology International
+JO  - Cell Biology International
+SP  - 352
+EP  - 359
+VL  - 29
+IS  - 5
+KW  - Centrosome
+KW  - Genomic instability
+KW  - Cancer
+PB  - John Wiley & Sons, Ltd
+SN  - 1065-6995
+M3  - https://doi.org/10.1016/j.cellbi.2005.03.005
+UR  - https://doi.org/10.1016/j.cellbi.2005.03.005
+Y2  - 2021/11/08
+N2  - Abstract Centrosome anomalies are detected in virtually all human cancers. They have been implicated in multipolar mitoses, chromosome missegregation, and genomic instability. Despite extensive studies on the type and frequency of centrosome anomalies, a causative relationship between centrosome aberrations and chromosomal instability has been difficult to establish. For example, centrosome amplification can be present without associated chromosomal instability. In addition, not all cells appear to be permissive for centrosome-related mitotic defects suggesting that cellular mechanisms that limit the harmful effects of spindle malformation on genome integrity may exist. This review proposes to classify centrosome abnormalities in tumor cells into three groups based on their relevance to genomic instability: primary centrosome overduplication, transient centrosome accumulation, and permanent centrosome accumulation. Whereas the first two categories are associated with an increased risk of chromosomal missegregation, the latter category may not contribute to the propagation of genomic instability. Therefore, centrosome anomalies should not per se be viewed as a universal cause of chromosomal instability, rather, they need to be assessed in the cellular context in which they occur.
+ER  - 
+
+TY  - JOUR
+T1  - Detection, quantification and classification of ripened tomatoes: a comparative analysis of image processing and machine learning
+AU  - Alam Siddiquee, Kazy Noor e
+AU  - Islam, Md. Shabiul
+AU  - Dowla, Mohammad Yasin Ud
+AU  - Rezaul, Karim Mohammed
+AU  - Grout, Vic
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - https://doi.org/10.1049/iet-ipr.2019.0738
+DO  - https://doi.org/10.1049/iet-ipr.2019.0738
+T2  - IET Image Processing
+JF  - IET Image Processing
+JO  - IET Image Processing
+JA  - IET Image Process.
+SP  - 2442
+EP  - 2456
+VL  - 14
+IS  - 11
+KW  - learning (artificial intelligence)
+KW  - object detection
+KW  - mobile robots
+KW  - Hough transforms
+KW  - image segmentation
+KW  - image colour analysis
+KW  - crops
+KW  - feature extraction
+KW  - image classification
+KW  - robot vision
+KW  - cameras
+KW  - microcontrollers
+KW  - industrial robots
+KW  - ripened tomatoes
+KW  - image processing
+KW  - crop field
+KW  - Cascaded Object Detector
+KW  - Colour Transformation
+KW  - Circular Hough Transformation
+KW  - ripeness checking
+KW  - colour thresholding
+KW  - RGB colour
+KW  - machine learning techniques
+KW  - tomato field
+KW  - machine learning method
+KW  - Colour Segmentation Method
+PB  - The Institution of Engineering and Technology
+SN  - 1751-9659
+M3  - https://doi.org/10.1049/iet-ipr.2019.0738
+UR  - https://doi.org/10.1049/iet-ipr.2019.0738
+Y2  - 2021/11/08
+N2  - In this study, specifically for the detection of ripe/unripe tomatoes with/without defects in the crop field, two distinct methods are described and compared from captured images by a camera mounted on a mobile robot. One is a machine learning approach, known as ?Cascaded Object Detector? (COD) and the other is a composition of traditional customised methods, individually known as ?Colour Transformation?: ?Colour Segmentation? and ?Circular Hough Transformation?. The (Viola-Jones) COD generates ?histogram of oriented gradient? (HOG) features to detect tomatoes. For ripeness checking, the RGB mean is calculated with a set of rules. However, for traditional methods, colour thresholding is applied to detect tomatoes either from natural or solid background and RGB colour is adjusted to identify ripened tomatoes. This algorithm is shown to be optimally feasible for any micro-controller based miniature electronic devices in terms of its run time complexity of O(n3) for a traditional method in best and average cases. Comparisons show that the accuracy of the machine learning method is 95%, better than that of the Colour Segmentation Method using MATLAB.
+ER  - 
+
+TY  - JOUR
+T1  - Hot pixel classification of single-photon avalanche diode detector arrays using a log-normal statistical distribution
+AU  - Connolly, P.W.R.
+AU  - Ren, X.
+AU  - Henderson, R.K.
+AU  - Buller, G.S.
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1049/el.2019.1427
+DO  - https://doi.org/10.1049/el.2019.1427
+T2  - Electronics Letters
+JF  - Electronics Letters
+JO  - Electronics Letters
+JA  - Electron. Lett.
+SP  - 1004
+EP  - 1006
+VL  - 55
+IS  - 18
+KW  - photon counting
+KW  - statistical distributions
+KW  - log normal distribution
+KW  - photodetectors
+KW  - statistical analysis
+KW  - avalanche photodiodes
+KW  - hot pixel classification
+KW  - single-photon avalanche diode detector arrays
+KW  - log-normal statistical distribution
+KW  - low-light imaging applications
+KW  - average dark count rate
+KW  - log-normal distribution
+KW  - histogrammed dark-count map
+KW  - single-photon detector arrays
+KW  - standardised figure of merit
+PB  - The Institution of Engineering and Technology
+SN  - 0013-5194
+M3  - https://doi.org/10.1049/el.2019.1427
+UR  - https://doi.org/10.1049/el.2019.1427
+Y2  - 2021/11/08
+N2  - CMOS single-photon avalanche diode (SPAD) detector arrays are commonly used in low-light imaging applications, and are known to suffer from certain defects which cause ?hot pixels?. These are detectors which exhibit a significantly larger than average dark count rate, adding noise to the data. Typically, data from these detectors are removed by post-processing or the detectors can, in some cases, be switched off prior to measurement. Users must define and identify these hot pixels, however there exists no consistent methodology of doing so. The authors present a self-consistent method of defining a hot pixel by fitting a log-normal distribution to a histogrammed dark-count map of the array. The approach has proven a robust method of classifying hot pixels in a number of different detector arrays, providing a threshold based on statistical analysis rather than human intuition. This definition provides a reliable and standardised figure of merit, facilitating a more accurate comparison between different single-photon detector arrays.
+ER  - 
+
+TY  - JOUR
+T1  - Machine learning approach for homolog chromosome classification
+AU  - Somasundaram, Devaraj
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1002/ima.22287
+DO  - https://doi.org/10.1002/ima.22287
+T2  - International Journal of Imaging Systems and Technology
+JF  - International Journal of Imaging Systems and Technology
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int J Imaging Syst Technol
+SP  - 161
+EP  - 167
+VL  - 29
+IS  - 2
+KW  - birth defect
+KW  - chromosomes
+KW  - convolutional neural network
+KW  - karyotyping
+PB  - John Wiley & Sons, Ltd
+SN  - 0899-9457
+M3  - https://doi.org/10.1002/ima.22287
+UR  - https://doi.org/10.1002/ima.22287
+Y2  - 2021/11/08
+N2  - Abstract Automated analysis of human chromosomes is a necessary procedure to attain karyotyping and it is highly effective in cytology analysis to detect birth defects in metaspread chromosomes. In this, chromosomes are partitioned into ?abnormal? and ?normal? categories. However, the success of most traditional classification methods relies on the presence of accurate chromosome segmentation. Despite many years of research in this field, accurate segmentation and classification remains a challenge in the presence of cell clusters and pathologies. Many classification methods focused on hand crafted features, such as length, centromere positions. In this manuscript, proposed method focused on chromosome classification based on deep features using convolutional neural network. It is subsequently trained on various chromosome datasets consisting of adaptively resampled image patches. In the testing phase, average the prediction scores of a similar set of image patches is performed. The proposed method is evaluated on different overlapped, nonoverlapped chromosomes and normal, abnormal datasets. Proposed method better performs than previous algorithms in classification accuracy with 98.7%, area under the curve AUC is 0.97 values, and abnormality detection accuracy is 98.4%.
+ER  - 
+
+TY  - JOUR
+T1  - Performance analysis of classification and segmentation of cysts in panoramic dental images using convolutional neural network architecture
+AU  - Sivasundaram, Sivagami
+AU  - Pandian, Chitra
+Y1  - 2021/12/01
+PY  - 2021
+DA  - 2021/12/01
+N1  - https://doi.org/10.1002/ima.22625
+DO  - https://doi.org/10.1002/ima.22625
+T2  - International Journal of Imaging Systems and Technology
+JF  - International Journal of Imaging Systems and Technology
+JO  - International Journal of Imaging Systems and Technology
+JA  - Int J Imaging Syst Technol
+SP  - 2214
+EP  - 2225
+VL  - 31
+IS  - 4
+KW  - CNN architecture
+KW  - deep learning
+KW  - dental or oral cysts
+KW  - dental panoramic images
+PB  - John Wiley & Sons, Ltd
+SN  - 0899-9457
+M3  - https://doi.org/10.1002/ima.22625
+UR  - https://doi.org/10.1002/ima.22625
+Y2  - 2021/11/08
+N2  - Abstract Classification of oral cysts is a crucial task as the similarity between cysts exists which requires a computer-aided diagnosis system. Panoramic dental image is one of the widely used images to identify dental cyst, periodontal bone defects, periapical lesions, and pathological jaw lesions. This article proposes a modified LeNet architecture in a convolutional neural network for classifying the oral cyst images and a morphology-based segmentation method for segmenting the cyst regions in the classified cyst images. A traditional data augmentation approach and a threefold cross-validation method are used to increase the number of input samples and evaluate the accurate results respectively. The proposed methodology is applied to the cyst images obtained from a dental hospital. This model achieves a classification rate of 99.63% for cyst classification and demonstrates a sensitivity of about 98.3% for cyst segmentation. The proposed work has been compared with state-of-the-art algorithms.
+ER  - 
+
+AU  - Vella, Adrian
+PY  - 2021
+Y1  - 2021/12/01
+DA  - 2021/12/01
+Y2  - 2021/11/08
+DO  - https://doi.org/10.1002/9781119603207.ch3
+UR  - https://doi.org/10.1002/9781119603207.ch3
+N1  - https://doi.org/10.1002/9781119603207.ch3
+M3  - https://doi.org/10.1002/9781119603207.ch3
+N2  - Summary The ultimate demonstration of an immune-mediated cause of diabetes would require documenting an immune infiltrate within islets. In type 1 diabetes, all defects are ultimately secondary to insulin deficiency whereas in type 2 diabetes the relative contribution of these parameters is more variable. Defective and/or delayed insulin secretion is the hallmark of all forms of diabetes and the presence of hyperglycemia implies that the degree of insulin secretion is inadequate for the prevailing insulin action. Both type 1 and type 2 exhibit genetic predisposition to the disease but the environmental contribution to type 2 diabetes is much more prominent. In a cohort of Belgian patients with type 1 diabetes presenting before age 40, 24% did not have autoantibodies. Atypical diabetes or ?ketosis-prone type 2 diabetes? were monikers used to describe obese minority patients presenting with diabetic ketoacidosis as their first manifestation of diabetes.
+SP  - 37-44
+KW  - autoantibodies
+KW  - diabetic ketoacidosis
+KW  - genetic predisposition
+KW  - insulin deficiency
+KW  - insulin secretion
+KW  - type 1 diabetes
+KW  - type 2 diabetes
+T1  - Reclassifying or Declassifying Diabetes? Can Clinical Characteristics Guide Classification and Treatment?
+T2  - Clinical Dilemmas in Diabetes
+T3  - Wiley Online Books
+SN  - 9781119603207
+
+TY  - JOUR
+T1  - Three periodontitis phenotypes: Bone loss patterns, antibiotic—surgical treatment and the new classification
+AU  - Delatola, Chryssa
+AU  - Loos, Bruno G.
+AU  - Laine, Marja L.
+Y1  - 2020/11/01
+PY  - 2020
+DA  - 2020/11/01
+N1  - https://doi.org/10.1111/jcpe.13356
+DO  - https://doi.org/10.1111/jcpe.13356
+T2  - Journal of Clinical Periodontology
+JF  - Journal of Clinical Periodontology
+JO  - Journal of Clinical Periodontology
+JA  - J. Clin. Periodontol.
+SP  - 1371
+EP  - 1378
+VL  - 47
+IS  - 11
+KW  - alveolar bone loss pattern
+KW  - antibiotics
+KW  - classification
+KW  - periodontitis
+KW  - phenotypes
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1111/jcpe.13356
+UR  - https://doi.org/10.1111/jcpe.13356
+Y2  - 2021/11/08
+N2  - Abstract Aim To compare three periodontitis clusters (A, B and C) for alveolar bone loss (ABL) patterns, antibiotic prescriptions and surgeries and to relate them to the new classification of periodontitis. Materials and Methods ABL patterns, prescription of systemic antibiotics and the number of surgeries were retrieved for all patients (n = 353) in the clusters. Comparisons and possible predictors for antibiotics were assessed, and results also evaluated in relation to the new classification. Results Cluster A is characterized by angular defects often affecting the first molars and localized stage III/IV grade C periodontitis. Cluster B contains mainly localized or generalized stage III/IV, grade C patients. Cluster C contains mainly patients with generalized stage III/IV grade C periodontitis. Patients in cluster A received significantly more antibiotics compared to B and C (78% vs. 23% and 17%); the predictors for antibiotic prescription were young age and localized ABL. No differences in numbers of periodontal surgeries were observed between clusters (A = 1.0 ± 1.4, B = 1.3 ± 1.4 and C = 1.3 ± 1.5). Conclusions Within stage III/IV grade C periodontitis, we could detect three clusters of patients. The distinct localized ABL pattern and younger age in cluster A presumably prompted clinicians to prescribe antibiotics.
+ER  - 
+
+TY  - JOUR
+T1  - Paper 5: Surveillance of multiple congenital anomalies: Implementation of a computer algorithm in European registers for classification of cases
+AU  - Garne, Ester
+AU  - Dolk, Helen
+AU  - Loane, Maria
+AU  - Wellesley, Diana
+AU  - Barisic, Ingeborg
+AU  - Calzolari, Elisa
+AU  - Densem, James
+AU  - a EUROCAT Working Group
+Y1  - 2011/03/01
+PY  - 2011
+DA  - 2011/03/01
+N1  - https://doi.org/10.1002/bdra.20777
+DO  - https://doi.org/10.1002/bdra.20777
+T2  - Birth Defects Research Part A: Clinical and Molecular Teratology
+JF  - Birth Defects Research Part A: Clinical and Molecular Teratology
+JO  - Birth Defects Research Part A: Clinical and Molecular Teratology
+JA  - Birth Defects Research Part A: Clinical and Molecular Teratology
+SP  - S44
+EP  - S50
+VL  - 91
+IS  - S1
+KW  - multiple congenital anomaly
+KW  - computer algorithm
+KW  - classification
+KW  - surveillance
+KW  - etiology
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1002/bdra.20777
+UR  - https://doi.org/10.1002/bdra.20777
+Y2  - 2021/11/08
+N2  - Abstract BACKGROUND Surveillance of multiple congenital anomalies is considered to be more sensitive for the detection of new teratogens than surveillance of all or isolated congenital anomalies. Current literature proposes the manual review of all cases for classification into isolated or multiple congenital anomalies. METHODS Multiple anomalies were defined as two or more major congenital anomalies, excluding sequences and syndromes. A computer algorithm for classification of major congenital anomaly cases in the EUROCAT database according to International Classification of Diseases (ICD)v10 codes was programmed, further developed, and implemented for 1 year's data (2004) from 25 registries. The group of cases classified with potential multiple congenital anomalies were manually reviewed by three geneticists to reach a final agreement of classification as ?multiple congenital anomaly? cases. RESULTS A total of 17,733 cases with major congenital anomalies were reported giving an overall prevalence of major congenital anomalies at 2.17%. The computer algorithm classified 10.5% of all cases as ?potentially multiple congenital anomalies?. After manual review of these cases, 7% were agreed to have true multiple congenital anomalies. Furthermore, the algorithm classified 15% of all cases as having chromosomal anomalies, 2% as monogenic syndromes, and 76% as isolated congenital anomalies. The proportion of multiple anomalies varies by congenital anomaly subgroup with up to 35% of cases with bilateral renal agenesis. CONCLUSIONS The implementation of the EUROCAT computer algorithm is a feasible, efficient, and transparent way to improve classification of congenital anomalies for surveillance and research. Birth Defects Research (Part A), 2011. ? 2011 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Characteristics of gestational diabetes subtypes classified by oral glucose tolerance test values
+AU  - Kotzaeridi, Grammata
+AU  - Blätter, Julia
+AU  - Eppel, Daniel
+AU  - Rosicky, Ingo
+AU  - Linder, Tina
+AU  - Geissler, Franziska
+AU  - Huhn, Evelyn A.
+AU  - Hösli, Irene
+AU  - Tura, Andrea
+AU  - Göbl, Christian S.
+Y1  - 2021/09/01
+PY  - 2021
+DA  - 2021/09/01
+N1  - https://doi.org/10.1111/eci.13628
+DO  - https://doi.org/10.1111/eci.13628
+T2  - European Journal of Clinical Investigation
+JF  - European Journal of Clinical Investigation
+JO  - European Journal of Clinical Investigation
+JA  - Eur J Clin Invest
+SP  - e13628
+VL  - 51
+IS  - 9
+KW  - early gestation
+KW  - gestational diabetes mellitus
+KW  - heterogeneity
+KW  - pregnancy
+KW  - subtypes
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1111/eci.13628
+UR  - https://doi.org/10.1111/eci.13628
+Y2  - 2021/11/08
+N2  - Abstract Background In clinical practice, gestational diabetes mellitus (GDM) is treated as a homogenous disease but emerging evidence suggests that the diagnosis of GDM possibly comprises different metabolic entities. In this study, we aimed to assess early pregnancy characteristics of gestational diabetes mellitus entities classified according to the presence of fasting and/or post-load hyperglycaemia in the diagnostic oral glucose tolerance test performed at mid-gestation. Methods In this prospective cohort study, 1087 pregnant women received a broad risk evaluation and laboratory examination at early gestation and were later classified as normal glucose tolerant (NGT), as having isolated fasting hyperglycaemia (GDM-IFH), isolated post-load hyperglycaemia (GDM-IPH) or combined hyperglycaemia (GDM-CH) according to oral glucose tolerance test results. Participants were followed up until delivery to assess data on pharmacotherapy and pregnancy outcomes. Results Women affected by elevated fasting and post-load glucose concentrations (GDM-CH) showed adverse metabolic profiles already at beginning of pregnancy including a higher degree of insulin resistance as compared to women with normal glucose tolerance and those with isolated defects (especially GDM-IPH). The GDM-IPH subgroup had lower body mass index at early gestation and required glucose-lowering medications less often (28.9%) as compared to GDM-IFH (47.8%, P = .019) and GDM-CH (54.5%, P = .005). No differences were observed in pregnancy outcome data. Conclusions Women with fasting hyperglycaemia, especially those with combined hyperglycaemia, showed an unfavourable metabolic phenotype already at early gestation. Therefore, categorization based on abnormal oral glucose tolerance test values provides a practicable basis for clinical risk stratification.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of novel pathogenic variants and features in patients with pseudohypoparathyroidism and acrodysostosis, subtypes of the newly classified inactivating PTH/PTHrP signaling disorders
+AU  - Truelove, Adam
+AU  - Mulay, Akhilesh
+AU  - Prapa, Matina
+AU  - Casey, Ruth T.
+AU  - Adler, Amanda I.
+AU  - Offiah, Amaka C.
+AU  - Poole, Kenneth E. S.
+AU  - Trotman, Jamie
+AU  - Al Hasso, Namir
+AU  - Park, Soo-Mi
+Y1  - 2019/07/01
+PY  - 2019
+DA  - 2019/07/01
+N1  - https://doi.org/10.1002/ajmg.a.61163
+DO  - https://doi.org/10.1002/ajmg.a.61163
+T2  - American Journal of Medical Genetics Part A
+JF  - American Journal of Medical Genetics Part A
+JO  - American Journal of Medical Genetics Part A
+JA  - Am J Med Genet
+SP  - 1330
+EP  - 1337
+VL  - 179
+IS  - 7
+KW  - acrodysostosis
+KW  - Albright hereditary osteodystrophy
+KW  - iPPSD
+KW  - pseudohypoparathyroidism
+KW  - pseudopseudohypoparathyroidism
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1002/ajmg.a.61163
+UR  - https://doi.org/10.1002/ajmg.a.61163
+Y2  - 2021/11/08
+N2  - Abstract Albright hereditary osteodystrophy (AHO) is a complex disorder defined by the presence of a short adult stature relative to the height of an unaffected parent and brachydactyly type E, as well as a stocky build, round face, and ectopic calcifications. AHO and pseudohypoparathyroidism (PHP) have been used interchangeably in the past. The term PHP describes end-organ resistance to parathyroid hormone (PTH), occurring with or without the physical features of AHO. Conversely, pseudopseudohypoparathyroidism (PPHP) describes individuals with AHO features in the absence of PTH resistance. PHP and PPHP are etiologically linked and caused by genetic and/or epigenetic alterations in the guanine nucleotide-binding protein alpha-stimulating (Gsα) locus (GNAS) in chromosome 20q13. Another less-recognized group of skeletal dysplasias, termed acrodysostosis, partially overlap with skeletal, endocrine, and neurodevelopmental features of AHO/PHP and can be overlooked in clinical practice, causing confusion in the literature. Acrodysostosis is caused by defects in two genes, PRKAR1A and PDE4D, both encoding important components of the Gsα-cyclic adenosine monophosphate-protein kinase A signaling pathway. We describe the clinical course and genotype of two adult patients with overlapping AHO features who harbored novel pathogenic variants in GNAS (c.2273C?>?G, p.Pro758Arg, NM_080425.2) and PRKAR1A (c.803C?>?T, p.Ala268Val, NM_002734.4), respectively. We highlight the value of expert radiological opinion and molecular testing in establishing correct diagnoses and discuss phenotypic features of our patients, including the first description of subcutaneous ossification and spina bifida occulta in PRKAR1A-related acrodysostosis, in the context of the novel inactivating PTH/PTH related peptide signaling disorder classification system.
+ER  - 
+
+TY  - JOUR
+T1  - Systematic procedure for the classification of proven and potential teratogens for use in research
+AU  - Eltonsy, Sherif
+AU  - Martin, Brigitte
+AU  - Ferreira, Ema
+AU  - Blais, Lucie
+Y1  - 2016/04/01
+PY  - 2016
+DA  - 2016/04/01
+N1  - https://doi.org/10.1002/bdra.23491
+DO  - https://doi.org/10.1002/bdra.23491
+T2  - Birth Defects Research Part A: Clinical and Molecular Teratology
+JF  - Birth Defects Research Part A: Clinical and Molecular Teratology
+JO  - Birth Defects Research Part A: Clinical and Molecular Teratology
+JA  - Birth Defects Research Part A: Clinical and Molecular Teratology
+SP  - 285
+EP  - 297
+VL  - 106
+IS  - 4
+KW  - teratogen
+KW  - medication
+KW  - epidemiology
+KW  - birth defects
+KW  - first trimester
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1002/bdra.23491
+UR  - https://doi.org/10.1002/bdra.23491
+Y2  - 2021/11/08
+N2  - Background Although there is strong evidence that some medications are teratogenic, the current lists of teratogens to be used in research are outdated. The objective of this study was to develop an updatable and systematic procedure to the classification of medications proven and potentially teratogenic in the first trimester of pregnancy, for use in research. Methods We developed a two-step procedure for teratogen classification. Step 1 includes classifying the medications from Drugs in Pregnancy and Lactation: a Reference Guide to Fetal and Neonatal Risk (9th ed.) into two provisional lists: (1) teratogenic medications, and (2) potentially teratogenic medications. We also searched other references to add other medications. In Step 2, the Teratology Information System (TERIS) database was searched, and the medication was classified as teratogenic or potentially teratogenic according to a newly developed scheme. Expert consensus was used if a medication was not recorded in TERIS. Results A total of 114 medications were identified in Drugs in Pregnancy and Lactation: a Reference Guide to Fetal and Neonatal Risk, with 57 medications in each provisional list. Seventy-eight medications were identified in other sources. A total of 135 medications were included in Step 2; the TERIS scheme classified 23 medications, and 112 medications required expert opinion. The two experts agreed on 78.6% of the medications (kappa?=?0.63). We identified 91 teratogenic and 81 potentially teratogenic medications. Conclusion Using reliable references, we established a systematic procedure to the classification of medications with evidence of or potential teratogenic risk. These exhaustive lists will be useful in teratology research and related fields. Birth Defects Research (Part A) 106:285?297, 2016. ? 2016 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Chicago Classification update (V4.0): Technical review on diagnostic criteria for ineffective esophageal motility and absent contractility
+AU  - Gyawali, C. Prakash
+AU  - Zerbib, Frank
+AU  - Bhatia, Shobna
+AU  - Cisternas, Daniel
+AU  - Coss-Adame, Enrique
+AU  - Lazarescu, Adriana
+AU  - Pohl, Daniel
+AU  - Yadlapati, Rena
+AU  - Penagini, Roberto
+AU  - Pandolfino, John
+Y1  - 2021/08/01
+PY  - 2021
+DA  - 2021/08/01
+N1  - https://doi.org/10.1111/nmo.14134
+DO  - https://doi.org/10.1111/nmo.14134
+T2  - Neurogastroenterology & Motility
+JF  - Neurogastroenterology & Motility
+JO  - Neurogastroenterology & Motility
+JA  - Neurogastroenterology & Motility
+SP  - e14134
+VL  - 33
+IS  - 8
+KW  - absent contractility
+KW  - high-resolution manometry
+KW  - ineffective esophageal motility
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1111/nmo.14134
+UR  - https://doi.org/10.1111/nmo.14134
+Y2  - 2021/11/08
+N2  - Abstract Esophageal hypomotility disorders manifest with abnormal esophageal body contraction vigor, breaks in peristaltic integrity, or failure of peristalsis in the context of normal lower esophageal sphincter relaxation on esophageal high-resolution manometry (HRM). The Chicago Classification version 4.0 recognizes two hypomotility disorders, ineffective esophageal motility (IEM) and absent contractility, while fragmented peristalsis has been incorporated into the IEM definition. Updated criteria for ineffective swallows consist of weak esophageal body contraction vigor measured using distal contractile integral (DCI, 100?450 mmHg·cm·s), transition zone defects >5 cm measured using a 20 mmHg isobaric contour, or failure of peristalsis (DCI < 100 mmHg·cm·s). More than 70% ineffective swallows and/or ≥50% failed swallows are required for a conclusive diagnosis of IEM. When the diagnosis is inconclusive (50%?70% ineffective swallows), supplementary evidence from multiple rapid swallows (absence of contraction reserve), barium radiography (abnormal bolus clearance), or HRM with impedance (abnormal bolus clearance) could support a diagnosis of IEM. Absent contractility requires 100% failed peristalsis, consistent with previous versions of the classification. Consideration needs to be given for the possibility of achalasia in absent contractility with dysphagia despite normal IRP, and alternate complementary tests (including timed upright barium esophagram and functional lumen imaging probe) are recommended to confirm or refute the presence of achalasia. Future research to quantify esophageal bolus retention on stationary HRM with impedance and to understand contraction vigor thresholds that predict bolus clearance will provide further refinement to diagnostic criteria for esophageal hypomotility disorders in future iterations of the Chicago Classification.
+ER  - 
+
+TY  - JOUR
+T1  - Somatic mutation profiles as molecular classifiers of ulcerative colitis-associated colorectal cancer
+AU  - Mäki-Nevala, Satu
+AU  - Ukwattage, Sanjeevi
+AU  - Olkinuora, Alisa
+AU  - Almusa, Henrikki
+AU  - Ahtiainen, Maarit
+AU  - Ristimäki, Ari
+AU  - Seppälä, Toni
+AU  - Lepistö, Anna
+AU  - Mecklin, Jukka-Pekka
+AU  - Peltomäki, Päivi
+Y1  - 2021/06/15
+PY  - 2021
+DA  - 2021/06/15
+N1  - https://doi.org/10.1002/ijc.33492
+DO  - https://doi.org/10.1002/ijc.33492
+T2  - International Journal of Cancer
+JF  - International Journal of Cancer
+JO  - International Journal of Cancer
+JA  - Int. J. Cancer
+SP  - 2997
+EP  - 3007
+VL  - 148
+IS  - 12
+KW  - colorectal cancer
+KW  - Lynch syndrome
+KW  - microsatellite instability
+KW  - somatic mutation
+KW  - Ulcerative colitis
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1002/ijc.33492
+UR  - https://doi.org/10.1002/ijc.33492
+Y2  - 2021/11/08
+N2  - Abstract Ulcerative colitis increases colorectal cancer risk by mechanisms that remain incompletely understood. We approached this question by determining the genetic and epigenetic profiles of colitis-associated colorectal carcinomas (CA-CRC). The findings were compared to Lynch syndrome (LS), a different form of cancer predisposition that shares the importance of immunological factors in tumorigenesis. CA-CRCs (n = 27) were investigated for microsatellite instability, CpG island methylator phenotype and somatic mutations of 999 cancer-relevant genes (?Pan-cancer? panel). A subpanel of ?Pan-cancer? design (578 genes) was used for LS colorectal tumors (n = 28). Mutational loads and signatures stratified CA-CRCs into three subgroups: hypermutated microsatellite-unstable (Group 1, n = 1), hypermutated microsatellite-stable (Group 2, n = 9) and nonhypermutated microsatellite-stable (Group 3, n = 17). The Group 1 tumor was the only one with MLH1 promoter hypermethylation and exhibited the mismatch repair deficiency-associated Signatures 21 and 15. Signatures 30 and 32 characterized Group 2, whereas no prominent single signature existed in Group 3. TP53, the most common mutational target in CA-CRC (16/27, 59%), was similarly affected in Groups 2 and 3, but DNA repair genes and Wnt signaling genes were mutated significantly more often in Group 2. In LS tumors, the degree of hypermutability exceeded that of the hypermutated CA-CRC Groups 1 and 2, and somatic mutational profiles and signatures were different. In conclusion, Groups 1 (4%) and 3 (63%) comply with published studies, whereas Group 2 (33%) is novel. The existence of molecularly distinct subgroups within CA-CRC may guide clinical management, such as therapy options.
+ER  - 
+
+TY  - JOUR
+T1  - Clinical Characteristics, Classification, and Management of Adult Nasopharyngolaryngeal Hemangioma
+AU  - Shen, Zhe
+AU  - Zhang, Diekuo
+AU  - Li, Guo
+AU  - Huang, Donghai
+AU  - Qiu, Yuanzheng
+AU  - Xie, Changning
+AU  - Zhang, Xin
+AU  - Wang, Xingwei
+AU  - Liu, Yong
+Y1  - 2021/06/23
+PY  - 2021
+DA  - 2021/06/23
+N1  - https://doi.org/10.1002/lary.29703
+DO  - https://doi.org/10.1002/lary.29703
+T2  - The Laryngoscope
+JF  - The Laryngoscope
+JO  - The Laryngoscope
+JA  - The Laryngoscope
+VL  - n/a
+IS  - n/a
+KW  - Hemangioma
+KW  - pharynx
+KW  - larynx
+KW  - adult
+KW  - endoscopic surgery
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1002/lary.29703
+UR  - https://doi.org/10.1002/lary.29703
+Y2  - 2021/11/08
+N2  - Objectives/Hypothesis To analyze the clinical features, classification, and treatment of adult nasopharyngolaryngeal hemangioma (ANPLH). Study Design Retrospective study. Methods From February 2009 to May 2020, 101 patients with ANPLH were reviewed and analyzed. Results Symptoms of ANPLH were frequently displayed as abnormal pharyngeal sensation and functional defection. According to lesion location, ANPLH was divided into five categories including nasopharyngeal, oropharyngeal, hypopharyngeal, laryngeal, and mixed types. The mixed type constitutes the highest portion, and the nasopharyngeal type is the least in our cohort. Most lesions could resect through natural cavity under endoscopy. Patients with mixed lesions had a higher rate of postoperative recurrence and planned multiple surgeries. Acceptable but not severe intraoperative and postoperative complications occurred in our patient cohort. Conclusions Patients with ANPLH are always symptomatic and even functional defective, which can be classified into five categories based on lesion location. For these patients, endoscopic surgery through natural cavity is recommended to remove lesions with fewer complications and favorable clinical outcomes. Level of Evidence 4 Laryngoscope, 2021
+ER  - 
+
+TY  - JOUR
+T1  - International classification of abdominal wall planes (ICAP) to describe mesh insertion for ventral hernia repair
+AU  - Parker, S. G.
+AU  - Halligan, S.
+AU  - Liang, M. K.
+AU  - Muysoms, F. E.
+AU  - Adrales, G. L.
+AU  - Boutall, A.
+AU  - de Beaux, A. C.
+AU  - Dietz, U. A.
+AU  - Divino, C. M.
+AU  - Hawn, M. T.
+AU  - Heniford, T. B.
+AU  - Hong, J. P.
+AU  - Ibrahim, N.
+AU  - Itani, K. M. F.
+AU  - Jorgensen, L. N.
+AU  - Montgomery, A.
+AU  - Morales-Conde, S.
+AU  - Renard, Y.
+AU  - Sanders, D. L.
+AU  - Smart, N. J.
+AU  - Torkington, J. J.
+AU  - Windsor, A. C. J.
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - https://doi.org/10.1002/bjs.11400
+DO  - https://doi.org/10.1002/bjs.11400
+T2  - BJS (British Journal of Surgery)
+JF  - BJS (British Journal of Surgery)
+JO  - BJS (British Journal of Surgery)
+JA  - Br J Surg
+SP  - 209
+EP  - 217
+VL  - 107
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1002/bjs.11400
+UR  - https://doi.org/10.1002/bjs.11400
+Y2  - 2021/11/08
+N2  - Background Nomenclature for mesh insertion during ventral hernia repair is inconsistent and confusing. Several terms, including ?inlay?, ?sublay? and ?underlay?, can refer to the same anatomical planes in the indexed literature. This frustrates comparisons of surgical practice and may invalidate meta-analyses comparing surgical outcomes. The aim of this study was to establish an international classification of abdominal wall planes. Methods A Delphi study was conducted involving 20 internationally recognized abdominal wall surgeons. Different terms describing anterior abdominal wall planes were identified via literature review and expert consensus. The initial list comprised 59 possible terms. Panellists completed a questionnaire that suggested a list of options for individual abdominal wall planes. Consensus on a term was predefined as occurring if selected by at least 80 per cent of panellists. Terms scoring less than 20 per cent were removed. Results Voting started August 2018 and was completed by January 2019. In round 1, 43 terms (73 per cent) were selected by less than 20 per cent of panellists and 37 new terms were suggested, leaving 53 terms for round 2. Four planes reached consensus in round 2, with the terms ?onlay?, ?inlay?, ?preperitoneal? and ?intraperitoneal?. Thirty-five terms (66 per cent) were selected by less than 20 per cent of panellists and were removed. After round 3, consensus was achieved for ?anterectus?, ?interoblique?, ?retro-oblique? and ?retromuscular?. Default consensus was achieved for the ?retrorectus? and ?transversalis fascial? planes. Conclusion Consensus concerning abdominal wall planes was agreed by 20 internationally recognized surgeons. Adoption should improve communication and comparison among surgeons and research studies.
+ER  - 
+
+TY  - JOUR
+T1  - A cost-effective maize ear phenotyping platform enables rapid categorization and quantification of kernels
+AU  - Warman, Cedar
+AU  - Sullivan, Christopher M.
+AU  - Preece, Justin
+AU  - Buchanan, Michaela E.
+AU  - Vejlupkova, Zuzana
+AU  - Jaiswal, Pankaj
+AU  - Fowler, John E.
+Y1  - 2021/04/01
+PY  - 2021
+DA  - 2021/04/01
+N1  - https://doi.org/10.1111/tpj.15166
+DO  - https://doi.org/10.1111/tpj.15166
+T2  - The Plant Journal
+JF  - The Plant Journal
+JO  - The Plant Journal
+JA  - Plant J
+SP  - 566
+EP  - 579
+VL  - 106
+IS  - 2
+KW  - Zea mays
+KW  - digital imaging
+KW  - deep learning
+KW  - ear
+KW  - high-throughput phenotyping
+KW  - kernel
+KW  - pollen
+KW  - technical advance
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1111/tpj.15166
+UR  - https://doi.org/10.1111/tpj.15166
+Y2  - 2021/11/08
+N2  - Significance Statement A maize (Zea mays) ear phenotyping system built from commonly available parts creates images of the surface of ears and identifies kernel phenotypes with a deep-learning-based computer vision pipeline. The system increases the scope of feasible experiments addressing maize reproductive biology and related agricultural traits by reducing a bottleneck in data acquisition and quantification, paving the way for enhanced high-throughput phenotyping in this area.
+ER  - 
+
+TY  - JOUR
+T1  - Manifestations of systemic diseases and conditions that affect the periodontal attachment apparatus: Case definitions and diagnostic considerations
+AU  - Albandar, Jasim M.
+AU  - Susin, Cristiano
+AU  - Hughes, Francis J.
+Y1  - 2018/06/01
+PY  - 2018
+DA  - 2018/06/01
+N1  - https://doi.org/10.1111/jcpe.12947
+DO  - https://doi.org/10.1111/jcpe.12947
+T2  - Journal of Clinical Periodontology
+JF  - Journal of Clinical Periodontology
+JO  - Journal of Clinical Periodontology
+JA  - J Clin Periodontol
+SP  - S171
+EP  - S189
+VL  - 45
+IS  - S20
+KW  - attachment loss
+KW  - diagnosis
+KW  - genetic disease
+KW  - immune response
+KW  - inflammation
+KW  - periodontal disease
+KW  - systemic disease
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119603207
+M3  - https://doi.org/10.1111/jcpe.12947
+UR  - https://doi.org/10.1111/jcpe.12947
+Y2  - 2021/11/08
+N2  - Abstract Objectives This review proposes case definitions and diagnostic considerations of systemic disorders and conditions that affect the periodontal attachment apparatus. Importance Periodontal diseases and certain systemic disorders share similar genetic and/or environmental etiological factors, and affected patients may show manifestations of both diseases. Characterizing these diseases and the nature of the association between them could have important diagnostic value and therapeutic implications for patients. Findings Numerous systemic disorders and certain medications can affect the periodontal attachment apparatus and cause loss of periodontal attachment and alveolar bone. Although many of these disorders are rare or uncommon, they often cause significant loss of periodontal tissue by influencing periodontal inflammation or through mechanisms distinct from periodontitis. Most of these disorders are due to innate mechanisms and some are acquired via environmental factors or lifestyle. Several disorders affect periodontal inflammation through alterations in the host immune response to periodontal infection; others cause defects in the gingiva or periodontal connective tissue, instigate metabolic changes in the host that affect various tissues of the periodontal apparatus, or operate by other mechanisms. For some systemic disorders that are more common, their contribution to the loss of periodontal tissue is modest, while for others, contribution is not supported by clear evidence. Few systemic medications are associated with increased loss of periodontal tissue, and these are typically medications used in the treatment of malignancies. Conclusions This review identifies systemic diseases and conditions that can affect the periodontal attachment apparatus and cause loss of periodontal supporting tissues and, where possible, presents case definitions for these. Many of these diseases are associated with a profound loss of periodontal attachment and alveolar bone, and for some of these disorders the periodontal manifestations may be among the first signs of the disease. These case definitions may be useful in the early diagnosis of these diseases and may contribute to an improvement in the management of periodontal manifestations and improve the quality of life for these patients.
+ER  - 

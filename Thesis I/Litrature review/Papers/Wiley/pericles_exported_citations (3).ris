@@ -1,0 +1,737 @@
+
+TY  - JOUR
+T1  - Reliable protection scheme for PV integrated microgrid using an ensemble classifier approach with real-time validation
+AU  - Manohar, Murli
+AU  - Koley, Ebha
+AU  - Ghosh, Subhojit
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - https://doi.org/10.1049/iet-smt.2017.0270
+DO  - https://doi.org/10.1049/iet-smt.2017.0270
+T2  - IET Science, Measurement & Technology
+JF  - IET Science, Measurement & Technology
+JO  - IET Science, Measurement & Technology
+JA  - IET Sci. Meas. Technol.
+SP  - 200
+EP  - 208
+VL  - 12
+IS  - 2
+KW  - distributed power generation
+KW  - power distribution faults
+KW  - photovoltaic power systems
+KW  - power distribution protection
+KW  - power generation protection
+KW  - fault location
+KW  - power engineering computing
+KW  - signal classification
+KW  - pattern classification
+KW  - photovoltaic integrated microgrid protection
+KW  - ensemble classifier
+KW  - real time validation
+KW  - fault current
+KW  - grid connected operation
+KW  - islanding operation
+KW  - voting strategy
+KW  - fault detection
+KW  - fault classification
+KW  - reliability assessment
+KW  - fault locator reliability
+KW  - Monte Carlo simulation
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8822
+M3  - https://doi.org/10.1049/iet-smt.2017.0270
+UR  - https://doi.org/10.1049/iet-smt.2017.0270
+Y2  - 2021/11/08
+N2  - The need for enhancing grid resilience has led to wider acceptance of photo voltaic (PV) integrated microgrid. The variation in fault current during grid connected and islanding operation makes the microgrid protection task challenging. A protection scheme based on ensemble of classifiers has been devised by exploiting the effectiveness of a classifier set coupled with voting strategy. Unlike the existing classifier-based approaches involving single classifier, the ensemble-based approach is insensitive to the biasness of individual classifier and dimension/size of dataset. The proposed scheme is formulated to simultaneously perform the tasks of mode detection, fault detection/classification, section identification and location. The scheme is able to discriminate between faults and power quality disturbances, which avoids unintended false tripping. Along with accuracy, the reliability assessment of proposed scheme has been carried out using two indices, i.e. dependability and security for different faults, operating mode and contingencies. For evaluating the reliability of the fault locator, a stochastic approach (Monte-Carlo simulation) has been adopted. The simulation results justify the applicability of the proposed ensemble classifier-based scheme for complete protection and reliable operation of microgrids with PV penetration. The scheme also has been validated for real-time settings using hardware in loop simulations.
+ER  - 
+
+TY  - JOUR
+T1  - Supervisory algorithm based on reaction wheel modelling and spectrum analysis for detection and classification of electromechanical faults
+AU  - Izadi, Vahid
+AU  - Abedi, Mostafa
+AU  - Bolandi, Hossein
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - https://doi.org/10.1049/iet-smt.2017.0137
+DO  - https://doi.org/10.1049/iet-smt.2017.0137
+T2  - IET Science, Measurement & Technology
+JF  - IET Science, Measurement & Technology
+JO  - IET Science, Measurement & Technology
+JA  - IET Sci. Meas. Technol.
+SP  - 1085
+EP  - 1093
+VL  - 11
+IS  - 8
+KW  - wheels
+KW  - spectral analysers
+KW  - fault diagnosis
+KW  - artificial satellites
+KW  - reaction wheel modelling
+KW  - spectrum analysis
+KW  - electromechanical faults
+KW  - supervisory software algorithm
+KW  - fault source
+KW  - fault occurrences
+KW  - critical points
+KW  - parameter estimation
+KW  - bearing faults
+KW  - stator current signal
+KW  - hardware-in-a-loop test bed
+KW  - xPC Target toolbox
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8822
+M3  - https://doi.org/10.1049/iet-smt.2017.0137
+UR  - https://doi.org/10.1049/iet-smt.2017.0137
+Y2  - 2021/11/08
+N2  - This study presents the design of a supervisory software algorithm that can detect and classify different types of electromechanical faults and determine the fault source in the reaction wheel. Unlike conventional methods, which are generally based on the modelling of the entire control system, the fault occurrences and all critical points are predicted at the module level. For this purpose, a new model of the wheel is proposed in which all internal interactions are considered. Based on this model, a method of parameter estimation is proposed to classify stator and bearing faults. Furthermore, an innovative approach based on the spectral analysis of the stator current signal is applied to detect and classify faults caused by damage to the permanent magnet or flywheel. These strategies are combined to ensure that all of the electromechanical faults that are likely to occur in the wheel will be detected. Simulation and experimental results obtained from a hardware-in-a-loop test bed and xPC Target toolbox demonstrate the applicability of the proposed algorithms in actual systems.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic mixture probabilistic PCA classifier modeling and application for fault classification
+AU  - Zhu, Jinlin
+AU  - Ge, Zhiqiang
+AU  - Song, Zhihuan
+Y1  - 2015/06/01
+PY  - 2015
+DA  - 2015/06/01
+N1  - https://doi.org/10.1002/cem.2714
+DO  - https://doi.org/10.1002/cem.2714
+T2  - Journal of Chemometrics
+JF  - Journal of Chemometrics
+JO  - Journal of Chemometrics
+JA  - J. Chemometrics
+SP  - 361
+EP  - 370
+VL  - 29
+IS  - 6
+KW  - mixture probabilistic PCA classifier
+KW  - dynamic modeling
+KW  - fault classification
+KW  - hidden Markov model
+KW  - expectation-maximization
+PB  - John Wiley & Sons, Ltd
+SN  - 0886-9383
+M3  - https://doi.org/10.1002/cem.2714
+UR  - https://doi.org/10.1002/cem.2714
+Y2  - 2021/11/08
+N2  - A dynamic classifier based on the mixture probabilistic principal component analyzer (MPPCA) is proposed for fault classification. Compared with traditional methods, both fault detection and diagnosis are combined into a single classification task. By introducing a state indicator, the conventional MPPCA model is first designed as a standard classifier. Then, the static MPPCA model based classifier is temporally extended to the dynamic form within the hidden Markov model framework. Both static and dynamic MPPCA classifiers are obtained by using the Expectation-Maximization algorithm. For performance evaluation, case studies of the continuous stirred tank heater process and the Tennessee Eastman process are carried out. Results indicate that the dynamic MPPCA classifier performs better compared with the static MPPCA classifier and the hidden Markov model based classifier. Copyright ? 2015 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Uncorrelated discriminant graph embedding for fault classification
+AU  - Hu, Zhengwei
+AU  - Peng, Jingchao
+AU  - Zhao, Haitao
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2021/10/01
+N1  - https://doi.org/10.1002/cjce.24045
+DO  - https://doi.org/10.1002/cjce.24045
+T2  - The Canadian Journal of Chemical Engineering
+JF  - The Canadian Journal of Chemical Engineering
+JO  - The Canadian Journal of Chemical Engineering
+JA  - Can J Chem Eng
+SP  - S245
+EP  - S258
+VL  - 99
+IS  - S1
+KW  - discriminant analysis
+KW  - fault classification
+KW  - feature extraction
+KW  - process monitoring
+PB  - John Wiley & Sons, Ltd
+SN  - 0008-4034
+M3  - https://doi.org/10.1002/cjce.24045
+UR  - https://doi.org/10.1002/cjce.24045
+Y2  - 2021/11/08
+N2  - Abstract Recently, graph embedding methods have been successfully used in process monitoring. To improve the discriminant power, a novel supervised graph embedding method, called uncorrelated discriminant graph embedding (UDGE), is proposed. Different from the unsupervised design of locality preserving projection (LPP), UDGE utilizes both the local geometrical structure and label information to construct the similarity between different data points. The ?local geometrical structure? means that each data point can be represented as a combination of its neighbours. Due to add the uncorrelated constraint, the extracted features of UDGE are statistically uncorrelated. Uncorrelated attributes are essential for dimension reduction since they contain minimum redundancy. The application of UDGE is evaluated on the Tennessee Eastman process (TEP) benchmark. Experimental results show UDGE can better separate different types of faults and provide more promising fault diagnosis performance. The code of UDGE is released in https://github.com/htz-ecust/Uncorrelated-Discriminant-Graph-Embedding-for-Fault-Classification.
+ER  - 
+
+TY  - JOUR
+T1  - CNN-based reference comparison method for classifying bare PCB defects
+AU  - Wei, Peng
+AU  - Liu, Chang
+AU  - Liu, Mengyuan
+AU  - Gao, Yunlong
+AU  - Liu, Hong
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - https://doi.org/10.1049/joe.2018.8271
+DO  - https://doi.org/10.1049/joe.2018.8271
+T2  - The Journal of Engineering
+JF  - The Journal of Engineering
+JO  - The Journal of Engineering
+JA  - The Journal of Engineering
+SP  - 1528
+EP  - 1533
+VL  - 2018
+IS  - 16
+KW  - image classification
+KW  - printed circuits
+KW  - neural nets
+KW  - automatic optical inspection
+KW  - electronic engineering computing
+KW  - digital image processing
+KW  - convolutional neural network
+KW  - CNN-based reference comparison method
+KW  - printed circuit board inspection
+KW  - PCB production process
+KW  - automatic optic inspection
+KW  - PCB bare board defect detection methods
+KW  - bare PCB defect classification algorithm
+KW  - reference comparison method
+PB  - The Institution of Engineering and Technology
+SN  - 2051-3305
+M3  - https://doi.org/10.1049/joe.2018.8271
+UR  - https://doi.org/10.1049/joe.2018.8271
+Y2  - 2021/11/08
+N2  - Printed circuit board (PCB) inspection is an essential part of PCB production process. Traditional PCB bare board defect detection methods have their own defects. However, the PCB bare board defect detection method based on automatic optic inspection is a feasible and effective method, and it is having more and more application in industry. Based on the idea of the reference comparison method, this study aims at studying the classification of defects. First of all, the method of extracting defect areas using morphology is studied; meanwhile, a data set containing 1818 images with 6 different detailed defect area image parts are produced. Then, in order to classify defects accurately, a traditional classification algorithm based on digital image processing was attempted, and a defect classification algorithm based on convolutional neural network was proposed. After experimental demonstration, in the actual results, the defect classification algorithm based on convolutional neural network can achieve a fairly high classification accuracy (95.7%), which is much higher than the traditional method, and the new method has stronger stability than the traditional one.
+ER  - 
+
+TY  - JOUR
+T1  - Multiway discrete hidden Markov model-based approach for dynamic batch process monitoring and fault classification
+AU  - Yu, Jie
+Y1  - 2012/09/01
+PY  - 2012
+DA  - 2012/09/01
+N1  - https://doi.org/10.1002/aic.12794
+DO  - https://doi.org/10.1002/aic.12794
+T2  - AIChE Journal
+JF  - AIChE Journal
+JO  - AIChE Journal
+JA  - AIChE J.
+SP  - 2714
+EP  - 2725
+VL  - 58
+IS  - 9
+KW  - batch process
+KW  - fault detection
+KW  - fault classification
+KW  - discrete hidden Markov model
+KW  - multiway analysis
+KW  - system uncertainty
+KW  - dynamic randomness
+KW  - penicillin fermentation process
+PB  - John Wiley & Sons, Ltd
+SN  - 0001-1541
+M3  - https://doi.org/10.1002/aic.12794
+UR  - https://doi.org/10.1002/aic.12794
+Y2  - 2021/11/08
+N2  - Abstract A new multiway discrete hidden Markov model (MDHMM)-based approach is proposed in this article for fault detection and classification in complex batch or semibatch process with inherent dynamics and system uncertainty. The probabilistic inference along the state transitions in MDHMM can effectively extract the dynamic and stochastic patterns in the process operation. Furthermore, the used multiway analysis is able to transform the three-dimensional (3-D) data matrices into 2-D measurement-state data sets for hidden Markov model estimation and state path optimization. The proposed MDHMM approach is applied to fed-batch penicillin fermentation process and compared to the conventional multiway principal component analysis (MPCA) and multiway dynamic principal component analysis (MDPCA) methods in three faulty scenarios. The monitoring results demonstrate that the MDHMM approach is superior to both the MPCA and MDPCA methods in terms of fault detection and false alarm rates. In addition, the supervised MDHMM approach is able to classify different types of process faults with high fidelity. ? 2011 American Institute of Chemical Engineers AIChE J, 2012
+ER  - 
+
+TY  - JOUR
+T1  - A novel fault classification-based fault-tolerant control for two degree of freedom helicopter systems
+AU  - Singh, Rupam
+AU  - Bhushan, Bharat
+Y1  - 2020/08/01
+PY  - 2020
+DA  - 2020/08/01
+N1  - https://doi.org/10.1002/acs.3121
+DO  - https://doi.org/10.1002/acs.3121
+T2  - International Journal of Adaptive Control and Signal Processing
+JF  - International Journal of Adaptive Control and Signal Processing
+JO  - International Journal of Adaptive Control and Signal Processing
+JA  - Int J Adapt Control Signal Process
+SP  - 1080
+EP  - 1104
+VL  - 34
+IS  - 8
+KW  - 2DoF helicopter
+KW  - discrete wavelet transform
+KW  - fault detection and diagnosis
+KW  - fuzzy-proportional integral derivative
+KW  - multilayer perceptron neural network
+PB  - John Wiley & Sons, Ltd
+SN  - 0890-6327
+M3  - https://doi.org/10.1002/acs.3121
+UR  - https://doi.org/10.1002/acs.3121
+Y2  - 2021/11/08
+N2  - Summary Fault detection and diagnosis (FDD) plays an essential role in identifying and isolating various faults in a system. In general, fault detection is attained by monitoring the extent of matching between the actual operating condition and an analytical model prediction. This process aids in achieving enhanced performance, and for operating the system within the acceptable bounds. In this article, a neural network-based classification method and fuzzy-based control strategy are adapted to perform FDD on a two degree of freedom (2DoF) helicopter system. The operating voltage, pitch, and yaw outputs of the 2DoF helicopter system were considered for developing the algorithm. The signal processing properties of the discrete wavelet transform and pattern recognition properties of a multilayer perceptron neural network are adapted to design the classification algorithm. The developed algorithm improves training and testing efficiency. In order to reinstate the normal operation of the system, the classifier output is integrated with a hybrid fuzzy-proportional integral derivative controller. This control technique enhances the 2DoF helicopter response as the time taken by the pitch and yaw angle to settle trajectory is reduced. The results depicted validate the efficiency of the projected approach.
+ER  - 
+
+TY  - JOUR
+T1  - Application of intelligent tools to detect and classify broken rotor bars in three-phase induction motors fed by an inverter
+AU  - Godoy, Wagner Fontes
+AU  - da Silva, Ivan Nunes
+AU  - Goedtel, Alessandro
+AU  - Palácios, Rodrigo Henrique Cunha
+AU  - Lopes, Tiago Drummond
+Y1  - 2016/05/01
+PY  - 2016
+DA  - 2016/05/01
+N1  - https://doi.org/10.1049/iet-epa.2015.0469
+DO  - https://doi.org/10.1049/iet-epa.2015.0469
+T2  - IET Electric Power Applications
+JF  - IET Electric Power Applications
+JO  - IET Electric Power Applications
+JA  - IET Electric Power Applications
+SP  - 430
+EP  - 439
+VL  - 10
+IS  - 5
+KW  - induction motors
+KW  - invertors
+KW  - rotors
+KW  - stators
+KW  - learning (artificial intelligence)
+KW  - multilayer perceptrons
+KW  - power engineering computing
+KW  - intelligent tools
+KW  - rotor bars
+KW  - three-phase induction motors fed
+KW  - inverter
+KW  - broken rotor bars
+KW  - frequency inverters
+KW  - predictive maintenance
+KW  - machine failures
+KW  - stator current signal
+KW  - dynamic acquisition rate
+KW  - learning machine techniques
+KW  - fuzzy ARTMAP network
+KW  - support vector machine
+KW  - k-nearest neighbour
+KW  - multilayer perceptron network
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8660
+M3  - https://doi.org/10.1049/iet-epa.2015.0469
+UR  - https://doi.org/10.1049/iet-epa.2015.0469
+Y2  - 2021/11/08
+N2  - A comprehensive study of intelligent tools used to classify broken rotor bars in induction motors, which operate with three different types of frequency inverters, is presented. The diagnosis of defective rotor bars is a critical issue for the predictive maintenance of induction motors. A proper classification of these defects in their early stages of evolution is necessary for preventing major machine failures and production downtime. The proposed approach is performed by analysing the amplitude of the stator current signal in the time domain, using a dynamic acquisition rate based on machine frequency supply. To assess classification accuracy under the various severity levels of the faults, the performance of four different learning machine techniques is investigated: (i) fuzzy ARTMAP network; (ii) support vector machine (sequential minimal optimisation); (iii) k-nearest neighbour; and (iv) multilayer perceptron network. Results obtained from 1274 experimental tests are presented in order to validate the study, which considers a wide range of load conditions and operating frequencies. Experimental results presented in this study validate the robustness and efficacy of the proposed approach.
+ER  - 
+
+TY  - JOUR
+T1  - Comparative study of feature extraction and classification based on dispersion Lempel-Ziv complexity
+AU  - Jiao, Shangbin
+AU  - Geng, Bo
+AU  - Li, Yuxing
+AU  - Zhang, Qing
+AU  - Wang, Qing
+AU  - Li, Yujun
+AU  - Wang, Wenqing
+Y1  - 2021/08/31
+PY  - 2021
+DA  - 2021/08/31
+N1  - https://doi.org/10.1002/jnm.2949
+DO  - https://doi.org/10.1002/jnm.2949
+T2  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JF  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JO  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JA  - Int J Numer Model
+SP  - e2949
+VL  - n/a
+IS  - n/a
+KW  - acoustic signals
+KW  - classification
+KW  - dispersion Lempel-Ziv complexity
+KW  - feature extraction
+KW  - fluctuation-based dispersion entropy
+KW  - nonlinear dynamics
+PB  - John Wiley & Sons, Ltd
+SN  - 0894-3370
+M3  - https://doi.org/10.1002/jnm.2949
+UR  - https://doi.org/10.1002/jnm.2949
+Y2  - 2021/11/08
+N2  - Abstract As an important complexity feature of signal, Lempel-Ziv complexity (LZC) has the advantage of simple-to-calculate, but it ignores amplitude information, and has low sensitivity at low amplitude. Dispersion Lempel-Ziv complexity (DLZC) is a recently proposed nonlinear dynamic method, it has the advantage of immunity to noise even at relatively large proportion of noise and has been used to describe different pathological states. In view of its good performance in the field of biomedicine, we introduce DLZC into the field of underwater acoustic and fault diagnosis, and propose a feature extraction method for ship and gear fault signals based on DLZC, then an intelligent classification method was proposed by combining DLZC with K-Nearest Neighbor (KNN) to further verify the effectiveness of the proposed feature extraction method, termed DLZC-KNN. We conducted comparative experiments on feature extraction and classification, respectively: for the feature extraction comparison experiment, we compared the proposed feature extraction method with other feature extraction methods, which are based on Lempel-Ziv complexity (LZC), permutation entropy (PE), dispersion entropy (DE), and fluctuation-based dispersion entropy (FDE); for the classification comparison experiment, we compare the impact of different features and different classifiers on the recognition rate and also discussed the influence of different parameters on the experiment. The results show that DLZC has a better representation of signal complexity, and the DLZC-KNN classification method gets a higher recognition rate than other comparative methods both in the field of fault diagnosis and underwater acoustic.
+ER  - 
+
+TY  - JOUR
+T1  - Fault detection, classification and location for transmission lines and distribution systems: a review on the methods
+AU  - Chen, Kunjin
+AU  - Huang, Caowei
+AU  - He, Jinliang
+Y1  - 2016/04/01
+PY  - 2016
+DA  - 2016/04/01
+N1  - https://doi.org/10.1049/hve.2016.0005
+DO  - https://doi.org/10.1049/hve.2016.0005
+T2  - High Voltage
+JF  - High Voltage
+JO  - High Voltage
+JA  - High Voltage
+SP  - 25
+EP  - 33
+VL  - 1
+IS  - 1
+KW  - power transmission lines
+KW  - distribution networks
+KW  - fault location
+KW  - power transmission faults
+KW  - power distribution faults
+KW  - feature extraction
+KW  - fault classification
+KW  - fault location
+KW  - transmission line
+KW  - distribution system
+KW  - feature extraction process
+KW  - fault detection technique
+PB  - The Institution of Engineering and Technology
+SN  - 2397-7264
+M3  - https://doi.org/10.1049/hve.2016.0005
+UR  - https://doi.org/10.1049/hve.2016.0005
+Y2  - 2021/11/08
+N2  - A comprehensive review on the methods used for fault detection, classification and location in transmission lines and distribution systems is presented in this study. Though the three topics are highly correlated, the authors try to discuss them separately, so that one may have a more logical and comprehensive understanding of the concepts without getting confused. Great significance is also attached to the feature extraction process, without which the majority of the methods may not be implemented properly. Fault detection techniques are discussed on the basis of feature extraction. After the overall concepts and general ideas are presented, representative works as well as new progress in the techniques are covered and discussed in detail. One may find the content of this study helpful as a detailed literature review or a practical technical guidance.
+ER  - 
+
+TY  - JOUR
+T1  - Method for automatic railway track surface defect classification and evaluation using a laser-based 3D model
+AU  - Ye, Jiaqi
+AU  - Stewart, Edward
+AU  - Zhang, Dingcheng
+AU  - Chen, Qianyu
+AU  - Roberts, Clive
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - https://doi.org/10.1049/iet-ipr.2019.1616
+DO  - https://doi.org/10.1049/iet-ipr.2019.1616
+T2  - IET Image Processing
+JF  - IET Image Processing
+JO  - IET Image Processing
+JA  - IET Image Process.
+SP  - 2701
+EP  - 2710
+VL  - 14
+IS  - 12
+KW  - flaw detection
+KW  - image classification
+KW  - artificial intelligence
+KW  - rails
+KW  - mechanical engineering computing
+KW  - railways
+KW  - maintenance engineering
+KW  - automatic optical inspection
+KW  - railway engineering
+KW  - feature extraction
+KW  - pattern classification
+KW  - wheels
+KW  - rail measurement data
+KW  - automatic railway track surface defect classification
+KW  - laser-based 3D model
+KW  - physical surface defects
+KW  - wheels
+KW  - laser-based optical inspection technologies
+KW  - 2D profile measurement
+KW  - rail maintenance
+KW  - artificial intelligence algorithms
+KW  - geometrical feature extraction
+KW  - multiclass classifiers
+PB  - The Institution of Engineering and Technology
+SN  - 1751-9659
+M3  - https://doi.org/10.1049/iet-ipr.2019.1616
+UR  - https://doi.org/10.1049/iet-ipr.2019.1616
+Y2  - 2021/11/08
+N2  - Inspection of physical surface defects is a significant concern in many industrial areas. In railway systems, this process mainly includes the detection and classification of defects in rails and wheels, for which laser-based optical inspection technologies have gradually been applied in the form of 2D profile measurement, benefiting from its high precision and robustness to surface conditions. However, defect classification and evaluation after the initial detection works still rely heavily on human inspectors to make maintenance suggestions. The linear nature of rails makes it possible to increase the dimension of rail measurement data from 2D to 3D by aligning 2D profiles along the rail, from which more comprehensive diagnosis information becomes available. In combination with appropriate artificial intelligence algorithms, this approach can potentially replace human-dominated defect classification and evaluation work. This study presents a 3D model-based railway track surface defect classification and evaluation method. A set of geometrical features are extracted from the 3D model of track surface defects to describe a distinguishable pattern for each category of defect. Multi-class classifiers are then tested and have shown promising results on a group of artificial track surface defects, giving a systemic solution for 3D model-based automatic track surface defect inspection.
+ER  - 
+
+TY  - JOUR
+T1  - Inborn errors of metabolism with 3-methylglutaconic aciduria as discriminative feature: proper classification and nomenclature
+AU  - Wortmann, Saskia B.
+AU  - Duran, Marinus
+AU  - Anikster, Yair
+AU  - Barth, Peter G.
+AU  - Sperl, Wolfgang
+AU  - Zschocke, Johannes
+AU  - Morava, Eva
+AU  - Wevers, Ron A.
+Y1  - 2013/11/01
+PY  - 2013
+DA  - 2013/11/01
+N1  - https://doi.org/10.1007/s10545-012-9580-0
+DO  - https://doi.org/10.1007/s10545-012-9580-0
+T2  - Journal of Inherited Metabolic Disease
+JF  - Journal of Inherited Metabolic Disease
+JO  - Journal of Inherited Metabolic Disease
+JA  - J Inherit Metab Dis
+SP  - 923
+EP  - 928
+VL  - 36
+IS  - 6
+PB  - John Wiley & Sons, Ltd
+SN  - 0141-8955
+M3  - https://doi.org/10.1007/s10545-012-9580-0
+UR  - https://doi.org/10.1007/s10545-012-9580-0
+Y2  - 2021/11/08
+N2  - Abstract Increased urinary 3-methylglutaconic acid excretion is a relatively common finding in metabolic disorders, especially in mitochondrial disorders. In most cases 3-methylglutaconic acid is only slightly elevated and accompanied by other (disease specific) metabolites. There is, however, a group of disorders with significantly and consistently increased 3-methylglutaconic acid excretion, where the 3-methylglutaconic aciduria is a hallmark of the phenotype and the key to diagnosis. Until now these disorders were labelled by roman numbers (I?V) in the order of discovery regardless of pathomechanism. Especially, the so called ?unspecified? 3-methylglutaconic aciduria type IV has been ever growing, leading to biochemical and clinical diagnostic confusion. Therefore, we propose the following pathomechanism based classification and a simplified diagnostic flow chart for these ?inborn errors of metabolism with 3-methylglutaconic aciduria as discriminative feature?. One should distinguish between ?primary 3-methylglutaconic aciduria? formerly known as type I (3-methylglutaconyl-CoA hydratase deficiency, AUH defect) due to defective leucine catabolism and the?currently known?three groups of ?secondary 3-methylglutaconic aciduria?. The latter should be further classified and named by their defective protein or the historical name as follows: i) defective phospholipid remodelling (TAZ defect or Barth syndrome, SERAC1 defect or MEGDEL syndrome) and ii) mitochondrial membrane associated disorders (OPA3 defect or Costeff syndrome, DNAJC19 defect or DCMA syndrome, TMEM70 defect). The remaining patients with significant and consistent 3-methylglutaconic aciduria in whom the above mentioned syndromes have been excluded, should be referred to as ?not otherwise specified (NOS) 3-MGA-uria? until elucidation of the underlying pathomechanism enables proper (possibly extended) classification.
+ER  - 
+
+PY  - 2013
+Y1  - 2013/11/01
+DA  - 2013/11/01
+Y2  - 2021/11/08
+DO  - https://doi.org/10.1002/9781119544678.ch15
+UR  - https://doi.org/10.1002/9781119544678.ch15
+N1  - https://doi.org/10.1002/9781119544678.ch15
+M3  - https://doi.org/10.1002/9781119544678.ch15
+N2  - Summary Classification is an essential task in the machine fault diagnosis framework for assigning class labels, i.e. machine health conditions, to new vibration signal examples. Model selection and performance estimation are the two main tasks considered when dealing with classification problems. These tasks can be achieved by using model-validation techniques. This chapter describes different validation techniques that can be used to evaluate and verify the classification model's performance before proceeding to its application and implementation in machine fault diagnosis problems. The most common approach to cross-validation is data-splitting, which can be done using one of the following techniques: the hold-out technique, random subsampling, k-fold cross-validation, leave-one-out cross-validation, and bootstrapping. Furthermore, various measures can be used to evaluate the performance of a classification model, including overall classification accuracy, a confusion matrix, the receiver operating characteristic, precision, and recall.
+SP  - 307-319
+KW  - bootstrapping
+KW  - classification algorithm
+KW  - confusion matrix
+KW  - hold-out technique
+KW  - k-fold cross-validation
+KW  - leave-one-out cross-validation
+KW  - machine fault diagnosis
+KW  - random subsampling
+KW  - receiver operating characteristic
+T1  - Classification Algorithm Validation
+T2  - Condition Monitoring with Vibration Signals
+T3  - Wiley Online Books
+SN  - 9781119544678
+
+PY  - 2013
+Y1  - 2013/11/01
+DA  - 2013/11/01
+Y2  - 2021/11/08
+DO  - https://doi.org/10.1002/9781119544678.ch11
+UR  - https://doi.org/10.1002/9781119544678.ch11
+N1  - https://doi.org/10.1002/9781119544678.ch11
+M3  - https://doi.org/10.1002/9781119544678.ch11
+N2  - Summary The literature on classification algorithms has highlighted various data classification methods. Of these methods, probabilistic classification methods are amongst the most commonly used data classification methods. This chapter introduces two probabilistic models for classification: the hidden Markov model (HMM), which is a probabilistic generative model, and the logistic regression model (LR), which is a probabilistic discriminative model. The main target of an HMM is to find the probability of the observation being in a specific state where the observation is a probabilistic function of the state. The chapter presents the HMM and different techniques for training this model and their application in machine fault diagnosis. It provides a description of the LR model and a generalised LR model, which goes with the name MLR or multiple logistic regression, and its applications in machine fault diagnosis. B.S. Yan and J.M. Lee proposed a LR-based prognostic method for online performance degradation assessment and failure mode classification.
+SP  - 225-237
+KW  - classification algorithms
+KW  - hidden Markov model
+KW  - logistic regression model
+KW  - machine fault diagnosis
+KW  - probabilistic classification methods
+T1  - Probabilistic Classification Methods
+T2  - Condition Monitoring with Vibration Signals
+T3  - Wiley Online Books
+SN  - 9781119544678
+
+TY  - JOUR
+T1  - Taxonomy-based testing and validation of a new defect classification for health software
+AU  - Rajaram, Hamsini Ketheswarasarma
+AU  - Loane, John
+AU  - MacMahon, Silvana Togneri
+AU  - Mc Caffery, Fergal
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - https://doi.org/10.1002/smr.1985
+DO  - https://doi.org/10.1002/smr.1985
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e1985
+VL  - 31
+IS  - 1
+KW  - defect taxonomy
+KW  - Defect Classification Scheme for Health Software
+KW  - taxonomy-based testing
+KW  - testing
+KW  - validation
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119544678
+M3  - https://doi.org/10.1002/smr.1985
+UR  - https://doi.org/10.1002/smr.1985
+Y2  - 2021/11/08
+N2  - Abstract Defect-based testing is a powerful tool for finding errors in software. Many software manufacturers avoid this method because it requires a detailed defect taxonomy that is expensive to construct and difficult to validate. The Association for the Advancement of Medical Instrumentation is developing SW91, a defect taxonomy to be published as a standard for health software. This paper details three methods to validate SW91 for its comprehensiveness. The initial validations of SW91 were conducted via mapping vulnerabilities from the common weakness enumeration and a dataset from a medical device software development company in Ireland. Taxonomy-based testing is another validation method proposed in this research, and its applicability was investigated using empirical data from a medical device software development company in Ireland. Finally, the paper details future plans to implement taxonomy-based testing to improve software quality in medical device software and to validate SW91. This validation will focus on the efficiency, reliability, and ability to perform useful analyses and defect coverage of SW91.
+ER  - 
+
+TY  - JOUR
+T1  - A multiclass SVM-based classifier for transformer fault diagnosis using a particle swarm optimizer with time-varying acceleration coefficients
+AU  - Liao, R. J.
+AU  - Zheng, H. B.
+AU  - Grzybowski, S.
+AU  - Yang, L. J.
+Y1  - 2013/03/01
+PY  - 2013
+DA  - 2013/03/01
+N1  - https://doi.org/10.1002/etep.651
+DO  - https://doi.org/10.1002/etep.651
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int. Trans. Electr. Energ. Syst.
+SP  - 181
+EP  - 190
+VL  - 23
+IS  - 2
+KW  - support vector machine (SVM)
+KW  - particle swarm optimization (PSO)
+KW  - time-varying acceleration coefficients
+KW  - power transformers
+KW  - multiclass classification
+KW  - fault diagnosis
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119544678
+M3  - https://doi.org/10.1002/etep.651
+UR  - https://doi.org/10.1002/etep.651
+Y2  - 2021/11/08
+N2  - SUMMARY A multiclass support vector machine (SVM) classifier based upon particle swarm optimization (PSO) with time-varying acceleration coefficients for fault diagnosis of power transformers is proposed in this paper. The one-against-one combination scheme is adopted to extend SVM for settling the multiclass classification problem. The algorithm of PSO with time-varying acceleration coefficients (PSO-TVAC) is employed to optimize the parameters for SVM. The results show that the convergence of the PSO-TVAC algorithm is relatively faster and much more precise than that of the classical PSO. Moreover, compared with other reference diagnosis approaches, the results demonstrate the improved classification accuracy based upon the proposed approach and show it can be used as an effective tool for fault diagnosis of power transformers. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Fault classification for high-dimensional data streams: A directional diagnostic framework based on multiple hypothesis testing
+AU  - Xiang, Dongdong
+AU  - Li, Wendong
+AU  - Tsung, Fugee
+AU  - Pu, Xiaolong
+AU  - Kang, Yicheng
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2021/10/01
+N1  - https://doi.org/10.1002/nav.22008
+DO  - https://doi.org/10.1002/nav.22008
+T2  - Naval Research Logistics (NRL)
+JF  - Naval Research Logistics (NRL)
+JO  - Naval Research Logistics (NRL)
+JA  - Naval Research Logistics
+SP  - 973
+EP  - 987
+VL  - 68
+IS  - 7
+KW  - data-driven
+KW  - directional isolation
+KW  - high-dimensional fault diagnosis
+KW  - multiple testing
+KW  - statistical process control
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119544678
+M3  - https://doi.org/10.1002/nav.22008
+UR  - https://doi.org/10.1002/nav.22008
+Y2  - 2021/11/08
+N2  - Abstract In various modern statistical process control applications that involve high-dimensional data streams (HDDS), accurate fault diagnosis of out-of-control (OC) streams is becoming crucial. The existing diagnostic approaches either focus on moderate-dimensional processes or are unable to determine the shift direction accurately, especially when the signal-to-noise ratio is low. In this paper, we conduct a bold trial and consider the fault classification problem of the mean vector of HDDS where determining the shift direction of the OC streams is important to perform customized repairs. To this end, under the basic assumptions that the in-control data streams are normal with mean 0 and variance 1, and that the high-dimensional observations after the alarm are solely OC, the problem is formulated into a three-classification multiple testing framework, and an efficient data-driven diagnostic procedure is developed to minimize the expected number of false positives and to control the missed discovery rate at given level. The procedure is statistically optimal and computationally efficient, and improves the diagnostic effectiveness by considering directional information, which provides insights to guide further decisions. Both theoretical and numerical results reveal the superiority of the new method.
+ER  - 
+
+TY  - JOUR
+T1  - Power-system level classification of voltage-source HVDC converter stations based upon DC fault handling capabilities
+AU  - Judge, Paul D.
+AU  - Chaffey, Geraint
+AU  - Wang, Mian
+AU  - Zerihun Dejene, Firew
+AU  - Beerten, Jef
+AU  - Green, Tim C.
+AU  - Van Hertem, Dirk
+AU  - Leterme, Willem
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - https://doi.org/10.1049/iet-rpg.2019.0462
+DO  - https://doi.org/10.1049/iet-rpg.2019.0462
+T2  - IET Renewable Power Generation
+JF  - IET Renewable Power Generation
+JO  - IET Renewable Power Generation
+JA  - IET Renewable Power Generation
+SP  - 2899
+EP  - 2912
+VL  - 13
+IS  - 15
+KW  - HVDC power convertors
+KW  - switchgear
+KW  - HVDC power transmission
+KW  - pattern classification
+KW  - voltage-source convertors
+KW  - power transmission faults
+KW  - power system restoration
+KW  - power-system level classification
+KW  - voltage-source HVDC converter stations
+KW  - DC fault handling capabilities
+KW  - converter station designs
+KW  - converter circuit topology
+KW  - submodule design
+KW  - converter circuit technologies
+KW  - systematic network studies
+KW  - technology-independent classification
+KW  - VSC station designs
+KW  - DC-side fault
+KW  - post-fault restoration
+KW  - converter station types
+KW  - classification framework
+KW  - wider power-system analysis
+KW  - voltage source converter-based high-voltage direct current systems
+KW  - system-focused classification
+PB  - The Institution of Engineering and Technology
+SN  - 9781119544678
+M3  - https://doi.org/10.1049/iet-rpg.2019.0462
+UR  - https://doi.org/10.1049/iet-rpg.2019.0462
+Y2  - 2021/11/08
+N2  - To date, numerous concepts for converter station designs for use in voltage source converter (VSC)-based high-voltage direct current (HVDC) systems have been proposed. These differ not only in converter circuit topology, sub-module design, and control scheme but also in AC-or-DC switchgear and other auxiliary equipment. In the main, the existing literature categorises these converter stations according to just the converter circuit technologies and controls. However, for the development of network codes and to enable systematic network studies, a system-focused and technology-independent classification is needed. As such a classification does not yet exist, this study proposes a new framework, which categorises VSC station designs according to their capabilities during a DC-side fault and the method by which post-fault restoration may be achieved, given that these are the main differentiating factors from a system perspective. The classification comprises six converter station types and three time-intervals through which to fully characterise a design. Many well-known forms of converters are used as case studies, and simulation results are used to exemplify the classification framework. The outcome is a generic and technology-independent way of characterising converter station designs that is useful in wider power-system analysis but also for putting proposed converter stations into context.
+ER  - 
+
+TY  - JOUR
+T1  - DT-based relaying scheme for fault classification in transmission lines using MODP
+AU  - Taheri, Mir Mohammad
+AU  - Seyedi, Heresh
+AU  - Mohammadi-ivatloo, Behnam
+Y1  - 2017/08/01
+PY  - 2017
+DA  - 2017/08/01
+N1  - https://doi.org/10.1049/iet-gtd.2016.1821
+DO  - https://doi.org/10.1049/iet-gtd.2016.1821
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 2796
+EP  - 2804
+VL  - 11
+IS  - 11
+KW  - decision trees
+KW  - relay protection
+KW  - power transmission faults
+KW  - fault diagnosis
+KW  - data mining
+KW  - power transmission lines
+KW  - power engineering computing
+KW  - MATLAB software
+KW  - Simulink software
+KW  - protective relay engineering
+KW  - fault detection
+KW  - decision tree
+KW  - data mining model
+KW  - estimated current phasor
+KW  - estimated voltage phasor
+KW  - intelligent relaying scheme
+KW  - faulted phase selection
+KW  - magnitude-of-differential power
+KW  - MODP
+KW  - single-circuit transmission line
+KW  - fault classification
+KW  - DT-based relaying scheme
+PB  - The Institution of Engineering and Technology
+SN  - 9781119544678
+M3  - https://doi.org/10.1049/iet-gtd.2016.1821
+UR  - https://doi.org/10.1049/iet-gtd.2016.1821
+Y2  - 2021/11/08
+N2  - In this study, a novel intelligent relaying scheme is proposed for fault classification and faulted phase selection using magnitude of differential power (MODP). The DP is the multiplication of difference between the magnitude of the real and estimated voltage and current phasors. The MODP for each phase is used as an input data to the data mining model known as decision tree (DT). The DT is used to generate thresholds to detect and classify the faults, since determination of robust thresholds is an important challenge in protective relay engineering. The proposed method has been tested for different operating modes of single-circuit transmission line in Simulink/MATLAB software. Simulation results indicate that the proposed method is able to detect and classify the faults with acceptable accuracy, in less than half cycle.
+ER  - 
+
+TY  - JOUR
+T1  - Paravaginal defect: A new classification of fascial and muscle tears in the paravaginal region
+AU  - Otcenasek, Michal
+AU  - Gauruder-Burmester, Annett
+AU  - Haak, Lucia A.
+AU  - Grill, Robert
+AU  - Popken, Gralf
+AU  - Baca, Vaclav
+Y1  - 2016/05/01
+PY  - 2016
+DA  - 2016/05/01
+N1  - https://doi.org/10.1002/ca.22694
+DO  - https://doi.org/10.1002/ca.22694
+T2  - Clinical Anatomy
+JF  - Clinical Anatomy
+JO  - Clinical Anatomy
+JA  - Clin. Anat.
+SP  - 524
+EP  - 529
+VL  - 29
+IS  - 4
+KW  - avulsion
+KW  - endopelvic fascia
+KW  - levator ani
+KW  - paravaginal defect
+KW  - visceral pelvic fascia
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119544678
+M3  - https://doi.org/10.1002/ca.22694
+UR  - https://doi.org/10.1002/ca.22694
+Y2  - 2021/11/08
+N2  - The lateral support of the vaginal wall depends on the integrity of the paravaginal section of the visceral pelvic fascia, levator ani, and their connection. Various defects of the muscle and fascia can result in identical clinical findings?ie, the descent of the lateral vaginal sulcus. In this study, we created a realistic scheme for classifying paravaginal defects, based on the complex relationship of the pelvic fascia with the levator ani. Surgical observations, cadaver examinations, and a complex magnetic resonance imaging (MRI)-based 3-dimensional (3D) model were used to analyze the spatial relationships of normal and defective anatomy of the female pelvic floor. Descent of the lateral vaginal sulcus can result from a defect in the paravaginal visceral pelvic fascia, levator ani, or both. The fascial defect can be partial or complete, and the muscle defect can vary in location. A detailed illustrated classification is presented. We present a new model of the pathology that underlies a common clinical finding. Clin. Anat. 29:524?529, 2016. ? 2016 Wiley Periodicals, Inc.
+ER  - 

@@ -1,0 +1,1 @@
+(("Document Title": gam* AND ( "Document Title": bug OR "Document Title": defect "Document Title":fault) AND (identif* OR classif* OR analy*)))

@@ -1,0 +1,757 @@
+
+TY  - JOUR
+T1  - COMMITMENT AND SELF-CONTROL IN A PRISONER'S DILEMMA GAME
+AU  - Locey, Matthew L.
+AU  - Rachlin, Howard
+Y1  - 2012/07/01
+PY  - 2012
+DA  - 2012/07/01
+N1  - https://doi.org/10.1901/jeab.2012.98-89
+DO  - https://doi.org/10.1901/jeab.2012.98-89
+T2  - Journal of the Experimental Analysis of Behavior
+JF  - Journal of the Experimental Analysis of Behavior
+JO  - Journal of the Experimental Analysis of Behavior
+SP  - 89
+EP  - 103
+VL  - 98
+IS  - 1
+KW  - commitment
+KW  - cooperation
+KW  - prisoner's dilemma
+KW  - self-control
+KW  - tit-for-tat
+KW  - humans
+PB  - John Wiley & Sons, Ltd
+SN  - 0022-5002
+M3  - https://doi.org/10.1901/jeab.2012.98-89
+UR  - https://doi.org/10.1901/jeab.2012.98-89
+Y2  - 2021/11/08
+N2  - Humans often make seemingly irrational choices in situations of conflict between a particular smaller?sooner reinforcer and a more abstract, temporally extended, but larger reinforcer. In two experiments, the extent to which the availability of commitment responses?self-imposed restrictions on future choices?might improve self-control in such situations was investigated. Participants played a prisoner's dilemma game against a computer that played a tit-for-tat strategy?cooperating after a participant cooperated, defecting after a participant defected. Defecting produced a small?immediate reinforcer (consisting of points convertible to gift cards) whereas cooperating increased the amount of subsequent reinforcers, yielding a greater overall reinforcer rate. Participants were normally free to cooperate or defect on each trial. Additionally, they could choose to make a commitment response that forced their choice for the ensuing five trials. For some participants, the commitment response forced cooperation; for others, it forced defection. Most participants, with either commitment response available, chose to commit repeatedly despite a minor point loss for doing so. After extended exposure to these contingencies, the commit-to-cooperate group cooperated significantly more than a control group (with no commitment available). The commit-to-defect group cooperated significantly less than the control group. When both commitment alternatives were simultaneously available?one for cooperation and one for defection?cooperation commitment was strongly preferred. In Experiment 2, the commitment alternative was removed at the end of the session; gains in cooperation, relative to the control group, were not sustained in the absence of the self-imposed behavioral scaffold.
+ER  - 
+
+TY  - JOUR
+T1  - Classification of defect spatial signatures using independent component analysis and estimation of process/tool malfunctions using χ2 test and exact test
+AU  - Yamada, Eiji
+AU  - Imai, Katsuki
+AU  - Toyoshima, Tetsuro
+Y1  - 2012/01/15
+PY  - 2012
+DA  - 2012/01/15
+N1  - https://doi.org/10.1002/eej.21239
+DO  - https://doi.org/10.1002/eej.21239
+T2  - Electrical Engineering in Japan
+JF  - Electrical Engineering in Japan
+JO  - Electrical Engineering in Japan
+JA  - Elect. Eng. Jpn.
+SP  - 29
+EP  - 39
+VL  - 178
+IS  - 1
+KW  - unsupervised classification
+KW  - defect spatial signatures
+KW  - fault detection
+KW  - independent component analysis
+KW  - test of independence
+KW  - exact test
+PB  - John Wiley & Sons, Ltd
+SN  - 0424-7760
+M3  - https://doi.org/10.1002/eej.21239
+UR  - https://doi.org/10.1002/eej.21239
+Y2  - 2021/11/08
+N2  - Abstract We developed a system that detects spatial signatures from the defect inspection data of individual substrates and thus performs fault detection in device manufacturing. Leveraging of independent component analysis facilitates the unsupervised simultaneous classification of any defect distribution generated as a result of one or more tool malfunctions. All substrates are classified according to our proposed coefficient of similarity for each defect distribution. A root cause process is identified through a test of independence between the manufacturing tools and their rates of the number of classified substrates on the basis of the classification results and their fabrication history data. The tests of independence use ?2 tests in combination with exact tests to decrease the incidence of false-positive errors. The root cause tool is identified in terms of the highest rate between the tools in the identified process. Our system functions automatically and requires no experience or technical skill. We present a case in which for approximately 2 days, our system detected a tool malfunction earlier than the conventional monitoring of substrates, and with greater total defect counts per substrate than a control limit. We present another case in which our system detected a greater number of substrates than conventional monitoring. ? 2011 Wiley Periodicals, Inc. Electr Eng Jpn, 178(1): 29?39, 2012; Published online in Wiley Online Library (wileyonlinelibrary.com). DOI 10.1002/eej.21239
+ER  - 
+
+TY  - JOUR
+T1  - Combining text mining and data mining for bug report classification
+AU  - Zhou, Yu
+AU  - Tong, Yanxiang
+AU  - Gu, Ruihang
+AU  - Gall, Harald
+Y1  - 2016/03/01
+PY  - 2016
+DA  - 2016/03/01
+N1  - https://doi.org/10.1002/smr.1770
+DO  - https://doi.org/10.1002/smr.1770
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J. Softw. Evol. and Proc.
+SP  - 150
+EP  - 176
+VL  - 28
+IS  - 3
+KW  - software evolution
+KW  - bug report classification
+KW  - data mining
+KW  - text mining
+PB  - John Wiley & Sons, Ltd
+SN  - 2047-7473
+M3  - https://doi.org/10.1002/smr.1770
+UR  - https://doi.org/10.1002/smr.1770
+Y2  - 2021/11/08
+N2  - Abstract Bug reports represent an important information source for software construction. Misclassification of these reports inevitably introduces bias. Manual examinations can help reduce the noise, but bring a heavy burden for developers instead. In this paper, we propose a multi-stage approach by combining both text mining and data mining techniques to automate the prediction process. The first stage leverages text mining techniques to analyze the summary parts of bug reports and classifies them into three levels of probability. The extracted features and some other structured features of bug reports are then fed into the machine learner in the second stage. Data grafting techniques are employed to bridge the two stages. Comparative experiments with previous studies on the same data?three large-scale open-source projects?consistently achieve a reasonable enhancement (from 77.4% to 81.7%, 76.1% to 81.6%, and 87.4% to 93.7%, respectively) over their best results in terms of overall performance. Additional comparative empirical experiments on other seven popular open-source systems confirm the findings. Moreover, based on the data obtained, we also empirically studied the impact relation between the underlying classifiers and various other properties of the combined model. A prototypical recommender system has been developed to demonstrate the applicability of our approach. Copyright ? 2016 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical study of software change classification with imbalance data-handling methods
+AU  - Zhu, Xiaoyan
+AU  - Niu, Binbin
+AU  - Whitehead Jr., E. James
+AU  - Sun, Zhongbin
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - https://doi.org/10.1002/spe.2606
+DO  - https://doi.org/10.1002/spe.2606
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw Pract Exper
+SP  - 1968
+EP  - 1999
+VL  - 48
+IS  - 11
+KW  - bug prediction
+KW  - change classification
+KW  - ensemble learning
+KW  - imbalance data
+KW  - resampling
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-0644
+M3  - https://doi.org/10.1002/spe.2606
+UR  - https://doi.org/10.1002/spe.2606
+Y2  - 2021/11/08
+N2  - Summary Bug prediction in software code changes can help developers to find out and fix bugs immediately when they are introduced, thus to improve the effectiveness and validity of bug fixing. In data mining, this problem can be regarded as a change classification task. However, one of its key characteristics, ie, class-imbalance, holds back the performance of standard classification methods. In this paper, we consider a quantity of imbalance data-handling methods and extract a more comprehensive groups of change features, aiming to achieve better change classification performance. Two different types of imbalance data-handling methods, namely, resampling and ensemble learning methods, are employed. Especially, we explore the performance of their combination. To compare the performance of different imbalance data-handling methods, an experiment with 10 open source projects is conducted. Four classification methods, including J48, Naïve Bayes, SMO, and Random Forest, are used as standard classifiers and as the base classifiers, respectively. Moreover, contribution of different groups of change features are evaluated. Experimental results show that imbalance data-handling methods can improve the performance of change classification and the combination methods, which take advantage of both ensemble learning and resampling, perform better than using ensemble learning methods or resampling methods individually. Of the studied imbalance data-handling methods, the combination of Bagging and random undersampling with J48 as the base classifier yields out better prediction results than those achieved by other methods. Additionally, of the collected change features, text vector features accounts for a larger proportion than others.
+ER  - 
+
+TY  - JOUR
+T1  - Analysis of training techniques of ANN for classification of insulators in electrical power systems
+AU  - Frizzo Stefenon, Stéfano
+AU  - Waldrigues Branco, Nathielle
+AU  - Nied, Ademir
+AU  - Wildgrube Bertol, Douglas
+AU  - Cristian Finardi, Erlon
+AU  - Sartori, Andreza
+AU  - Henrique Meyer, Luiz
+AU  - Bartnik Grebogi, Rafael
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - https://doi.org/10.1049/iet-gtd.2019.1579
+DO  - https://doi.org/10.1049/iet-gtd.2019.1579
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 1591
+EP  - 1597
+VL  - 14
+IS  - 8
+KW  - inspection
+KW  - neural nets
+KW  - optimisation
+KW  - power system reliability
+KW  - power engineering computing
+KW  - learning (artificial intelligence)
+KW  - pattern classification
+KW  - outdoor insulating systems
+KW  - defect condition classification
+KW  - artificial intelligence techniques
+KW  - faulty insulating devices
+KW  - artificial neural network models
+KW  - classification problem
+KW  - training capacity
+KW  - optimisation methods
+KW  - insulators
+KW  - electrical power systems
+KW  - field inspections
+KW  - specific inspection equipment
+KW  - ultrasound detector
+KW  - gradient descent method
+KW  - quasi-Newton method
+KW  - Levenberg–Marquardt method
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2019.1579
+UR  - https://doi.org/10.1049/iet-gtd.2019.1579
+Y2  - 2021/11/08
+N2  - Identifying defects in electrical power systems during field inspections is a difficult task, since faults are generally not visible and may be intermittent. To find possible adverse conditions, specific inspection equipment is used. The ultrasound detector is the equipment normally used to inspect outdoor insulating systems; however, using it demands operator experience. To improve the defect condition classification, artificial intelligence techniques are applied to assist the operator in the decision task and thereby facilitate the identification of faulty insulating devices in the grid. The training of artificial neural network (ANN) models is an important step in solving the classification problem. This study aims to evaluate the training capacity in terms of the performance of different optimisation methods for the calculation of the mean square error after convergence. Traditional methods such as Gradient Descent and its variations will be presented, as well as methods that employ high computational effort such as quasi-Newton and Levenberg?Marquardt. In order to base these concepts, a review will be presented on the use of these algorithms and on the problem of classification of insulators in distribution networks. The results show that there is a considerable performance difference between the calculation methods.
+ER  - 
+
+TY  - JOUR
+T1  - Deep-Belief-Networks Based Fault Classification in Power Distribution Networks
+AU  - Hong, Cui
+AU  - Zeng, Ze-Yu
+AU  - Fu, Yu-Ze
+AU  - Guo, Mou-Fa
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - https://doi.org/10.1002/tee.23213
+DO  - https://doi.org/10.1002/tee.23213
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+JF  - IEEJ Transactions on Electrical and Electronic Engineering
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+JA  - IEEJ Trans Elec Electron Eng
+SP  - 1428
+EP  - 1435
+VL  - 15
+IS  - 10
+KW  - distribution network
+KW  - fault classification
+KW  - automatic feature extraction
+KW  - deep belief networks
+PB  - John Wiley & Sons, Ltd
+SN  - 1931-4973
+M3  - https://doi.org/10.1002/tee.23213
+UR  - https://doi.org/10.1002/tee.23213
+Y2  - 2021/11/08
+N2  - Accurate fault classification is the premise of fault location and management study in a power distribution network. In most of the traditional fault classification methods used in power distribution network, the characteristic quantities are selected by experience, which will increase the uncertainty of fault classification results. A novel fault classification method based on deep belief networks (DBN) is proposed in this paper. Samples of fault current and voltage are preprocessed by min?max standardization and waveform splicing firstly, then they are used to train the DBN together with fault type label. Characteristic quantities of the current and voltage will be automatically extracted by the well-trained DBN model, and the reliable fault type classification of distribution network can be realized. Simulation and experimental results show that the fault classification method is suitable for distribution network, and it has not only characteristics of obvious fault feature extraction and high fault classification accuracy, but also has good adaptability while the neutral grounding modes changing or used in power distribution network with distributed generator. ? 2020 Institute of Electrical Engineers of Japan. Published by Wiley Periodicals LLC.
+ER  - 
+
+TY  - JOUR
+T1  - Support vector classification and regression for fault location in distribution system using voltage sag profile
+AU  - Gururajapathy, Sophi Shilpa
+AU  - Mokhlis, Hazlie
+AU  - Illias, Hazlee Azil Bin
+AU  - Awalin, Lilik Jamilatul
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - https://doi.org/10.1002/tee.22407
+DO  - https://doi.org/10.1002/tee.22407
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+JF  - IEEJ Transactions on Electrical and Electronic Engineering
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+JA  - IEEJ Trans Elec Electron Eng
+SP  - 519
+EP  - 526
+VL  - 12
+IS  - 4
+KW  - support vector machine
+KW  - fault type
+KW  - faulty section
+KW  - fault distance
+KW  - distribution system
+PB  - John Wiley & Sons, Ltd
+SN  - 1931-4973
+M3  - https://doi.org/10.1002/tee.22407
+UR  - https://doi.org/10.1002/tee.22407
+Y2  - 2021/11/08
+N2  - Fault location identification is an important task to provide reliable service to the customer. Most existing artificial intelligence methods such as neural network, fuzzy logic, and support vector machine (SVM) focus on identifying the fault type, section, and distance separately. Furthermore, studies on fault type identification are focused on overhead transmission systems and not on underground distribution systems. In this paper, a fault location method in the distribution system is proposed using SVM, addressing the limitations of existing methods. Support vector classification (SVC) and regression analysis are performed to locate the fault. The method uses the voltage sag data during a fault measured at the primary substation. The type of fault is identified using SVC. The fault resistance and the voltage sag for the estimated fault resistance are identified using support vector regression (SVR) analysis. The possible faulty sections are identified from the estimated voltage sag data and ranked using the Euclidean distance approach. The proposed method identifies the fault distance using SVR analysis. The performance of the proposed method is analyzed using Malaysian distribution system of 40 buses. Test results show that the proposed method gives reliable fault location.
+ER  - 
+
+TY  - JOUR
+T1  - Fault location in an unbalanced distribution system using support vector classification and regression analysis
+AU  - Gururajapathy, Sophi Shilpa
+AU  - Mokhlis, Hazlie
+AU  - Illias, Hazlee Azil Bin
+AU  - Abu Bakar, Ab Halim
+AU  - Awalin, Lilik Jamilatul
+Y1  - 2018/02/01
+PY  - 2018
+DA  - 2018/02/01
+N1  - https://doi.org/10.1002/tee.22519
+DO  - https://doi.org/10.1002/tee.22519
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+JF  - IEEJ Transactions on Electrical and Electronic Engineering
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+JA  - IEEJ Trans Elec Electron Eng
+SP  - 237
+EP  - 245
+VL  - 13
+IS  - 2
+KW  - support vector machine
+KW  - fault type
+KW  - faulty section
+KW  - fault distance
+KW  - distribution system
+PB  - John Wiley & Sons, Ltd
+SN  - 1931-4973
+M3  - https://doi.org/10.1002/tee.22519
+UR  - https://doi.org/10.1002/tee.22519
+Y2  - 2021/11/08
+N2  - Support vector machine (SVM) is a novel machine for data analysis and has advantageous characteristic of good generalization. Because of this characteristic, SVM is used in this work for fault classification and diagnosis in distribution systems. This work proposes an effective fault location method using SVM to identify the fault type, faulty section, and fault distance. The classification and regression analysis of the SVM are performed to locate a fault. The proposed method utilizes the voltage sag magnitude and angle measured at the primary substation of a distribution system. First, the fault type is identified using one- versus-one concept of support vector classification. The next step identifies the faulty section by calculating fault resistance, finding possible faulty sections and ranking the possible sections. Finally, the fault distance is identified using support vector regression analysis. The performance of the proposed method is tested using SaskPower distribution system from Canada having 20 line sections. Test cases are carried out under various fault scenarios considering the fault type and fault resistance. The results of fault distance are compared for different kernel functions, and the most accurate kernel is chosen. Test results show that the proposed method obtains reliable fault location. ? 2017 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Discrete wavelet transform and support vector machine-based parallel transmission line faults classification
+AU  - Saber, Ahmed
+AU  - Emam, Ahmed
+AU  - Amer, Rabah
+Y1  - 2016/01/01
+PY  - 2016
+DA  - 2016/01/01
+N1  - https://doi.org/10.1002/tee.22187
+DO  - https://doi.org/10.1002/tee.22187
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+JF  - IEEJ Transactions on Electrical and Electronic Engineering
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+JA  - IEEJ Trans Elec Electron Eng
+SP  - 43
+EP  - 48
+VL  - 11
+IS  - 1
+KW  - transmission line
+KW  - support vector machine
+KW  - wavelet transform
+PB  - John Wiley & Sons, Ltd
+SN  - 1931-4973
+M3  - https://doi.org/10.1002/tee.22187
+UR  - https://doi.org/10.1002/tee.22187
+Y2  - 2021/11/08
+N2  - This paper presents a scheme for classification of faults on double circuit parallel transmission lines using combination of discrete wavelet transform and support vector machine (SVM). Only one cycle post fault of the phase currents was employed to predict the fault type. Two features for each phase current were extracted using discrete wavelet transform. Thus, a total of 12 features were extracted for the six phase currents. The training data were collected, and SVM was employed to establish the fault classification unit. After that, the fault classification unit was tested for different fault states. The power system simulation was conducted using the MATLAB/Simulink program. The proposed technique took into account the mutual coupling between the parallel transmission lines and the randomness of the faults on transmission line considering time of occurrence, fault location, fault type, fault resistance, and loading conditions. The results show that the proposed technique can classify all the faults on the parallel transmission lines correctly. ? 2015 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Fault classifications of MV transmission lines connected to wind farms using non-intrusive fault monitoring techniques on HV utility side
+AU  - Chang, Hsueh-Hsien
+Y1  - 2020/12/01
+PY  - 2020
+DA  - 2020/12/01
+N1  - https://doi.org/10.1049/iet-gtd.2020.0198
+DO  - https://doi.org/10.1049/iet-gtd.2020.0198
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 6518
+EP  - 6525
+VL  - 14
+IS  - 26
+KW  - time-frequency analysis
+KW  - power transmission lines
+KW  - wind power plants
+KW  - fault currents
+KW  - support vector machines
+KW  - feature extraction
+KW  - power transmission faults
+KW  - fault diagnosis
+KW  - EMTP
+KW  - power transmission protection
+KW  - fault classification
+KW  - MV transmission lines
+KW  - wind farms
+KW  - nonintrusive fault monitoring techniques
+KW  - HV utility side
+KW  - medium-voltage transmission lines
+KW  - high-voltage transmission networks
+KW  - nonstationary fault signals
+KW  - HST technique
+KW  - fault current waveforms
+KW  - fault resistance
+KW  - fault inception angles
+KW  - power-spectrum-based hyperbolic S-transform technique
+KW  - time-frequency domain
+KW  - feature extraction
+KW  - energy distribution
+KW  - recognition algorithm
+KW  - multiclass support vector machine
+KW  - electromagnetic transients program
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2020.0198
+UR  - https://doi.org/10.1049/iet-gtd.2020.0198
+Y2  - 2021/11/08
+N2  - The fault classification of medium-voltage transmission lines consisting of wind farms connected to the high-voltage (HV) transmission networks is carried out using the power-spectrum-based hyperbolic S-transform (HST) powerful technique for analysing non-linear and non-stationary fault signals through the non-intrusive monitoring systems. The HST technique extracts the useful features in the time-frequency domain from measuring fault current waveforms of the HV utility side to discriminate the fault types. Parseval's theorem is applied to each HST coefficient to quantify the energy distribution of various fault types for reducing the size of inputs for recognition algorithms. Next, multiclass support vector machines achieve identification. The results have proved that the proposed classification technique is independent of fault resistance, source impedance, and fault inception angles. Extensive simulations are conducted using the electromagnetic transients program to show that the recognition accuracy of the fault classification for all types is up to 96.84%.
+ER  - 
+
+TY  - JOUR
+T1  - Hilbert-Huang transform based fault identification and classification technique for AC power transmission line protection
+AU  - Anand, Abhisekh
+AU  - Affijulla, Shaik
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - https://doi.org/10.1002/2050-7038.12558
+DO  - https://doi.org/10.1002/2050-7038.12558
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e12558
+VL  - 30
+IS  - 10
+KW  - fault classification
+KW  - fault detection
+KW  - high impedance fault
+KW  - Hilbert-Huang transform
+KW  - relay energy index
+KW  - transmission line protection
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/2050-7038.12558
+UR  - https://doi.org/10.1002/2050-7038.12558
+Y2  - 2021/11/08
+N2  - Summary In the modern power system, the fault identification and classification is one of the challenging tasks during high fault impedance due to low change in the magnitude of fault current from steady-state to fault inception. In this paper, a high impedance fault detection technique is proposed based on Hilbert-Huang transform (HHT). The energy for each phase is computed from the intrinsic mode function (IMF) of three-phase voltage/current signals. An average relay energy index (AREI) is proposed to detect the transmission line fault in the large interconnected power system. Furthermore, a fault classification technique is also proposed based on relay energy index (REI) of each phase of the three-phase voltage/current signals. The proposed HHT based fault detection technique is validated on standard WSCC 9 bus and IEEE 14 bus test power systems using PSCAD and MATLAB software. The simulation results reveal that the proposed Hilbert-Huang transform based fault identification and classification technique can be best suitable for protection of transmission lines during high impedance faults in complex and large AC power transmission system.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing the performance of transmission line directional relaying, fault classification and fault location schemes using fuzzy inference system
+AU  - Yadav, Anamika
+AU  - Swetapadma, Aleena
+Y1  - 2015/04/01
+PY  - 2015
+DA  - 2015/04/01
+N1  - https://doi.org/10.1049/iet-gtd.2014.0498
+DO  - https://doi.org/10.1049/iet-gtd.2014.0498
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 580
+EP  - 591
+VL  - 9
+IS  - 6
+KW  - relay protection
+KW  - power transmission lines
+KW  - power transmission protection
+KW  - fault diagnosis
+KW  - fuzzy reasoning
+KW  - computational complexity
+KW  - power engineering computing
+KW  - fuzzy logic
+KW  - transmission line directional relaying performance enhancement
+KW  - fault classification
+KW  - fault location schemes
+KW  - fuzzy inference system
+KW  - transmission line protection scheme
+KW  - fault detection
+KW  - shunt faults
+KW  - fault inception angle
+KW  - fault resistances
+KW  - voltage measurements
+KW  - current measurements
+KW  - half-cycle time
+KW  - relay location
+KW  - fuzzy logic based relay
+KW  - computation complexity
+KW  - AI based methods
+KW  - artificial neural network
+KW  - support vector machine
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2014.0498
+UR  - https://doi.org/10.1049/iet-gtd.2014.0498
+Y2  - 2021/11/08
+N2  - This study aims to improve the performance of transmission line directional relaying, fault classification and fault location schemes using fuzzy system. Three separate fuzzy inference system are designed for complete protection scheme for transmission line. The proposed technique is able to accurately detect the fault (both forward and reverse), locate and also identify the faulty phase(s) involved in all ten types of shunt faults that may occur in a transmission line under different fault inception angle, fault resistances and fault location. The proposed method needs current and voltage measurements available at the relay location and can perform the fault detection and classification in about a half-cycle time. The proposed fuzzy logic based relay has less computation complexity and is better than other AI based methods such as artificial neural network, support vector machine, and decision tree (DT) etc. which require training. The percentage error in fault location is within 1 km for most of the cases. Fault location scheme has been validated using ?2 test with 5% level of significance. Proposed scheme is a setting free method and is suitable for wide range of parameters, fault detection time is less than half cycle and relay does not show any reaching mal-operation so it is reliable, accurate and secure.
+ER  - 
+
+TY  - JOUR
+T1  - Linear regression index-based method for fault detection and classification in power transmission line
+AU  - Musa, Mohammed H. H.
+AU  - He, Zhengyou
+AU  - Fu, Ling
+AU  - Deng, Yujia
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.1002/tee.22654
+DO  - https://doi.org/10.1002/tee.22654
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+JF  - IEEJ Transactions on Electrical and Electronic Engineering
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+JA  - IEEJ Trans Elec Electron Eng
+SP  - 979
+EP  - 987
+VL  - 13
+IS  - 7
+KW  - fault detection
+KW  - fault classification
+KW  - statistical measure
+KW  - linear regression coefficient
+KW  - power transmission line
+PB  - John Wiley & Sons, Ltd
+SN  - 1931-4973
+M3  - https://doi.org/10.1002/tee.22654
+UR  - https://doi.org/10.1002/tee.22654
+Y2  - 2021/11/08
+N2  - In this paper, a new algorithm is proposed for faults detection and classification in the power transmission line. The key of the proposed algorithm depends on the computing of the linear regression coefficient indices (LRCIs) of the three-phase current signals. The proposed algorithm has constructed a rule as follows: when the system is running under the health condition, the LRCIs will be equal to zero; when the system is subjected to the fault condition, the LRCIs of faulted phases will be greater than zero. Different faults circumstances, such as different inception time, different fault resistances, and different locations, have been verified. Additional scenarios such as far-end fault with high resistance, fault occurred near the terminal, fault considering variable loading angle, and fault at the presence of noise are also discussed. For each possible scenario of faults, the proposed algorithm required only the three-phase current measurement of the local measurement. The proposed algorithm has demonstrated a reasonable time response, where the fault condition could be detected within a few milliseconds after the fault inception. Therefore, the proposed algorithm is quite suitable for faults detection and classification in power transmission lines. ? 2018 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Detection and classification of turn fault and high-resistance connection fault in inverter-fed permanent magnet machines based on high-frequency signals
+AU  - Hu, Rongguang
+AU  - Wang, Jiabin
+AU  - Mills, Andrew
+AU  - Chong, Ellis
+AU  - Sun, Zhigang
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1049/joe.2018.8253
+DO  - https://doi.org/10.1049/joe.2018.8253
+T2  - The Journal of Engineering
+JF  - The Journal of Engineering
+JO  - The Journal of Engineering
+JA  - The Journal of Engineering
+SP  - 4278
+EP  - 4282
+VL  - 2019
+IS  - 17
+KW  - permanent magnet machines
+KW  - fault diagnosis
+KW  - permanent magnet motors
+KW  - invertors
+KW  - high-frequency signals
+KW  - winding turn fault
+KW  - high-resistance connection fault
+KW  - different consequences
+KW  - different mitigation actions
+KW  - HRC fault
+KW  - three-phase surface-mounted permanent magnet machine
+KW  - pulse-width-modulation voltages
+KW  - resultant high-frequency components
+KW  - fault detection
+KW  - classification
+KW  - high-frequency impedance
+KW  - ripple
+KW  - inverter-fed permanent magnet machines
+PB  - The Institution of Engineering and Technology
+SN  - 2051-3305
+M3  - https://doi.org/10.1049/joe.2018.8253
+UR  - https://doi.org/10.1049/joe.2018.8253
+Y2  - 2021/11/08
+N2  - Winding turn fault and high-resistance connection (HRC) fault will lead to different consequences and require different mitigation actions. In this study, the differentiating features between a turn fault and HRC fault are analysed and compared in a three-phase surface-mounted permanent magnet machine fed by the inverter with pulse-width-modulation voltages. The resultant high-frequency components in both voltages and currents are utilised for the fault detection and classification based on the high-frequency impedance and ripple current, without requiring modifications to the machine or interface design. Extensive simulations show that this method is capable of fault detection and classification in both transient and steady-state operations.
+ER  - 
+
+TY  - JOUR
+T1  - Bearing fault classification using ANN-based Hilbert footprint analysis
+AU  - Dubey, Rahul
+AU  - Agrawal, Dheeraj
+Y1  - 2015/11/01
+PY  - 2015
+DA  - 2015/11/01
+N1  - https://doi.org/10.1049/iet-smt.2015.0026
+DO  - https://doi.org/10.1049/iet-smt.2015.0026
+T2  - IET Science, Measurement & Technology
+JF  - IET Science, Measurement & Technology
+JO  - IET Science, Measurement & Technology
+JA  - IET Sci. Meas. Technol.
+SP  - 1016
+EP  - 1022
+VL  - 9
+IS  - 8
+KW  - ball bearings
+KW  - neural nets
+KW  - Hilbert transforms
+KW  - support vector machines
+KW  - learning (artificial intelligence)
+KW  - fault diagnosis
+KW  - bearing fault classification
+KW  - extreme learning machine
+KW  - ELM
+KW  - support vector machine
+KW  - SVM
+KW  - fault analysis
+KW  - ball bearing
+KW  - neural network
+KW  - ANN-based Hilbert footprint analysis
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8822
+M3  - https://doi.org/10.1049/iet-smt.2015.0026
+UR  - https://doi.org/10.1049/iet-smt.2015.0026
+Y2  - 2021/11/08
+N2  - Ball bearings are considered as a critical element in various mechanical systems. Vibration signal analysis is very effective method for finding bearing fault. Accelerometers are used to capture the multi-component vibration signal generated in the machine when it is in use. Various methods based on empirical mode decomposition (EMD) have been used for ball bearing fault diagnosis. EMD method usually suffered from the boundary distortion of intrinsic mode function. Classification of ball bearing fault is one of the challenging tasks in the field of mechanical systems. Various classification schemes such as support vector machine (SVM), K-means clustering, extreme learning machine (ELM) have been used for the classification of ball bearing fault. In this study, footprint analysis of Hilbert transform along with the neural network has been done for ball bearing fault analysis. A comparative analysis of the proposed research study has been done with available methods such as SVM and ELM. A high fault classification accuracy has been achieved using the proposed method for detection of ball bearing fault.
+ER  - 
+
+TY  - JOUR
+T1  - Transmission line fault classification using modified fuzzy Q learning
+AU  - Malik, Hasmat
+AU  - Sharma, Rajneesh
+Y1  - 2017/11/01
+PY  - 2017
+DA  - 2017/11/01
+N1  - https://doi.org/10.1049/iet-gtd.2017.0331
+DO  - https://doi.org/10.1049/iet-gtd.2017.0331
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 4041
+EP  - 4050
+VL  - 11
+IS  - 16
+KW  - power transmission lines
+KW  - learning (artificial intelligence)
+KW  - fuzzy set theory
+KW  - fault diagnosis
+KW  - power engineering computing
+KW  - neural nets
+KW  - support vector machines
+KW  - power transmission faults
+KW  - transmission line fault classification
+KW  - modified fuzzy Q learning
+KW  - self-learning fault classifier
+KW  - fault identifier
+KW  - reinforcement learning
+KW  - fault segregation
+KW  - target fault information
+KW  - raw voltage
+KW  - current data
+KW  - empirical mode decomposition
+KW  - intrinsic mode functions
+KW  - IMF
+KW  - J48 algorithm
+KW  - MFQL classifier
+KW  - contemporary AI-based classifiers
+KW  - neural networks
+KW  - support vector machines
+KW  - SVM
+KW  - fault diagnosis
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2017.0331
+UR  - https://doi.org/10.1049/iet-gtd.2017.0331
+Y2  - 2021/11/08
+N2  - The authors propose an adaptive, self-learning fault classifier based on modified fuzzy Q learning (MFQL) for transmission lines. Proposed MFQL fault classifier is able to achieve very high classification accuracy with relatively small number of samples. The authors? is a first attempt at designing a fault identifier using reinforcement learning for fault segregation in transmission lines. The authors? identifier does not assume prior knowledge of transmission line model or target fault information. Raw voltage and current data (supply and load side) is processed using empirical mode decomposition to generate 13 intrinsic mode functions (IMFs?). Classifier employs the J48 algorithm to further prune these 13 IMF's to eight most relevant input variables, which serve as inputs to the MFQL fault classifier. The authors compare performance of the proposed MFQL classifier to other contemporary AI-based classifiers, e.g. neural networks and support vector machines. Simulation results and performance comparison against other AI-based classifiers elucidates that the proposed MFQL-based identifier achieves a significantly higher performance level and could serve as an important tool for transmission line fault diagnosis.
+ER  - 
+
+TY  - JOUR
+T1  - Fault detection and classification with feature representation based on deep residual convolutional neural network
+AU  - Ren, Xuemei
+AU  - Zou, Yiping
+AU  - Zhang, Zheng
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1002/cem.3170
+DO  - https://doi.org/10.1002/cem.3170
+T2  - Journal of Chemometrics
+JF  - Journal of Chemometrics
+JO  - Journal of Chemometrics
+JA  - Journal of Chemometrics
+SP  - e3170
+VL  - 33
+IS  - 9
+KW  - chemical processes
+KW  - convolutional neural network
+KW  - fault detection and classification
+KW  - feature representation
+PB  - John Wiley & Sons, Ltd
+SN  - 0886-9383
+M3  - https://doi.org/10.1002/cem.3170
+UR  - https://doi.org/10.1002/cem.3170
+Y2  - 2021/11/08
+N2  - Abstract This paper proposes a novel fault detection and classification method via deep residual convolutional neural network (DRCNN). The DRCNN captures the deep process features represented by convolutional layers from local to global. Unlike traditional methods, this feature representation can extract the deep fault information and learn the latent fault patterns. Besides, a data preprocessing approach is also proposed to transform the shape of original data into the shape available for convolutional neural network. Finally, experiments based on the data set of Tennessee Eastman process (TEP), a chemical industrial process benchmark, show that the proposed method achieves superior fault detection and better classification performance compared with the state-of-the-art methods.
+ER  - 
+
+TY  - JOUR
+T1  - Design and development of fault classification algorithm based on relevance vector machine for power transformer
+AU  - Patel, Dharmesh
+AU  - Chothani, Nilesh. G
+AU  - Mistry, Khyati D
+AU  - Raichura, Maulik
+Y1  - 2018/04/01
+PY  - 2018
+DA  - 2018/04/01
+N1  - https://doi.org/10.1049/iet-epa.2017.0562
+DO  - https://doi.org/10.1049/iet-epa.2017.0562
+T2  - IET Electric Power Applications
+JF  - IET Electric Power Applications
+JO  - IET Electric Power Applications
+JA  - IET Electric Power Applications
+SP  - 557
+EP  - 565
+VL  - 12
+IS  - 4
+KW  - neural nets
+KW  - support vector machines
+KW  - power transformer protection
+KW  - fault diagnosis
+KW  - fault classification algorithm
+KW  - relevance vector machine
+KW  - power transformer
+KW  - fault identification
+KW  - unit transformer protection
+KW  - relay
+KW  - magnetising inrush
+KW  - CT saturation
+KW  - high resistance internal fault condition
+KW  - internal fault
+KW  - external abnormality
+KW  - transformer protective scheme
+KW  - fault classifier
+KW  - multitapping transformer
+KW  - post fault current signals
+KW  - feature vectors
+KW  - support vector machine
+KW  - SVM
+KW  - probabilistic neural network
+KW  - fault classification accuracy
+KW  - PNN-based schemes
+KW  - apparent power 345 MVA
+KW  - voltage 400 kV
+KW  - voltage 220 kV
+KW  - apparent power 2 kVA
+KW  - voltage 230 V
+KW  - voltage 110 V
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8660
+M3  - https://doi.org/10.1049/iet-epa.2017.0562
+UR  - https://doi.org/10.1049/iet-epa.2017.0562
+Y2  - 2021/11/08
+N2  - Identification of faults within power transformers is the means of ensuring unit transformer protection. Existing relay maloperates during abnormalities such as magnetising inrush, CT saturation and high resistance internal fault condition. Therefore, it is essential to categorise the internal fault and external abnormality/fault in case of transformer protection. This study presents a new scheme, based on relevance vector machine (RVM) as a fault classifier. The developed algorithm is assessed by simulating various disorders on 345 MVA, 400/220 kV transformer in PSCAD/EMTDC software and also on prototype model with 2 kVA, 230/110 V multi-tapping transformer. One cycle post fault current signals are captured from primary and secondary to form feature vectors. These feature vectors are used as an input to RVM for classification of various test cases. Wide variation in system parameters and fault conditions are considered for test data generation and validation. The proposed scheme is compared with the support vector machine (SVM) and probabilistic neural network (PNN)-based techniques. The proposed scheme successfully discriminates various types of internal faults and external abnormalities in power transformer within a short time. The fault classification accuracy obtained by proposed RVM technique is more than 99% in comparison to SVM and PNN-based schemes.
+ER  - 
+
+TY  - JOUR
+T1  - Classification of faults in an IEEE 30 bus transmission system using fully convolutional network
+AU  - Tikariha, Anurag
+AU  - Londhe, Narendra D.
+AU  - Bag, Baidyanath
+AU  - Raj, Ritesh
+Y1  - 2021/11/01
+PY  - 2021
+DA  - 2021/11/01
+N1  - https://doi.org/10.1002/2050-7038.13134
+DO  - https://doi.org/10.1002/2050-7038.13134
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e13134
+VL  - 31
+IS  - 11
+KW  - deep learning
+KW  - fault classification
+KW  - fully convolutional network
+KW  - IEEE 30 bus system
+KW  - power system
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/2050-7038.13134
+UR  - https://doi.org/10.1002/2050-7038.13134
+Y2  - 2021/11/08
+N2  - Summary Fault diagnosis is vital for detecting the type of fault and rapid restoration of the electric power supply. The existing machine learning-based classification method for detecting fault shows better performance. But these methods require manual pre-processing steps and feature engineering, which makes them unreliable and time-consuming for the complex and multi-bus system. In this paper, a fully automated approach based on a deep learning framework has been proposed for the multi-classification of faults in a grid network. The deep learning framework provides a better incentive to predict the type of fault directly using raw data as input. For this intended task of fault diagnosis, a fully convolutional network is designed and implemented to provide better performance with less trainable parameters. The proposed scheme is tested on the large number of simulated data generated from an IEEE 30 bus system. The performance for fault classification is validated through 10-fold cross-validation and numerous performance metrics like accuracy, recall, precision, specificity, and F1 score are evaluated. The performance of the different models with parameter variation is compared to obtain better performance with optimal trainable parameters. It has also been compared with some existing methods and shows promising result for fault classification in the large or multi-bus system.
+ER  - 
+
+TY  - JOUR
+T1  - Signal analysis-based fault classification and estimation of fault location of an unbalanced network using S-transform and neural network
+AU  - Roy, Nabamita
+AU  - Bhattacharya, Kesab
+Y1  - 2016/07/01
+PY  - 2016
+DA  - 2016/07/01
+N1  - https://doi.org/10.1002/tee.22256
+DO  - https://doi.org/10.1002/tee.22256
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+JF  - IEEJ Transactions on Electrical and Electronic Engineering
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+JA  - IEEJ Trans Elec Electron Eng
+SP  - 401
+EP  - 409
+VL  - 11
+IS  - 4
+KW  - backpropagation neural network (BPNN)
+KW  - estimation of fault location
+KW  - fault
+KW  - fault identification and classification
+KW  - probabilistic neural network (PNN)
+KW  - S-transform
+PB  - John Wiley & Sons, Ltd
+SN  - 1931-4973
+M3  - https://doi.org/10.1002/tee.22256
+UR  - https://doi.org/10.1002/tee.22256
+Y2  - 2021/11/08
+N2  - This paper demonstrates a technique for the diagnosis of the type of fault and the faulty phase on an overhead transmission line, followed by locating the particular fault on the affected phase. The power system network considered in this study is a three-phase transmission line with unbalanced loading simulated in the PowerSim Toolbox of MATLAB. S-transform is used to compute the energy components of the voltage signals of the three phases of the transmission line. These features are used as input vectors of a probabilistic neural network (PNN) for fault detection and classification. Detection of the faulty phase(s) is followed by estimation of fault location. The voltage signal of the affected phase is processed to generate the S-matrix. The frequency components of the S-matrices for different fault locations are used as input vectors for training a backpropagation neural network (BPNN). The results are obtained with satisfactory accuracy and speed. All the simulations have been done in MATLAB environment for different values of fault locations, fault resistances, and fault inception angles. The effect of noise on the simulated voltage signals has been investigated. The analysis has been further extended by implementing the proposed method in a modified version of IEEJ West 10 machine system model. ? 2016 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.
+ER  - 

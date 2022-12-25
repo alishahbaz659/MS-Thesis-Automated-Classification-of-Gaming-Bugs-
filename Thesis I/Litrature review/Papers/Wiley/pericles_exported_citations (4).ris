@@ -1,0 +1,723 @@
+
+TY  - JOUR
+T1  - Fault detection and classification in transmission lines based on a PSD index
+AU  - Guillen, Daniel
+AU  - Paternina, Mario R. Arrieta
+AU  - Ortiz-Bejar, Jose
+AU  - Tripathy, Rajesh Kumar
+AU  - Zamora-Mendez, Alejandro
+AU  - Tapia-Olvera, Ruben
+AU  - Tellez, Eric S.
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1049/iet-gtd.2018.5062
+DO  - https://doi.org/10.1049/iet-gtd.2018.5062
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 4070
+EP  - 4078
+VL  - 12
+IS  - 18
+KW  - power transmission lines
+KW  - power transmission faults
+KW  - fault diagnosis
+KW  - signal classification
+KW  - covariance matrices
+KW  - approximation theory
+KW  - discrete wavelet transforms
+KW  - power grids
+KW  - power system interconnection
+KW  - fault detection
+KW  - fault classification
+KW  - AC transmission lines
+KW  - PSD index
+KW  - power spectral density index
+KW  - transient information analysis
+KW  - discrete wavelet transform
+KW  - current signal scaling
+KW  - decomposition levels
+KW  - approximation coefficient
+KW  - detail coefficient
+KW  - wavelet-covariance matrix
+KW  - Hellinger distance
+KW  - radial power grid
+KW  - interconnected power grid
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2018.5062
+UR  - https://doi.org/10.1049/iet-gtd.2018.5062
+Y2  - 2021/11/08
+N2  - This study deals with the faults? detection and classification in AC transmission lines based on power spectral density (PSD), introducing PSD in time and frequency for analysing transient information under faulted conditions. The discrete wavelet transform is used for scaling current signals in time?frequency at different decomposition levels by approximation and detail coefficients. Then, a wavelet-covariance matrix is shaped with the aim to obtain its PSD, being this the key to detect and classifying faults. Results show that the proposed method attains the detection in a short time and the classification is accomplished via the Hellinger distance, whose straightforward implementation is carried out in this study. The classification process is compared adopting different classifiers to cope with a set of signals in a time frame. Finally, the proposal is extensively assessed using real and simulated signals stemming from multiple fault cases of radial and interconnected power grids.
+ER  - 
+
+PY  - 2018
+Y1  - 2018/10/01
+DA  - 2018/10/01
+Y2  - 2021/11/08
+DO  - https://doi.org/10.1002/9781118947272.ch2
+UR  - https://doi.org/10.1002/9781118947272.ch2
+N1  - https://doi.org/10.1002/9781118947272.ch2
+M3  - https://doi.org/10.1002/9781118947272.ch2
+N2  - Summary This chapter provides a brief clarification of the systems commonly consulted for classification of skin and muscle flaps. In general terms, we can classify flaps based on their vascularity, their composition, or their method of transfer. The chapter briefly describes the local flaps, regional flaps and distant or microvascular free flaps. Local flaps are flaps that are located adjacent to the defect site. They may be contiguous to the defect or a small amount of tissue may separate the flap from the defect. Regional flaps are located at a significant distance from the donor site. The most commonly utilized classification system for muscle flaps is that of Mathis and Nahai, published in 1984. The classification was based on the vascular perfusion to the muscle. The classification had five types as follows: Type 1, Type 2, Type 3, type 4, and type 5.
+SP  - 2-4
+KW  - local flaps
+KW  - microvascular free flaps
+KW  - regional flaps
+T1  - Flap Classification
+T2  - Local and Regional Flaps in Head & Neck Reconstruction
+T3  - Wiley Online Books
+SN  - 9781118947272
+
+TY  - JOUR
+T1  - Classification of tongue cancer resection and treatment algorithm
+AU  - Mannelli, Giuditta
+AU  - Arcuri, Francesco
+AU  - Agostini, Tommaso
+AU  - Innocenti, Marco
+AU  - Raffaini, Mirco
+AU  - Spinelli, Giuseppe
+Y1  - 2018/04/01
+PY  - 2018
+DA  - 2018/04/01
+N1  - https://doi.org/10.1002/jso.24991
+DO  - https://doi.org/10.1002/jso.24991
+T2  - Journal of Surgical Oncology
+JF  - Journal of Surgical Oncology
+JO  - Journal of Surgical Oncology
+JA  - J Surg Oncol
+SP  - 1092
+EP  - 1099
+VL  - 117
+IS  - 5
+KW  - functional and aesthetic outcomes
+KW  - reconstructive options
+KW  - tongue cancer
+KW  - tongue defect classification
+KW  - tongue reconstruction algorithm
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1002/jso.24991
+UR  - https://doi.org/10.1002/jso.24991
+Y2  - 2021/11/08
+N2  - Background and Objectives Reconstruction of tongue cancer defects is challenging due to the complex anatomy and physiology of the tongue. Here, we classify patterns of tongue tissue loss and describe a treatment algorithm for achieving good functional and oncologic outcomes. Methods We retrospectively reviewed 50 tongue squamous-cell carcinomas surgically treated between January 2010-June 2015. Cancer resection and tongue reconstruction were stratified according to the missing anatomical subunits. Results A type 1 defect is a unilateral and marginal defect, not crossing the midline, and not extending to the posterior-third of the tongue. Type 2 involves the two-anterior-thirds of the mobile body, not crossing the midline, without posterior-third evolvement. Type 3 involves the two-anterior-thirds of the mobile body of the tongue with contralateral extension. Type 4 extends to the tongue base. Type 5 defect comprises any of the previous defects along with involvement of the floor of the mouth. Type 2 and 3 defects were the most common. Microvascular reconstruction was performed in 23 out of 50 patients. Complications included infection, partial necrosis, dehiscence, and microvascular thrombosis. Conclusions Our classification system and treatment algorithm represent a reliable method of addressing management of tongue defects.
+ER  - 
+
+TY  - JOUR
+T1  - Fault detection and classification in chemical processes using NMFSC and structural SVMs
+AU  - Peng, Yi
+AU  - Chen, Xiaogang
+AU  - Ye, Qixiang
+AU  - Jiao, Jianbin
+Y1  - 2014/06/01
+PY  - 2014
+DA  - 2014/06/01
+N1  - https://doi.org/10.1002/cjce.21945
+DO  - https://doi.org/10.1002/cjce.21945
+T2  - The Canadian Journal of Chemical Engineering
+JF  - The Canadian Journal of Chemical Engineering
+JO  - The Canadian Journal of Chemical Engineering
+JA  - Can. J. Chem. Eng.
+SP  - 1016
+EP  - 1023
+VL  - 92
+IS  - 6
+KW  - fault detection and classification
+KW  - non-negative matrix factorisation with sparseness constraints
+KW  - structural support vector machines
+KW  - chemical processes
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1002/cjce.21945
+UR  - https://doi.org/10.1002/cjce.21945
+Y2  - 2021/11/08
+N2  - We propose a novel fault detection and classification approach via Non-negative Matrix Factorisation with Sparseness Constraints (NMFSC) and Structural Support Vector Machines (Structural SVMs). The NMFSC method can not only reduce data dimension, but also better describe the local feature of the process because of non-negative and sparseness constraints. The function of Structural SVMs is to identify multiple kinds of faults using only one uniform discriminative model instead of multiple ones. Tennessee Eastman Process (TEP), a benchmark chemical engineering problem, is used to generate datasets to evaluate the performance of the proposed approach. The results from the experiment show the superiority of the new method compared with the state-of-the-art approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Photovoltaic cell defect classification using convolutional neural network and support vector machine
+AU  - Ahmad, Ashfaq
+AU  - Jin, Yi
+AU  - Zhu, Changan
+AU  - Javed, Iqra
+AU  - Maqsood, Asim
+AU  - Akram, Muhammad Waqar
+Y1  - 2020/10/01
+PY  - 2020
+DA  - 2020/10/01
+N1  - https://doi.org/10.1049/iet-rpg.2019.1342
+DO  - https://doi.org/10.1049/iet-rpg.2019.1342
+T2  - IET Renewable Power Generation
+JF  - IET Renewable Power Generation
+JO  - IET Renewable Power Generation
+JA  - IET Renew. Power Gener.
+SP  - 2693
+EP  - 2702
+VL  - 14
+IS  - 14
+KW  - support vector machines
+KW  - silicon
+KW  - feature extraction
+KW  - image classification
+KW  - inspection
+KW  - neural nets
+KW  - solar cells
+KW  - pattern classification
+KW  - learning (artificial intelligence)
+KW  - features extraction-based SVM
+KW  - photovoltaic cell defect classification
+KW  - convolutional neural network
+KW  - automatic defect classification
+KW  - photovoltaic modules
+KW  - automatic classification
+KW  - crystalline silicon solar cells
+KW  - cell cracks
+KW  - automatic defects classification
+KW  - PV cells
+KW  - machine learning approaches
+KW  - features extraction-based support vector machine
+KW  - solar cell defect classification
+KW  - solar cell defects
+KW  - six defective classes
+KW  - feature extraction algorithms
+PB  - The Institution of Engineering and Technology
+SN  - 9781118947272
+M3  - https://doi.org/10.1049/iet-rpg.2019.1342
+UR  - https://doi.org/10.1049/iet-rpg.2019.1342
+Y2  - 2021/11/08
+N2  - Automatic defect classification in photovoltaic (PV) modules is gaining significant attention due to the limited application of manual/visual inspection. However, the automatic classification of defects in crystalline silicon solar cells is a challenging task due to the inhomogeneous intensity of cell cracks and complex background. The present study is carried out for automatic defects classification of PV cells in electroluminescence images. Two machine learning approaches, features extraction-based support vector machine (SVM) and convolutional neural network (CNN) are used for the solar cell defect classifications. Suitable hyperparameters, algorithm optimisers, and loss functions are used to achieve the best performance. Solar cell defects are divided into seven classes such as one non-defective and six defective classes. Feature extraction algorithms such as histograms of oriented gradients (HOG), KAZE, Scale-Invariant Feature Transform (SIFT) and speeded-up-robust features (SURF) are used to train the SVM classifier. Finally, the performance results are compared. It is concluded that CNN's accuracy for solar cell defect classification is 91.58% which outperforms the state-of-the-art methods. With features extraction-based SVM, accuracies of 69.95, 71.04, 68.90, and 72.74% are obtained for HOG, KAZE, SIFT, and SURF, respectively. The present study may contribute to making a PV system more efficient for classifying defects to improve the power system efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - Multiple features extraction and selection for detection and classification of stator winding faults
+AU  - Haroun, Smail
+AU  - Seghir, Amirouche Nait
+AU  - Touati, Said
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - https://doi.org/10.1049/iet-epa.2017.0457
+DO  - https://doi.org/10.1049/iet-epa.2017.0457
+T2  - IET Electric Power Applications
+JF  - IET Electric Power Applications
+JO  - IET Electric Power Applications
+JA  - IET Electric Power Applications
+SP  - 339
+EP  - 346
+VL  - 12
+IS  - 3
+KW  - feature extraction
+KW  - feature selection
+KW  - stators
+KW  - fault diagnosis
+KW  - induction motors
+KW  - support vector machines
+KW  - self-organising feature maps
+KW  - transforms
+KW  - multiple features extraction
+KW  - multiple features selection
+KW  - stator winding fault detection
+KW  - stator winding fault classification
+KW  - induction motors
+KW  - Park transform
+KW  - zero crossing time signal
+KW  - three-phase stator currents
+KW  - time domains
+KW  - frequency domains
+KW  - extracted signal
+KW  - support vector machine
+KW  - recursive feature elimination
+KW  - self-organising map neural network
+KW  - stator current signals
+PB  - The Institution of Engineering and Technology
+SN  - 9781118947272
+M3  - https://doi.org/10.1049/iet-epa.2017.0457
+UR  - https://doi.org/10.1049/iet-epa.2017.0457
+Y2  - 2021/11/08
+N2  - In this study, a new effective approach for detection and classification of stator winding faults in induction motors is presented. The approach is based on current analysis. It uses multiple features extraction techniques, where Park transform, zero crossing time signal, and the envelope are extracted from the three-phase stator currents. Then, statistical features are calculated from time and frequency domains of each extracted signal. The Features selection techniques (ReliefF, minimum redundancy and max relevancy, and support vector machine approach based on recursive feature elimination) are used to select from the extracted features the most relevant ones. As a classifier, the self-organising map neural network is used. The proposed procedure is experimentally studied using stator current signals obtained from various faulty cases and a healthy induction motor at different load variations. The experimental results verify that the proposed strategy is able to distinguish the faulty cases from the healthy ones. Also, it effectively identifies the faulty phase in addition to the extent of the fault.
+ER  - 
+
+TY  - JOUR
+T1  - Molecular phylogeny of telenomine egg parasitoids (Hymenoptera: Platygastridae s.l.: Telenominae): evolution of host shifts and implications for classification
+AU  - TAEKUL, CHARUWAT
+AU  - VALERIO, ALEJANDRO A.
+AU  - AUSTIN, ANDREW D.
+AU  - KLOMPEN, HANS
+AU  - JOHNSON, NORMAN F.
+Y1  - 2014/01/01
+PY  - 2014
+DA  - 2014/01/01
+N1  - https://doi.org/10.1111/syen.12032
+DO  - https://doi.org/10.1111/syen.12032
+T2  - Systematic Entomology
+JF  - Systematic Entomology
+JO  - Systematic Entomology
+JA  - Syst Entomol
+SP  - 24
+EP  - 35
+VL  - 39
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1111/syen.12032
+UR  - https://doi.org/10.1111/syen.12032
+Y2  - 2021/11/08
+N2  - Abstract Parasitoid wasps of the subfamily Telenominae (Hymenoptera: Platygastroidea, Platygastridae) develop as immatures within the eggs of other insects (Lepidoptera, Hemiptera, Diptera and Neuroptera). Rearing records indicate that individual species are restricted to attack hosts within only one of these four main groups. We conducted a phylogenetic analysis of the group using sequence data from multiple genes (18S, 28S, COI, EF-1α) to assess the pattern of shifts among host groups and to test the monophyly of and relationships among genera and species-groups. Telenominae sensu Masner?that is, including only the nominate tribe Telenomini?is not monophyletic. Representatives of the Psix group of genera (Psix Kozlov & Lê and Paratelenomus Dodd) form a monophyletic group that is sister to Gryon Haliday (Scelioninae: Gryonini) and are excluded from the subfamily. The remaining telenomines are monophyletic. The genus Phanuromyia Dodd and the crassiclava group of Telenomus Haliday, both recorded as parasitoids of planthopper eggs (Hemiptera: Auchenorrhyncha, Fulgoroidea), form a monophyletic group that is sister to all other telenomines exclusive of the Psix group. Twenty-nine species of the crassiclava and aradi groups of Telenomus are transferred to Phanuromyia as new combinations. Basal elements of the remaining species are all in groups reared from the eggs of true bugs (Heteroptera), primarily the stink bugs (Pentatomoidea) and seed bugs (Lygaeoidea). A shift to parasitism of lepidopteran eggs evolved within a single clade, occurring either one or two times. From this clade a small group of species, the Telenomus tabanivorus group, subsequently shifted to parasitism of egg masses of true flies (Tabanidae and Stratiomyiidae). Aholcus Kieffer and Platytelenomus Dodd both belong to the clade of lepidopteran parasitoids and are considered as junior synonyms of Telenomus (new synonymy for Aholcus). The monophyletic status of the two core genera, Telenomus and Trissolcus could not be resolved using these data. The phylogenetic pattern of host shifts suggests comparisons among taxa that may be fruitful in elucidating mechanisms by which parasitoids locate their hosts, the proximate factors that determine the host range, and the changes in these factors that influence host changes.
+ER  - 
+
+TY  - JOUR
+T1  - Feature analysis and automatic classification of short-circuit faults resulting from external causes
+AU  - Núñez, Victor Barrera
+AU  - Meléndez, Joaquim
+AU  - Kulkarni, Saurabh
+AU  - Santoso, Surya
+Y1  - 2013/05/01
+PY  - 2013
+DA  - 2013/05/01
+N1  - https://doi.org/10.1002/etep.674
+DO  - https://doi.org/10.1002/etep.674
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int. Trans. Electr. Energ. Syst.
+SP  - 510
+EP  - 525
+VL  - 23
+IS  - 4
+KW  - diagnosis (fault)
+KW  - distribution of electric power
+KW  - overhead distribution lines
+KW  - power distribution faults
+KW  - power quality
+KW  - power system monitoring
+KW  - underground power distribution lines
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1002/etep.674
+UR  - https://doi.org/10.1002/etep.674
+Y2  - 2021/11/08
+N2  - SUMMARY This paper aims to determine unique features in voltage and current waveforms of a given disturbance event so as to automatically identify its root cause. In particular, the paper focuses on short-circuit faults caused by external factors such as animal and tree contacts, lightning-induced events, and cable failures. The proposed methodology consists of analyzing sets of known events caused by similar external agents to identify unique features characterizing the set and at the same time discriminate the remaining event subset. The proposed methodology has been implemented and tested using real-world fault events with a classification rate of 93.4%. This result demonstrates a good performance in identifying the cause of the events. In addition, the methodology rejects those events that do not follow any cause. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Approach for identification and classification of HIFs in medium voltage distribution networks
+AU  - Hubana, Tarik
+AU  - Saric, Mirza
+AU  - Avdaković, Samir
+Y1  - 2018/03/01
+PY  - 2018
+DA  - 2018/03/01
+N1  - https://doi.org/10.1049/iet-gtd.2017.0883
+DO  - https://doi.org/10.1049/iet-gtd.2017.0883
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 1145
+EP  - 1152
+VL  - 12
+IS  - 5
+KW  - power distribution faults
+KW  - fault diagnosis
+KW  - neural nets
+KW  - power engineering computing
+KW  - discrete wavelet transforms
+KW  - power supply quality
+KW  - HIF identification
+KW  - HIF classification
+KW  - middle voltage distribution networks
+KW  - modern power system operation
+KW  - power quality improvements
+KW  - power distribution network faults identification
+KW  - power distribution network faults classification
+KW  - PDN faults classification
+KW  - PDN faults identification
+KW  - high-impedance faults identification
+KW  - high-impedance faults classification
+KW  - medium-voltage PDN
+KW  - voltage phase difference algorithm
+KW  - discrete wavelet transform
+KW  - artificial neural networks algorithm
+KW  - real distribution network
+KW  - Bosnia
+KW  - Herzegovina
+PB  - The Institution of Engineering and Technology
+SN  - 9781118947272
+M3  - https://doi.org/10.1049/iet-gtd.2017.0883
+UR  - https://doi.org/10.1049/iet-gtd.2017.0883
+Y2  - 2021/11/08
+N2  - The modern power system operation is faced with numerous challenges related to the power quality improvements such as identification and classification of power distribution network (PDN) faults. The recent advances in the area of signal processing allow the development of new algorithms and methods which can be used for fault identification and classification in PDN. This study presents a comparison of two approaches for identification and classification of high-impedance faults (HIFs) in medium-voltage PDN. The first approach is based on the voltage phase difference algorithm, whereas the second approach is based on the combination of discrete wavelet transform and artificial neural networks algorithm. The proposed algorithms are tested on models of a real distribution network, which represents a typical PDN currently used in Bosnia and Herzegovina. It was demonstrated that the proposed methods are capable to accurately detect and classify HIF in PDN. This study makes a contribution to the existing body of knowledge by developing, testing and comparing two methods for HIF classification and identification, whose application represents an improvement when compared with the capability of the existing protection devices.
+ER  - 
+
+TY  - JOUR
+T1  - Phylogenetic relationships and revised classification of the true bug infraorder Dipsocoromorpha (Insecta: Hemiptera: Heteroptera)
+AU  - Knyshov, Alexander
+AU  - Weirauch, Christiane
+AU  - Hoey-Chamberlain, Rochelle
+Y1  - 2021/06/01
+PY  - 2021
+DA  - 2021/06/01
+N1  - https://doi.org/10.1111/cla.12435
+DO  - https://doi.org/10.1111/cla.12435
+T2  - Cladistics
+JF  - Cladistics
+JO  - Cladistics
+JA  - Cladistics
+SP  - 248
+EP  - 275
+VL  - 37
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1111/cla.12435
+UR  - https://doi.org/10.1111/cla.12435
+Y2  - 2021/11/08
+N2  - Abstract Currently comprising only about 430 species, Dipsocoromorpha or minute litter bugs are one of the small infraorders of Heteroptera. They are classified into five morphologically distinct families??Ceratocombidae, Dipsocoridae, Hypsipterygidae, Schizopteridae and Stemmocryptidae??but relationships among and within these families are poorly understood owing to the lack of phylogenetic studies. A phylogenetic hypothesis based on combined molecular and morphological data is important to both evaluate and revise the higher-level classification and to explore the evolutionary history of morphological features including elytriform (or beetle-like) forewings, that seem to have evolved multiple times in this group, jumping devices, and the highly modified and diverse male genitalia. We here use a dataset combining Sanger-derived (~4500 bp; 108 taxa) and Illumina-generated (~7500 bp; 24 taxa) sequence data with a morphological matrix (159 characters) and taxon sampling that comprises all currently recognized family-, subfamily- and tribal-level taxa and comprehensive genus-level sampling to investigate phylogenetic relationships within litter bugs. Our results support the monophyly of Dipsocoromorpha, Schizopteridae and Dipsocoridae, whereas Ceratocombidae and the schizopterine subfamily ?Ogeriinae? are polyphyletic and paraphyletic, respectively. A new classification is proposed that recognizes six families, including Trichotonannidae, stat.n., and two subfamilies each within the two larger families Ceratocombidae and Schizopteridae. Ancestral state reconstructions outline the complex evolutionary history of many morphological characters, including 15 independent origins of elytriform forewings, and at least five shifts in the degree of genitalic asymmetry.
+ER  - 
+
+TY  - JOUR
+T1  - High-impedance fault detection and classification in power system distribution networks using morphological fault detector algorithm
+AU  - Kavi, Moses
+AU  - Mishra, Yateendra
+AU  - Vilathgamuwa, Mahinda D.
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - https://doi.org/10.1049/iet-gtd.2017.1633
+DO  - https://doi.org/10.1049/iet-gtd.2017.1633
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 3699
+EP  - 3710
+VL  - 12
+IS  - 15
+KW  - fault diagnosis
+KW  - power distribution faults
+KW  - mathematical morphology
+KW  - signal classification
+KW  - feature extraction
+KW  - filtering theory
+KW  - power distribution reliability
+KW  - high-impedance fault detection
+KW  - high-impedance fault classification
+KW  - power system distribution networks
+KW  - morphological fault detector algorithm
+KW  - power system disturbance classification
+KW  - power system disturbance detection
+KW  - mathematical morphology techniques
+KW  - nonlinear MM characteristics
+KW  - filtering functions
+KW  - multistage morphological fault detector
+KW  - MFD
+KW  - HIF feature extraction
+KW  - arc extinction
+KW  - unsymmetrical characteristics
+KW  - re-ignition characteristics
+KW  - weighted convex structuring element
+KW  - power system signal attributes
+KW  - contact surfaces
+KW  - noise condition
+KW  - IEEE13 bus test system
+PB  - The Institution of Engineering and Technology
+SN  - 9781118947272
+M3  - https://doi.org/10.1049/iet-gtd.2017.1633
+UR  - https://doi.org/10.1049/iet-gtd.2017.1633
+Y2  - 2021/11/08
+N2  - This study presents a fast, secure and reliable algorithm for the detection and classification of power system disturbances including high-impedance faults (HIFs). The proposed algorithm utilises mathematical morphology (MM) techniques, where the non-linear MM characteristics are exploited by strategic cascading of appropriate filtering functions to form a multistage morphological fault detector (MFD) for the extraction of features necessary for the characterisation of HIFs. The target features of the HIF are the randomness and arc extinction and re-ignition/unsymmetrical characteristics. The reliability and robustness in the extraction of the desired HIF features are enhanced by a weighted convex structuring element designed based on the attributes of power system signals. The performance of the proposed algorithm is tested under different types of disturbances including cases of HIFs on different contact surfaces. Moreover, the effectiveness of the algorithm is tested under noise condition to demonstrate its performance of the proposed MFD. All tests are simulated using IEEE13 bus test system.
+ER  - 
+
+TY  - JOUR
+T1  - Non-invasive sound-based classifier of bearing faults in electric induction motors
+AU  - Santos, Herman
+AU  - Scalassara, Paulo
+AU  - Endo, Wagner
+AU  - Goedtel, Alessandro
+AU  - Guedes, Jacqueline
+AU  - Gentil, Murillo
+Y1  - 2021/07/01
+PY  - 2021
+DA  - 2021/07/01
+N1  - https://doi.org/10.1049/smt2.12044
+DO  - https://doi.org/10.1049/smt2.12044
+T2  - IET Science, Measurement & Technology
+JF  - IET Science, Measurement & Technology
+JO  - IET Science, Measurement & Technology
+JA  - IET Sci. Meas. Technol.
+SP  - 434
+EP  - 445
+VL  - 15
+IS  - 5
+PB  - The Institution of Engineering and Technology
+SN  - 9781118947272
+M3  - https://doi.org/10.1049/smt2.12044
+UR  - https://doi.org/10.1049/smt2.12044
+Y2  - 2021/11/08
+N2  - Abstract Induction motors play a major role in the industry nowadays due to their simple construction, uncomplicated maintenance, and cost efficiency. As the motor operates for repeated hours, some faults may occur and, depending on the process sensitivity, can cause significant losses to the industrial production. In this context, an alternative method is proposed to detect and classify bearing faults using acoustic emission signals generated by the machines and simple features obtained from them. A pair of condenser microphones was used to acquire these signals and audio feature extraction is performed to obtain time and frequency patterns to characterize healthy and faulty machines. The major differences of the acoustic signals regarding the fault frequency signatures are discussed by analyzing specific peaks observed in their spectra. Several coupled load values and levels of power supply voltage unbalance were considered in the experimental tests, which emulate common situations encountered in industrial environments, obtaining accuracy rates over 97% of success. Finally, a comparison is presented of machine learning techniques for bearing faults classification under different load values and voltage unbalance levels.
+ER  - 
+
+TY  - JOUR
+T1  - Surface Defect Classification of Steel Strip with Few Samples Based on Dual-Stream Neural Network
+AU  - Zhang, Jiaqiao
+AU  - Li, Shihao
+AU  - Yan, Yan
+AU  - Ni, Zhonghua
+Y1  - 2021/11/06
+PY  - 2021
+DA  - 2021/11/06
+N1  - https://doi.org/10.1002/srin.202100554
+DO  - https://doi.org/10.1002/srin.202100554
+T2  - steel research international
+JF  - steel research international
+JO  - steel research international
+JA  - steel research int.
+VL  - n/a
+IS  - n/a
+KW  - deep learning
+KW  - image classification
+KW  - steel strip
+KW  - surface defect
+KW  - surface technology
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1002/srin.202100554
+UR  - https://doi.org/10.1002/srin.202100554
+Y2  - 2021/11/08
+N2  - The automatic classification of surface defects is significant to the steel strip inspection system. However, influenced by the lack of samples, it is difficult to improve the classification accuracy. In the current work, a novel dual-stream neural network is proposed, which is composed by two streams of sample generation and classification training. Subsequently, numerous defect samples are generated for the classifier pre-training, and the real steel strip surface defects are classified by the transfer learning method. The experiment results demonstrate that the dual-stream neural network has the highest classification accuracy of 99.70% among the state-of-the-art classifiers, and the classification accuracy increased by 9.67% through generating plentiful similar images for pre-training. Moreover, the convolutional neural network (CNN) can improve the quality of generated defect images. When the number of epochs reaches 2000, the generated images are closest to the real labeled images. Finally, the he cross-validation proves that the dual-stream neural network has excellent stability and robustness, without over-fitting problem in the training process.This article is protected by copyright. All rights reserved.
+ER  - 
+
+TY  - JOUR
+T1  - Fault classification and diagnostic system for unmanned aerial vehicle electrical networks based on hidden Markov models
+AU  - Telford, Rory
+AU  - Galloway, Stuart
+Y1  - 2015/09/01
+PY  - 2015
+DA  - 2015/09/01
+N1  - https://doi.org/10.1049/iet-est.2014.0042
+DO  - https://doi.org/10.1049/iet-est.2014.0042
+T2  - IET Electrical Systems in Transportation
+JF  - IET Electrical Systems in Transportation
+JO  - IET Electrical Systems in Transportation
+JA  - IET Electr. Syst. Transp.
+SP  - 103
+EP  - 111
+VL  - 5
+IS  - 3
+KW  - fault diagnosis
+KW  - autonomous aerial vehicles
+KW  - aircraft power systems
+KW  - hidden Markov models
+KW  - power system reliability
+KW  - power system faults
+KW  - unmanned aerial vehicle electrical network
+KW  - hidden Markov model
+KW  - electric aircraft
+KW  - electrical power system
+KW  - safe flight
+KW  - UAV failure detection
+KW  - system reliability enhancement
+KW  - UAV EPS fault classification and diagnostic system
+KW  - FCD system
+KW  - HMM
+KW  - EPS health management
+KW  - EPS health control
+KW  - NASA advanced diagnostic and prognostic testbed
+KW  - ADAPT
+PB  - The Institution of Engineering and Technology
+SN  - 9781118947272
+M3  - https://doi.org/10.1049/iet-est.2014.0042
+UR  - https://doi.org/10.1049/iet-est.2014.0042
+Y2  - 2021/11/08
+N2  - In recent years there has been an increase in the number of unmanned aerial vehicle (UAV) applications intended for various missions in a variety of environments. The adoption of the more-electric aircraft has led to a greater emphasis on electrical power systems (EPS) for safe flight through an increased number of critical loads being sourced with electrical power. Despite extensive literature detailing the development of systems to detect UAV failures and enhance overall system reliability, few have focussed directly on the increasingly complex and dynamic EPS. This study outlines the development of a novel UAV EPS fault classification and diagnostic (FCD) system based on hidden Markov models (HMM) that will assist and improve EPS health management and control. The ability of the proposed FCD system to autonomously detect, classify and diagnose the severity of diverse EPS faults is validated with development of the system for NASA's advanced diagnostic and prognostic testbed (ADAPT), a representative UAV EPS system. EPS data from the ADAPT network was used to develop the FCD system and results described within this study show that a high classification and diagnostic accuracy can be achieved using the proposed system.
+ER  - 
+
+TY  - JOUR
+T1  - A machine learning approach for classification of equivalent mutants
+AU  - Naeem, Muhammad Rashid
+AU  - Lin, Tao
+AU  - Naeem, Hamad
+AU  - Liu, Hailu
+Y1  - 2020/05/01
+PY  - 2020
+DA  - 2020/05/01
+N1  - https://doi.org/10.1002/smr.2238
+DO  - https://doi.org/10.1002/smr.2238
+T2  - Journal of Software: Evolution and Process
+JF  - Journal of Software: Evolution and Process
+JO  - Journal of Software: Evolution and Process
+JA  - J Softw Evol Proc
+SP  - e2238
+VL  - 32
+IS  - 5
+KW  - equivalent mutants
+KW  - machine learning
+KW  - mutation testing
+KW  - program semantics
+KW  - static analysis
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1002/smr.2238
+UR  - https://doi.org/10.1002/smr.2238
+Y2  - 2021/11/08
+N2  - Abstract Mutation testing is a fault-based technique to test the quality of test suites by inducing artificial syntactic faults or mutants in a source program. However, some mutants have the same semantics as original program and cannot be detected by any test suite input known as equivalent mutants. Equivalent mutant problem (EMP) is undecidable as it requires manual human effort to identify a mutant as equivalent or killable. The constraint-based testing (CBT) theory suggests the use of mathematical constraints which can help reveal some equivalent mutants using mutant features. In this paper, we consider three metrics of CBT theory, ie, reachability, necessity, and sufficiency to extract feature constraints from mutant programs. Constraints are extracted using program dependency graphs. Other features such as degree of significance, semantic distance, and information entropy of mutants are also extracted to build a binary classification model. Machine learning algorithms such as Random Forest, GBT, and SVM are applied under two application scenarios (split-project and cross-project) on ten Java programs to predict equivalent mutants. The analysis of the study demonstrates that that the proposed techniques not only improves the efficiency of the equivalent mutant detection but also reduces the effort required to perform it with small accuracy loss.
+ER  - 
+
+TY  - JOUR
+T1  - Classification and Size Estimation of Wafer Defects by Using Scattered Light Distribution
+AU  - SUGIHARA, YOSHIHIKO
+AU  - HONDA, TOSHIFUMI
+AU  - URANO, YUTA
+AU  - WATANABE, MASAHIRO
+AU  - NOGUCHI, SO
+AU  - IGARASHI, HAJIME
+Y1  - 2015/06/01
+PY  - 2015
+DA  - 2015/06/01
+N1  - https://doi.org/10.1002/ecj.11706
+DO  - https://doi.org/10.1002/ecj.11706
+T2  - Electronics and Communications in Japan
+JF  - Electronics and Communications in Japan
+JO  - Electronics and Communications in Japan
+JA  - Electron Comm Jpn
+SP  - 36
+EP  - 43
+VL  - 98
+IS  - 6
+KW  - parametric eigenspace method
+KW  - scattered light distribution
+KW  - wafer inspection
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1002/ecj.11706
+UR  - https://doi.org/10.1002/ecj.11706
+Y2  - 2021/11/08
+N2  - SUMMARY Usually, wafer inspection is a two-step process. The first step, which is very important, consists of detection of defects on the wafer. The second step classification of the detected defects, which is done after defect detection as necessary. Recently, it has become necessary to perform simultaneous detection and classification of wafer defects in order to reduce the wafer inspection time while maintaining high resolution of inspection. Optical wafer inspection is the most effective method for detecting and classifying defects and estimating their size in a short time. In this method, the scattered light distribution is compared with a database of previous scattered light distributions and pattern matching is used to classify defects and estimate their size. Therefore, to achieve optical wafer inspection based on scattered light distribution, it is necessary to gather scattered light distribution data for many samples of various kinds. The first aim of this study is to develop a defect classification and size estimation method utilizing the scattered light distribution. We propose a method of classifying defects on wafers and estimating their size. The proposed method is based on pattern matching utilizing a parametric eigenspace. The second aim of the paper is to validate the proposed method by applying it to scattered light distribution samples. The light scattering distribution samples were generated by discrete dipole approximation (DDA) simulation. A database of the light scattering distribution is easily created using the simulation.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring classification of birth defects severity in national hospital discharge databases compared to an active surveillance program
+AU  - Matas, Jennifer L.
+AU  - Agana, Denny Fe G.
+AU  - Germanos, George J.
+AU  - Hansen, Michael A.
+AU  - Modak, Sanjukta
+AU  - Tanner, Jean Paul
+AU  - Langlois, Peter H.
+AU  - Salemi, Jason L.
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - https://doi.org/10.1002/bdr2.1539
+DO  - https://doi.org/10.1002/bdr2.1539
+T2  - Birth Defects Research
+JF  - Birth Defects Research
+JO  - Birth Defects Research
+JA  - Birth Defects Research
+SP  - 1343
+EP  - 1355
+VL  - 111
+IS  - 18
+KW  - birth defects
+KW  - risk of mortality
+KW  - severity measures
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1002/bdr2.1539
+UR  - https://doi.org/10.1002/bdr2.1539
+Y2  - 2021/11/08
+N2  - Abstract Objective To explore the extent to which the severity of birth defects could be differentiated using severity of illness (SOI) and risk of mortality (ROM) measures available in national discharge databases. Methods Data from the 2012?14 National Inpatient Sample (NIS) was used to identify hospitalizations with one or more major birth defects reported annually to the National Birth Defects Prevention Network using the International Classification of Diseases, Ninth Edition, Clinical Modification (ICD-9-CM) diagnosis codes. Each hospitalization also contained a 4-level SOI and 4-level ROM classification measure. For each birth defect and for each individual birth defect-related ICD-9-CM code, we calculated mean and median SOI and ROM, the proportion of hospitalizations in each level of SOI and ROM, the inpatient mortality rate, and level of agreement between various existing or derived severity proxies in the NIS and the Texas Birth Defects Registry (TBDR). Results Mean SOI ranged from 1.5 (cleft lip alone) to 3.7 (single ventricle), and mean ROM ranged from 1.1 (cleft lip alone) to 3.9 (anencephaly). As a group, critical congenital heart defects had the highest average number of co-occurring defects, mean SOI, and ROM, whereas orofacial and genitourinary defects had the lowest SOI and ROM. We found strong levels of agreement between TBDR severity classifications and NIS severity classifications defined using Level 3 or 4 SOI or ROM Level 3 or 4. Conclusions This preliminary investigation demonstrated how severity indices of birth defects could be differentiated and compared to a severity algorithm of an existing surveillance program.
+ER  - 
+
+TY  - JOUR
+T1  - Implant treatment choice after extraction of a vertically fractured tooth. A proposal for a clinical classification of bony defects based on a systematic review of literature
+AU  - Corbella, Stefano
+AU  - Taschieri, Silvio
+AU  - Samaranayake, Lakshman
+AU  - Tsesis, Igor
+AU  - Nemcovsky, Carlos
+AU  - Del Fabbro, Massimo
+Y1  - 2014/08/01
+PY  - 2014
+DA  - 2014/08/01
+N1  - https://doi.org/10.1111/clr.12164
+DO  - https://doi.org/10.1111/clr.12164
+T2  - Clinical Oral Implants Research
+JF  - Clinical Oral Implants Research
+JO  - Clinical Oral Implants Research
+JA  - Clin. Oral Impl. Res.
+SP  - 946
+EP  - 956
+VL  - 25
+IS  - 8
+KW  - classification
+KW  - guided bone regeneration
+KW  - post-extraction implant
+KW  - vertical root fracture
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1111/clr.12164
+UR  - https://doi.org/10.1111/clr.12164
+Y2  - 2021/11/08
+N2  - Abstract Objectives The objectives of this study were to propose a classification for the bone defects resulting after extraction of a vertically fractured tooth and to review the existing literature about the treatment of such kind of defects by means of dental implants in combination with regenerative procedures. Materials and methods An electronic search was performed on biomedical databases using a combination of appropriated search terms combined through the use of Boolean operators. All articles concerning the treatment of peri-implant bone dehiscences and fenestrations through guided bone regeneration (GBR) with at least 6 months follow-up were eligible. Outcomes data extracted from the selected articles were summarized using descriptive tables. A classification of the bone defects associated with vertical root fracture (VRF) was also proposed. Results A total of 33 articles were included in the review. Twenty-three articles (814 implants) were about bone dehiscence treatment, ten articles presented the treatment of fenestrations, and ten (429 implants) adopted vertical bone augmentation. The percentage of bone filling was variable among different procedures and defect classification. The use of resorbable membrane was associated with better outcomes than the use of non-resorbable ones. Conclusions Guided bone regeneration for the management of bone defects in the presence of a VRF of the extracted tooth is a viable treatment option. The assessment of bone defect geometry prior to a tooth extraction could be clinically relevant for evaluating the feasibility and the success of immediate implant placement as well as the need of GBR.
+ER  - 
+
+TY  - JOUR
+T1  - Efficient CNN-XGBoost technique for classification of power transformer internal faults against various abnormal conditions
+AU  - Raichura, Maulik
+AU  - Chothani, Nilesh
+AU  - Patel, Dharmesh
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - https://doi.org/10.1049/gtd2.12073
+DO  - https://doi.org/10.1049/gtd2.12073
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 972
+EP  - 985
+VL  - 15
+IS  - 5
+PB  - The Institution of Engineering and Technology
+SN  - 9781118947272
+M3  - https://doi.org/10.1049/gtd2.12073
+UR  - https://doi.org/10.1049/gtd2.12073
+Y2  - 2021/11/08
+N2  - Abstract To increase the classification accuracy of a protection scheme for power transformer, an effective convolution neural network (CNN) extreme gradient boosting (XGBoost) combination is proposed in this work. Data generated from various test cases are fed to one-dimensional CNN for high-level feature extraction. After that, an efficient classifier tool XGBoost is used to properly discriminate different transformer internal faults against outside abnormalities. A portion of an Indian power system is considered and simulated in PSCAD software using the multi-run feature to collect a large number of data for various fault/abnormal situations. The generated data are used in MATLAB software where the proposed algorithm is programmed. A high-performance CPU is used for training and testing purpose of the projected artificial intelligent technique. The obtained results for classification accuracy as well as discrimination time shows that the proposed scheme is competent enough to properly discriminate transformer operational conditions. Further, the combined CNN-XGBoost technique is compared with existing relevance vector machine and hierarchical ensemble of extreme learning machine classifier techniques. Moreover, a hardware experiment is performed in a laboratory prototype of 50 kVA, 440/220 V transformer to verify the authenticity of the developed protective scheme. After analyzing a variety of experiments, the authors note that the presented method provides promising classification accuracy within a short time period.
+ER  - 
+
+TY  - JOUR
+T1  - Classification of Lattice Defects in the Kesterite Cu2ZnSnS4 and Cu2ZnSnSe4 Earth-Abundant Solar Cell Absorbers
+AU  - Chen, Shiyou
+AU  - Walsh, Aron
+AU  - Gong, Xin-Gao
+AU  - Wei, Su-Huai
+Y1  - 2013/03/20
+PY  - 2013
+DA  - 2013/03/20
+N1  - https://doi.org/10.1002/adma.201203146
+DO  - https://doi.org/10.1002/adma.201203146
+T2  - Advanced Materials
+JF  - Advanced Materials
+JO  - Advanced Materials
+JA  - Adv. Mater.
+SP  - 1522
+EP  - 1539
+VL  - 25
+IS  - 11
+KW  - defects
+KW  - kesterite
+KW  - Cu2ZnSnS4 (CZTS)
+KW  - Cu2ZnSnSe4 (CZTSe)
+KW  - first-principles calculations
+PB  - John Wiley & Sons, Ltd
+SN  - 9781118947272
+M3  - https://doi.org/10.1002/adma.201203146
+UR  - https://doi.org/10.1002/adma.201203146
+Y2  - 2021/11/08
+N2  - Abstract The kesterite-structured semiconductors Cu2ZnSnS4 and Cu2ZnSnSe4 are drawing considerable attention recently as the active layers in earth-abundant low-cost thin-film solar cells. The additional number of elements in these quaternary compounds, relative to binary and ternary semiconductors, results in increased flexibility in the material properties. Conversely, a large variety of intrinsic lattice defects can also be formed, which have important influence on their optical and electrical properties, and hence their photovoltaic performance. Experimental identification of these defects is currently limited due to poor sample quality. Here recent theoretical research on defect formation and ionization in kesterite materials is reviewed based on new systematic calculations, and compared with the better studied chalcopyrite materials CuGaSe2 and CuInSe2. Four features are revealed and highlighted: (i) the strong phase-competition between the kesterites and the coexisting secondary compounds; (ii) the intrinsic p-type conductivity determined by the high population of acceptor CuZn antisites and Cu vacancies, and their dependence on the Cu/(Zn+Sn) and Zn/Sn ratio; (iii) the role of charge-compensated defect clusters such as [2CuZn+SnZn], [VCu+ZnCu] and [ZnSn+2ZnCu] and their contribution to non-stoichiometry; (iv) the electron-trapping effect of the abundant [2CuZn+SnZn] clusters, especially in Cu2ZnSnS4. The calculated properties explain the experimental observation that Cu poor and Zn rich conditions (Cu/(Zn+Sn) ≈ 0.8 and Zn/Sn ≈ 1.2) result in the highest solar cell efficiency, as well as suggesting an efficiency limitation in Cu2ZnSn(S,Se)4 cells when the S composition is high.
+ER  - 

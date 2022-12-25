@@ -1,0 +1,4 @@
+Title:(Game AND identi* OR classif*) AND Abstract:(bug OR defect OR fault)
+
+Full query
+"query": {Title:(Game AND identi* OR classif*) AND Abstract:(bug OR defect OR fault)} "filter": {Publication Date: (01/01/2011 TO 09/30/2021)},{ACM Content: DL}

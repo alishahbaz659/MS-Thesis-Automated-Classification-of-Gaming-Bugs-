@@ -1,0 +1,798 @@
+
+TY  - JOUR
+T1  - An Extension Sample Classification-Based Extreme Learning Machine Ensemble Method for Process Fault Diagnosis
+AU  - Xu, Yuan
+AU  - Chen, Yan Jing
+AU  - Zhu, Qun Xiong
+Y1  - 2014/06/01
+PY  - 2014
+DA  - 2014/06/01
+N1  - https://doi.org/10.1002/ceat.201300622
+DO  - https://doi.org/10.1002/ceat.201300622
+T2  - Chemical Engineering & Technology
+JF  - Chemical Engineering & Technology
+JO  - Chemical Engineering & Technology
+JA  - Chem. Eng. Technol.
+SP  - 911
+EP  - 918
+VL  - 37
+IS  - 6
+KW  - Extension sample classification
+KW  - Extreme learning machine
+KW  - Fault diagnosis
+PB  - John Wiley & Sons, Ltd
+SN  - 0930-7516
+M3  - https://doi.org/10.1002/ceat.201300622
+UR  - https://doi.org/10.1002/ceat.201300622
+Y2  - 2021/11/08
+N2  - Abstract In order to achieve higher accuracy and faster response in complex process fault diagnosis, an extension sample classification-based extreme learning machine ensemble (ESC-ELME) method is proposed. In the realization process, the extension sample classification is used to divide the fault types. For each fault type, a specific extreme learning machine (ELM) is established and trained independently. Then, all specific ELMs are integrated to determine which fault is happened by the majority voting method. The proposed ESC-ELME method is compared with the traditional ELM and a duty-oriented hierarchical artificial neural network in fault diagnosis of the Tennessee Eastman process. The results demonstrate that the proposed method provides higher diagnosis accuracy and faster response.
+ER  - 
+
+TY  - JOUR
+T1  - Fault detection and classification of an HVDC transmission line using a heterogenous multi-machine learning algorithm
+AU  - Ghashghaei, Saber
+AU  - Akhbari, Mahdi
+Y1  - 2021/08/01
+PY  - 2021
+DA  - 2021/08/01
+N1  - https://doi.org/10.1049/gtd2.12180
+DO  - https://doi.org/10.1049/gtd2.12180
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 2319
+EP  - 2332
+VL  - 15
+IS  - 16
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/gtd2.12180
+UR  - https://doi.org/10.1049/gtd2.12180
+Y2  - 2021/11/08
+N2  - Abstract This paper presents a novel integrated multi-Machine Learning (ML) system architecture for the protection of bipolar HVDC transmission line in which different ML models of Support Vector Machine (SVM) and K-Nearest Neighbours (KNN) are used for fault detection and classification. The KNN fault type classifier is designed as a dual-purpose module, which not only detects the fault type but also acts as a redundant module for unsure fault declaration from the startup unit. Gradients and standard deviations of DC current, voltage, harmonic current, and a correlation coefficient between the aerial and zero modes of DC current are appropriate feature vector extracted from single-end signal measurement. Overall, 154 training cases and 53 main test cases are obtained by simulating various fault and non-fault states on a ±650 kV-1000 km Current Source Converter (CSC)?HVDC using an EMTDC/PSCAD platform. The ML modules are trained in MATLAB and tested under different severe conditions with a total of 2220 test cases. Thanks to the appropriate feature vector and the proposed system architecture, the obtained results show that the proposed algorithm is effective enough to detect and distinguish a variety of internal faults and pseudo-faults/external faults. Also, it needs low training data requirements.
+ER  - 
+
+TY  - JOUR
+T1  - Complete protection scheme for fault detection, classification and location estimation in HVDC transmission lines using support vector machines
+AU  - Johnson, Jenifer Mariam
+AU  - Yadav, Anamika
+Y1  - 2017/05/01
+PY  - 2017
+DA  - 2017/05/01
+N1  - https://doi.org/10.1049/iet-smt.2016.0244
+DO  - https://doi.org/10.1049/iet-smt.2016.0244
+T2  - IET Science, Measurement & Technology
+JF  - IET Science, Measurement & Technology
+JO  - IET Science, Measurement & Technology
+JA  - IET Sci. Meas. Technol.
+SP  - 279
+EP  - 287
+VL  - 11
+IS  - 3
+KW  - fault diagnosis
+KW  - transmission lines
+KW  - support vector machines
+KW  - fault location
+KW  - complete protection scheme
+KW  - fault detection
+KW  - fault classification
+KW  - fault location estimation
+KW  - HVDC transmission lines
+KW  - support vector machines
+KW  - MATLAB
+KW  - rectifier side AC root mean square voltage
+KW  - DC voltage
+KW  - SVM binary classifier
+KW  - regression algorithm
+KW  - feature vector
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8822
+M3  - https://doi.org/10.1049/iet-smt.2016.0244
+UR  - https://doi.org/10.1049/iet-smt.2016.0244
+Y2  - 2021/11/08
+N2  - This paper presents a complete protection scheme for detecting, classifying and locating the fault in HVDC transmission lines using support vector machines (SVM). SVM has been used for protective relaying application in HVAC transmission line, however very limited works have been reported for HVDC transmission line. In this work, a ±500 kV HVDC transmission system is developed in PSCAD/EMTDC and the measurement signals obtained are analyzed in MATLAB. The rectifier side AC RMS voltage, DC voltage and current on both the poles are continuously monitored, and given as input to the SVM binary classifier in order to detect the presence of fault in the line. Once a fault is detected, the SVM multi-class classification module predicts the type of fault and the SVM regression algorithm predicts the location of fault. The feature vector used in the classification and location modules is the standard deviation of the signals over half cycle before and after the occurrence of fault. The method proposed is simple as it requires single-end data and a direct standard deviation of one cycle data gives very accurate results. The detection and classification modules are 100% accurate whereas the fault location module has a mean error of 0.03%.
+ER  - 
+
+TY  - JOUR
+T1  - Different Faults Diagnosis and Classification on-Line in Permanent Magnet Synchronous Machines Using Improved Exponential Discriminant Analysis
+AU  - Xiao, Li
+AU  - Gao, Feng
+AU  - Hou, Shuping
+AU  - Niu, Feng
+AU  - Yu, Lu
+AU  - Zhang, Huifang
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - https://doi.org/10.1002/tee.23203
+DO  - https://doi.org/10.1002/tee.23203
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+JF  - IEEJ Transactions on Electrical and Electronic Engineering
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+JA  - IEEJ Trans Elec Electron Eng
+SP  - 1365
+EP  - 1376
+VL  - 15
+IS  - 9
+KW  - inter-turn short circuit (ITSC)
+KW  - air-eccentricity
+KW  - fault diagnosis
+KW  - fault classification
+KW  - improved exponential discriminant analysis (IEDA)
+KW  - permanent magnet synchronous motor (PMSM)
+PB  - John Wiley & Sons, Ltd
+SN  - 1931-4973
+M3  - https://doi.org/10.1002/tee.23203
+UR  - https://doi.org/10.1002/tee.23203
+Y2  - 2021/11/08
+N2  - Reliability is an important performance for permanent magnet synchronous machine (PMSM) exploited to industrial applications and electric-energy vehicles. Both air-eccentricity and inter-turn short circuit (ITSC) could induce the machine running in unbalanced status. Once not restored timely, the fault will lead to the whole drive system and its application damage. To enhance the reliability for PMSM, an effective fault diagnosis and classification method is necessary in advance. For this purpose, an improved exponential discriminant analysis (IEDA) algorithm is proposed and optimized. Further, the distortion characteristics of phase current signals with air-eccentricity and ITSC are extracted and trained by the IEDA, which are applied for diagnosing whether the motor healthy or faulty and distinguishing fault types. Besides, the IEDA can not only identify fault type accurately but also estimate the fault degree precisely. Finally, compared to other common learning methods, several simulations and practical tests accompanying with diverse operating status are implemented, and their results can prove the proposed method has more accuracy and robustness than other methods. ? 2020 Institute of Electrical Engineers of Japan. Published by Wiley Periodicals LLC.
+ER  - 
+
+TY  - JOUR
+T1  - Fault classification and location identification in a smart DN using ANN and AMI with real-time data
+AU  - Usman, Muhammad Usama
+AU  - Ospina, Juan
+AU  - Faruque, Md. Omar
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1049/joe.2019.0896
+DO  - https://doi.org/10.1049/joe.2019.0896
+T2  - The Journal of Engineering
+JF  - The Journal of Engineering
+JO  - The Journal of Engineering
+JA  - The Journal of Engineering
+SP  - 19
+EP  - 28
+VL  - 2020
+IS  - 1
+KW  - neural nets
+KW  - fault diagnosis
+KW  - smart meters
+KW  - sensitivity analysis
+KW  - fault location
+KW  - smart power grids
+KW  - distribution networks
+KW  - power system simulation
+KW  - power distribution faults
+KW  - UOC
+KW  - event-driven data
+KW  - SMs
+KW  - novel ANN-based fault classification
+KW  - balanced fault types
+KW  - unbalanced fault types
+KW  - DRTS
+KW  - fault resistance
+KW  - classification accuracy
+KW  - smart DN
+KW  - AMI
+KW  - real-time data
+KW  - real-time fault classification
+KW  - smart distribution network
+KW  - advanced metering infrastructure
+KW  - real-time testing
+KW  - simulated power system model
+KW  - real-time simulator
+KW  - smart meters
+KW  - communication network
+KW  - DNP3 protocol
+KW  - data concentrator
+KW  - Utility Operations Centre
+KW  - location identification method
+KW  - digital real-time simulator
+KW  - transfer control protocol
+KW  - Internet protocol
+KW  - comprehensive sensitivity analysis
+KW  - noise level
+KW  - loading conditions
+KW  - UOC
+PB  - The Institution of Engineering and Technology
+SN  - 2051-3305
+M3  - https://doi.org/10.1049/joe.2019.0896
+UR  - https://doi.org/10.1049/joe.2019.0896
+Y2  - 2021/11/08
+N2  - This paper presents a real-time fault classification and location identification method for a smart distribution network (DN) using artificial neural networks (ANNs) and advanced metering infrastructure (AMI). It also describes the development of a testbed for real-time testing of the proposed approach. The testbed consists of a simulated power system model [running on a digital real-time simulator (DRTS)] and AMI. The core parts of AMI are smart meters (SMs), a communication network (developed using DNP3 protocol over transfer control protocol/Internet protocol), data concentrator (DC), and a Utility Operations Centre (UOC). Event-driven data from SMs are collected in the DC and then fed to the UOC for being used as inputs for the novel ANN-based fault classification and location identification algorithm. On the basis of the data received, the algorithm can classify the fault type and locate it with high accuracy. Both balanced and unbalanced fault types are tested on different nodes and lines throughout a DN modelled in offline and on the DRTS. A comprehensive sensitivity analysis is performed to validate the effectiveness of the proposed method. Classification accuracy of over 99% is achieved when classifying all fault types, and above 95% accuracy is achieved when identifying the fault location.
+ER  - 
+
+TY  - JOUR
+T1  - Multiple incipient fault classification approach for enhancing the accuracy of dissolved gas analysis (DGA)
+AU  - Wani, Shufali Ashraf
+AU  - Gupta, Dhawal
+AU  - Farooque, Md. Umar
+AU  - Khan, Shakeb A
+Y1  - 2019/09/01
+PY  - 2019
+DA  - 2019/09/01
+N1  - https://doi.org/10.1049/iet-smt.2018.5135
+DO  - https://doi.org/10.1049/iet-smt.2018.5135
+T2  - IET Science, Measurement & Technology
+JF  - IET Science, Measurement & Technology
+JO  - IET Science, Measurement & Technology
+JA  - IET Sci. Meas. Technol.
+SP  - 959
+EP  - 967
+VL  - 13
+IS  - 7
+KW  - fault diagnosis
+KW  - fuzzy reasoning
+KW  - condition monitoring
+KW  - neural nets
+KW  - power transformers
+KW  - fault location
+KW  - power engineering computing
+KW  - intelligent classification approach
+KW  - classical dissolved gas analysis technique
+KW  - DGA
+KW  - multiple fault diagnosis
+KW  - Duval-triangle-based optimised fuzzy inference system
+KW  - multiple incipient faults
+KW  - high fault recognition
+KW  - isolation rates
+KW  - alternatively low false detection
+KW  - transformer fault forecasting
+KW  - multiple incipient fault classification approach
+KW  - suddenly changing ratio limits
+KW  - ratio-based methods
+KW  - fault location
+KW  - graphical methods
+KW  - low severity single faults
+KW  - high severity single faults
+KW  - multiple fault detection
+KW  - transformer condition monitoring
+KW  - novel
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8822
+M3  - https://doi.org/10.1049/iet-smt.2018.5135
+UR  - https://doi.org/10.1049/iet-smt.2018.5135
+Y2  - 2021/11/08
+N2  - Multiple incipient faults are practically known to exist in transformers. They tend to produce suddenly changing ratio limits in ratio-based methods or oscillation of fault location in graphical methods. In consequence, the energy associated with them lies in-between low and high severity single faults. Hence multiple fault detection needs to be addressed appropriately which may otherwise pose the serious constraints during transformer condition monitoring. In this study, novel and intelligent classification approach is proposed to upgrade the classical dissolved gas analysis (DGA) technique to cater the requirement of multiple fault diagnosis. This consists of Duval-triangle-based optimised fuzzy inference system and neural network models sensitive to both single and multiple incipient faults. Both models have been rigorously trained and tested using dataset credited to field and literatures to achieve high fault recognition and isolation rates, alternatively low false detection and no-detection rates. Both parameters are combined into single index to determine the accuracy in terms of F1 score which is evaluated to be >97%. The diagnostic ability of the scheme is highly promising and can improve reliability of transformer fault forecasting by DGA.
+ER  - 
+
+TY  - JOUR
+T1  - A real-time fault detection and classification algorithm for transmission line faults based on MODWT during power swing
+AU  - Ashok, Valabhoju
+AU  - Yadav, Anamika
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1002/2050-7038.12164
+DO  - https://doi.org/10.1002/2050-7038.12164
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e12164
+VL  - 30
+IS  - 1
+KW  - power system protection
+KW  - transmission network
+KW  - wavelets
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/2050-7038.12164
+UR  - https://doi.org/10.1002/2050-7038.12164
+Y2  - 2021/11/08
+N2  - Summary An exploration of the faulty signal of three-phase overhead transmission lines can provide versatile information about the presence of fault during power swing (PS) and its type in a specific time domain to accustom protective relaying scheme for real-time application. In this paper, an illustrative feature extraction technique, maximal overlap discrete wavelet transform (MODWT), has been used to extract the attributes from the faulty signals during PS condition. The standard deviated values of the MODWT coefficients of the current signals only have been used as input features for fault detection and classification in an Indian power transmission network. The proposed scheme is based on a fault triangle with different fault planes. The performance of the proposed scheme has been assessed with real-time field fault data using ?Wavewin? software environment and further appraised with other existing schemes too. Moreover, the proposed scheme is not affected by zero sequence mutual impedance between the two inductively coupled parallel circuits and independent of communication latency affect because it employs one terminal data only.
+ER  - 
+
+TY  - JOUR
+T1  - Research on transformer fault diagnosis: Based on improved firefly algorithm optimized LPboost–classification and regression tree
+AU  - Zhang, Xiaoxing
+AU  - Fang, Rongxing
+AU  - Zhang, Guozhi
+AU  - Fang, Yaqi
+AU  - Zhou, Xiu
+AU  - Ma, Yunlong
+AU  - Wang, Kun
+AU  - Chen, Kang
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2021/10/01
+N1  - https://doi.org/10.1049/gtd2.12229
+DO  - https://doi.org/10.1049/gtd2.12229
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 2926
+EP  - 2942
+VL  - 15
+IS  - 20
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/gtd2.12229
+UR  - https://doi.org/10.1049/gtd2.12229
+Y2  - 2021/11/08
+N2  - Abstract The information of dissolved gas in transformer oil can reflect the potential fault in oil immersed power transformer. In order to improve the accuracy of transformer fault diagnosis, a transformer fault diagnosis model based on IFA-LPboost-CART is proposed here. First, a LPboost-CART model is established. The classification and regression tree (CART) are used as the weak classifiers, and the linear programming boosting (LPboost) ensemble learning method is used to adjust the weight of each weak classifier to construct a strong classifier. Then the improved firefly algorithm (IFA) is adopted to optimize the number of CART and the maximum number of splits of CART in LPboost-CART to obtain the IFA-LPboost-CART model. The experimental results show that, compared with the existing methods, such as CART and support vector machine (SVM), the proposed IFA-LPboost-CART model has higher fault diagnosis accuracy, which can provide technical support for transformer fault diagnosis.
+ER  - 
+
+TY  - JOUR
+T1  - Two-dimensional curve variation approach-based quick fault detection and classification scheme for series compensated transmission line system
+AU  - Moparthi, Janardhan Rao
+AU  - Chinta, Durga Prasad
+AU  - Nakka, Srinivasu
+Y1  - 2019/03/01
+PY  - 2019
+DA  - 2019/03/01
+N1  - https://doi.org/10.1002/etep.2738
+DO  - https://doi.org/10.1002/etep.2738
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e2738
+VL  - 29
+IS  - 3
+KW  - fault classification
+KW  - fault detection
+KW  - instantaneous power
+KW  - locus
+KW  - operating point
+KW  - P-Q trajectory
+KW  - series compensation
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/etep.2738
+UR  - https://doi.org/10.1002/etep.2738
+Y2  - 2021/11/08
+N2  - Summary Series compensation improves the power transfer capability and the stability of a transmission system. Inclusion of series compensating devices along with their protecting equipment introduces the problems to conventional protective relaying during power system faults. In this paper, a new protection strategy is proposed based on the instantaneous active and reactive power variations. The applicability of the proposed method to a series compensated transmission system is studied with numerous fault cases. Instantaneous power quantities are measured, and respective active and reactive power quantities are reproduced onto a two-dimensional coordinated system with reactive power as ordinate and active power as abscissa. The locus of ordered pair of instantaneous power quantities?(p(t),?q(t)) forms a P-Q trajectory. The quadrant in which the starting point of P-Q trajectory (p0(t), q0(t)) lies is computed and taken as reference. This P-Q portrait is analyzed to detect the fault depending on the condition that the operating point shifts its quadrant under fault condition. Fault will be classified based on the polarities of extracted powers. Classification tree is formed by a set of yes/no consequences to classify the fault. The proposed method is tested for different types of faults, at distinct locations and fault inceptions on 500-kV, 50-Hz test system. Results thus obtained show the potentiality of proposed strategy for the protection of series compensated transmission system concerning the speed, computational burden, and mathematical complexity.
+ER  - 
+
+TY  - JOUR
+T1  - Molecular phylogeny and revised classification of the New World subfamily Cryphocricinae, including the reinstatement of Ambrysinae (Insecta: Heteroptera: Nepomorpha: Naucoridae)
+AU  - Reynoso-Velasco, Daniel
+AU  - Sites, Robert W.
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2021/10/01
+N1  - https://doi.org/10.1111/syen.12501
+DO  - https://doi.org/10.1111/syen.12501
+T2  - Systematic Entomology
+JF  - Systematic Entomology
+JO  - Systematic Entomology
+JA  - Syst Entomol
+SP  - 900
+EP  - 914
+VL  - 46
+IS  - 4
+PB  - John Wiley & Sons, Ltd
+SN  - 0307-6970
+M3  - https://doi.org/10.1111/syen.12501
+UR  - https://doi.org/10.1111/syen.12501
+Y2  - 2021/11/08
+N2  - The aquatic bug family Naucoridae currently is organized by a morphology-based taxonomy and has never been analysed from a phylogenetic perspective. Thus, we sequenced two nuclear and two mitochondrial genes in order to reconstruct phylogenetic relationships among the genera in the subfamily Cryphocricinae, using maximum likelihood and Bayesian inference approaches. In total, 101 species were included in the analyses (ingroup: 85 species of Cryphocricinae). The results support a polyphyletic Cryphocricinae as currently conceived. Thus, we offer a revised concept of Cryphocricinae comprising only Cryphocricos Montandon, and reinstate the subfamily Ambrysinae for the remaining six genera previously placed in Cryphocricinae. Cryphocricos is sister to Limnocoris Stål (Limnocorinae) while Ambrysinae is closer to the African genus Neomacrocoris Montandon. The genus Pelocoris Stål was found to be closely related to other genera in Ambrysinae; consequently, this genus is herein transferred from Naucorinae to Ambrysinae. The genus Ambrysus Stål was found to be polyphyletic as currently conceived; accordingly, we propose a new classification for this genus with three evolutionarily independent lineages: Ambrysus sens. str., Australambrysus new gen., and Maculambrysus new gen. Within Ambrysus sens. str., we recognize the subgenera Ambrysus Stål stat. rev., Dissimilis new subgen., Grandis new subgen., and Syncollus La Rivers stat. rev. The former subgenus Melloiella De Carlo stat. rev. is herein elevated to full generic status and is a member of and sister to all other genera in Ambrysinae.
+ER  - 
+
+TY  - JOUR
+T1  - An accurate fuzzy logic-based fault classification algorithm using voltage and current phase sequence components
+AU  - Saradarzadeh, Mehdi
+AU  - Sanaye-Pasand, Majid
+Y1  - 2015/10/01
+PY  - 2015
+DA  - 2015/10/01
+N1  - https://doi.org/10.1002/etep.1960
+DO  - https://doi.org/10.1002/etep.1960
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int. Trans. Electr. Energ. Syst.
+SP  - 2275
+EP  - 2288
+VL  - 25
+IS  - 10
+KW  - fault classification
+KW  - fuzzy logic
+KW  - digital filtering
+KW  - sequence components
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/etep.1960
+UR  - https://doi.org/10.1002/etep.1960
+Y2  - 2021/11/08
+N2  - Summary In this paper, a fuzzy logic-based fault-type classification algorithm for digital relays is proposed. Using this algorithm, the fault type is recognized amongst 10 types of shunt faults that may occur on transmission lines under different fault resistances, inception angles, line lengths, and system operating conditions. The proposed method uses the phase sequence components of three phase voltages and currents that are available in most of the power system protection relays. An improved technique is used to estimate the current and voltage signals. A fuzzy method is used to identify the type of fault from the current and voltage signals separately and then combines the results to provide more accurate fault-type recognition. This combination in the proposed method leads to overcome the uncertainty associated with each individual signal. In addition, the fuzzy method is rearranged for ease of implementation in the digital relays while maintaining the acceptable results. To test the performance and robustness of the proposed algorithm, various simulation studies have been carried out under wide variations of the parameters. The algorithm is also tested using some real test data recorded from a high-voltage power system. Copyright ? 2014 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Supervised relevance vector machine based dynamic disturbance classifier for series compensated transmission line
+AU  - Patel, Ujjaval
+AU  - Chothani, Nilesh
+AU  - Bhatt, Praghnesh
+Y1  - 2021/10/01
+PY  - 2021
+DA  - 2021/10/01
+N1  - https://doi.org/10.1002/2050-7038.12663
+DO  - https://doi.org/10.1002/2050-7038.12663
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e12663
+VL  - 31
+IS  - 10
+KW  - cross-country faults
+KW  - high impedance faults
+KW  - numerical relay
+KW  - power swing (PS)
+KW  - relevance vector machine (RVM)
+KW  - series compensated transmission line (SCTL)
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/2050-7038.12663
+UR  - https://doi.org/10.1002/2050-7038.12663
+Y2  - 2021/11/08
+N2  - Absrtact Background: Nowadays, numerical relays configured through power swing blocking function are vulnerable to faults with high impedance owing to nonlinearities present in the faulty path. Identification of symmetrical high impedance faults incepting during the power swing scenario is of prime importance for protection engineers to avoid cascade tripping. It is analyzed that the classical approaches for symmetrical fault detection during power swing can mal-operate owing to high level of uncertainty arise during validation of high impedance fault, symmetrical faults and cross country faults during power swing with varied level of compensation which has been explored in this research. Aims: This paper presents an innovative scheme for series compensated line by utilizing the capability of Relevance Vector Machine (RVM) as a disturbance classifier taking into consideration of cross country faults, CT saturation; power swings prone to symmetrical faults along with high impedance faults in comparison with prevailing methods. Materials & Methods: In order to validate the proposed RVM based disturbance classifier algorithm, different kinds of faults and power swing situations have been applied in IEEE 9 bus test system using PSCAD/EMTDC software followed by validation in MATLAB. The features of sequence components of currents are estimated using Modified Full Cycle Discrete Fourier Transform (MFCDFT). The extracted features are used as control inputs to RVM for discernment among power swing and fault under the influence of wide range of system and fault dynamics. Results: The developed RVM based disturbance classifier scheme generates a tripping signal in the event of high impedance fault during power swing and remains stable during swing conditions. It can be used in conjunction with an adaptive numerical distance relaying scheme for realizing complete protection of the power grid for all zones of protection. A comparative analysis with an existing disturbance classifier algorithm indicates relative superiority with much improved fault classification accuracy. Discussion: In order to validate the proposed algorithm, different kinds of fault and power swing scenario are realized in IEEE 9 bus test system using PSCAD and current samples are acquired at sampling frequency of 4 kHz. The phasor estimation of sampled signals has been performed using MFCDFT which is used to derive feature vector extraction from symmetrical components. The extracted features are applied to RVM based fault classifier algorithm for classification of disturbance. The obtained results are also compared with existing schemes of protections. It has been proved that developed algorithm outperforms with much improved fault classification accuracy. Conclusion: This paper discovers relevance vector machine based adaptive learning approach for dynamic disturbance classification in complex power grid network. The developed algorithm has been validated on IEEE 9 bus test system modelled in PSCAD. The fault and system dynamics are varied over a wider range which includes variation in fault type, fault impedance, fault inception angle, power flow angle, fault location and degree of line compensation level. Moreover, the validation of scripted algorithm has been performed for very complex power grid scenarios like cross-country faults, high impedance faults with varying degree of compensation, power swing and saturation of instrument transformers etc. The feature vectors are extracted using MFCDFT and applied to supervised RVM based disturbance classifier and outperforms with classification accuracy of 99.74% which indicates it's superiority over existing classifier approaches based on SVM & ANN.
+ER  - 
+
+TY  - JOUR
+T1  - Detection and classification of faults in transmission lines using the maximum wavelet singular value and Euclidean norm
+AU  - Guillen, Daniel
+AU  - Paternina, Mario Roberto Arrieta
+AU  - Zamora, Alejandro
+AU  - Ramirez, Juan Manuel
+AU  - Idarraga, Gina
+Y1  - 2015/11/01
+PY  - 2015
+DA  - 2015/11/01
+N1  - https://doi.org/10.1049/iet-gtd.2014.1064
+DO  - https://doi.org/10.1049/iet-gtd.2014.1064
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 2294
+EP  - 2302
+VL  - 9
+IS  - 15
+KW  - power transmission faults
+KW  - fault diagnosis
+KW  - wavelet transforms
+KW  - singular value decomposition
+KW  - power transmission lines
+KW  - discrete wavelet transforms
+KW  - matrix algebra
+KW  - power system simulation
+KW  - computational geometry
+KW  - fault detection
+KW  - fault classification
+KW  - high-voltage transmission lines
+KW  - maximum wavelet singular value
+KW  - Euclidean norm
+KW  - discrete wavelet transform
+KW  - DWT
+KW  - singular value decomposition
+KW  - SVD
+KW  - high-frequency component extraction
+KW  - wavelet matrix
+KW  - phase-to-ground fault simulation
+KW  - two-phase-to-ground fault simulation
+KW  - three-phase fault simulation
+KW  - fault impedances
+KW  - DIgSILENT Power Factory
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2014.1064
+UR  - https://doi.org/10.1049/iet-gtd.2014.1064
+Y2  - 2021/11/08
+N2  - In this study, a novel algorithm for detecting and classifying faults in high-voltage transmission lines is proposed. The algorithm is based on the discrete wavelet transform (DWT) and singular value decomposition (SVD). The DWT is used for extracting the currents? high-frequency components under fault conditions. Signals under each fault condition are scaled in frequency, in order to build a wavelet matrix. By means of the SVD, the maximum singular value is calculated and employed in this proposal. The attained results exhibit that the maximum singular value represents a good indicator for the issue. This novel approach for detecting and classifying faults in power systems is called maximum wavelet singular value. Phase-to-ground, two-phase to ground, and three-phase faults? simulations under different fault impedances are carried out by DIgSILENT Power Factory. The analysed fault conditions are evaluated demonstrating that the proposal reduces the computational burden and the time detection.
+ER  - 
+
+TY  - JOUR
+T1  - A novel discrete wavelet transform-based graphical language classifier for identification of high-impedance fault in distribution power system
+AU  - Veerasamy, Veerapandiyan
+AU  - Abdul Wahab, Noor Izzri
+AU  - Vinayagam, Arangarajan
+AU  - Othman, Mohammad Lutfi
+AU  - Ramachandran, Rajeswari
+AU  - Inbamani, Abinaya
+AU  - Hizam, Hashim
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - https://doi.org/10.1002/2050-7038.12378
+DO  - https://doi.org/10.1002/2050-7038.12378
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e12378
+VL  - 30
+IS  - 6
+KW  - discrete wavelet transform (DWT)
+KW  - fuzzy inference system (FIS)
+KW  - graphical language (GL) classifier
+KW  - high-impedance fault (HIF)
+KW  - medium voltage distribution network
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/2050-7038.12378
+UR  - https://doi.org/10.1002/2050-7038.12378
+Y2  - 2021/11/08
+N2  - Summary This paper proposes a discrete wavelet transform (DWT)-based Graphical Language classifier algorithm for identification of high-impedance fault (HIF) in medium voltage (MV) distribution network of 13.8 kV. The proposed method of classifier is developed using virtual instrumentation LabVIEW facility, for detection of various faults such as symmetrical, unsymmetrical, and HIF in the system. Initially, the MV distribution feeder network has been modeled in MATLAB/Simulink, and the DWT analysis has been carried out with the introduction of various faults in the network to extract the features. The extracted features such as SD and energy values from the fault current signals have been applied to the proposed classifier algorithm to identify the type of fault. The effectiveness of the presented method has been tested and compared with the similar conventional fuzzy-based approach. The results indicate that the proposed classifier algorithm outperforms to give 100% accuracy, while the fuzzy-based approach misclassifies the double line to ground fault (LLG), three-phase fault (LLLG), and HIF. Furthermore, the proposed algorithm with LabVIEW facility is more flexible and can be implemented in real time using data acquisition unit for obtaining fault current signal from power system.
+ER  - 
+
+TY  - JOUR
+T1  - Detection, classification, and location of faults on grid-connected and islanded AC microgrid
+AU  - Dharmapandit, Okram
+AU  - Patnaik, Rajesh Kumar
+AU  - Dash, Pradipta Kishore
+Y1  - 2017/12/01
+PY  - 2017
+DA  - 2017/12/01
+N1  - https://doi.org/10.1002/etep.2431
+DO  - https://doi.org/10.1002/etep.2431
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e2431
+VL  - 27
+IS  - 12
+KW  - AC microgrid
+KW  - fault classification
+KW  - fault location
+KW  - low voltage distribution networks
+KW  - sparse Fourier kernel–based time-frequency transform
+KW  - spectral energy differential protection scheme
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/etep.2431
+UR  - https://doi.org/10.1002/etep.2431
+Y2  - 2021/11/08
+N2  - Summary A new spectral energy differential protection scheme using sparse Fourier kernel fast time-frequency transform is proposed for the detection, classification, and location of faults either on the grid-connected or islanded AC microgrid. Initially, the three-phase average and differential components of the current samples measured on either side of the distribution line are processed through an alteration detection filter, which identifies the fault incipient and consequently registers an alteration index for the particular phase, which identifies the fault. The spectral energy of the differential current components are than computed to classify the type of the fault under a number of intrinsic operating conditions like the meshed and radial architectures and grid-connected or islanded mode of operation and varying fault distance ratios. Extensive numerical experimentation illustrates satisfactory results for all the cases investigated in this paper, which include detection, classification, and location of faults on the microgrid.
+ER  - 
+
+TY  - JOUR
+T1  - Study on fault diagnosis of broken rotor bars in squirrel cage induction motors: a multi-agent system approach using intelligent classifiers
+AU  - Drakaki, Maria
+AU  - Karnavas, Yannis L.
+AU  - Karlis, Athanasios D.
+AU  - Chasiotis, Ioannis D.
+AU  - Tzionas, Panagiotis
+Y1  - 2020/02/01
+PY  - 2020
+DA  - 2020/02/01
+N1  - https://doi.org/10.1049/iet-epa.2019.0619
+DO  - https://doi.org/10.1049/iet-epa.2019.0619
+T2  - IET Electric Power Applications
+JF  - IET Electric Power Applications
+JO  - IET Electric Power Applications
+JA  - IET Electric Power Applications
+SP  - 245
+EP  - 255
+VL  - 14
+IS  - 2
+KW  - multi-agent systems
+KW  - fuzzy neural nets
+KW  - squirrel cage motors
+KW  - condition monitoring
+KW  - fuzzy reasoning
+KW  - maintenance engineering
+KW  - feedforward neural nets
+KW  - rotors
+KW  - fault diagnosis
+KW  - electric machine analysis computing
+KW  - accurate fault identification
+KW  - artificial intelligence techniques
+KW  - multiple interacting faults
+KW  - distributed problem-solving AI methods
+KW  - intelligent multiagent system
+KW  - fault conditioning
+KW  - three-phase squirrel cage IM
+KW  - health conditions
+KW  - health condition
+KW  - supervisor agent
+KW  - higher level agent
+KW  - final fault diagnosis
+KW  - fault type
+KW  - high fault diagnosis accuracy
+KW  - competitive AI technique
+KW  - broken rotor bars
+KW  - squirrel cage induction motors
+KW  - multiagent system approach
+KW  - intelligent classifiers
+KW  - industrial production maintenance
+KW  - motor current signature analysis
+KW  - condition-based maintenance method
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8660
+M3  - https://doi.org/10.1049/iet-epa.2019.0619
+UR  - https://doi.org/10.1049/iet-epa.2019.0619
+Y2  - 2021/11/08
+N2  - A critical factor in industrial production maintenance is decision-making in fault diagnosis. Motor current signature analysis (MCSA) is an established condition-based maintenance method to make fault diagnosis in induction motors (IMs). The occurrence of multiple interacting faults, as well as emergent behaviour, can be tackled efficiently especially when MCSA is combined with distributed problem-solving artificial intelligence (AI) techniques. Therefore, in this study, an intelligent multi-agent system (MAS) is presented to make decisions on the fault conditioning of a three-phase squirrel cage IM. The incorporated agents represent different health conditions of the same IM, with faults that may occur in the rotor bars. All agents utilise an AI method, and use for training MCSA experimental data. A supervisor agent (SA) initially communicates with agents employing feed-forward artificial neural networks trained with the back-propagation algorithm and performs the final fault diagnosis by evaluating their responses. When a decision cannot be made on the fault type, the SA employs another agent that uses the k-nearest neighbour rule. The proposed method achieves high fault diagnosis accuracy. Its performance is also compared with results previously obtained from the same motor when an adaptive neuro-fuzzy inference system combined with a subtractive clustering method had been used.
+ER  - 
+
+TY  - JOUR
+T1  - Feature extraction and classification method for switchgear faults based on sample entropy and cloud model
+AU  - Cui, Jindong
+AU  - Zheng, Que
+AU  - Xin, Yechun
+AU  - Zhou, Chuan
+AU  - Wang, Qianggang
+AU  - Zhou, Niancheng
+Y1  - 2017/08/01
+PY  - 2017
+DA  - 2017/08/01
+N1  - https://doi.org/10.1049/iet-gtd.2016.1459
+DO  - https://doi.org/10.1049/iet-gtd.2016.1459
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 2938
+EP  - 2946
+VL  - 11
+IS  - 11
+KW  - feature extraction
+KW  - switchgear
+KW  - entropy
+KW  - fault diagnosis
+KW  - power engineering computing
+KW  - data mining
+KW  - time series
+KW  - fuzzy set theory
+KW  - support vector machines
+KW  - signal classification
+KW  - feature extraction
+KW  - fault feature classification method
+KW  - switchgear faults
+KW  - sample entropy
+KW  - fault diagnosis method
+KW  - multivariate multiscale sample entropy
+KW  - MMSE
+KW  - data mining
+KW  - composite delay vectors
+KW  - multivariate multiscale cloud sample entropy
+KW  - MMCSE features
+KW  - switchgear monitoring data
+KW  - fuzzy support vector machine
+KW  - FSVM
+KW  - dropping seminormal membership cloud model
+KW  - uncertainty quantification
+KW  - smart breaker
+KW  - sensors
+KW  - three-phase voltage
+KW  - multivariate monitoring process
+KW  - multivariate time series
+KW  - tolerance criterion
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2016.1459
+UR  - https://doi.org/10.1049/iet-gtd.2016.1459
+Y2  - 2021/11/08
+N2  - This study proposes a fault diagnosis method for extracting and classifying the fault features of switchgears in accordance with the monitoring data of three-phase voltage and current, temperature, humidity, and flashing from the smart breaker and sensors. The fault features are calculated using multivariate multiscale sample entropy (MMSE) for the data mining of multivariate monitoring process. The similarity measure of the composite delay vectors of multivariate time series in MMSE is improved by introducing a cloud model to soften the similar tolerance criterion. The modified MMSE is defined as multivariate multiscale cloud sample entropy (MMCSE). The MMCSE features of switchgear monitoring data can be achieved in different time scales in describing various switchgear faults. Subsequently, a classification method based on fuzzy support vector machine (FSVM) is further adopted to identify different types of switchgear faults using the MMCSE features. In addition, a dropping semi-normal membership cloud model is applied to modify the uncertainty quantification of the relationship among fault samples in FSVM. The effectiveness of the proposed method is validated with the monitoring data in a 10 kV switchboard.
+ER  - 
+
+TY  - JOUR
+T1  - Smart grid fault detection and classification with multi-distributed generation based on current signals approach
+AU  - Mahfouz, Mohamed M.A.
+AU  - El-Sayed, Mohamed A.H.
+Y1  - 2016/12/01
+PY  - 2016
+DA  - 2016/12/01
+N1  - https://doi.org/10.1049/iet-gtd.2016.0364
+DO  - https://doi.org/10.1049/iet-gtd.2016.0364
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 4040
+EP  - 4047
+VL  - 10
+IS  - 16
+KW  - smart power grids
+KW  - fault diagnosis
+KW  - distributed power generation
+KW  - power generation faults
+KW  - power generation protection
+KW  - relay protection
+KW  - statistical analysis
+KW  - smart grid fault detection
+KW  - smart grid fault classification
+KW  - multidistributed generation
+KW  - current signal approach
+KW  - digital protection
+KW  - DG unit dynamic behaviour
+KW  - three-phase current
+KW  - real-time data transfer
+KW  - protective relays
+KW  - statistical cross-alienation coefficient
+KW  - SG digital protection scheme
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2016.0364
+UR  - https://doi.org/10.1049/iet-gtd.2016.0364
+Y2  - 2021/11/08
+N2  - Smart grid (SG) containing clean distributed generation (DG) has gained intensive research for reliable digital protection against fault conditions. The main objective of this study is to develop and validate a fast and efficient fault detection and classification algorithm taking into account the dynamic behaviour of DG units. The proposed algorithm does not require additional measurements as it based only on the synchronised measured three-phase currents through the communication facilities available in SG. The advanced communication technologies in SG are currently utilised for efficient and real-time data transfer from the protective relays to the monitoring and protection centre. The transferred data are processed for fault diagnosing before taking the necessary trip actions. In the proposed algorithm, the statistical cross-alienation coefficients are calculated for the measured current signals at sending and receiving ends of each feeder. Fault detection and classification process will be achieved taking into account the changes in the synchronised and discretised waveform of current signals within a movable window of (1/4 cycle). The proposed algorithm is tested on real system to detect and classify the different fault condition. The results indicated that the proposed technique is fast and reliable for SG digital protection schemes.
+ER  - 
+
+TY  - JOUR
+T1  - Digital impedance pilot relaying scheme for STATCOM compensated TL for fault phase classification with fault location
+AU  - Singh, Arvind R.
+AU  - Patne, Nita R.
+AU  - Kale, Vijay S.
+AU  - Khadke, Piyush
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - https://doi.org/10.1049/iet-gtd.2016.1670
+DO  - https://doi.org/10.1049/iet-gtd.2016.1670
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 2586
+EP  - 2598
+VL  - 11
+IS  - 10
+KW  - static VAr compensators
+KW  - power transmission lines
+KW  - relay protection
+KW  - transient response
+KW  - power transmission faults
+KW  - power transmission reliability
+KW  - digital impedance pilot relaying scheme
+KW  - STATCOM-compensated TL
+KW  - fault phase classification
+KW  - fault location
+KW  - fundamental frequency-based per phase DIPR scheme
+KW  - static synchronous compensator
+KW  - transmission line
+KW  - two-end synchronised measurement
+KW  - voltage estimated phasor sum
+KW  - current phasor sum
+KW  - external fault
+KW  - internal fault
+KW  - DIPR ratio
+KW  - TL impedance value
+KW  - line capacitance impedance value
+KW  - mid-point connected STATCOM
+KW  - dynamic response
+KW  - line charging capacitive current
+KW  - fault transient resistance
+KW  - fault distance
+KW  - STATCOM current injection information
+KW  - maximum fault resistance
+KW  - EMTDC-PSCAD simulation
+KW  - fault location algorithm
+KW  - resistance 20 ohm
+KW  - voltage 230 kV
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2016.1670
+UR  - https://doi.org/10.1049/iet-gtd.2016.1670
+Y2  - 2021/11/08
+N2  - This study presents calculation of fundamental frequency-based per phase digital impedance pilot relaying (DIPR) scheme for static synchronous compensator (STATCOM) compensated transmission line (TL) using two end synchronised measurement. DIPR involves computation of absolute value of ratio of estimated phasor sum of voltages to the phasor sum of currents of both ends. DIPR inherently differentiate between internal and external faults on the line. For all internal faults, computed value of DIPR ratio is equivalent to system and TL impedance value whereas for external faults, it is equal to line capacitance impedance value. This novel pilot relaying scheme is easy to set once the system parameters are estimated and has the ability to detect all types of faults and correctly classify faulty phase with mid-point connected STATCOM on TL. This scheme is immune to effect of STATCOM compensation mode, level of injection and its dynamic response. Also it is not affected by line charging capacitive current and fault transient resistance. The fault distance is estimated using the STATCOM current injection information for various types of fault with high accuracy, considering maximum fault resistance of 20 Ω. Accuracy and effectiveness of this scheme is evaluated in EMTDC/PSCAD simulation for 230 kV, 300 km, mid-point STATCOM compensated TL and in hardware setup with mid-point STATCOM on 100 V supply voltage having 200 km TL in offline mode. Results bring out the robustness, reliability and superiority of proposed novel pilot relaying scheme with fault location algorithm.
+ER  - 
+
+TY  - JOUR
+T1  - A correlation coefficient-based algorithm for fault detection and classification in a power transmission line
+AU  - Musa, Mohammed H. H.
+AU  - He, Zhengyou
+AU  - Fu, Ling
+AU  - Deng, Yujia
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1002/tee.22705
+DO  - https://doi.org/10.1002/tee.22705
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+JF  - IEEJ Transactions on Electrical and Electronic Engineering
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+JA  - IEEJ Trans Elec Electron Eng
+SP  - 1394
+EP  - 1403
+VL  - 13
+IS  - 10
+KW  - fault detection
+KW  - fault classification
+KW  - statistical measure
+KW  - correlation coefficient
+KW  - power system network.
+PB  - John Wiley & Sons, Ltd
+SN  - 1931-4973
+M3  - https://doi.org/10.1002/tee.22705
+UR  - https://doi.org/10.1002/tee.22705
+Y2  - 2021/11/08
+N2  - This paper presents a new algorithm for fault detection and classification in a power transmission line. The fundamental idea of the proposed algorithm is the calculation of the correlation coefficient (CC) between the current signal of each phase of the three-phase system and its reference value. The following rule makes the decision of detecting and classifying the fault condition: when the system is running under healthy condition, the correlation between the current signal of each phase and its reference value is very strong; when the system is in faulty condition, the correlation between the current signal of each phase and its reference value is low compared to that in the healthy condition. The new algorithm is applied to a power transmission line model established in PSCAD/EMTDC. Different fault circumstances such as different inception times, different fault resistances, and different locations have been verified. Additionally, far-end faults with high resistance, faults occurring near a terminal, faults considering variable loading angle, and faults in the presence of noise are easily detected by the proposed method. For each possible scenario of fault, the proposed algorithm requires only the three-phase current measurement of the local measurement unit. The results show satisfactory performance in most cases. ? 2018 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.
+ER  - 

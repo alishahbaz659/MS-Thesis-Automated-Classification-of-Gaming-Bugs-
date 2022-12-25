@@ -1,0 +1,1 @@
+"Game AND identi* OR classif*" in Title and "bug OR defect OR fault" in Abstract

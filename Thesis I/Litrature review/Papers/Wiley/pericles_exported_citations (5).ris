@@ -1,0 +1,672 @@
+
+TY  - JOUR
+T1  - Photovoltaic defect classification through thermal infrared imaging using a machine learning approach
+AU  - Dunderdale, Christopher
+AU  - Brettenny, Warren
+AU  - Clohessy, Chantelle
+AU  - van Dyk, E. Ernest
+Y1  - 2020/03/01
+PY  - 2020
+DA  - 2020/03/01
+N1  - https://doi.org/10.1002/pip.3191
+DO  - https://doi.org/10.1002/pip.3191
+T2  - Progress in Photovoltaics: Research and Applications
+JF  - Progress in Photovoltaics: Research and Applications
+JO  - Progress in Photovoltaics: Research and Applications
+JA  - Prog Photovolt Res Appl
+SP  - 177
+EP  - 188
+VL  - 28
+IS  - 3
+KW  - deep learning
+KW  - defect classification
+KW  - defect detection
+KW  - infrared thermography
+KW  - machine learning
+KW  - photovoltaic
+KW  - random forest
+KW  - SIFT
+KW  - support vector machine
+PB  - John Wiley & Sons, Ltd
+SN  - 1062-7995
+M3  - https://doi.org/10.1002/pip.3191
+UR  - https://doi.org/10.1002/pip.3191
+Y2  - 2021/11/08
+N2  - Abstract This study examines a deep learning and feature-based approach for the purpose of detecting and classifying defective photovoltaic modules using thermal infrared images in a South African setting. The VGG-16 and MobileNet models are shown to provide good performance for the classification of defects. The scale invariant feature transform (SIFT) descriptor, combined with a random forest classifier, is used to identify defective photovoltaic modules. The implementation of this approach has potential for cost reduction in defect classification over current methods.
+ER  - 
+
+TY  - JOUR
+T1  - The use of decision trees for cost-sensitive classification: an empirical study in software quality prediction
+AU  - Seliya, Naeem
+AU  - Khoshgoftaar, Taghi M.
+Y1  - 2011/09/01
+PY  - 2011
+DA  - 2011/09/01
+N1  - https://doi.org/10.1002/widm.38
+DO  - https://doi.org/10.1002/widm.38
+T2  - WIREs Data Mining and Knowledge Discovery     
+JF  - WIREs Data Mining and Knowledge Discovery     
+JO  - WIREs Data Mining and Knowledge Discovery     
+JA  - WIREs Data Mining Knowl Discov
+SP  - 448
+EP  - 459
+VL  - 1
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 1942-4787
+M3  - https://doi.org/10.1002/widm.38
+UR  - https://doi.org/10.1002/widm.38
+Y2  - 2021/11/08
+N2  - Abstract This empirical study investigates two commonly used decision tree classification algorithms in the context of cost-sensitive learning. A review of the literature shows that the cost-based performance of a software quality prediction model is usually determined after the model-training process has been completed. In contrast, we incorporate cost-sensitive learning during the model-training process. The C4.5 and Random Forest decision tree algorithms are used to build defect predictors either with, or without, any cost-sensitive learning technique. The paper investigates six different cost-sensitive learning techniques: AdaCost, Adc2, Csb2, MetaCost, Weighting, and Random Undersampling (RUS). The data come from case study include 15 software measurement datasets obtained from several high-assurance systems. In addition, to a unique insight into the cost-based performance of defection prediction models, this study is one of the first to use misclassification cost as a parameter during the model-training process. The practical appeal of this research is that it provides a software quality practitioner with a clear process for how to consider (during model training) and analyze (during model evaluation) the cost-based performance of a defect prediction model. RUS is ranked as the best cost-sensitive technique among those considered in this study. ? 2011 John Wiley & Sons, Inc. WIREs Data Mining Knowl Discov 2011 1 448?459 DOI: 10.1002/widm.38 This article is categorized under: Algorithmic Development > Hierarchies and Trees Technologies > Classification Technologies > Prediction
+ER  - 
+
+TY  - JOUR
+T1  - Millipede assassins and allies (Heteroptera: Reduviidae: Ectrichodiinae, Tribelocephalinae): total evidence phylogeny, revised classification and evolution of sexual dimorphism
+AU  - FORTHMAN, MICHAEL
+AU  - WEIRAUCH, CHRISTIANE
+Y1  - 2017/07/01
+PY  - 2017
+DA  - 2017/07/01
+N1  - https://doi.org/10.1111/syen.12232
+DO  - https://doi.org/10.1111/syen.12232
+T2  - Systematic Entomology
+JF  - Systematic Entomology
+JO  - Systematic Entomology
+JA  - Syst Entomol
+SP  - 575
+EP  - 595
+VL  - 42
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 0307-6970
+M3  - https://doi.org/10.1111/syen.12232
+UR  - https://doi.org/10.1111/syen.12232
+Y2  - 2021/11/08
+N2  - Abstract Evolution of sexual dimorphism in animals has long been of interest to scientists, but relatively few studies have reconstructed evolutionary patterns of extreme sexual dimorphism at a phylogenetic scale, especially in insects. Millipede assassin bugs (Heteroptera: Reduviidae: Ectrichodiinae; 736 spp.) and their sister taxon, Tribelocephalinae (150 spp.), exhibit sexual dimorphism that ranges from limited to extreme, a phenomenon apparently modulated by female morphology. Here, we reconstruct the first phylogeny for the subfamilies Ectrichodiinae and Tribelocephalinae with comprehensive generic representation (152 taxa in 72 genera) using morphological and molecular data (six gene regions). The combined phylogenetic results indicate that Tribelocephalinae are paraphyletic with respect to Ectrichodiinae, and that Ectrichodiinae themselves are polyphyletic. Based on these results, we synonymize Tribelocephalinae with Ectrichodiinae syn.n., describe three new tribes (Ectrichodiini trib.n., Tribelocodiini trib.n., and Abelocephalini trib.n.) and two new subtribes (Opistoplatyina subtrib.n. and Tribelocephalina subtrib.n.), and revise Tribelocephalini sensu n. Ancestral state reconstruction of sexual dimorphism reconstructed limited sexual dimorphism in the ancestor of Ectrichodiinae sensu n. with at least seven evolutionary transitions to extreme sexual dimorphism within the clade. This published work has been registered in ZooBank, http://zoobank.org/urn:lsid:zoobank.org:pub:C810E20F-D66A-461F-A0E6-AB1073EA3E3C.
+ER  - 
+
+TY  - JOUR
+T1  - A Technique of Automatically Tuning Decision Parameters for Rule-Based Defect Classifier
+AU  - MIYAMOTO, ATSUSHI
+AU  - NAKAHIRA, KENJI
+Y1  - 2016/07/01
+PY  - 2016
+DA  - 2016/07/01
+N1  - https://doi.org/10.1002/eej.22834
+DO  - https://doi.org/10.1002/eej.22834
+T2  - Electrical Engineering in Japan
+JF  - Electrical Engineering in Japan
+JO  - Electrical Engineering in Japan
+JA  - Electr Eng Jpn
+SP  - 11
+EP  - 21
+VL  - 196
+IS  - 1
+KW  - SEM
+KW  - semiconductor
+KW  - defect classification
+KW  - parameter tuning
+KW  - coarse-to-fine search
+PB  - John Wiley & Sons, Ltd
+SN  - 0424-7760
+M3  - https://doi.org/10.1002/eej.22834
+UR  - https://doi.org/10.1002/eej.22834
+Y2  - 2021/11/08
+N2  - SUMMARY In automatic defect classification of semiconductor wafers using scanning electron microscope images, we propose a technique of tuning decision parameters for rule-based defect classifiers. The proposed method adopts a coarse-to-fine search for reduction in processing time. However, due to search leakage, there is no guarantee that the same solutions as in a full parameter search can be obtained. In order to prevent leakage in the coarse search theoretically, the proposed method evaluates a candidate parameter set based on the estimated range of classification accuracy attained by not only the candidate but the surrounding solutions eliminated by the coarse search. Experiments on real image data demonstrate the effectiveness of the proposed method. The proposed method can extract the same solutions as the full parameter search within almost the same processing time as the conventional coarse-to-fine search. When the sampling step of the coarse search is three to six, while the tuning time of the conventional coarse-to-fine search is 1 to 21 s, that of the proposed method is 5 to 35 s.
+ER  - 
+
+TY  - JOUR
+T1  - Façade defects classification from imbalanced dataset using meta learning-based convolutional neural network
+AU  - Guo, Jingjing
+AU  - Wang, Qian
+AU  - Li, Yiting
+AU  - Liu, Pengkun
+Y1  - 2020/12/01
+PY  - 2020
+DA  - 2020/12/01
+N1  - https://doi.org/10.1111/mice.12578
+DO  - https://doi.org/10.1111/mice.12578
+T2  - Computer-Aided Civil and Infrastructure Engineering
+JF  - Computer-Aided Civil and Infrastructure Engineering
+JO  - Computer-Aided Civil and Infrastructure Engineering
+JA  - Computer‐Aided Civil and Infrastructure Engineering
+SP  - 1403
+EP  - 1418
+VL  - 35
+IS  - 12
+PB  - John Wiley & Sons, Ltd
+SN  - 1093-9687
+M3  - https://doi.org/10.1111/mice.12578
+UR  - https://doi.org/10.1111/mice.12578
+Y2  - 2021/11/08
+N2  - Abstract Façade inspection is a regular but necessary maintenance task to ensure the safety, functioning, and aesthetics of a building. Traditional visual identification of façade defects is dangerous, time-consuming, and insufficient. Based on an image dataset and deep learning algorithms, an automatic façade defects classification technique is developed in this research. A layer-based categorization rule is proposed to categorize façade defects. To handle the problem of imbalanced data size among defect classes, a meta learning-based method is applied, which reassigns weights to the training data. Experiments demonstrated that the proposed method had a stronger capacity to deal with the imbalanced dataset problem comparing with previous methods by improving the classification accuracy from 71.43% of a basic convolutional neural network (CNN) model to 82.86% of a meta learning-based CNN model.
+ER  - 
+
+TY  - JOUR
+T1  - The association between myopia and glaucoma - causality or classification?
+AU  - KHAWAJA, A
+Y1  - 2012/09/01
+PY  - 2012
+DA  - 2012/09/01
+N1  - https://doi.org/10.1111/j.1755-3768.2012.3851.x
+DO  - https://doi.org/10.1111/j.1755-3768.2012.3851.x
+T2  - Acta Ophthalmologica
+JF  - Acta Ophthalmologica
+JO  - Acta Ophthalmologica
+SP  - 0
+EP  - 0
+VL  - 90
+IS  - s249
+PB  - John Wiley & Sons, Ltd
+SN  - 1755-375X
+M3  - https://doi.org/10.1111/j.1755-3768.2012.3851.x
+UR  - https://doi.org/10.1111/j.1755-3768.2012.3851.x
+Y2  - 2021/11/08
+N2  - Abstract Myopia is frequently cited as a risk factor for glaucoma, based on findings from many epidemiological studies. However, these studies are potentially subject to misclassification bias. Glaucoma is largely diagnosed based on optic disc cupping together with a visual field defect. Myopic patients may also have anomalous (or difficult to assess) optic discs together with visual field defects. This talk will examine the epidemiological link between myopia and glaucoma, and address the question whether the observed association between myopia and glaucoma is causal. Published evidence will be critically reviewed and supplemented with the findings from the EPIC-Norfolk Eye Study (European Prospective Investigation of Cancer).
+ER  - 
+
+TY  - JOUR
+T1  - A functional classification of ABCB4 variations causing progressive familial intrahepatic cholestasis type 3
+AU  - Delaunay, Jean-Louis
+AU  - Durand-Schneider, Anne-Marie
+AU  - Dossier, Claire
+AU  - Falguières, Thomas
+AU  - Gautherot, Julien
+AU  - Davit-Spraul, Anne
+AU  - Aït-Slimane, Tounsia
+AU  - Housset, Chantal
+AU  - Jacquemin, Emmanuel
+AU  - Maurice, Michèle
+Y1  - 2016/05/01
+PY  - 2016
+DA  - 2016/05/01
+N1  - https://doi.org/10.1002/hep.28300
+DO  - https://doi.org/10.1002/hep.28300
+T2  - Hepatology
+JF  - Hepatology
+JO  - Hepatology
+JA  - Hepatology
+SP  - 1620
+EP  - 1631
+VL  - 63
+IS  - 5
+PB  - John Wiley & Sons, Ltd
+SN  - 0270-9139
+M3  - https://doi.org/10.1002/hep.28300
+UR  - https://doi.org/10.1002/hep.28300
+Y2  - 2021/11/08
+N2  - Progressive familial intrahepatic cholestasis type 3 is caused by biallelic variations of ABCB4, most often (≥70%) missense. In this study, we examined the effects of 12 missense variations identified in progressive familial intrahepatic cholestasis type 3 patients. We classified these variations on the basis of the defects thus identified and explored potential rescue of trafficking-defective mutants by pharmacological means. Variations were reproduced in the ABCB4 complementary DNA and the mutants, thus obtained, expressed in HepG2 and HEK293 cells. Three mutants were either fully (I541F and L556R) or largely (Q855L) retained in the endoplasmic reticulum, in an immature form. Rescue of the defect, i.e., increase in the mature form at the bile canaliculi, was obtained by cell treatments with cyclosporin A or C and, to a lesser extent, B, D, or H. Five mutations with little or no effect on ABCB4 expression at the bile canaliculi caused a decrease (F357L, T775M, and G954S) or almost absence (S346I and P726L) of phosphatidylcholine secretion. Two mutants (T424A and N510S) were normally processed and expressed at the bile canaliculi, but their stability was reduced. We found no defect of the T175A mutant or of R652G, previously described as a polymorphism. In patients, the most severe phenotypes appreciated by the duration of transplant-free survival were caused by ABCB4 variants that were markedly retained in the endoplasmic reticulum and expressed in a homozygous status. Conclusion: ABCB4 variations can be classified as follows: nonsense variations (I) and, on the basis of current findings, missense variations that primarily affect the maturation (II), activity (III), or stability (IV) of the protein or have no detectable effect (V); this classification provides a strong basis for the development of genotype-based therapies. (Hepatology 2016;63:1620-1631)
+ER  - 
+
+TY  - JOUR
+T1  - Characterization and classification of high impedance arc fault in distribution system involving metallic and nonmetallic surfaces using empirical mode decomposition
+AU  - Lala, Himadri
+AU  - Karmakar, Subrata
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - https://doi.org/10.1002/2050-7038.12107
+DO  - https://doi.org/10.1002/2050-7038.12107
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e12107
+VL  - 29
+IS  - 11
+KW  - arc discharges
+KW  - empirical mode decomposition
+KW  - fault diagnosis
+KW  - high impedance arc fault
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/2050-7038.12107
+UR  - https://doi.org/10.1002/2050-7038.12107
+Y2  - 2021/11/08
+N2  - Summary The high impedance arc fault (HIAF) poses a significant threat to the living being as it involves arcing. The enormous amount of heat generation during arc is a major concern in this regard. There are different types of arc that may occur depending on the arcing conditions and involved surfaces. The severity of the arc is determined by the involved arcing surface. In this study, arc in metallic (sphere gap, rod gap) and nonmetallic (leaning tree, concrete) surfaces on a distribution system is considered for the analysis. An empirical mode decomposition (EMD)-based approach is applied along with k-nearest neighbor (KNN) for the characterization and classification of the real-time arc of different arcing conditions. The results obtained using EMD and KNN algorithm on arc signals successfully characterize and classify different HIAF by their harmonic signature. Along with KNN, the cross-validation data-mining algorithm is also applied to check the robustness of the approach.
+ER  - 
+
+TY  - JOUR
+T1  - Prediction of wind turbine generator failure using two-stage cluster-classification methodology
+AU  - Turnbull, Alan
+AU  - Carroll, James
+AU  - McDonald, Alasdair
+AU  - Koukoura, Sofia
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - https://doi.org/10.1002/we.2391
+DO  - https://doi.org/10.1002/we.2391
+T2  - Wind Energy
+JF  - Wind Energy
+JO  - Wind Energy
+JA  - Wind Energy
+SP  - 1593
+EP  - 1602
+VL  - 22
+IS  - 11
+KW  - bearing
+KW  - condition monitoring
+KW  - failure
+KW  - vibration machine learning
+KW  - wind turbine
+PB  - John Wiley & Sons, Ltd
+SN  - 1095-4244
+M3  - https://doi.org/10.1002/we.2391
+UR  - https://doi.org/10.1002/we.2391
+Y2  - 2021/11/08
+N2  - Abstract Reducing wind turbine downtime through innovations surrounding asset management has the potential to greatly influence the levelised cost of energy (LCoE) for large wind farm developments. Focusing on generator bearing failure and vibration data, this paper presents a two-stage methodology to predict failure within 1 to 2 months of occurrence. Results are obtained by building up a database of failures and training machine learning algorithms to classify the bearing as healthy or unhealthy. This is achieved by first using clustering techniques to produce subpopulations of data based on operating conditions, which this paper demonstrates can greatly influence the ability to diagnose a fault. Secondly, this work classifies individual clusters as healthy or unhealthy from vibration-based condition monitoring systems by applying order analysis techniques to extract features. Using the methodology explained in the report, an accuracy of up to 81.6% correct failure prediction was achieved.
+ER  - 
+
+TY  - JOUR
+T1  - Reconstructive algorithm and classification system for transoral oropharyngeal defects
+AU  - de Almeida, John R.
+AU  - Park, Richard Chan Woo
+AU  - Villanueva, Nathaniel L.
+AU  - Miles, Brett A.
+AU  - Teng, Marita S.
+AU  - Genden, Eric M.
+Y1  - 2014/07/01
+PY  - 2014
+DA  - 2014/07/01
+N1  - https://doi.org/10.1002/hed.23353
+DO  - https://doi.org/10.1002/hed.23353
+T2  - Head & Neck
+JF  - Head & Neck
+JO  - Head & Neck
+JA  - Head Neck
+SP  - 934
+EP  - 941
+VL  - 36
+IS  - 7
+KW  - transoral robotic surgery
+KW  - transoral oropharyngeal surgery
+KW  - transoral laser microsurgery
+KW  - reconstruction
+KW  - functional outcomes
+KW  - perioperative outcomes
+KW  - complications
+KW  - reconstructive algorithm
+KW  - classification system
+PB  - John Wiley & Sons, Ltd
+SN  - 1043-3074
+M3  - https://doi.org/10.1002/hed.23353
+UR  - https://doi.org/10.1002/hed.23353
+Y2  - 2021/11/08
+N2  - Background Transoral techniques for oropharyngeal tumors, such as transoral robotic surgery (TORS) and transoral laser microsurgery, require new reconstructive considerations. Methods Defects from 92 patients undergoing TORS were classified into 4 classes. A reconstruction algorithm was followed. Perioperative outcomes and complications were assessed. Forty-seven patients completed the MD Anderson Dysphagia Inventory (MDADI) swallowing questionnaire and a modified Velopharyngeal Insufficiency Quality of Life (VPIQL) questionnaire postoperatively. Results The most common reconstructions involved velopharyngoplasties with local flaps (39%), local flaps alone (25%), or secondary healing (20%). More advanced defects (class III and IV defects) required regional and free flaps more often. No significant differences were found in MDADI scores or VPIQL scores among the 4 defect classes. Only adjuvant radiotherapy was a predictor of poor swallowing (p = .02). Conclusion The classification system for transoral oropharyngeal defects maps defects into 4 classes and guides the reconstructive thought process. ? 2014 Wiley Periodicals, Inc. Head Neck 36: 934?941, 2014
+ER  - 
+
+TY  - JOUR
+T1  - Classification of arc fault between broken conductor and high-impedance surface: an empirical mode decomposition and Stockwell transform-based approach
+AU  - Lala, Himadri
+AU  - Karmakar, Subrata
+Y1  - 2020/11/01
+PY  - 2020
+DA  - 2020/11/01
+N1  - https://doi.org/10.1049/iet-gtd.2020.0340
+DO  - https://doi.org/10.1049/iet-gtd.2020.0340
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 5277
+EP  - 5286
+VL  - 14
+IS  - 22
+KW  - signal processing
+KW  - fault diagnosis
+KW  - learning (artificial intelligence)
+KW  - time-frequency analysis
+KW  - arcs (electric)
+KW  - feature extraction
+KW  - power distribution faults
+KW  - power engineering computing
+KW  - transforms
+KW  - broken conductor
+KW  - high-impedance surface
+KW  - empirical mode decomposition
+KW  - Stockwell transform-based approach
+KW  - high-impedance arc fault
+KW  - time-frequency based analysis
+KW  - different arcing surfaces
+KW  - real-time arcing voltage signals
+KW  - medium voltage distribution line
+KW  - real-time arc voltage signals
+KW  - intrinsic mode functions
+KW  - HIAF
+KW  - appropriate signal processing technique
+KW  - machine learning algorithm
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2020.0340
+UR  - https://doi.org/10.1049/iet-gtd.2020.0340
+Y2  - 2021/11/08
+N2  - The high-impedance arc fault (HIAF) is a result of the interaction between the current-carrying conductor and the high-impedance surface. This study presents a detailed and comparative time-frequency based analysis for the classification of different arcs, generated by the interaction of a broken conductor and different arcing surfaces. The real-time arcing voltage signals are considered as the basis of the whole time-frequency based analysis from a medium voltage distribution line. In this proposed approach, empirical mode decomposition (EMD) is used to study the real-time arc voltage signals of various surfaces. The intrinsic mode functions obtained by the application of the EMD technique is used as the input to various machine learning techniques, which later successfully classifies different HIAFs from their harmonic footprints. The Stockwell transform (ST) is additionally applied to the same test cases, and the classification of the arc is performed using similar learning algorithms to get a quantitative view of both outcomes of EMD and ST towards the selection of appropriate signal processing technique and machine learning algorithm for the same.
+ER  - 
+
+TY  - JOUR
+T1  - Use of Artificial Intelligence in Classification of Mill Scale Defects
+AU  - Lechwar, Szymon
+AU  - Rauch, Łukasz
+AU  - Pietrzyk, Maciej
+Y1  - 2015/03/01
+PY  - 2015
+DA  - 2015/03/01
+N1  - https://doi.org/10.1002/srin.201400016
+DO  - https://doi.org/10.1002/srin.201400016
+T2  - steel research international
+JF  - steel research international
+JO  - steel research international
+JA  - steel research int.
+SP  - 266
+EP  - 277
+VL  - 86
+IS  - 3
+KW  - artificial intelligence (AI)
+KW  - automatic surface inspection system (ASIS)
+KW  - classification
+KW  - hot rolling mill (HRM)
+KW  - mill scale defects
+PB  - John Wiley & Sons, Ltd
+SN  - 1611-3683
+M3  - https://doi.org/10.1002/srin.201400016
+UR  - https://doi.org/10.1002/srin.201400016
+Y2  - 2021/11/08
+N2  - The subject of the work was to design and implement classification model for various kinds of mill scales recognition at typical hot rolling mill (HRM). Input data were measured by the automatic surface inspection system, which provided numerous features describing single image, considered as a defect. The data were analyzed by using feature selection methods. Afterwards, determined most important subsets of features, were applied to build scale classification models. The most efficient model and its key variables were used to distinguish different kinds of scales. Implementation of the model in production system allowed to show a gain of overall mill scales classification accuracy. In the paper, the main attention is put on the research methodology and artificial intelligence (AI) methods used to classify scale defects.
+ER  - 
+
+TY  - JOUR
+T1  - 59.3: Challenges and Approaches in Auto Defect Classification for Large-size LCD-TV
+AU  - Saphier, Ofer
+AU  - Adin, Raanan
+AU  - Cohen, Noam
+Y1  - 2006/06/01
+PY  - 2006
+DA  - 2006/06/01
+N1  - https://doi.org/10.1889/1.2433383
+DO  - https://doi.org/10.1889/1.2433383
+T2  - SID Symposium Digest of Technical Papers
+JF  - SID Symposium Digest of Technical Papers
+JO  - SID Symposium Digest of Technical Papers
+SP  - 1782
+EP  - 1785
+VL  - 37
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 0097-966X
+M3  - https://doi.org/10.1889/1.2433383
+UR  - https://doi.org/10.1889/1.2433383
+Y2  - 2021/11/08
+N2  - Abstract This paper addresses a combined approach to implementing automated defect classification in the context of large-size LCD TV manufacturing. Two different machine vision methods, employed in this context, are described, including their relative merits and limitations. Practical methods for evaluating system performance, classification accuracy and capture rate, in operational production environment are shown and discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Bayesian Classifiers Applied to the Tennessee Eastman Process
+AU  - dos Santos, Edimilson Batista
+AU  - Ebecken, Nelson F. F.
+AU  - Hruschka Jr., Estevam R.
+AU  - Elkamel, Ali
+AU  - Madhuranthakam, Chandra M. R.
+Y1  - 2014/03/01
+PY  - 2014
+DA  - 2014/03/01
+N1  - https://doi.org/10.1111/risa.12112
+DO  - https://doi.org/10.1111/risa.12112
+T2  - Risk Analysis
+JF  - Risk Analysis
+JO  - Risk Analysis
+JA  - Risk Analysis
+SP  - 485
+EP  - 497
+VL  - 34
+IS  - 3
+KW  - Bayesian classifiers
+KW  - fault diagnosis
+KW  - Tennessee Eastman process
+PB  - John Wiley & Sons, Ltd
+SN  - 0272-4332
+M3  - https://doi.org/10.1111/risa.12112
+UR  - https://doi.org/10.1111/risa.12112
+Y2  - 2021/11/08
+N2  - Fault diagnosis includes the main task of classification. Bayesian networks (BNs) present several advantages in the classification task, and previous works have suggested their use as classifiers. Because a classifier is often only one part of a larger decision process, this article proposes, for industrial process diagnosis, the use of a Bayesian method called dynamic Markov blanket classifier that has as its main goal the induction of accurate Bayesian classifiers having dependable probability estimates and revealing actual relationships among the most relevant variables. In addition, a new method, named variable ordering multiple offspring sampling capable of inducing a BN to be used as a classifier, is presented. The performance of these methods is assessed on the data of a benchmark problem known as the Tennessee Eastman process. The obtained results are compared with naive Bayes and tree augmented network classifiers, and confirm that both proposed algorithms can provide good classification accuracies as well as knowledge about relevant variables.
+ER  - 
+
+TY  - JOUR
+T1  - Cluster analysis of wind turbine alarms for characterising and classifying stoppages
+AU  - Leahy, Kevin
+AU  - Gallagher, Colm
+AU  - O'Donovan, Peter
+AU  - O'Sullivan, Dominic T.J
+Y1  - 2018/07/01
+PY  - 2018
+DA  - 2018/07/01
+N1  - https://doi.org/10.1049/iet-rpg.2017.0422
+DO  - https://doi.org/10.1049/iet-rpg.2017.0422
+T2  - IET Renewable Power Generation
+JF  - IET Renewable Power Generation
+JO  - IET Renewable Power Generation
+JA  - IET Renewable Power Generation
+SP  - 1146
+EP  - 1154
+VL  - 12
+IS  - 10
+KW  - wind turbines
+KW  - wind power plants
+KW  - pattern clustering
+KW  - pattern classification
+KW  - feature extraction
+KW  - wind turbine alarm system
+KW  - cluster analysis
+KW  - stoppage classification
+KW  - stoppage characterization
+KW  - alarm sequences
+KW  - sequence associated characteristics
+KW  - feature extraction
+KW  - silhouette analysis
+KW  - manual inspection
+KW  - information overload
+PB  - The Institution of Engineering and Technology
+SN  - 1752-1416
+M3  - https://doi.org/10.1049/iet-rpg.2017.0422
+UR  - https://doi.org/10.1049/iet-rpg.2017.0422
+Y2  - 2021/11/08
+N2  - Turbine alarm systems can give useful information to remote technicians on the cause of a fault or stoppage. However, alarms are generally generated at much too high a rate to gain meaningful insight from on their own, so generally require extensive domain knowledge to interpret. By grouping together commonly occurring alarm sequences, the burden of analysis can be reduced. Instead of analysing many individual alarms that occur during a stoppage, the stoppage can be linked to a commonly occurring sequence of alarms. Hence, maintenance technicians can be given information about the shared characteristics or root causes of stoppages where that particular alarm sequence appeared in the past. This research presents a methodology to identify relevant alarms from specific turbine assemblies and group together similar alarm sequences as they appear during stoppages. Batches of sequences associated with 456 different stoppages are created, and features are extracted from these batches representing the order the alarms appeared in. The batches are grouped together using clustering techniques, and evaluated using silhouette analysis and manual inspection. Results show that almost half of all stoppages can be attributed to one of 15 different clusters of alarm sequences.
+ER  - 
+
+TY  - JOUR
+T1  - Cemental tear: Literature review, proposed classification and recommendations for treatment
+AU  - Lee, Angeline H. C.
+AU  - Neelakantan, Prasanna
+AU  - Dummer, Paul M. H.
+AU  - Zhang, Chengfei
+Y1  - 2021/11/01
+PY  - 2021
+DA  - 2021/11/01
+N1  - https://doi.org/10.1111/iej.13611
+DO  - https://doi.org/10.1111/iej.13611
+T2  - International Endodontic Journal
+JF  - International Endodontic Journal
+JO  - International Endodontic Journal
+JA  - Int Endod J
+SP  - 2044
+EP  - 2073
+VL  - 54
+IS  - 11
+KW  - cemental tear
+KW  - cementum
+KW  - classification
+KW  - review
+KW  - treatment
+PB  - John Wiley & Sons, Ltd
+SN  - 0143-2885
+M3  - https://doi.org/10.1111/iej.13611
+UR  - https://doi.org/10.1111/iej.13611
+Y2  - 2021/11/08
+N2  - Abstract Cemental tears are an important condition of relevance to Endodontics but are often overlooked. A cemental tear is the partial or complete detachment of the cementum from the cemento-dentinal junction or along the incremental line within the body of cementum. The limited attention received is most likely due to the limited awareness amongst dental professionals and challenges in accurately diagnosing them, resulting in misdiagnosis and erroneous treatment. The aim of this review is to describe the: (i) epidemiology and predisposing factors; (ii) clinical, radiographic and histological features and (iii) the clinical management and treatment outcomes of cemental tear. The review included 37 articles published in English that comprised eight observational studies and 29 case reports. The prevalence of cemental tears was reported to be lower than 2%; whilst the incidence remains unknown. Internal factors due to the inherent structural weakness of cementum and its interface with the dentine, and external factors that are associated with stress have been proposed as the two mechanisms responsible for the development and propagation of cemental tears. Predisposing factors that have been implicated were tooth type, gender, age, previous root canal treatment, history of dental trauma, occlusal trauma and excessive occlusal force; however, evidence is limited. Common clinical and radiographic manifestations of cemental tears resemble the presentations of primary endodontic diseases, primary periodontal diseases and combined endodontic?periodontal lesions. Clinical management tended to focus on complete removal of the torn fragments and periodontal treatment, often combined with regenerative treatment. In this article, a new classification for cemental tears is developed that consists of classes 0 to 6 and stages A, B, C and D based on the: (i) location and accessibility of the torn cemental fragment; (ii) the pattern and extension of the associated bony defect in relation to the root length and (iii) the number of root surface/s affected by the cemental tear/s and the associated bony defect. Recommendations for treatment strategies are also provided and linked to the classification to aid in streamlining the process of treatment decision making.
+ER  - 
+
+TY  - JOUR
+T1  - Enchondromatosis revisited: New classification with molecular basis
+AU  - Superti-Furga, Andrea
+AU  - Spranger, Jürgen
+AU  - Nishimura, Gen
+Y1  - 2012/08/15
+PY  - 2012
+DA  - 2012/08/15
+N1  - https://doi.org/10.1002/ajmg.c.31331
+DO  - https://doi.org/10.1002/ajmg.c.31331
+T2  - American Journal of Medical Genetics Part C: Seminars in Medical Genetics
+JF  - American Journal of Medical Genetics Part C: Seminars in Medical Genetics
+JO  - American Journal of Medical Genetics Part C: Seminars in Medical Genetics
+JA  - Am. J. Med. Genet.
+SP  - 154
+EP  - 164
+VL  - 160C
+IS  - 3
+KW  - enchondromatosis
+KW  - bone tissue
+PB  - John Wiley & Sons, Ltd
+SN  - 1552-4868
+M3  - https://doi.org/10.1002/ajmg.c.31331
+UR  - https://doi.org/10.1002/ajmg.c.31331
+Y2  - 2021/11/08
+N2  - Abstract The so-called ?enchondromatoses? are skeletal disorders defined by the presence of ectopic cartilaginous tissue within bone tissue. The clinical and radiographic features of the different enchondromatoses are distinct, and grouping them does not reflect a common pathogenesis but simply a similar radiographic appearance and thus the need for a differential diagnosis. Recent advances in the understanding of their molecular and cellular bases confirm the heterogeneous nature of the different enchondromatoses. Some, like Ollier disease, Maffucci disease, metaphyseal chondromatosis with hydroxyglutaric aciduria, and metachondromatosis are produced by a dysregulation of chondrocyte proliferation, while others (such as spondyloenchondrodysplasia or dysspondyloenchondromatosis) are caused by defects in structure or metabolism of cartilage or bone matrix. In other forms (e.g., the dominantly inherited genochondromatoses), the basic defect remains to be determined. The classification, proposed by Spranger and associates in 1978 and tentatively revised twice, was based on the radiographic appearance, the anatomic sites involved, and the mode of inheritance. The new classification proposed here integrates the molecular genetic advances and delineates phenotypic families based on the molecular defects. Reference radiographs are provided to help in the diagnosis of the well-defined forms. In spite of advances, many cases remain difficult to diagnose and classify, implying that more variants remain to be defined at both the clinical and molecular levels. ? 2012 Wiley Periodicals, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Longitudinal MRI findings in patient with SLC25A12 pathogenic variants inform disease progression and classification
+AU  - Kavanaugh, Brian C.
+AU  - Warren, Emily B.
+AU  - Baytas, Ozan
+AU  - Schmidt, Michael
+AU  - Merck, Derek
+AU  - Buch, Karen
+AU  - Liu, Judy S.
+AU  - Phornphutkul, Chanika
+AU  - Caruso, Paul
+AU  - Morrow, Eric M.
+Y1  - 2019/11/01
+PY  - 2019
+DA  - 2019/11/01
+N1  - https://doi.org/10.1002/ajmg.a.61322
+DO  - https://doi.org/10.1002/ajmg.a.61322
+T2  - American Journal of Medical Genetics Part A
+JF  - American Journal of Medical Genetics Part A
+JO  - American Journal of Medical Genetics Part A
+JA  - Am J Med Genet
+SP  - 2284
+EP  - 2291
+VL  - 179
+IS  - 11
+KW  - AGC1
+KW  - genetics
+KW  - intellectual disability
+KW  - MRI
+KW  - SLC25A12
+PB  - John Wiley & Sons, Ltd
+SN  - 1552-4825
+M3  - https://doi.org/10.1002/ajmg.a.61322
+UR  - https://doi.org/10.1002/ajmg.a.61322
+Y2  - 2021/11/08
+N2  - Abstract Aspartate?glutamate carrier 1 (AGC1) is one of two exchangers within the malate-aspartate shuttle. AGC1 is encoded by the SLC25A12 gene. Three patients with pathogenic variants in SLC25A12 have been reported in the literature. These patients were clinically characterized by neurodevelopmental delay, epilepsy, hypotonia, cerebral atrophy, and hypomyelination; however, there has been discussion in the literature as to whether this hypomyelination is primary or secondary to a neuronal defect. Here we report a 12-year-old patient with variants in SLC25A12 and magnetic resonance imaging (MRI) at multiple ages. Novel compound heterozygous, recessive variants in SLC25A12 were identified: c.1295C>T (p.A432V) and c.1447-2_1447-1delAG. Clinical presentation is characterized by severe intellectual disability, nonambulatory, nonverbal status, hypotonia, epilepsy, spastic quadriplegia, and a happy disposition. The serial neuroimaging findings are notable for cerebral atrophy with white matter involvement, namely, early hypomyelination yet subsequent progression of myelination. The longitudinal MRI findings are most consistent with a leukodystrophy of the leuko-axonopathy category, that is, white matter abnormalities that are most suggestive of mechanisms that result from primary neuronal defects. We present here the first case of a patient with compound heterozygous variants in SLC25A12, including brain MRI findings, in the oldest individual reported to date with this neurogenetic condition.
+ER  - 
+
+TY  - JOUR
+T1  - Functional classification of ATM variants in ataxia-telangiectasia patients
+AU  - Fiévet, Alice
+AU  - Bellanger, Dorine
+AU  - Rieunier, Guillaume
+AU  - Dubois d'Enghien, Catherine
+AU  - Sophie, Julia
+AU  - Calvas, Patrick
+AU  - Carriere, Jean-Paul
+AU  - Anheim, Mathieu
+AU  - Castrioto, Anna
+AU  - Flabeau, Olivier
+AU  - Degos, Bertrand
+AU  - Ewenczyk, Claire
+AU  - Mahlaoui, Nizar
+AU  - Touzot, Fabien
+AU  - Suarez, Felipe
+AU  - Hully, Marie
+AU  - Roubertie, Agathe
+AU  - Aladjidi, Nathalie
+AU  - Tison, François
+AU  - Antoine-Poirel, Hélène
+AU  - Dahan, Karine
+AU  - Doummar, Diane
+AU  - Nougues, Marie-Christine
+AU  - Ioos, Christine
+AU  - Rougeot, Christelle
+AU  - Masurel, Alice
+AU  - Bourjault, Caroline
+AU  - Ginglinger, Emmanuelle
+AU  - Prieur, Fabienne
+AU  - Siri, Aurélie
+AU  - Bordigoni, Pierre
+AU  - Nguyen, Karine
+AU  - Philippe, Noel
+AU  - Bellesme, Céline
+AU  - Demeocq, François
+AU  - Altuzarra, Cecilia
+AU  - Mathieu-Dramard, Michèle
+AU  - Couderc, Fanny
+AU  - Dörk, Thilo
+AU  - Auger, Nathalie
+AU  - Parfait, Béatrice
+AU  - Abidallah, Khadija
+AU  - Moncoutier, Virginie
+AU  - Collet, Agnès
+AU  - Stoppa-Lyonnet, Dominique
+AU  - Stern, Marc-Henri
+Y1  - 2019/10/01
+PY  - 2019
+DA  - 2019/10/01
+N1  - https://doi.org/10.1002/humu.23778
+DO  - https://doi.org/10.1002/humu.23778
+T2  - Human Mutation
+JF  - Human Mutation
+JO  - Human Mutation
+JA  - Human Mutation
+SP  - 1713
+EP  - 1730
+VL  - 40
+IS  - 10
+KW  - ataxia-telangiectasia
+KW  - ataxia-telangiectasia mutated (ATM)
+KW  - checkpoint
+KW  - mutation
+KW  - phenotype
+KW  - splice
+PB  - John Wiley & Sons, Ltd
+SN  - 1059-7794
+M3  - https://doi.org/10.1002/humu.23778
+UR  - https://doi.org/10.1002/humu.23778
+Y2  - 2021/11/08
+N2  - Abstract Ataxia-telangiectasia (A-T) is a recessive disorder caused by biallelic pathogenic variants of ataxia-telangiectasia mutated (ATM). This disease is characterized by progressive ataxia, telangiectasia, immune deficiency, predisposition to malignancies, and radiosensitivity. However, hypomorphic variants may be discovered associated with very atypical phenotypes, raising the importance of evaluating their pathogenic effects. In this study, multiple functional analyses were performed on lymphoblastoid cell lines from 36 patients, comprising 49 ATM variants, 24 being of uncertain significance. Thirteen patients with atypical phenotype and presumably hypomorphic variants were of particular interest to test strength of functional analyses and to highlight discrepancies with typical patients. Western-blot combined with transcript analyses allowed the identification of one missing variant, confirmed suspected splice defects and revealed unsuspected minor transcripts. Subcellular localization analyses confirmed the low level and abnormal cytoplasmic localization of ATM for most A-T cell lines. Interestingly, atypical patients had lower kinase defect and less altered cell-cycle distribution after genotoxic stress than typical patients. In conclusion, this study demonstrated the pathogenic effects of the 49 variants, highlighted the strength of KAP1 phosphorylation test for pathogenicity assessment and allowed the establishment of the Ataxia-TeLangiectasia Atypical Score to predict atypical phenotype. Altogether, we propose strategies for ATM variant detection and classification.
+ER  - 
+
+TY  - JOUR
+T1  - The classification of the indecomposable liftable modules in blocks with cyclic defect groups
+AU  - Hiss, Gerhard
+AU  - Naehrig, Natalie
+Y1  - 2012/10/01
+PY  - 2012
+DA  - 2012/10/01
+N1  - https://doi.org/10.1112/blms/bds025
+DO  - https://doi.org/10.1112/blms/bds025
+T2  - Bulletin of the London Mathematical Society
+JF  - Bulletin of the London Mathematical Society
+JO  - Bulletin of the London Mathematical Society
+JA  - Bulletin of the London Mathematical Society
+SP  - 974
+EP  - 980
+VL  - 44
+IS  - 5
+PB  - Oxford University Press (OUP)
+SN  - 0024-6093
+M3  - https://doi.org/10.1112/blms/bds025
+UR  - https://doi.org/10.1112/blms/bds025
+Y2  - 2021/11/08
+N2  - Let G be a finite group, let k be an algebraically closed field of positive characteristic p and let B be a block of kG with cyclic defect groups. We classify the indecomposable B-modules which are liftable with respect to a splitting p-modular system with residue class field k. The indecomposable non-projective modules in B are constructed from certain paths in the Brauer tree of B [G. J. Janusz, ?Indecomposable modules for finite groups?, Ann. Math. 2 (1969) 209?224.]. We determine those paths that give rise to liftable modules. We also find the characters of the lifts of these modules.
+ER  - 

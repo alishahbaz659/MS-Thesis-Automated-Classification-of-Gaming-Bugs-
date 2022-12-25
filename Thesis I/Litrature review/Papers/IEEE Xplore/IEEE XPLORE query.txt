@@ -1,0 +1,1 @@
+((gam* AND ("Abstract":bug OR "Abstract":defect OR "Abstract":fault) AND (identif* OR classif* OR analy*)))

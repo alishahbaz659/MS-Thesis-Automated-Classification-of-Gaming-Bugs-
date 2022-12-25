@@ -1,0 +1,1872 @@
+TY  - CONF
+TI  - Failure and power utilization system models of differential equations by polynomial neural networks
+T2  - 13th International Conference on Hybrid Intelligent Systems (HIS 2013)
+SP  - 273
+EP  - 278
+AU  - L. Zjavka
+AU  - A. Abraham
+PY  - 2013
+KW  - Gold
+KW  - Genetics
+KW  - Polynomials
+KW  - Neurons
+KW  - Reliability
+KW  - reliability modeling
+KW  - power utilization
+KW  - polynomial neural network
+KW  - differential equation composition
+KW  - multi-parametric function approximation
+DO  - 10.1109/HIS.2013.6920496
+JO  - 13th International Conference on Hybrid Intelligent Systems (HIS 2013)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 13th International Conference on Hybrid Intelligent Systems (HIS 2013)
+Y1  - 4-6 Dec. 2013
+AB  - Reliability modeling of electronic circuits can be best performed by the stressor - susceptibility interaction model. A circuit or a system is deemed to be failed once the stressor has exceeded the susceptibility limits. Complex manufacturing systems often require a high level of reliability from the incoming electricity supply. Modern industrial time power quality monitoring systems can be used for the pre-fault load alarming. Neural networks can successfully model and predict the failure frame of critical electronic systems and power utilization in power plants described only a few input quantities. Differential polynomial neural network is a new type of neural network, which constructs and substitutes an unknown general sum partial differential equation with a total sum of fractional polynomial terms. The system model describes partial relative derivative dependent changes of some input combinations of variables. This type of non-linear regression is based on trained generalized data relations decomposed by partial low order polynomials of 2-input variables. Experimental results indicate that the proposed method is efficient.
+ER  - 
+
+TY  - CONF
+TI  - Efficient Error-Tolerant Quantized Neural Network Accelerators
+T2  - 2019 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT)
+SP  - 1
+EP  - 6
+AU  - G. Gambardella
+AU  - J. Kappauf
+AU  - M. Blott
+AU  - C. Doehring
+AU  - M. Kumm
+AU  - P. Zipf
+AU  - K. Vissers
+PY  - 2019
+KW  - Safety
+KW  - Hardware
+KW  - Computational modeling
+KW  - Biological neural networks
+KW  - Neurons
+KW  - Redundancy
+KW  - neural networks
+KW  - safety
+KW  - automotive
+KW  - FPGA
+KW  - quantized neural networks
+DO  - 10.1109/DFT.2019.8875314
+JO  - 2019 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT)
+IS  - 
+SN  - 2377-7966
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT)
+Y1  - 2-4 Oct. 2019
+AB  - Neural Networks are currently one of the most widely deployed machine learning algorithms. In particular, Convolutional Neural Networks (CNNs), are gaining popularity and are evaluated for deployment in safety critical applications such as self driving vehicles. Modern CNNs feature enormous memory bandwidth and high computational needs, challenging existing hardware platforms to meet throughput, latency and power requirements. Functional safety and error tolerance need to be considered as additional requirement in safety critical systems. In general, fault tolerant operation can be achieved by adding redundancy to the system, which is further exacerbating the computational demands. Furthermore, the question arises whether pruning and quantization methods for performance scaling turn out to be counterproductive with regards to fail safety requirements. In this work we present a methodology to evaluate the impact of permanent faults affecting Quantized Neural Networks (QNNs) and how to effectively decrease their effects in hardware accelerators. We use FPGA-based hardware accelerated error injection, in order to enable the fast evaluation. A detailed analysis is presented showing that QNNs containing convolutional layers are by far not as robust to faults as commonly believed and can lead to accuracy drops of up to 10%. To circumvent that, we propose two different methods to increase their robustness: 1) selective channel replication which adds significantly less redundancy than used by the common triple modular redundancy and 2) a fault-aware scheduling of processing elements for folded implementations.
+ER  - 
+
+TY  - CONF
+TI  - Defect Prediction: Accomplishments and Future Challenges
+T2  - 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+SP  - 33
+EP  - 45
+AU  - Y. Kamei
+AU  - E. Shihab
+PY  - 2016
+KW  - Software
+KW  - Predictive models
+KW  - Data models
+KW  - Complexity theory
+KW  - Market research
+KW  - Power measurement
+KW  - Software quality assurance
+KW  - defect prediction
+KW  - trends and future directions
+DO  - 10.1109/SANER.2016.56
+JO  - 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+IS  - 
+SN  - 
+VO  - 5
+VL  - 5
+JA  - 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+Y1  - 14-18 March 2016
+AB  - As software systems play an increasingly important role in our lives, their complexity continues to increase. The increased complexity of software systems makes the assurance of their quality very difficult. Therefore, a significant amount of recent research focuses on the prioritization of software quality assurance efforts. One line of work that has been receiving an increasing amount of attention for over 40 years is software defect prediction, where predictions are made to determine where future defects might appear. Since then, there have been many studies and many accomplishments in the area of software defect prediction. At the same time, there remain many challenges that face that field of software defect prediction. The paper aims to accomplish four things. First, we provide a brief overview of software defect prediction and its various components. Second, we revisit the challenges of software prediction models as they were seen in the year 2000, in order to reflect on our accomplishments since then. Third, we highlight our accomplishments and current trends, as well as, discuss the game changers that had a significant impact on software defect prediction. Fourth, we highlight some key challenges that lie ahead in the near (and not so near) future in order for us as a research community to tackle these future challenges.
+ER  - 
+
+TY  - CONF
+TI  - Human-machine interface: A framework for contingency management of complex aerospace systems
+T2  - 2015 IEEE AUTOTESTCON
+SP  - 80
+EP  - 86
+AU  - J. Li
+AU  - G. Vachtsevanos
+PY  - 2015
+KW  - Aircraft
+KW  - Cognition
+KW  - Knowledge based systems
+KW  - Man machine systems
+KW  - Vehicles
+KW  - Measurement
+KW  - Computer architecture
+DO  - 10.1109/AUTEST.2015.7356470
+JO  - 2015 IEEE AUTOTESTCON
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE AUTOTESTCON
+Y1  - 2-5 Nov. 2015
+AB  - This paper introduces a novel architecture for human-machine interface focusing primarily on the human aspects as applied to aircraft and unmanned systems. There is a need to explore new human-machine interface strategies stemming from the proliferation over the past years of accidents due to system complexity, failure modes and human errors. Concepts of autonomy establish the foundational elements of the work. We pursue a rigorous systems engineering process to analyze and design the tools and techniques for automated vehicle health monitoring, human-automation interface and conflict resolution enabled by innovative methods from game theory and reasoning algorithms. The general structure is illustrated in the paper. This paper addresses the general interface framework while emphasizing the human's (pilots) intended actions following an adverse event on-board the vehicle, i.e. critical component fault/failure modes. When combined with automated health state assessment means on-board the aircraft, the proposed strategy assists to improve the reliability of estimated actions the pilot must execute to mitigate possible catastrophic consequences. A “smart” knowledge base is exploited as the reasoning paradigm where cases are stored and new ones are compared with similar ones available in the case library. Learning and adaptation tools are used to improve the decision making process. The emphasis of this contribution is on methods and tools for conflict resolution when the automated system's advisories are coincident with the human's intended actions. Appropriate similarity metrics are defined and used for this purpose. The efficacy of the approach is demonstrated via an interface built in MATLAB highlighting the performance of the algorithmic modules for assessment and conflict resolution.
+ER  - 
+
+TY  - CONF
+TI  - SOGI-FLL for synchronization and fault detection in an inverter connected to the grid
+T2  - 2015 IEEE PES Innovative Smart Grid Technologies Latin America (ISGT LATAM)
+SP  - 833
+EP  - 838
+AU  - D. G. Patiño
+AU  - E. G. Guamá Erira
+AU  - E. E. Rosero
+AU  - J. R. Fuelagán
+PY  - 2015
+KW  - Inverters
+KW  - Synchronization
+KW  - Standards
+KW  - Power grids
+KW  - Frequency locked loops
+KW  - Resonant frequency
+KW  - Fault detection
+KW  - Smart grid
+KW  - Power system interconnection
+KW  - HERIC inverter
+KW  - Frequency locked loop
+KW  - Second order generalized integrator
+DO  - 10.1109/ISGT-LA.2015.7381264
+JO  - 2015 IEEE PES Innovative Smart Grid Technologies Latin America (ISGT LATAM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE PES Innovative Smart Grid Technologies Latin America (ISGT LATAM)
+Y1  - 5-7 Oct. 2015
+AB  - This paper presents a theoretical analysis and simulation for the design and implementation of a Second Order Generalized Integrator - Frequency Locked Loop (SOGI-FLL) aimed at synchronization and fault detection when connecting an inverter to the utility grid. Such an inverter is implemented in a Highly-Efficient-and-Reliable- Inverter-Concept (HERIC) topology. The two main aims of this work are: First, the frequency and phase synchronization of the HERIC power inverter with the grid through the SOGI-FLL. Second, the detection of abnormal conditions that may occur in the coupling point system by analyzing changes in frequency, phase shifts and amplitude variations. This is done by complying with the IEEE 1547 standard for disconnecting generation systems to the grid in case of failure. Finally, from the experimental results, it can be concluded that the SOGI-FLL system is an appropriate alternative for controlling the injection of energy process into the grid, as well as for detecting possible grid faults.
+ER  - 
+
+TY  - CONF
+TI  - Mobile Application Software Defect Prediction
+T2  - 2016 IEEE Symposium on Service-Oriented System Engineering (SOSE)
+SP  - 307
+EP  - 313
+AU  - M. Y. Ricky
+AU  - F. Purnomo
+AU  - B. Yulianto
+PY  - 2016
+KW  - Software
+KW  - Support vector machines
+KW  - Smart phones
+KW  - Mobile communication
+KW  - Games
+KW  - Measurement
+KW  - Java
+KW  - CART
+KW  - test metrics
+KW  - defect prediction
+KW  - mobile apps
+KW  - software defect
+KW  - SVM
+DO  - 10.1109/SOSE.2016.25
+JO  - 2016 IEEE Symposium on Service-Oriented System Engineering (SOSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE Symposium on Service-Oriented System Engineering (SOSE)
+Y1  - 29 March-2 April 2016
+AB  - The increasing number of user of mobile application, it is needed to check mobile applications that contains defect or not. I proposed a SVM method in comparison with CART and Test Metrics to classify classes in application. It shows that SVM method has better result in terms of precision and accuracy. SVM accuracy reaches 83% compared with CART and Test Metrics method in mobile apps defect prediction.
+ER  - 
+
+TY  - CONF
+TI  - Marine propulsion PM motor control under inverter partial fault
+T2  - 2016 IEEE 2nd Annual Southern Power Electronics Conference (SPEC)
+SP  - 1
+EP  - 6
+AU  - N. Fernando
+AU  - S. G. Jayasinghe
+AU  - A. T. Abkenar
+PY  - 2016
+KW  - Switches
+KW  - Circuit faults
+KW  - Inverters
+KW  - Switching circuits
+KW  - Propulsion
+KW  - Permanent magnet motors
+KW  - Synchronous motors
+DO  - 10.1109/SPEC.2016.7846210
+JO  - 2016 IEEE 2nd Annual Southern Power Electronics Conference (SPEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE 2nd Annual Southern Power Electronics Conference (SPEC)
+Y1  - 5-8 Dec. 2016
+AB  - Fault tolerance is an essential feature in marine and naval electric propulsion drives. Therefore, there is a growing research interest in developing fault tolerant technologies for marine applications. This paper investigates the control and operation of an inverter fed PM propulsion motor under a specific power electronic failure case. Compared to the technologies reported in literature, this paper formulates a special control strategy for the motor operation during the situation where only one high side switch and one low side switch in two different phases are operational in a standard three-phase six-switch inverter. The proposed control strategy assumes that the remaining switches are failed in open circuit while the corresponding anti-parallel diodes are functional. The mathematical background of the two quadrant control strategy is formulated. The operation is analyzed in the context of marine propulsion power/speed requirements. Simulations for a 50 kW three-phase fault tolerant motor is presented for the operation with the proposed dual switch control strategy. Controllability of motor torque for speeds up to 45% rated speed corresponding to approximately 9% rated propulsion power output is achieved without overrating the device current ratings.
+ER  - 
+
+TY  - CONF
+TI  - Harmonic subspace and sequence mapping in a series-connected six-phase two-motor drive
+T2  - IECON 2012 - 38th Annual Conference on IEEE Industrial Electronics Society
+SP  - 3622
+EP  - 3627
+AU  - J. Malvar
+AU  - A. G. Yepes
+AU  - A. Vidal
+AU  - P. Fernández-Comesaña
+AU  - F. D. Freijedo
+AU  - Ó. López
+AU  - J. Doval-Gandoy
+PY  - 2012
+KW  - Harmonic analysis
+KW  - Argon
+DO  - 10.1109/IECON.2012.6389316
+JO  - IECON 2012 - 38th Annual Conference on IEEE Industrial Electronics Society
+IS  - 
+SN  - 1553-572X
+VO  - 
+VL  - 
+JA  - IECON 2012 - 38th Annual Conference on IEEE Industrial Electronics Society
+Y1  - 25-28 Oct. 2012
+AB  - The torque and flux of sinusoidally distributed multiphase machines can be controlled by using only two stator d-q components. Thus, in these machines there exist additional degrees of freedom, which in multimotor drive systems are used to independently control a group of series-connected multiphase machines. Series connected machines share stator currents, therefore it is interesting to study how harmonics produced by non-linearities, faults or imbalance of the feeding system are distributed in the two-motor system, in terms of subspaces and sequences. This paper analyzes low-order harmonic distribution and its effects in a series-connected six-phase two-motor drive through experimental results collected from a laboratory setup.
+ER  - 
+
+TY  - CONF
+TI  - A unified SVM algorithm for lifetime prolongation of thermally-overheated power devices in multi-level inverters
+T2  - 2016 IEEE Energy Conversion Congress and Exposition (ECCE)
+SP  - 1
+EP  - 6
+AU  - M. Aly
+AU  - G. M. Dousoky
+AU  - E. M. Ahmed
+AU  - M. Shoyama
+PY  - 2016
+KW  - Switches
+KW  - Inverters
+KW  - Support vector machines
+KW  - Junctions
+KW  - Capacitors
+KW  - Modulation
+KW  - Passive optical networks
+KW  - lifetime
+KW  - multilevel inverters
+KW  - power semiconductor devices
+KW  - reliability
+KW  - space vector modulation (SVM)
+DO  - 10.1109/ECCE.2016.7854801
+JO  - 2016 IEEE Energy Conversion Congress and Exposition (ECCE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE Energy Conversion Congress and Exposition (ECCE)
+Y1  - 18-22 Sept. 2016
+AB  - This paper presents a unified space vector modulation (SVM) algorithm for lifetime prolongation of thermally-overheated power semiconductor devices in multilevel inverters. Thermal overheating is the main cause of shortened-lifetime and open-circuit faults of the devices. Power semiconductor devices are subjected to thermal overheating due to their ageing that results from continuous overloading and power cycling. Moreover, thermal overheating in high power devices may result from its degradation and faults in the cooling system. When a thermal overheating is detected in one of the power devices, the proposed algorithm is applied to relieve the overheated device and dangerous circumstances are avoided as a result. The proposed algorithm relies on using the redundancy property between switching states in multilevel inverters to continuously evaluate a cost function of the junction temperature of thermally-overheated device for all possible switching sequences set, then it identifies the optimal relieving switching sequence. The proposed unified SVM is general that can be applied to any multilevel inverter, and also is valid for switching devices, as well as DC-link capacitors. The proposed algorithm has been designed and validated by simulation and experimental prototypes of three-level T-type inverter.
+ER  - 
+
+TY  - CONF
+TI  - An automatic detection method of Mura defects for liquid crystal display
+T2  - 2019 Chinese Control Conference (CCC)
+SP  - 7722
+EP  - 7727
+AU  - Z. Ma
+AU  - J. Gong
+PY  - 2019
+KW  - Brightness
+KW  - Gabor filters
+KW  - Image reconstruction
+KW  - Lighting
+KW  - Maximum likelihood detection
+KW  - Nonlinear filters
+KW  - Frequency-domain analysis
+KW  - Computer Vision
+KW  - Mura Area Recognition
+KW  - Reconstruction Algorithms
+KW  - Uneven Illumination Image
+DO  - 10.23919/ChiCC.2019.8865696
+JO  - 2019 Chinese Control Conference (CCC)
+IS  - 
+SN  - 1934-1768
+VO  - 
+VL  - 
+JA  - 2019 Chinese Control Conference (CCC)
+Y1  - 27-30 July 2019
+AB  - Automatic detection of Mura defects on liquid crystal display (LCD) is an important application of computer vision, an accurate and efficient approach is implemented in this paper. In the stage of image preprocess, in order to reduce the interference of the structurally textural backgrounds of the screen, we use a Gabor filter to process the noise. In the defect detection stage, aiming at the interference of uneven brightness background on Mura defect recognition, based on the principle of mask uniformity, we propose a method for estimating the brightness distribution of the screen to reconstruct the background of the screen, and do background subtraction using the built background image. Defects are detected by gamma correction and threshold segmentation of differential images. The experimental results show that the proposed algorithm greatly shortens the execution time and achieves a good detection effect compared with the background reconstruction algorithm based on regression fitting.
+ER  - 
+
+TY  - CONF
+TI  - Radiation damage and recovery mechanisms in cooled PbWO<inf>4</inf> crystals
+T2  - 2011 IEEE Nuclear Science Symposium Conference Record
+SP  - 1930
+EP  - 1934
+AU  - V. Dormenev
+AU  - T. Kuske
+AU  - R. W. Novotny
+AU  - R. Schubert
+PY  - 2011
+KW  - Lead
+KW  - Temperature measurement
+KW  - Heating
+KW  - ISO standards
+KW  - Ultraviolet sources
+KW  - Temperature dependence
+DO  - 10.1109/NSSMIC.2011.6154388
+JO  - 2011 IEEE Nuclear Science Symposium Conference Record
+IS  - 
+SN  - 1082-3654
+VO  - 
+VL  - 
+JA  - 2011 IEEE Nuclear Science Symposium Conference Record
+Y1  - 23-29 Oct. 2011
+AB  - The Electromagnetic Calorimeter (EMC) of the future PANDA detector relies on a stabile performance of the PbWO<sub>4</sub> crystals of enhanced PWO-II quality. In spite of the expected moderate radiation dose imposed by hadrons and electromagnetic probes during operation, the interplay between damaging and statistical recovery processes is strongly influenced by the low operating temperature of T=-25° C. Previous investigations have shown that relaxation mechanisms become extremely slow and the limit on the asymptotically reached light output depends on the intrinsic concentration of defect centers in the crystal. The process of stimulated recovery leads in case of damage due to γ-rays at room temperature to an almost complete recovery using even infrared light. At low temperature, the mechanism leads to a substantial recovery but on significantly longer time scales. The paper will discuss a series of detailed measurements in order to understand recovery mechanisms at low temperature and the sensitivity to different external light sources. Part of the program is EPR-based measurements to identify the population or extinction of well-known color centers. A second experimental set-up allows measuring the change of the optical transmission spectrum of a permanently cooled crystal in situ using a photo spectrometer. The transmittance over the relevant region of wavelength is controlled before and after irradiation as well as during the recovery with different external light sources. The studies of the damage due to a high flux of γ-rays are compared complementary to the impact of 90 MeV protons performed at the cyclotron at KVI (Groningen Netherlands). Up to a fluence of 6.75×10<sup>11</sup> protons/cm<sup>2</sup> protons will impinge and be completely stopped in the test samples.
+ER  - 
+
+TY  - CONF
+TI  - Improving the Accuracy of Aircraft Positioning by Navigational Aids Using Kalman Filter
+T2  - 2019 Signal Processing Symposium (SPSympo)
+SP  - 109
+EP  - 114
+AU  - N. S. Kuzmenko
+AU  - I. V. Ostroumov
+AU  - V. P. Kharchenko
+PY  - 2019
+KW  - Aircraft navigation
+KW  - Measurement uncertainty
+KW  - Radio navigation
+KW  - Aircraft
+KW  - Atmospheric modeling
+KW  - Global navigation satellite system
+KW  - navigation
+KW  - navigational aids
+KW  - DME
+KW  - Kalman filter
+KW  - alpha-beta-gamma filter
+KW  - aircraft
+KW  - DME/DME
+KW  - error model
+DO  - 10.1109/SPS.2019.8882072
+JO  - 2019 Signal Processing Symposium (SPSympo)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 Signal Processing Symposium (SPSympo)
+Y1  - 17-19 Sept. 2019
+AB  - An algorithm of positioning by navigational aids is a common stand-by approach on-board of aircraft in case of Global Navigational Satellite System fault. In paper we analyze implementation of alpha-beta-gamma filter in Kalman model representation to reduce noise in trajectory data of aircraft. We consider sensor noise filtration of Distance Measuring Equipment and VHF omnidirectional Range as an initial data processing and noise reduction at trajectory data processing. Multiple changes of navigational aids in pairs lead to pure noise filtration of distances and angles measurements. Noise filtration at top level provides better performance of trajectory data processing in comparison with sensor data filtration.
+ER  - 
+
+TY  - CONF
+TI  - Indirect reciprocity through gossiping can lead to cooperative clusters
+T2  - 2011 IEEE Symposium on Artificial Life (ALIFE)
+SP  - 154
+EP  - 161
+AU  - V. A. Traag
+AU  - P. Van Dooren
+AU  - Y. Nesterov
+PY  - 2011
+KW  - Humans
+KW  - Games
+KW  - Evolution (biology)
+KW  - Electronic mail
+KW  - Equations
+KW  - Analytical models
+KW  - Upper bound
+DO  - 10.1109/ALIFE.2011.5954642
+JO  - 2011 IEEE Symposium on Artificial Life (ALIFE)
+IS  - 
+SN  - 2160-6382
+VO  - 
+VL  - 
+JA  - 2011 IEEE Symposium on Artificial Life (ALIFE)
+Y1  - 11-15 April 2011
+AB  - Explaining how cooperation can emerge, and persist over time in various species is a prime challenge for both biologists and social scientists. Whereas cooperation in non-human species might be explained through mechanisms such as kinship selection or reciprocity, this is usually regarded as insufficient to explain the extent of cooperation observed in humans. It has been theorized that indirect reciprocity-I help you, and someone else later helps me-could explain the breadth of human cooperation. Reputation is central to this idea, since it conveys important information to third parties whether to cooperate or not with a focal player. In this paper we analyze a model for reputation dynamics through gossiping, and pay specific attention to the possible cooperation networks that may arise. We show that gossiping agents can organize into cooperative clusters, i.e. cooperate within clusters, and defect between them, which can be regarded as socially balanced. We also deduce conditions for these gossiping cooperators to be evolutionary stable.
+ER  - 
+
+TY  - CONF
+TI  - A Large-scale Study on API Misuses in the Wild
+T2  - 2021 14th IEEE Conference on Software Testing, Verification and Validation (ICST)
+SP  - 241
+EP  - 252
+AU  - X. Li
+AU  - J. Jiang
+AU  - S. Benton
+AU  - Y. Xiong
+AU  - L. Zhang
+PY  - 2021
+KW  - Software testing
+KW  - Conferences
+KW  - Machine learning
+KW  - Tools
+KW  - Data mining
+KW  - Open source software
+KW  - Guidelines
+KW  - Pattern generation
+KW  - Program adaptation
+KW  - Code abstraction
+DO  - 10.1109/ICST49551.2021.00034
+JO  - 2021 14th IEEE Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2021 14th IEEE Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 12-16 April 2021
+AB  - API misuses are prevalent and extremely harmful. Despite various techniques have been proposed for API-misuse detection, it is not even clear how different types of API misuses distribute and whether existing techniques have covered all major types of API misuses. Therefore, in this paper, we conduct the first large-scale empirical study on API misuses based on 528,546 historical bug-fixing commits from GitHub (from 2011 to 2018). By leveraging a state-of-the-art fine-grained AST differencing tool, GumTree, we extract more than one million bug-fixing edit operations, 51.7% of which are API misuses. We further systematically classify API misuses into nine different categories according to the edit operations and context. We also extract various frequent API-misuse patterns based on the categories and corresponding operations, which can be complementary to existing API-misuse detection tools. Our study reveals various practical guidelines regarding the importance of different types of API misuses. Furthermore, based on our dataset, we perform a user study to manually analyze the usage constraints of 10 patterns to explore whether the mined patterns can guide the design of future API-misuse detection tools. Specifically, we find that 7,541 potential misuses still exist in latest Apache projects and 149 of them have been reported to developers. To date, 57 have already been confirmed and fixed (with 15 rejected misuses correspondingly). The results indicate the importance of studying historical API misuses and the promising future of employing our mined patterns for detecting unknown API misuses.
+ER  - 
+
+TY  - CONF
+TI  - Comparative study of the proposed shifting algorithm for fault tolerance in FPGA
+T2  - 2014 International Conference on Advances in Engineering & Technology Research (ICAETR - 2014)
+SP  - 1
+EP  - 5
+AU  - R. V. Kshirsagar
+AU  - S. Sharma
+PY  - 2014
+KW  - Reliability engineering
+KW  - Field programmable gate arrays
+KW  - Fault Tolerance
+KW  - Field Programmable Gate Array (FPGA)
+KW  - Programmable Logic Blocks(PLB)
+DO  - 10.1109/ICAETR.2014.7012944
+JO  - 2014 International Conference on Advances in Engineering & Technology Research (ICAETR - 2014)
+IS  - 
+SN  - 2347-9337
+VO  - 
+VL  - 
+JA  - 2014 International Conference on Advances in Engineering & Technology Research (ICAETR - 2014)
+Y1  - 1-2 Aug. 2014
+AB  - Today's Field Programmable Gate Arrays (FPGAs) are being used in more exotic applications and mission critical applications. However, recent trends in current technology tend to make FPGAs less reliable. FPGA vendors have been moving down the same path of smaller device size as the rest of the semiconductor industry leading to electro migration problem and at the same time moving to larger and larger dies in order to deliver more logic gates to their customers inviting more opportunities for failure and bigger targets for gamma particles. Thus, there is a drive from the user community to improve reliability through some level of fault-tolerance. The homogeneous structure of Field programmable gate arrays (FPGAs) suggests that the defect tolerance can be achieved by shifting the configuration data inside the FPGA. This paper presents a study, comparison, analysis and implementation of two available methods for swapping the configured data that is king shifting algorithm and horse shifting algorithm and further proposes a new algorithm to minimize the overall cost and improve the yield and performance parameters of system.
+ER  - 
+
+TY  - CONF
+TI  - Supervisor synthesis for controller upgrades
+T2  - 2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+SP  - 1105
+EP  - 1110
+AU  - J. Kloos
+AU  - R. Majumdar
+PY  - 2013
+KW  - Switches
+KW  - Safety
+KW  - Asymptotic stability
+KW  - Stability analysis
+KW  - Switched systems
+KW  - Games
+DO  - 10.7873/DATE.2013.232
+JO  - 2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+IS  - 
+SN  - 1530-1591
+VO  - 
+VL  - 
+JA  - 2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+Y1  - 18-22 March 2013
+AB  - During the life cycle of a cyber-physical system, it is sometimes necessary to upgrade a working controller with a new, but unverified, one which provides better performance or additional functionality. To make sure that system invariants are not broken because of bugs in the new controller, an architecture is used in which both controllers are implemented on the platform, and a supervisor process checks that the actions of the new controller keep the system within its safe states. If an invariant may be violated, the supervisor switches over to the old controller that ensures correct behavior, but possibly degraded performance. A key question in the design of such supervisors is the switching strategy: when should the supervisor reinstate the new controller after it has switched to the old one? In general, one would prefer to use the new controller as much as possible, provided it does not violate safety. However, arbitrarily switching back to the new controller can cause the system to become unstable, even when each controller in isolation ensures stability. We provide a supervisor synthesis procedure that uses a simple counting strategy for the supervisor. Our synthesized supervisor ensures that switching between the controllers ensures stability of the system, while maintaining its safety properties and providing a lower bound on the use of the new controller. We prove the correctness of the strategy and show on an example that it can provide close to optimal use of the new controller against many disturbance scenarios.
+ER  - 
+
+TY  - CONF
+TI  - Partition-Based Coverage Metrics and Type-Guided Search in Concolic Testing for JavaScript Applications
+T2  - 2017 IEEE/ACM 5th International FME Workshop on Formal Methods in Software Engineering (FormaliSE)
+SP  - 72
+EP  - 78
+AU  - S. Bae
+AU  - J. Park
+AU  - S. Ryu
+PY  - 2017
+KW  - Testing
+KW  - Measurement
+KW  - Search problems
+KW  - Java
+KW  - Computer bugs
+KW  - Games
+KW  - Open source software
+DO  - 10.1109/FormaliSE.2017.10
+JO  - 2017 IEEE/ACM 5th International FME Workshop on Formal Methods in Software Engineering (FormaliSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE/ACM 5th International FME Workshop on Formal Methods in Software Engineering (FormaliSE)
+Y1  - 27-27 May 2017
+AB  - JavaScript extends its uses from client-side web applications to mobile applications, but testing JavaScript applications is not yet satisfactory. Researchers have not spent much attention on testing JavaScript programs, and existing coverage metrics and testing mechanisms for C and Java may not be applicable to JavaScript because of its extremely dynamic semantics without any compile-time checks. Because, in JavaScript, any variable may have any kinds of types during evaluation, and because varying types change program execution flows, testing JavaScript programs requires more cases to cover different execution flows. Thus, test cases with 100% coverage levels in terms of the existing coverage metrics for statically typed languages may miss faults in JavaScript. Moreover, existing search strategies for statically typed languages may not exercise increased test requirements by dynamic languages effectively. In this paper, we identify JavaScript characteristics that make thorough testing of JavaScript programs more difficult than testing C and Java programs. To address such characteristics, we propose new partition-based coverage metrics that expose implicit execution flows using varying types. To generate test cases satisfying the coverage metrics effectively, we develop type-guided search strategies for concolic testing using program analysis results. We evaluate the new coverage metrics and search strategies for concolic testing with open-source web applications, and the preliminary experimental results show that their practical uses in JavaScript testing are promising.
+ER  - 
+
+TY  - CONF
+TI  - QoS adaptation in real time systems based on CBWFQ
+T2  - 2011 28th National Radio Science Conference (NRSC)
+SP  - 1
+EP  - 8
+AU  - S. Badr
+AU  - F. Bayoumi
+AU  - G. Darwesh
+PY  - 2011
+KW  - Warranties
+KW  - Computational modeling
+KW  - QoS
+KW  - Real Time Systems
+KW  - Differentiated Services (DiffServ)
+KW  - OPNET
+DO  - 10.1109/NRSC.2011.5873626
+JO  - 2011 28th National Radio Science Conference (NRSC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 28th National Radio Science Conference (NRSC)
+Y1  - 26-28 April 2011
+AB  - The evolution of the World Wide Web (WWW) service has incorporated new distributed multimedia conference applications, powering a new generation of e-services development, and allowing improved interactivity. Most common interactive real-time applications are fault-tolerant but suffer from QoS limitations; low-latency requirements and reliability are cumulative to conference success, it may easily absorb all network resources and the subjective quality sensed by users would remain poor if the available resources are used indiscriminately. This paper simulates a network infrastructure design that classifies and prioritizes the real-time traffic in order to improve the performance of the real-time applications, taking into consideration of the performance of non real-time applications. This infrastructure has been designed to present a typical network of a university campus, so that in this way it can be implemented in any campus. In this paper 3 scenarios are suggested first before enabling any QoS mechanism at the routers, second use class based weighted fair queuing using low latency queue (CBWFQ-LLQ) for video traffic and last scenario apply CBWFQ-LLQ for voice. The simulation is conducted using OPNET IT Guru. Simulation results demonstrated that applying LLQ for voice improves the performance of overall real-time and non real-time application.
+ER  - 
+
+TY  - CONF
+TI  - Lifetime-oriented SVPWM for thermally-overloaded power devices in three-level inverters
+T2  - IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society
+SP  - 003614
+EP  - 003619
+AU  - M. Aly
+AU  - G. M. Dousoky
+AU  - M. Shoyama
+PY  - 2015
+KW  - lifetime
+KW  - multilevel inverters
+KW  - reliability
+KW  - SVPWM
+KW  - thermally-overloaded
+DO  - 10.1109/IECON.2015.7392662
+JO  - IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IECON 2015 - 41st Annual Conference of the IEEE Industrial Electronics Society
+Y1  - 9-12 Nov. 2015
+AB  - Boosting lifetime of power components in multilevel inverters is a major aim to enhance the total system reliability and performance. This paper presents a space vector pulse width modulation (SVPWM) strategy for lifetime prolongation of thermally-overloaded power devices in multilevel inverters. When a thermal overloading is detected in one of the power devices, the proposed algorithm is applied to relieve the overloaded device and therefore preventing dangerous circumstances such as open-or short-circuit faults. The proposed methodology relies on using the redundancy property between the switching states in multilevel inverters to continuously evaluate the junction temperature of the thermally-overloaded power devices for all the possible switching sequences, then it identifies the optimal relieving switching sequence. The proposed methodology is valid for both/either of the power switching devices and/or DC-link capacitors. The proposed strategy is simple, and does not require any additional hardware. Furthermore, it does not deteriorate the output power. Accordingly, lifetime and reliability of multilevel inverters have been enhanced considerably. The proposed methodology has been designed and validated by simulation and experimental prototyping of a three-level T-type inverter system to investigate its feasibility and effectiveness.
+ER  - 
+
+TY  - CONF
+TI  - Arc flash and electrical safety
+T2  - 2013 66th Annual Conference for Protective Relay Engineers
+SP  - 24
+EP  - 35
+AU  - W. Lee
+AU  - T. Gammon
+AU  - Z. Zhang
+AU  - B. Johnson
+AU  - J. Beyreis
+PY  - 2013
+KW  - Arc discharges
+KW  - Electrodes
+KW  - Hazards
+KW  - Testing
+KW  - Standards
+KW  - Injuries
+KW  - Heating
+KW  - Arc Flash
+KW  - Incident Energy
+KW  - Non-Thermal Hazards
+KW  - Vertical and Horizontal Electrodes
+DO  - 10.1109/CPRE.2013.6822024
+JO  - 2013 66th Annual Conference for Protective Relay Engineers
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 66th Annual Conference for Protective Relay Engineers
+Y1  - 8-11 April 2013
+AB  - According to NFPA 70E, more than 2000 workers are admitted to hospital burn centers per year for extensive injuries caused by arc flash accidents. Arc flash incidents occur when unintended electric current flows through air, superheating the air and causes an explosion. Recognizing the significant threat posed by arc flash hazards, IEEE and NFPA have joined forces on an initiative to support research and additional testing to increase the understanding of the arc flash phenomena. Several areas of the arc flash phenomena need further research and testing validation to provide relevant information that can be used for developing safety strategies to protect workers. The identified areas include but are not limited to: (a) Heat and Thermal Effects, (b) Blast Pressure, (c) Sound and (d) Light Hazards. The test results of this project will provide information to help more accurately predict the hazards associated with high energy arcing faults, thereby improving electrical safety standards and providing practical safeguards for employees in the work place. This report highlights the activities of this collaborative research project.
+ER  - 
+
+TY  - CONF
+TI  - “Arc flash” hazards, incident energy, PPE ratings and thermal burn injury - A deeper look
+T2  - 2015 IEEE IAS Electrical Safety Workshop
+SP  - 1
+EP  - 9
+AU  - T. Gammon
+AU  - W. Lee
+AU  - Z. Zhang
+AU  - B. Johnson
+PY  - 2015
+KW  - Arc discharges
+KW  - Hazards
+KW  - Injuries
+KW  - Electrodes
+KW  - Heating
+KW  - Skin
+KW  - Fabrics
+KW  - arc flash hazard
+KW  - incident energy
+KW  - PPE
+DO  - 10.1109/ESW.2015.7094934
+JO  - 2015 IEEE IAS Electrical Safety Workshop
+IS  - 
+SN  - 2326-330X
+VO  - 
+VL  - 
+JA  - 2015 IEEE IAS Electrical Safety Workshop
+Y1  - 26-30 Jan. 2015
+AB  - Tremendous resources are being invested in arc flash studies and personal protective equipment (PPE) to protect workers from “arc flash” hazards. In the flurry to comply with OSHA regulations and NFPA 70 and 70E Standards, real understanding of the arc hazard and incident energy may be lagging behind. The term “arc flash” does not adequately convey the range of potential arc hazards - light, pressure and heat transmission, as well as others. The term “arc flash” also fails to emphasize that arc flash injuries primarily arise from thermal burns, and that the risk of a potentially severe or fatal arc burn is often present when performing electrical work. Worker risk assessment and the appropriate PPE are represented as definitive quantities in “cal/cm<sup>2</sup>;” however, the quantitative potential heat exposure and heat protection afforded by PPE are usually less precise than the assigned numerical value. Basic concepts of incident energy, PPE ratings and burn injury are also explored in this paper to help identify factors influencing the burn hazards posed by arcing faults in electrical power systems.
+ER  - 
+
+TY  - CONF
+TI  - Fault Attacks Resistant AES Hardware Implementation
+T2  - 2019 IEEE International Conference on Design & Test of Integrated Micro & Nano-Systems (DTS)
+SP  - 1
+EP  - 6
+AU  - H. Mestiri
+AU  - N. Benhadjyoussef
+AU  - M. Machhout
+PY  - 2019
+KW  - Encryption
+KW  - Registers
+KW  - Fault detection
+KW  - Multiplexing
+KW  - Hardware
+KW  - Robustness
+KW  - AES
+KW  - Cryptography
+KW  - fault attacks
+KW  - fault detection
+KW  - Embedded systems
+DO  - 10.1109/DTSS.2019.8914979
+JO  - 2019 IEEE International Conference on Design & Test of Integrated Micro & Nano-Systems (DTS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Conference on Design & Test of Integrated Micro & Nano-Systems (DTS)
+Y1  - 28 April-1 May 2019
+AB  - The protection of the symmetric cryptographic algorithm, specially the Advanced Encryption Standard (AES), against fault injection attacks is very inportant to guarantee the security of transmitted data. In this paper, we proposed a new fault detection scheme based information redundancy for the AES. We analysis the detection scheme robustness against the fault injection attacks. The simulation fault attacks results prove that the fault coverage reaches 71.43%. In addition, the original and the protected AES hardware implementation have been implemented on the Xilinx Virtex-5 FPGA. We confirm that the protected AES is very effective while keeping the frequency overhead very low.
+ER  - 
+
+TY  - CONF
+TI  - CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries
+T2  - 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+SP  - 1027
+EP  - 1038
+AU  - H. V. Pham
+AU  - T. Lutellier
+AU  - W. Qi
+AU  - L. Tan
+PY  - 2019
+KW  - Libraries
+KW  - Computer bugs
+KW  - Testing
+KW  - Training
+KW  - Atmospheric modeling
+KW  - Task analysis
+KW  - Deep learning
+KW  - deep learning software testing
+KW  - cross-implementation testing
+KW  - bugs detection
+KW  - software testing
+DO  - 10.1109/ICSE.2019.00107
+JO  - 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+Y1  - 25-31 May 2019
+AB  - Deep learning (DL) systems are widely used in domains including aircraft collision avoidance systems, Alzheimer's disease diagnosis, and autonomous driving cars. Despite the requirement for high reliability, DL systems are difficult to test. Existing DL testing work focuses on testing the DL models, not the implementations (e.g., DL software libraries) of the models. One key challenge of testing DL libraries is the difficulty of knowing the expected output of DL libraries given an input instance. Fortunately, there are multiple implementations of the same DL algorithms in different DL libraries. Thus, we propose CRADLE, a new approach that focuses on finding and localizing bugs in DL software libraries. CRADLE (1) performs cross-implementation inconsistency checking to detect bugs in DL libraries, and (2) leverages anomaly propagation tracking and analysis to localize faulty functions in DL libraries that cause the bugs. We evaluate CRADLE on three libraries (TensorFlow, CNTK, and Theano), 11 datasets (including ImageNet, MNIST, and KGS Go game), and 30 pre-trained models. CRADLE detects 12 bugs and 104 unique inconsistencies, and highlights functions relevant to the causes of inconsistencies for all 104 unique inconsistencies.
+ER  - 
+
+TY  - CONF
+TI  - A novel SSIM index for image quality assessment using a new luminance adaptation effect model in pixel intensity domain
+T2  - 2015 Visual Communications and Image Processing (VCIP)
+SP  - 1
+EP  - 4
+AU  - S. Bae
+AU  - M. Kim
+PY  - 2015
+KW  - Indexes
+KW  - Visualization
+KW  - Nonlinear distortion
+KW  - Image quality
+KW  - Adaptation models
+KW  - Sensitivity
+KW  - human visual system (HVS)
+KW  - image quality assessment (IQA)
+KW  - luminance adaptation (LA)
+DO  - 10.1109/VCIP.2015.7457810
+JO  - 2015 Visual Communications and Image Processing (VCIP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 Visual Communications and Image Processing (VCIP)
+Y1  - 13-16 Dec. 2015
+AB  - The Structural SIMilarity (SSIM) is one of the most prominent image quality assessment (IQA) methods due to its high prediction performance and wide applicability for image quality optimization problems. To reflect the luminance adaptation (LA) characteristic of human visual system (HVS), SSIM is modelled to have high consistency with Weber's law. However, it inevitably has some intrinsic faults that wrongly incorporate the LA effect into SSIM. In this paper, we firstly analyze that Weber's law in the conventional SSIM index cannot precisely reflect the LA effect due to two reasons: (i) it is reported that Weber's law model is not able to precisely be fitted in the measured experimental results for the LA effect; (ii) SSIM is calculated with pixel intensity values, but Weber's law is applied for luminance values which have non-linear relations with the pixel intensity values. To solve this problem, we first theoretically derive a new LA effect model in pixel intensity domain using a Gamma correction function and a power-law model. We then devise a weight function for the LA effect, called LA-based local weight function (LALF) which allows the proposed LA effect model to be precisely incorporated into SSIM index. To verify the effectiveness of the proposed LALF-based SSIM, we perform comprehensive experiments on four large IQA databases. Experimental results show that the proposed LALF helps performance improvement of the SSIM index.
+ER  - 
+
+TY  - CONF
+TI  - Nonsense to Sense: A Way to Critical Thinking Development
+T2  - 2019 17th International Conference on Emerging eLearning Technologies and Applications (ICETA)
+SP  - 268
+EP  - 273
+AU  - J. Hvorecky
+PY  - 2019
+KW  - Mathematics
+KW  - Internet
+KW  - Pupils
+KW  - Education
+KW  - Standards
+KW  - Natural languages
+KW  - Weapons
+DO  - 10.1109/ICETA48886.2019.9040053
+JO  - 2019 17th International Conference on Emerging eLearning Technologies and Applications (ICETA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 17th International Conference on Emerging eLearning Technologies and Applications (ICETA)
+Y1  - 21-22 Nov. 2019
+AB  - Human brains tend to assign meanings to all objects and doings around. Not all constructions applied during these processes are correct. They then result in mistakes, confusions or misconceptions. Today, the Internet is often used as a medium for spreading such unsound information generally described as “fake news” or “conspiracy theories”. If we do not want our students to be overwhelmed by them, we have to search for methods helping them to disclose common logical failures and delusions. To do so, the author demonstrates to his learners how easily false information can be produced by hiding and/or modifying regular information. To disclose errors in this type of information, one has to find missing or misinterpreted pieces using a similar approach - to analyze its input elements, their robustness and relevance and then to study correctness of the process of their combination and reasoning. Our aim is to point to the moments which can decide whether person's thinking is of high quality. In our presentation, we present our approach by a series of examples demonstrating nonsenses and absurd statements in Mathematics. Maths is often presented as a “magic wand” for developing critical thinking skills. We show that the relationship between mathematics and critical thinking is more complex. The problem lies in the ambiguity of natural language. By showing differences and discrepancies between the two, the learners may recognize the most frequent faults and become capable to disclose their own fallacies. This ability should become an integral part of their critical thinking weaponry.The simplicity, transparency and humorous character of our examples attracts students to participate in an intellectual game which covers all aspects of total quality framework: credibility, analyzability, transparency and usefulness. Our presented problems may inspire other educators to generate their own “nonsenses” specific for their courses in order to build a solid and structured basis for their disciplines.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of Mimic Defense and Defense Capabilities based on Four-Executor
+T2  - 2018 International Conference on Advanced Mechatronic Systems (ICAMechS)
+SP  - 137
+EP  - 142
+AU  - L. OuYang
+AU  - K. Song
+AU  - X. Lu
+AU  - X. Li
+PY  - 2018
+KW  - Cleaning
+KW  - Security
+KW  - Safety
+KW  - Redundancy
+KW  - Software
+KW  - Software algorithms
+KW  - Computer bugs
+KW  - mimic defense
+KW  - quadruple redundancy structure
+KW  - Attack probability model
+DO  - 10.1109/ICAMechS.2018.8506861
+JO  - 2018 International Conference on Advanced Mechatronic Systems (ICAMechS)
+IS  - 
+SN  - 2325-0690
+VO  - 
+VL  - 
+JA  - 2018 International Conference on Advanced Mechatronic Systems (ICAMechS)
+Y1  - 30 Aug.-2 Sept. 2018
+AB  - In recent years, with rapid development of information technology, the network attacks against known or unknown bugs and backdoors are endless and difficult to be solved effectively, so the academician Wu Jiangxing has developed an innovative defense technology that can “change the rules of the game” - mimic defense technology and validated in the fields of web server, etc. But in practice, for the mimic defense technology, the mode of triple redundancy is usually adopted for mimic structural design, in this paper, two types of attack probability model and scheduling arbitration algorithms and triple redundancy structure and quadruple redundancy structure are analyzed, and it is theoretically proven that the triple redundancy structure has limited defense capability in responding to evasive triggered attacks, the quadruple redundancy structure has better defense effect, and the structure have a good reference value for the mimic architectural design.
+ER  - 
+
+TY  - CONF
+TI  - H-Infinity gain scheduling design for the meridian UAS for a broader range of operation and for fault tolerant applications
+T2  - 2011 9th IEEE International Conference on Control and Automation (ICCA)
+SP  - 1174
+EP  - 1180
+AU  - G. A. Garcia
+AU  - S. Keshmiri
+AU  - R. D. Colgren
+PY  - 2011
+KW  - Aerodynamics
+KW  - Uncertainty
+KW  - Stability analysis
+KW  - H infinity control
+KW  - Robustness
+KW  - Atmospheric modeling
+KW  - Interpolation
+DO  - 10.1109/ICCA.2011.6137962
+JO  - 2011 9th IEEE International Conference on Control and Automation (ICCA)
+IS  - 
+SN  - 1948-3457
+VO  - 
+VL  - 
+JA  - 2011 9th IEEE International Conference on Control and Automation (ICCA)
+Y1  - 19-21 Dec. 2011
+AB  - This paper describes the design of a MIMO H-infinity gain schedule for the Meridian UAS and illustrates its application for an extended operational range and for a moderate fault tolerant capability. The gain scheduling concept is based on smooth interpolation between two H-infinity controllers, covering a broad range of trim conditions. This interpolation is provided by the homogeneous design of the controllers by using the same augmented model structure within the H-infinity algorithm. The scheduling variable is defined as the commanded airspeed, acting as an exogenous variable, driving a smooth transition between the current and the next controller. The utilization of an exogenous signal avoids the occurrence of hidden coupling effects, typical in gain scheduling applications. Also, a new procedure is defined to adapt the controller when a failure or a significant dynamic change in the UAS takes place. Using the best knowledge of the failure the H-infinity controller is calculated. This controller is computed with a predefined gamma value, avoiding iterations, generating the new controller instantaneously.
+ER  - 
+
+TY  - CONF
+TI  - Fault-Tolerant Parallel and Distributed Computing for Software Engineering Undergraduates
+T2  - 2015 IEEE International Parallel and Distributed Processing Symposium Workshop
+SP  - 788
+EP  - 794
+AU  - A. Ebnenasir
+AU  - J. Mayo
+PY  - 2015
+KW  - Computational modeling
+KW  - Games
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Safety
+KW  - Operating systems
+DO  - 10.1109/IPDPSW.2015.80
+JO  - 2015 IEEE International Parallel and Distributed Processing Symposium Workshop
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Parallel and Distributed Processing Symposium Workshop
+Y1  - 25-29 May 2015
+AB  - We report on our experience of integrating Fault-Tolerant Parallel and Distributed Computing (FTPDC) concepts in three core and elective courses in spring 2014 at Michigan Technological University, namely Model-Driven Software Development, Software Quality Assurance and Operating Systems. Our objective is to educate senior undergraduate Software Engineering students on the design, verification and implementation of fault tolerance in Parallel and Distributed Computing (PDC) systems. Towards this end, we design three course modules that include several lectures, demonstrations and homework assignments. We implement these course modules based on a discovery-based method of teaching where students are required (individually and in groups) to solve problems by modeling, simulating and verifying models of FTPDC systems. The students' performances and their feedback show that the designed course modules for the modeling and automated analysis of FTPDC have significantly helped them to understand the basic concepts of FTPDC and explore more advanced concepts. We will improve the design of the third course module to enhance students' skills in the implementation of fault-tolerance mechanisms.
+ER  - 
+
+TY  - CONF
+TI  - Strategic Energy Management Of A Hybridized Wind-Solar Smart Grid
+T2  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+SP  - 407
+EP  - 412
+AU  - B. O. Ojwang
+AU  - P. M. Musau
+AU  - D. M. Ogeto
+PY  - 2020
+KW  - Voltage fluctuations
+KW  - Power system stability
+KW  - Stability analysis
+KW  - Power electronics
+KW  - Smart grids
+KW  - Voltage control
+KW  - Load modeling
+KW  - Energy Management System (EMS)
+KW  - Power Electronic Transformer (PET)
+KW  - Renewable Distributed Generation (RDG)
+KW  - Wind-Solar System (WI-Se)
+DO  - 10.1109/ENERGYCon48941.2020.9236621
+JO  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+Y1  - 28 Sept.-1 Oct. 2020
+AB  - Conventional power systems are transitioning to smart grids for remote control, reduced losses and auto correction of system faults. An energy management system for smart grids based on renewable sources is critical due to the intermittent nature of output power from these sources and variability of the load demands, which yield voltage and frequency fluctuations. This study analyses the superiority of smart grids based on power electronic transformers. P-F droop control method and Q-V droop method have been used for frequency and voltage rectification respectively. MATLAB simulations were run and the results show the hybridized smart grid has better stability as compared to stand-alone systems. The optimization method used is hybrid particle swarm and grey wolf due to its faster convergence performance and fast implementation process. The study finds that implementation of the management strategy modeled would result in 100% load supply and hence stability of the power system.
+ER  - 
+
+TY  - CONF
+TI  - Detecting software modularity violations
+T2  - 2011 33rd International Conference on Software Engineering (ICSE)
+SP  - 411
+EP  - 420
+AU  - S. Wong
+AU  - Y. Cai
+AU  - M. Kim
+AU  - M. Dalton
+PY  - 2011
+KW  - Couplings
+KW  - Unified modeling language
+KW  - Games
+KW  - Software
+KW  - History
+KW  - Cloning
+KW  - USA Councils
+KW  - bad code smells
+KW  - design structure matrix
+KW  - modularity violation detection
+KW  - refactoring
+DO  - 10.1145/1985793.1985850
+JO  - 2011 33rd International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2011 33rd International Conference on Software Engineering (ICSE)
+Y1  - 21-28 May 2011
+AB  - This paper presents Clio, an approach that detects modularity violations, which can cause software defects, modularity decay, or expensive refactorings. Clio computes the discrepancies between how components should change together based on the modular structure, and how components actually change together as revealed in version history. We evaluated Clio using 15 releases of Hadoop Common and 10 releases of Eclipse JDT. The results show that hundreds of violations identified using Clio were indeed recognized as design problems or refactored by the developers in later versions. The identified violations exhibit multiple symptoms of poor design, some of which are not easily detectable using existing approaches.
+ER  - 
+
+TY  - CONF
+TI  - Feature reconstruction for 3D medical images processing
+T2  - 2013 6th International Conference on Biomedical Engineering and Informatics
+SP  - 69
+EP  - 74
+AU  - C. Wang
+AU  - M. Lin
+AU  - C. Wang
+AU  - C. Chen
+AU  - J. Hsieh
+PY  - 2013
+KW  - Solid modeling
+KW  - Three-dimensional displays
+KW  - Computed tomography
+KW  - Image reconstruction
+KW  - Splines (mathematics)
+KW  - Mathematical model
+KW  - Pelvic bones
+KW  - Feature reconstruction
+KW  - computed tomography
+KW  - medical images
+KW  - B-spline surfaces
+KW  - rapid prototyping
+KW  - virtual surgery
+DO  - 10.1109/BMEI.2013.6746909
+JO  - 2013 6th International Conference on Biomedical Engineering and Informatics
+IS  - 
+SN  - 1948-2922
+VO  - 
+VL  - 
+JA  - 2013 6th International Conference on Biomedical Engineering and Informatics
+Y1  - 16-18 Dec. 2013
+AB  - Computed tomography (CT) greatly improves the image information available to surgeons and is quickly becoming one of the most important methods to identify defects in patients. However, doctors must check these CT slices again and again to find the exact position of the problem. This is not only a waste of time but also highly inefficient. This paper presents a rapid process to reconstruct three-dimensional (3D) surfaces from two-dimensional (2D) CT scanned data. Based on geometric model reconstruction, a series of 2D CT image slices were read and transformed into profiles and 3D B-spline patch models were then generated. The data could be converted to a VRML format for virtual surgical applications. An actual rapid prototyping model was created for checking the design process. CT images of a human pelvic bone and skull mask were used as case studies to construct a 3D solid model from medical images. The actual model will allow doctors to observe CT slices in 3D, decrease training time, and provide references for medical image research.
+ER  - 
+
+TY  - CONF
+TI  - Cyclic network automata and cohomological waves
+T2  - IPSN-14 Proceedings of the 13th International Symposium on Information Processing in Sensor Networks
+SP  - 215
+EP  - 224
+AU  - Y. Cai
+AU  - R. Ghrist
+PY  - 2014
+KW  - Protocols
+KW  - Automata
+KW  - Zinc
+KW  - Games
+KW  - Lattices
+KW  - Topology
+KW  - Wireless sensor networks
+DO  - 10.1109/IPSN.2014.6846754
+JO  - IPSN-14 Proceedings of the 13th International Symposium on Information Processing in Sensor Networks
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IPSN-14 Proceedings of the 13th International Symposium on Information Processing in Sensor Networks
+Y1  - 15-17 April 2014
+AB  - Following Baryshnikov-Coffman-Kwak [2], we use cyclic network automata (CNA) to generate a decentralized protocol for dynamic coverage problems in a sensor network, with only a small fraction of sensors awake at every moment. This paper gives a rigorous analysis of CNA and shows that waves of awake-state nodes automatically solve pusuit/evasion-type problems without centralized coordination. As a corollary of this work, we unearth some interesting topological interpretations of features previously observed in cyclic cellular automata (CCA). By considering CCA over networks and completing to simplicial complexes, we induce dynamics on the higher-dimensional complex. In this setting, waves are seen to be generated by topological defects with a nontrivial degree (or winding number). The simplicial complex has the topological type of the underlying map of the workspace (a subset of the plane), and the resulting waves can be classified cohomologically. This allows one to “program” pulses in the sensor network according to cohomology class. We give a realization theorem for such pulse waves.
+ER  - 
+
+TY  - CONF
+TI  - A Software Measurement Framework Guided by Support Vector Machines
+T2  - 2017 31st International Conference on Advanced Information Networking and Applications Workshops (WAINA)
+SP  - 397
+EP  - 402
+AU  - S. A. Dahab
+AU  - S. Maag
+AU  - X. Che
+PY  - 2017
+KW  - Software measurement
+KW  - Software
+KW  - Unified modeling language
+KW  - Monitoring
+KW  - Runtime
+KW  - Support vector machines
+KW  - software metrics
+KW  - software measurement
+KW  - SVM
+DO  - 10.1109/WAINA.2017.66
+JO  - 2017 31st International Conference on Advanced Information Networking and Applications Workshops (WAINA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 31st International Conference on Advanced Information Networking and Applications Workshops (WAINA)
+Y1  - 27-29 March 2017
+AB  - The quality of software engineering has always been of high importance for many actors. With the complexity of the platforms and its components, this is nowadays becoming crucial at each level in order to detect the eventual defects. Due to that complexity, the current measurement and analysis processes become heavier. Indeed, either for runtime monitoring, QoE, mobile gaming or simply for systems development, the software measurements tasks have to be fine-grained, 'greenable' and distributed. This work aims at improving the software monitoring processes and its analysis. Based on a learning-aided analysis, we intend to suggest and select metrics that should be applied at runtime to increase the quality of the measurement plan and to target metrics that could raise relevant information on the measureand. Our approach proposes a data model that allows highlighting the monitored activity of a characteristic according to the data values of the model. We focus on complex metrics that are formally modeled using the OMG standard SMM. Some experiments are performed to exemplify our methodology.
+ER  - 
+
+TY  - CONF
+TI  - RTRLib: A High-Level Modeling Tool for the Implementation of Dynamically Partial Reconfigurable System-on-Chips
+T2  - 2019 International Conference on ReConFigurable Computing and FPGAs (ReConFig)
+SP  - 1
+EP  - 5
+AU  - R. M. Ivo
+AU  - D. M. Muñoz
+PY  - 2019
+KW  - Partial Reconfiguration
+KW  - High-level Modeling
+KW  - System-on-Chip
+KW  - FPGA
+DO  - 10.1109/ReConFig48160.2019.8994779
+JO  - 2019 International Conference on ReConFigurable Computing and FPGAs (ReConFig)
+IS  - 
+SN  - 2640-0472
+VO  - 
+VL  - 
+JA  - 2019 International Conference on ReConFigurable Computing and FPGAs (ReConFig)
+Y1  - 9-11 Dec. 2019
+AB  - Partial Reconfiguration allows the time-multiplexing resources to be explored, accomplishing requirements such as adaptability, robustness, power consumption, cost, and also fault tolerance. This paper presents a new partial reconfiguration toolkit called RTRLib that aims to simplify the development of dynamically reconfigurable systems, consequently reducing the development time. The RTRLib is a platform-based high-level modeling tool for run-time reconfigurable systems based on the semi-formal refinement-by-replacement methodology used to simulate and analyze the system behavior during the reconfiguration process. The RTRLib also automatically provides the Vivado and SDK scripts, under some restrictions. Since RTRLib is based on previous characterized IP-cores, it is possible to have an earlier estimation of the reconfiguration time and the reconfigurable partitions resource utilization during the design process. The proposed solution allows the designer to construct the partial reconfiguration solution to be mapped on FPGA-based System-on-Chips by a simple system specification and parametrization.
+ER  - 
+
+TY  - CONF
+TI  - Reducing the Concretization Effort in FSM-Based Testing of Software Product Lines
+T2  - 2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+SP  - 329
+EP  - 336
+AU  - V. H. Fragal
+AU  - A. Simao
+AU  - A. T. Endo
+AU  - M. R. Mousavi
+PY  - 2017
+KW  - Testing
+KW  - Games
+KW  - Software product lines
+KW  - Mobile communication
+KW  - Conferences
+KW  - Software
+KW  - Context modeling
+KW  - Conformance Testing
+KW  - Test Case Reuse
+KW  - Model-Based Testing
+KW  - Finite State Machine
+KW  - Software Product Lines
+DO  - 10.1109/ICSTW.2017.61
+JO  - 2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+Y1  - 13-17 March 2017
+AB  - To test a Software Product Line (SPL), the test artifacts and the techniques must be extended to support variability. In general, when new SPL products are developed, more tests are generated to cover new or modified features. A dominant source of extra effort for such tests is the concretization of newly generated tests. Thus, minimizing the amount of new nonconcretized tests required to perform conformance testing on new products reduces the overall test effort. In this paper, we propose a test reuse strategy for conformance testing of SPL products that aims at reducing test effort. We use incremental test generation methods based on finite state machines (FSMs) to maximize test reuse. We combine these methods with a selection algorithm used to identify non-redundant concretized tests. We illustrate our strategy using examples and a case study with an embedded mobile SPL. The results indicate that our strategy can save up to 36% of test effort in comparison to current test reuse strategies for the same fault detection capability.
+ER  - 
+
+TY  - CONF
+TI  - Fault detection based on modelling electromechanical drive chain
+T2  - International Symposium on Power Electronics Power Electronics, Electrical Drives, Automation and Motion
+SP  - 1336
+EP  - 1341
+AU  - V. Füvesi
+AU  - E. Kovács
+PY  - 2012
+KW  - Training
+KW  - Mathematical model
+KW  - Wheels
+KW  - Tracking
+KW  - Sensors
+KW  - Fault detection
+KW  - Circuit faults
+KW  - Fault detection
+KW  - Neural Networks
+KW  - Electromechanical systems
+DO  - 10.1109/SPEEDAM.2012.6264441
+JO  - International Symposium on Power Electronics Power Electronics, Electrical Drives, Automation and Motion
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - International Symposium on Power Electronics Power Electronics, Electrical Drives, Automation and Motion
+Y1  - 20-22 June 2012
+AB  - A nonlinear model of an electromechanical drive chain used to drive Gamma-log measurement equipment is presented. Locally linear neuro-fuzzy (LLNF) model was developed with LOLIMOT algorithm that is able to capture the dynamic properties of the system over a wide operating range. Some frequently occurring faults were artificially generated and the ability of the fault detection system to capture them was tested. Based on the detected faults, error signal generation was elaborated for end-users using differently structured neural network models. The structures of the used networks were briefly analysed and compared.
+ER  - 
+
+TY  - CONF
+TI  - Faulty Requirements Made Valuable: On the Role of Data Quality in Deep Learning
+T2  - 2020 IEEE Seventh International Workshop on Artificial Intelligence for Requirements Engineering (AIRE)
+SP  - 61
+EP  - 69
+AU  - H. Challa
+AU  - N. Niu
+AU  - R. Johnson
+PY  - 2020
+KW  - Data integrity
+KW  - Inspection
+KW  - Software
+KW  - Deep learning
+KW  - Games
+KW  - Training data
+KW  - Testing
+KW  - data quality
+KW  - stationarity
+KW  - recurrent neural network
+KW  - metamorphic testing
+KW  - smart sewer systems
+DO  - 10.1109/AIRE51212.2020.00016
+JO  - 2020 IEEE Seventh International Workshop on Artificial Intelligence for Requirements Engineering (AIRE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE Seventh International Workshop on Artificial Intelligence for Requirements Engineering (AIRE)
+Y1  - 1-1 Sept. 2020
+AB  - Large collections of data help evolve deep learning into the state-of-the-art in solving many artificial intelligence problems. However, the requirements engineering (RE) community has yet to adapt to such sweeping changes caused exclusively by data. One reason is that the traditional requirements quality like unambiguity becomes less applicable to data, and so do requirements fault detection techniques like inspections. In this paper, we view deep learning as a class of machines whose effects must be evaluated with direct consideration of inherent data quality attributes: accuracy, consistency, currentness, etc. We substantiate this view by altering stationarity of the multivariate time-series data, and by further analyzing how the stationarity changes affect the behavior of a recurrent neural network in the context of predicting combined sewer overflow. Our work sheds light on the active role RE plays in deep learning.
+ER  - 
+
+TY  - CONF
+TI  - A safe generic adaptation mechanism for smart cars
+T2  - 2015 IEEE 26th International Symposium on Software Reliability Engineering (ISSRE)
+SP  - 161
+EP  - 171
+AU  - A. Ruiz
+AU  - G. Juez
+AU  - P. Schleiss
+AU  - G. Weiss
+PY  - 2015
+KW  - Software
+KW  - Hardware
+KW  - Hazards
+KW  - Computer architecture
+KW  - Automotive engineering
+KW  - Runtime
+KW  - self-adaptive systems
+KW  - ISO 26262
+KW  - fail-operational
+DO  - 10.1109/ISSRE.2015.7381810
+JO  - 2015 IEEE 26th International Symposium on Software Reliability Engineering (ISSRE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE 26th International Symposium on Software Reliability Engineering (ISSRE)
+Y1  - 2-5 Nov. 2015
+AB  - Today's vehicles are evolving towards smart cars, which will be able to drive autonomously and adapt to changing contexts. Incorporating self-adaptation in these cyber-physical systems (CPS) promises great benefits, like cheaper software-based redundancy or optimised resource utilisation. As promising as these advantages are, a respective proportion of a vehicle's functionality poses as safety hazards when confronted with fault and failure situations. Consequently, a system's safety has to be ensured with respect to the availability of multiple software applications, thus often resulting in redundant hardware resources, such as dedicated backup control units. To benefit from self-adaptation by means of creating efficient and safe systems, this work introduces a safety concept in form of a generic adaptation mechanism (GAM). In detail, this generic adaptation mechanism is introduced and analysed with respect to generally known and newly created safety hazards, in order to determine a minimal set of system properties and architectural limitations required to safely perform adaptation. Moreover, the approach is applied to the ICT architecture of a smart e-car, thereby highlighting the soundness, general applicability, and advantages of this safety concept and forming the foundation for the currently ongoing implementation of the GAM within a real prototype vehicle.
+ER  - 
+
+TY  - CONF
+TI  - Reliability Improvement of Fault-Tolerant Shuffle Exchange Interconnection Networks
+T2  - 2020 10th International Conference on Computer and Knowledge Engineering (ICCKE)
+SP  - 336
+EP  - 341
+AU  - R. Gholizadeh
+AU  - M. Valinataj
+PY  - 2020
+KW  - Reliability
+KW  - Switches
+KW  - Multiprocessor interconnection
+KW  - Fault tolerant systems
+KW  - Fault tolerance
+KW  - Software reliability
+KW  - Reliability engineering
+KW  - Multistage interconnection networks
+KW  - Shuffle exchange network
+KW  - Reliability block diagram
+KW  - Terminal reliability
+KW  - Fault-tolerance
+DO  - 10.1109/ICCKE50421.2020.9303610
+JO  - 2020 10th International Conference on Computer and Knowledge Engineering (ICCKE)
+IS  - 
+SN  - 2643-279X
+VO  - 
+VL  - 
+JA  - 2020 10th International Conference on Computer and Knowledge Engineering (ICCKE)
+Y1  - 29-30 Oct. 2020
+AB  - Multistage interconnection networks (MINs) are used as a fast and efficient communication medium for interconnecting the elements of a multiprocessor system which mainly includes processors and memories. The reliability in these networks is an important aspect. In this paper, a new method is proposed to increase the reliability of fault-tolerant multistage interconnection networks which are based on shuffle exchange network (SEN) and shuffle exchange gamma interconnection network (SEGIN). In fact, by adding some extra multiplexers (MUX) and demultiplexers (DeMUX) in the first and last stages of these networks, the number of paths between each source-destination pair increases that results in higher reliability compared to previous networks. Moreover, theses extra modules construct a bypass path for each source or destination node that leads to decrease the single point of failure probability in comparison with the previous networks. The proposed networks are analyzed and evaluated compared to similar fault-tolerant networks based on the reliability aspects and hardware cost.
+ER  - 
+
+TY  - CONF
+TI  - A survey on defect and noise detection and correction algorithms in image sensors
+T2  - 2015 International Conference on Advances in Computer Engineering and Applications
+SP  - 754
+EP  - 759
+AU  - A. Jain
+AU  - R. Gupta
+PY  - 2015
+KW  - Noise
+KW  - Kernel
+KW  - Sensors
+KW  - Shape
+KW  - Algorithm design and analysis
+KW  - Signal processing algorithms
+KW  - Image sensors
+KW  - Image sensors
+KW  - defect detection
+KW  - defect correction
+KW  - noise reduction
+DO  - 10.1109/ICACEA.2015.7164803
+JO  - 2015 International Conference on Advances in Computer Engineering and Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Advances in Computer Engineering and Applications
+Y1  - 19-20 March 2015
+AB  - This paper presents a survey on various novel defect and noise detection and correction algorithms used in CMOS image sensors. This class of sensors is extremely relevant in number of applications in the areas of gaming, security, medical, automotive, high-end camera market, etc. This survey outlines the algorithms and the hardware implementation of novel defect and noise detection and correction schemes to detect and correct defective pixels, and discusses their performance and advantages in terms of their applications. Experimental results on various images illustrate the capabilities of the studied approaches.
+ER  - 
+
+TY  - CONF
+TI  - Learn to Optimize: Adaptive VNF Provisioning in Mobile Edge Clouds
+T2  - 2020 17th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)
+SP  - 1
+EP  - 9
+AU  - Q. Xia
+AU  - W. Ren
+AU  - Z. Xu
+AU  - P. Zhou
+AU  - W. Xu
+AU  - G. Wu
+PY  - 2020
+KW  - Delays
+KW  - Optimization
+KW  - Cloud computing
+KW  - Machine learning
+KW  - Throughput
+KW  - Adaptive systems
+KW  - Machine learning algorithms
+KW  - Network function virtualization
+KW  - adaptive VNF provisioning
+KW  - feature embedding
+KW  - deep reinforcement learning
+KW  - machine learning for networking
+DO  - 10.1109/SECON48991.2020.9158427
+JO  - 2020 17th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)
+IS  - 
+SN  - 2155-5494
+VO  - 
+VL  - 
+JA  - 2020 17th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)
+Y1  - 22-25 June 2020
+AB  - Machine learning (ML) has been penetrating into our daily life by facilitating many daily applications, e.g., self-driving, cloud gaming, product fault detection and drones. Meanwhile, there is an emerging trend that adopts ML methods into network optimization problems, such as flow classification, traffic engineering, routing, and etc. Conventional ML methods need careful training for a specific application of a given network structure, and the trained model normally cannot be applied to other applications and network structures. In this paper, we aim to design adaptive ML methods for network optimization problems, with the trained models having the ability of being deployed to any similar problems. In particular, we consider the virtualized network function (VNF) provisioning problem as our target optimization problem. We first propose a deep Q-learning-based optimization framework for VNF provisioning in a mobile edge network with network capacity constraints, by devising an adaptive graph feature embedding method. We then propose a series of deep Q-learning based learning algorithms for the problems of service chaining and the throughput maximization, based on the proposed learning-based optimization framework. We also propose a novel design of master-slave dual neural network that enables the decisions on both cloudlet selections and routing path finding. To stabilize and accelerate the convergence of the proposed methods, we devise a novel environment generation and termination strategy and a new structure for the replay buffer. We also evaluate the performance of the proposed framework and algorithms by extensive simulations. Results show that the proposed algorithms outperform existing methods by around 12%, and the trained model in a network can be directly adapted to other network structures and settings.
+ER  - 
+
+TY  - CONF
+TI  - Automated detection of microaneurysm for fundus images
+T2  - 2016 IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES)
+SP  - 600
+EP  - 605
+AU  - N. Mohammad
+AU  - Z. Omar
+AU  - E. Supriyanto
+AU  - A. Dietzel
+AU  - J. Haueisen
+PY  - 2016
+KW  - Biomedical imaging
+KW  - Diabetes
+KW  - Blood vessels
+KW  - Retina
+KW  - Feature extraction
+KW  - Image segmentation
+KW  - Matched filters
+KW  - Diabetic Retinopathy
+KW  - Microaneurysms
+KW  - Detection
+KW  - Segmentation
+DO  - 10.1109/IECBES.2016.7843520
+JO  - 2016 IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES)
+Y1  - 4-8 Dec. 2016
+AB  - Chronic hyperglycemia of diabetes may lead to failure in various organs, especially the blood vessels, eyes, kidneys, nerves and heart. It happens due to the faults either in insulin secretion, insulin action, or both. As diabetes developed, the vision of patient starts to deteriorate, leading to Diabetic Retinopathy (DR). Microaneurysm (MA) are the earliest sign of DR where it appears in clusters as tiny, dark red spots or tiny hemorrhages-like within the retina light-sensitive area. Thus, the objectives of this study are to develop an automated algorithm to perform early detection of MA presence in fundus images, and to evaluate the performance of the proposed system design by evaluating the accuracy of the segmented MA. The methods involved in the pre-processing stage are the green component extraction and bottom hat filtering with gamma correction. As the characteristics of blood vessel and MA are the same, the extraction of vessels is needed. This is done by applying the Gaussian matched filter. It is then segmented out by using certain threshold value. In template learning, wavelet coefficient is used in separating the pattern and background image by following the Gaussian distribution curve. Texture energy filter is used to extract the true features where MA are identified. As a result, 84.15% of accuracy is obtained.
+ER  - 
+
+TY  - CONF
+TI  - Coupling of Reactive Power Planning for Operation and Voltage Stability Enhancement
+T2  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+SP  - 574
+EP  - 579
+AU  - S. Samaan
+AU  - S. I. Dizes
+AU  - M. Knittel
+AU  - A. Moser
+PY  - 2020
+KW  - Fault diagnosis
+KW  - Reactive power
+KW  - Power system stability
+KW  - Steady-state
+KW  - Planning
+KW  - Voltage control
+KW  - Portfolios
+KW  - long-term voltage stability
+KW  - mixed-integer programming
+KW  - reactive power compensation
+KW  - steady-state VAR demand
+DO  - 10.1109/ENERGYCon48941.2020.9236578
+JO  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+Y1  - 28 Sept.-1 Oct. 2020
+AB  - The ongoing decommissioning of conventional power plants decreases the installed reactive power reserves for voltage control in transmission grids. Hence, an efficient planning of compensation devices substituting this lack of reactive power is required. Grid operators must allocate these devices for steady-state voltage control and for dynamic voltage control ensuring voltage stability. A separate determination of this static and dynamic VAR demand, however, fails to exploit synergies and disregards that VAR compensation in steady-state reduces the reserves for dynamic compensation. This paper proposes a coupled determination of the system static and dynamic VAR demand. An optimisation method applying mixed-integer programming identifies an efficient allocation and portfolio consisting of different compensation technologies. It includes constraints for voltage limits during steady-state and contingencies as well as for long-term voltage stability. Results emphasise that the method identifies an efficient portfolio for various operation and fault scenarios, while providing the required voltage stability margin.
+ER  - 
+
+TY  - CONF
+TI  - Controlled thermal design of LED SLIM TV systems
+T2  - 2017 16th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm)
+SP  - 1020
+EP  - 1029
+AU  - M. C. Ozaydin
+AU  - M. Arik
+PY  - 2017
+KW  - TV
+KW  - Light emitting diodes
+KW  - Electronic packaging thermal management
+KW  - Resistance
+KW  - Optical design
+KW  - Electronic mail
+KW  - Optical devices
+KW  - LED TV
+KW  - thermal management
+KW  - junction temperature
+KW  - electronics cooling
+KW  - CFD model
+DO  - 10.1109/ITHERM.2017.7992600
+JO  - 2017 16th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 16th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm)
+Y1  - 30 May-2 June 2017
+AB  - The market trend of global TV industry is nourished due to recent advancements in optical component technology and user expectations. Due to strong market requirement for slimmer mechanical designs (&lt;;10mm) and increased luminance (700nit), higher color gamut (DCI: 120%); Decreasing Backlight Unit (BLU) thickness while increasing the image quality resulted in a factor of 3 increase in volumetric heat generation rates. Heat generated by LED packages is the primary cause of defects and deformations in the LED TV optical components. TV manufacturers have then faced challenging thermal design issues. Therefore, the thermal design for a BLU must be well understood to develop a novel optic-thermal design. In this study, an approach for the thermal management of an LED TV system is developed to determine local temperature distribution over BLU and electronics. A hybrid analytical and CFD modeling approach followed by an experimental validation has been developed. First, an idealized one dimensional resistance network is created. Then, 3D CFD models of the LED TV are developed by utilizing commercial software. CFD results are then validated with the experimental data performed in a controlled thermal chamber. The test data is compared with CFD findings. A variation of 6.3% is found between numerical and experimental findings.
+ER  - 
+
+TY  - CONF
+TI  - Towards a Graph-Based Approach for Mesh Healing for Blocky Objects with Self-Similarities
+T2  - 2018 International Conference on Image and Vision Computing New Zealand (IVCNZ)
+SP  - 1
+EP  - 6
+AU  - M. Jones
+AU  - N. Hippolite
+AU  - R. Patel
+AU  - S. Peters
+AU  - P. Singh
+AU  - C. Chen
+AU  - B. C. Wunsche
+PY  - 2018
+KW  - Three-dimensional displays
+KW  - Buildings
+KW  - Surface reconstruction
+KW  - Solid modeling
+KW  - Image reconstruction
+KW  - Computational modeling
+KW  - Computer science
+KW  - surface reconstruction
+KW  - blocky objects
+KW  - graphs
+KW  - self-similarities
+KW  - mesh filling
+DO  - 10.1109/IVCNZ.2018.8634737
+JO  - 2018 International Conference on Image and Vision Computing New Zealand (IVCNZ)
+IS  - 
+SN  - 2151-2205
+VO  - 
+VL  - 
+JA  - 2018 International Conference on Image and Vision Computing New Zealand (IVCNZ)
+Y1  - 19-21 Nov. 2018
+AB  - 3D digital models are used in a wide range of applications such as computer games, virtual reality, engineering and urban design. A common method to create 3D models is to create a point cloud using laser scanners, structured lighting sensors, or image-based modelling techniques, and from that construct a 3D mesh. The resulting meshes often exhibit unsatisfactory and erroneous mesh regions, e.g. due to inaccessible parts, reflective surfaces, and occlusion. In this paper we present a new approach for correcting erroneous mesh regions in blocky objects, such as buildings, using self-similarities. Our system uses a novel graph-based search technique where each node is a plane fitted to the model using RANSAC and edges are made between adjacent planes. This graph is used to find defects in a mesh by analysing the planes and neighbourhoods of all nodes in the point cloud. The system recognizes a hole in the mesh and fills it by copying matching patches from the same mesh. Regions of the mesh that must be replaced are found by a voting system where dissimilar nodes with a similar neighbourhood vote against each other. Our solution produces visually accurate models of blocky objects with holes and/or missing corners and edges. The approach currently only works for simple models and can only “heal” individual or connected faces, rather than complex holes. However, in contrast to existing solutions it works with noisy point clouds and does not require the construction of a polygonal modal.
+ER  - 
+
+TY  - CONF
+TI  - Design and planning strategy for energy storage system in a shipboard dc hybrid power system
+T2  - 2017 IEEE/IAS 53rd Industrial and Commercial Power Systems Technical Conference (I&CPS)
+SP  - 1
+EP  - 9
+AU  - K. Lai
+AU  - M. S. Illindala
+PY  - 2017
+KW  - Planning
+KW  - Microgrids
+KW  - Generators
+KW  - Optimization
+KW  - Energy storage
+KW  - Hybrid power systems
+KW  - batteries
+KW  - energy storage
+KW  - microgrids
+KW  - power system planning
+KW  - power system reliability
+KW  - resilience
+KW  - shipbuilding industry
+KW  - supercapacitors
+DO  - 10.1109/ICPS.2017.7945094
+JO  - 2017 IEEE/IAS 53rd Industrial and Commercial Power Systems Technical Conference (I&CPS)
+IS  - 
+SN  - 2158-4907
+VO  - 
+VL  - 
+JA  - 2017 IEEE/IAS 53rd Industrial and Commercial Power Systems Technical Conference (I&CPS)
+Y1  - 6-11 May 2017
+AB  - Careful design and planning is essential for successful integration of energy storage system (ESS) in a shipboard dc hybrid power system. An optimization model for resiliency enhancement and total cost reduction is proposed in this paper. The resilience of a shipboard power system with and without ESS are evaluated by means of resiliency index values under fault conditions. Furthermore, the influence of ESS on total cost is analyzed quantitatively. A detailed design of ESS is carried out, and optimal ESS configurations with different device combinations for various requirements are determined. Both single-node static and dynamic planning strategies are evaluated and the principles of planning strategy selection are discussed. Several key results are presented from the optimization model, built on General Algebraic Modeling System (GAMS) platform. Simulation results show significant improvement from the proposed design and planning of ESS on shipboard dc hybrid power system.
+ER  - 
+
+TY  - CONF
+TI  - A holistic assurance framework for video endurance testing
+T2  - 2015 IEEE International Conference on Computer Graphics, Vision and Information Security (CGVIS)
+SP  - 290
+EP  - 295
+AU  - D. Das
+AU  - T. Das
+PY  - 2015
+KW  - Testing
+KW  - Streaming media
+KW  - Automation
+KW  - Engines
+KW  - Video recording
+KW  - Quality assessment
+KW  - Reliability
+KW  - Video Assurance
+KW  - Multi-platform video testing
+KW  - Performance
+KW  - Assurance Framework
+KW  - Video Performance
+KW  - Endurance Testing
+DO  - 10.1109/CGVIS.2015.7449939
+JO  - 2015 IEEE International Conference on Computer Graphics, Vision and Information Security (CGVIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Computer Graphics, Vision and Information Security (CGVIS)
+Y1  - 2-3 Nov. 2015
+AB  - With rapid proliferation of internet and advancement in video streaming techniques, demand for video content over the internet is on the rise. In this era of digital transformation the end user consumption of video content, is not just limited to conventional television sets, but extends to multiple viewing platforms like laptops, mobile phones, tablets, connected TVs, gaming consoles etc. As the demand for video content increases it becomes incumbent for the technology providers to devise a robust assurance framework to ensure best viewer experience. With a paradigm shift in end user viewing patterns, the need of the hour is to devise innovative assurance solutions to cater to the changing perceptions of video quality. In this paper we present a holistic video assurance framework, which focuses on reliable and consistent last mile end user Quality of Experience (QoE). The proposed framework uses established statistical techniques to predict optimum testing time, test cycles &amp; realistic device mix, required to validate video quality against available industry benchmarks for reliability and consistency of user experience. The proposed framework also uses automated techniques to capture, compare and report potential defects which may impact video quality consistency across multi-media platforms before it is consumed by actual end-users. The framework is found to yield highly accurate assurance levels for consistency of video content.
+ER  - 
+
+TY  - CONF
+TI  - Diagnostic Method of Inter-turn Void Defect in Rotating Machine Insulation Based on PD Detection at Induced Impulse Voltage
+T2  - 2018 IEEE 2nd International Conference on Dielectrics (ICD)
+SP  - 1
+EP  - 4
+AU  - T. Zhang
+AU  - X. Liu
+AU  - R. Zhang
+AU  - J. Han
+AU  - P. Liu
+PY  - 2018
+KW  - Partial discharges
+KW  - Feature extraction
+KW  - Insulation
+KW  - Windings
+KW  - Matrix decomposition
+KW  - Wavelet packets
+KW  - Standards
+KW  - partial discharge
+KW  - impulse voltage
+KW  - inter-turn void defect
+KW  - rotating machine insulation
+KW  - feature extraction
+DO  - 10.1109/ICD.2018.8514590
+JO  - 2018 IEEE 2nd International Conference on Dielectrics (ICD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE 2nd International Conference on Dielectrics (ICD)
+Y1  - 1-5 July 2018
+AB  - The inter-turn insulations of inverter-fed motor and some wind turbine generator usually suffer repetitive impulse voltage with high magnitude and steep edges. It may result in a significant reduction of life-time in case of the existence of inter-turn insulation defects. Based on the previous work with an established test system consisting of auxiliary impulse induction units and novel non-contact partial discharge (PD) sensor, this research continuously focuses on the signal processing technique and feature extraction method in inter-turn void defect diagnosis for inverter-fed traction motor winding. The singular values of characteristic matrix, which is constructed by wavelet packet decomposition of sensor’s response signal, have been proved sensitive to the PD-related information and qualified for determining the existence of inter-turn PD activity. In order to achieve the inter-turn PD feature extraction in detail, a time-domain signal processing method of PD pulses identification and segmentation has also been proposed. The statistical analysis on the inter-turn PD pulse signals which were picked out from the sensor responses in reduplicative measurements show that, the PD amplitude and time-lag are generally gamma distributed, while their per-unit values are beta distributed. In fact, the parameters of those statistical distributions are able to reflect the characteristic of inter-turn void defect under certain impulse voltage. Therefore, a method based on Kolmogorov-Smirnov test (K-S test) is proposed in order to diagnose the severity of the inter-turn void defect.
+ER  - 
+
+TY  - CONF
+TI  - A Cloud-Based Platform for Service Restoration in Active Distribution Grids
+T2  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+SP  - 841
+EP  - 846
+AU  - M. Haghgoo
+AU  - A. Dognini
+AU  - A. Monti
+PY  - 2020
+KW  - Cloud computing
+KW  - Protocols
+KW  - Scalability
+KW  - Power grids
+KW  - Service-oriented architecture
+KW  - Reliability
+KW  - Standards
+KW  - Smart energy platform
+KW  - Service-oriented
+KW  - Middle-ware
+KW  - FIWARE
+KW  - Service restoration
+KW  - Cloud-based platform
+DO  - 10.1109/ENERGYCon48941.2020.9236560
+JO  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+Y1  - 28 Sept.-1 Oct. 2020
+AB  - In modern distribution grids, accessing the growing amount of data from various sources, running complex algorithms on-demand, and controlling sparse actuators represent important requirements. These can be achieved with on-demand scalability to support fluctuating workloads. A possibility to provide on-demand scalability is cloud computing. This paper presents a cloud-based platform that analyzes power distribution grids data and deploys a service restoration application for the re-energization of loads after electrical faults. The implementation of this study is powered by FIWARE, which is based on open-source and customizable building blocks of future internet applications and services. The feasibility of the service restoration application is evaluated through analysis of its network latency and computation time in different test cases.
+ER  - 
+
+TY  - CONF
+TI  - Eye Movement Detection using Histogram Oriented Gradient and K-Nearest Neighbors
+T2  - 2021 International Conference on ICT for Smart Society (ICISS)
+SP  - 1
+EP  - 5
+AU  - I. Faris
+AU  - F. Utaminingrum
+PY  - 2021
+KW  - Industries
+KW  - Histograms
+KW  - Head
+KW  - Training data
+KW  - Assistive technologies
+KW  - Feature extraction
+KW  - Liquid crystal displays
+KW  - Eye movement
+KW  - HOG
+KW  - KNN
+DO  - 10.1109/ICISS53185.2021.9533232
+JO  - 2021 International Conference on ICT for Smart Society (ICISS)
+IS  - 
+SN  - 2640-0545
+VO  - 
+VL  - 
+JA  - 2021 International Conference on ICT for Smart Society (ICISS)
+Y1  - 2-4 Aug. 2021
+AB  - Hand defects will hinder human activities in interacting. In general, people with hand defects will replace the function of the hand with doing an activity in other organs, such as the feet, head, or eyes. Eye movement technologies have been used for different purposes in various industries, from medical, gaming, controlling display menu to assistive technology for people with disabilities. The development of new technologies focused on disability is vital as it improves the quality of life and incorporation into society. Therefore, eye movement detection can later be developed to select menus from the LCD screen. Detection of eye movements is divided into four classes, namely looking up, down, left, and right. The menu on the LCD screen contains options of activities such as calling the nurse, choosing a food menu, and going to the toilet, making it easier for nurses to understand the user's activities. This system is made using Histogram Oriented Gradient combining with Haar Cascade for eye detection and K-Nearest Neighbors as a classifier. Finally, this work shows that the KNN can be used to classify with an average accuracy of 83.33%.
+ER  - 
+
+TY  - CONF
+TI  - The band gap and Ga-composition grading profiles effect on the performance of 1μm-thin film graded-CIGS solar cell
+T2  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+SP  - 360
+EP  - 365
+AU  - Y. Belhadji
+PY  - 2020
+KW  - Photonic band gap
+KW  - Semiconductor materials
+KW  - Absorption
+KW  - Photovoltaic cells
+KW  - Conferences
+KW  - Doping
+KW  - Photonics
+KW  - CIGS
+KW  - solar cell
+KW  - gap grading
+KW  - thin film
+KW  - defect
+DO  - 10.1109/ENERGYCon48941.2020.9236491
+JO  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+Y1  - 28 Sept.-1 Oct. 2020
+AB  - The solar cells efficiency depends mainly on the energy of the absorbed photons. This energy is directly related to the crystalline properties of the semiconductor materials used like absorber. So, the absorption can be optimized using new solar cell structures based on thin film materials that absorb more photons. Therefore, using the graded CIGS like thin film materials with: high reduced thickness, optimal gap makes it possible to the solar cell to absorb a wider photon of the incident light spectrum. In the present work, exploiting SCAPS-1D simulator, we analyze the effect of the P-CIGS band gap grading profiles (Ga-composition) on the electrical performances of thin film solar cell. The simulated structure is as 1.0 μm-graded-CIGS/10 nmN-CdS/150 nmN-ZnO. We consider also in this study, the effect of defects, light spectrum and doping concentration of the absorber layer. An optimal efficiency of 22.92 % is recorded for a linear grading profile under 600 nm incident light spectrum.
+ER  - 
+
+TY  - CONF
+TI  - Research on Defect Detection of Insulation Piercing Connector (IPC) Based on UHF Partial Discharge
+T2  - 2020 IEEE 3rd International Conference on Dielectrics (ICD)
+SP  - 822
+EP  - 825
+AU  - H. Li
+AU  - D. Ke
+AU  - H. Ma
+AU  - Q. Chen
+AU  - H. Sun
+AU  - J. Li
+AU  - X. Kong
+AU  - B. Du
+PY  - 2020
+KW  - Partial discharges
+KW  - Connectors
+KW  - Insulation
+KW  - Temperature distribution
+KW  - Force
+KW  - Discharges (electric)
+KW  - Standards
+KW  - Defect detection
+KW  - insulation piercing connector
+KW  - UHF partial discharge
+KW  - connection state
+DO  - 10.1109/ICD46958.2020.9341836
+JO  - 2020 IEEE 3rd International Conference on Dielectrics (ICD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE 3rd International Conference on Dielectrics (ICD)
+Y1  - 5-31 July 2020
+AB  - Insulation piercing connector (IPC) is widely used as a link fitting for the insulated conductor in distribution network. However, there are most accidents in recent years due to installation, operation, etc. In this paper, the structure of the IPC is analyzed. The IPCs with the typical defect were prepared, including the insufficient contact force, the loose connection, the grease loss, the dampness, and the overload operation and the experimental platform based on UHF partial discharge was built. Obtained results show that the standard installed IPC has the obvious partial discharge, whose amplitude can reach 110 mV and discharge mainly concentrates on the alpha and the gamma quadrant. The defects obviously increase the PD amplitude and have a great influence on the PD characteristic, including the discharge quadrant, times and PRPS. In actual operation, this detection method could be adopted to diagnose the IPC with defect to prevent failure and improve power supply reliability.
+ER  - 
+
+TY  - CONF
+TI  - Demystifying GPU Reliability: Comparing and Combining Beam Experiments, Fault Simulation, and Profiling
+T2  - 2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+SP  - 289
+EP  - 298
+AU  - F. F. d. Santos
+AU  - S. K. S. Hari
+AU  - P. M. Basso
+AU  - L. Carro
+AU  - P. Rech
+PY  - 2021
+KW  - Performance evaluation
+KW  - Particle beams
+KW  - Tensors
+KW  - Sensitivity
+KW  - Graphics processing units
+KW  - Predictive models
+KW  - Tools
+KW  - reliablity
+KW  - GPU
+KW  - FIT rate
+KW  - fault injection
+KW  - beam experiments
+KW  - NVIDIA
+DO  - 10.1109/IPDPS49936.2021.00037
+JO  - 2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+IS  - 
+SN  - 1530-2075
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)
+Y1  - 17-21 May 2021
+AB  - Graphics Processing Units (GPUs) have moved from being dedicated devices for multimedia and gaming applications to general-purpose accelerators employed in High-Performance Computing (HPC) and safety-critical applications such as autonomous vehicles. This market shift led to a burst in the GPU's computing capabilities and efficiency, significant improvements in the programming frameworks and performance evaluation tools, and a concern about their hardware reliability. In this paper, we compare and combine high-energy neutron beam experiments that account for more than 13 million years of natural terrestrial exposure, extensive architectural-level fault simulations that required more than 350 GPU hours (using SASSIFI and NVBitFI), and detailed application-level profiling. Our main goal is to answer one of the fundamental open questions in GPU reliability evaluation: whether fault simulation provides representative results that can be used to predict the failure rates of workloads running on GPUs. We show that, in most cases, fault simulation-based prediction for silent data corruptions is sufficiently close (differences lower than 5×) to the experimentally measured rates. We also analyze the reliability of some of the main GPU functional units (including mixed-precision and tensor cores). We find that the way GPU resources are instantiated plays a critical role in the overall system reliability and that faults outside the functional units generate most detectable errors.
+ER  - 
+
+TY  - CONF
+TI  - Artificial Neural Networks With Java Implementation
+T2  - 2019 II International Conference on High Technology for Sustainable Development (HiTech)
+SP  - 1
+EP  - 5
+AU  - R. Ilieva
+AU  - Y. Nikolov
+PY  - 2019
+KW  - Artificial Neural Networks
+KW  - Artificial Intelligence
+KW  - Java
+DO  - 10.1109/HiTech48507.2019.9128252
+JO  - 2019 II International Conference on High Technology for Sustainable Development (HiTech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 II International Conference on High Technology for Sustainable Development (HiTech)
+Y1  - 10-11 Oct. 2019
+AB  - We are at the verge of AI powered tools to have the knowhow of the human brain. Imagine the benefits; boost of performance, time saving on menial tasks and improved service delivery. Artificial neural networks and artificial intelligence networks model based on structure and functions of human biological neural networks are gearing up to have a huge impact on business processes everywhere. As a matter of fact a lot of companies nowadays are already using similar technics of neural networking technology and are creating frameworks for their implementation. For example Microsoft has deep neural network to classify malware and has recently previewed Project Brainwave, a hardware architecture that makes real-time AI calculations. This project is being tested for providing solutions for automated optical inspection system. The system will scan products on the assembly line for defects with lighting speed. Meanwhile, IBM has released a beta of its Neural Network Modeler in Watson Studio that lets developers use a visual approach to designing deep learning architectures for image, text and audio data. In fewer words this is the game changer of business processes in this new era of Artificial intelligence.
+ER  - 
+
+TY  - CONF
+TI  - An overview of application of 4H-SiC n-type epitaxial Schottky barrier detector for high resolution nuclear detection
+T2  - 2013 IEEE Nuclear Science Symposium and Medical Imaging Conference (2013 NSS/MIC)
+SP  - 1
+EP  - 6
+AU  - K. C. Mandal
+AU  - S. K. Chaudhuri
+AU  - K. Nguyen
+PY  - 2013
+KW  - Detectors
+KW  - Noise
+KW  - Alpha particles
+KW  - Energy resolution
+KW  - Temperature measurement
+KW  - Schottky barriers
+KW  - Silicon carbide
+DO  - 10.1109/NSSMIC.2013.6829844
+JO  - 2013 IEEE Nuclear Science Symposium and Medical Imaging Conference (2013 NSS/MIC)
+IS  - 
+SN  - 1082-3654
+VO  - 
+VL  - 
+JA  - 2013 IEEE Nuclear Science Symposium and Medical Imaging Conference (2013 NSS/MIC)
+Y1  - 27 Oct.-2 Nov. 2013
+AB  - Availability of high-quality bulk and epitaxial 4H-SiC has revived the feasibility of fabrication of nuclear radiation detectors which are compact, operable at room or elevated temperature, physically rugged, and radiation hard. SiC detectors have been demonstrated as excellent alpha particle detectors and hence are being considered as compact neutron detectors when coupled with neutron-alpha conversion layers. Our group at University of South Carolina has successfully demonstrated the fabrication of large area (~11 mm<sup>2</sup>) 4H-SiC epitaxial surface barrier type sensors, for detection of x-rays of energy as low as 50 eV with very high responsivity, high resolution detection of low energy gamma rays (2.1% FWHM for 59.6 keV gamma rays) and very efficient and high-resolution alpha particle detection. We have recently fabricated surface barrier detectors for alpha particles with an energy resolution of 0.29% for 5.48 MeV alpha particles, the best value reported till date, with a charge collection efficiency (CCE) ~100%. These detectors have also shown a CCE more than 57% at zero applied bias for 5.48 MeV alpha particles which opens up the possibility of highly efficient bias-less operation, a much sought-after quality for field deployment of stand-off detection system for Homeland security applications. We have performed a noise analysis in terms of equivalent noise charge and we have found that the white series noise due to the detector capacitance has substantial effect on their spectroscopic performance. We have also studied the effect of the presence of electrically active defects on detector performance using deep level transient spectroscopy measurements.
+ER  - 
+
+TY  - CONF
+TI  - A new circuit simplification method for error tolerant applications
+T2  - 2011 Design, Automation & Test in Europe
+SP  - 1
+EP  - 6
+AU  - D. Shin
+AU  - S. K. Gupta
+PY  - 2011
+KW  - Circuit faults
+KW  - Logic gates
+KW  - Erbium
+KW  - Discrete cosine transforms
+KW  - Adders
+KW  - Measurement
+KW  - Computer architecture
+KW  - Error tolerance
+KW  - circuit optimization
+KW  - ATPG
+KW  - DCT
+KW  - redundancy removal
+DO  - 10.1109/DATE.2011.5763248
+JO  - 2011 Design, Automation & Test in Europe
+IS  - 
+SN  - 1558-1101
+VO  - 
+VL  - 
+JA  - 2011 Design, Automation & Test in Europe
+Y1  - 14-18 March 2011
+AB  - Starting from a functional description or a gate level circuit, the goal of the multi-level logic optimization is to obtain a version of the circuit that implements the original function at a lower cost. For error tolerant applications - images, video, audio, graphics, and games - it is known that errors at the outputs are tolerable provided that their severities are within application-specified thresholds. In this paper, we perform application level analysis to show that significant errors at the circuit level are tolerable. Then we develop a multi-level logic synthesis algorithm for error tolerant applications that minimizes the cost of the circuit by exploiting the budget for approximations provided by error tolerance. We use circuit area as the cost metric and use a test generation algorithm to select faults that introduce errors of low severities but provide significant area reductions. Selected faults are injected to simplify the circuit for the experiments. Results show that our approach provides significant reductions in circuit area even for modest error tolerance budgets.
+ER  - 
+
+TY  - CONF
+TI  - GPGPUs: How to combine high computational power with high reliability
+T2  - 2014 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+SP  - 1
+EP  - 9
+AU  - L. B. Gomez
+AU  - F. Cappello
+AU  - L. Carro
+AU  - N. DeBardeleben
+AU  - B. Fang
+AU  - S. Gurumurthi
+AU  - K. Pattabiraman
+AU  - P. Rech
+AU  - M. S. Reorda
+PY  - 2014
+KW  - Graphics processing units
+KW  - Reliability
+KW  - Performance evaluation
+KW  - Neutrons
+KW  - Laboratories
+KW  - Benchmark testing
+KW  - Instruction sets
+KW  - GPGPUs
+KW  - reliability
+KW  - HPC
+KW  - fault injection
+KW  - radiation
+DO  - 10.7873/DATE.2014.354
+JO  - 2014 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+IS  - 
+SN  - 1558-1101
+VO  - 
+VL  - 
+JA  - 2014 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+Y1  - 24-28 March 2014
+AB  - GPGPUs are used increasingly in several domains, from gaming to different kinds of computationally intensive applications. In many applications GPGPU reliability is becoming a serious issue, and several research activities are focusing on its evaluation. This paper offers an overview of some major results in the area. First, it shows and analyzes the results of some experiments assessing GPGPU reliability in HPC datacenters. Second, it provides some recent results derived from radiation experiments about the reliability of GPGPUs. Third, it describes the characteristics of an advanced fault-injection environment, allowing effective evaluation of the resiliency of applications running on GPGPUs.
+ER  - 
+
+TY  - CONF
+TI  - Table of contents
+T2  - 2014 IIAI 3rd International Conference on Advanced Applied Informatics
+SP  - v
+EP  - xix
+PY  - 2014
+DO  - 10.1109/IIAI-AAI.2014.4
+JO  - 2014 IIAI 3rd International Conference on Advanced Applied Informatics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 IIAI 3rd International Conference on Advanced Applied Informatics
+Y1  - 31 Aug.-4 Sept. 2014
+AB  - The following topics are dealt with: data mining; Japanese WordNet synonym misplacement detection; social network; recommender system; sentiment analysis; workshop-based instruction; Japanese public libraries; machine learning methods; collaborative Web presentation support system; SMS4 ultracompact hardware implementation; wireless sensor networks; personalized public transportation recommendation system; adaptive user interface; NIS-Apriori algorithm; GetRNIA software tool; rough set-based rule generation; tree-Ga bump hunting; neural network model; weighted citation network analysis; sound proofing ventilation unit; touch interaction; mutually dependent Markov decision processes; ozone treatment; dynamic query optimization; big data; learner activity recognition; IoT-security approach; nutrition-based vegetable production; farm product cultivation; polynomial time mat learning; C-deterministic regular formal graph system; article abstract key expression extraction; English text comprehension; online social games; knowledge creation; knowledge utilization; online stock trading; customer behavior analysis; project-based collaborative learning; in-field mobile game-based learning activities; e-portfolio system design; self-regulated learning ontological model; mobile augmented reality based scaffolding platform; context-aware mobile Japanese conversation learning system; English writing error classification; image processing; outside-class learning; exercise-centric teaching materials; UML modeling; online historical document reading literacy; MMORPG-based learning environment; computer courses; undergraduate education; energy management system; higher education; decentralised auction-based bandwidth allocation; wireless networked control systems; resource scheduling algorithm; embedded cloud computing; Poisson distribution; Japanese seismic activity; suspect vehicle detection; 3D network traffic visualization; Web information retrieval; agent based disaster evacuation assist system; electroencephalogram; random number generator; multiagent simulations; multicore environment; CPU scheduler; multithreaded processes; reserve-price biddings; real-time traffic signal control; evolutionary computation; robot-assisted rehabilitation system; hybrid automata; Batik motif classification; color-texture-based feature extraction; backpropagation; multimedia storytelling; e-tourism service; Web mining; search engine; simulation-based e-learning mobile application software; library classification training system; WebQuest learning strategy; context-aware ubiquitous English learning; support vector machine; RFID tag ownership transfer protocol; cognitive linguistics; collaborative software engineering learning; write-access reduction method; NVM-DRAM hybrid memory; garbage collection; parallel indexing scheme; lazy-updating snoop cache protocol; distributed storage system; ITS application; software engineering education; ophthalmic multimodal imaging system; injected bug classification; secure live virtual machine migration; flash memory management; genetic programming; heterogeneous databases; time series similarity search; concurrency control program generation; incremental data migration; multidatabase system; software release time decision making; analytic hierarchy process; interactive genetic algorithm; biometric intelligence; talking robots; archaeological ruin analysis; GIS; optical wireless pedestrian-support systems; visual impairment; extreme programming; Japanese e-commerce Web sites; Chinese sign language animation; hearing-impaired people mammography inspection; geographical maps; electroculogram; XML element retrieval technique; image recognition; reinforcement learning; ECU formal verification; gasoline direct injection engines; earthquake disaster simulation; smart devices for autistic children; RoboCup rescue simulation; inductive logic programming; master-slave asynchronous evolutionary hybrid algorithm; VANET routing optimization; and Web image sharing services.
+ER  - 
+
+TY  - CONF
+TI  - [Title page i]
+T2  - 2015 IIAI 4th International Congress on Advanced Applied Informatics
+SP  - i
+EP  - i
+PY  - 2015
+DO  - 10.1109/IIAI-AAI.2015.149
+JO  - 2015 IIAI 4th International Congress on Advanced Applied Informatics
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IIAI 4th International Congress on Advanced Applied Informatics
+Y1  - 12-16 July 2015
+AB  - The following topics are dealt with: online stores; monetary policy topic extraction; social media; programming lecture support system; attacker investigation system; evidential reasoning; public services; e-tourism; intelligent mobile tourist guide; hotel evaluations; text mining; visitor behavior analysis; POMDP-based intelligent tutoring system; dynamic key aggregate cryptosystem; cloud environment; workflow refactoring algorithm; hierarchical visualization program; Bluetooth-based device-free motion detector; remote elder care support system; climbing plan sharing system; search result snippets; customer churn prediction; student performance estimation; P2P systems; Japanese word net; library mobile book-finding system; document classification; content analysis; automatic dictionary extraction; rule generation; geographic information system; sentiment analysis; video watermark detection; Japanese-Chinese cross-language entity linking; Java programming learning assistant system; Java code reading education; mobile learning; user customized Kanji learning system; computer graphics; contextual game; English vocabulary learning; e-classroom; mobile gaming; educational games; Web quest-based context-aware u-learning system; game-based learning; fuzzy inference system; augmented reality; Web-based visualized authoring system; Web-based collaborative reading annotation system; open online e-learning system; Open Access; latent semantic analysis; cloud education environment; bibliometric analysis; nonnegative dictionary-learning algorithm; cooking-step scheduling algorithm; musical instrument classification; bike sharing; fuzzy object oriented database models; cooperative sweeping robots; intelligent power resource allocation; bug reports; MRI medical image analysis; collaborative work; ontology mappings; farmland adaptability; soil moisture measurement; bacteria sterilization; anthrax pathogen plasma sterilization; wastewater treatment; clustering-based burst detection; fashion-brand recommender system; mobile navigation systems; chemical bond concept learning; and history teaching.
+ER  - 
+
+TY  - CONF
+TI  - Content list of 55th IEEE conference on decision and control
+T2  - 2016 IEEE 55th Conference on Decision and Control (CDC)
+SP  - 1
+EP  - 81
+PY  - 2016
+DO  - 10.1109/CDC.2016.7798235
+JO  - 2016 IEEE 55th Conference on Decision and Control (CDC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 IEEE 55th Conference on Decision and Control (CDC)
+Y1  - 12-14 Dec. 2016
+AB  - The following topics are dealt with: Modeling; Transient Thermal Systems; Quantum State Feedback; Network Analysis; Agents-Based Systems; Optimization; Estimation; Game Theory; Stochastic Systems; Identification; Adaptive Control; Automata; Stability; PDE Control; Delay Systems; Variational Analysis; H-Infinity Control; Power Systems; Advanced Vehicle Control; Internet of Things; Mechanical Systems; Cooperative Control; Complex Network Dynamics; Stochastic Optimal Control; Fault Detection; Lyapunov Methods; Linear Systems; Control Synthesis; Predictive Control; Robust Control; Automotive Control; Multivehicle Systems.
+ER  - 
+
+TY  - CONF
+TI  - [Copyright notice]
+T2  - 2015 34th Chinese Control Conference (CCC)
+SP  - 1
+EP  - 1
+PY  - 2015
+DO  - 10.1109/ChiCC.2015.7261090
+JO  - 2015 34th Chinese Control Conference (CCC)
+IS  - 
+SN  - 1934-1768
+VO  - 
+VL  - 
+JA  - 2015 34th Chinese Control Conference (CCC)
+Y1  - 28-30 July 2015
+AB  - The following topics are dealt with: complex system theory; nonlinear control system; complex network; distributed parameter systems; stability and stabilization; stochastic systems; system modeling and identification; hybrid systems and DEDS; discrete-time impulsive dynamical networks; optimal control; optimization and scheduling; robust control; adaptive control and learning control; variable structure control; neural networks; fuzzy system and fuzzy control; pattern recognition; predictive control; motion control; signal processing and information fusion; Big Data analysis and compressed sampling; navigation and missile guidance; control design; intelligent robots and mechatronic systems; fault diagnosis and reliable control; communication network systems; networked control systems; multiagent systems and distributed control; sensor networks and Internet of Things; energy control; automotive-vehicle systems control; data driven modeling; micro-nano and quantum systems; nature-inspired computing; transportation systems; systems biology and life systems; economy, finance, population and military systems; industrial systems and manufacturing; systems engineering theory; intelligent power system control; smart city; cloud computing; and game theory and social network.
+ER  - 
+
+TY  - CONF
+TI  - Content list
+T2  - 2013 European Control Conference (ECC)
+SP  - 1
+EP  - 93
+PY  - 2013
+DO  - 10.23919/ECC.2013.6669102
+JO  - 2013 European Control Conference (ECC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 European Control Conference (ECC)
+Y1  - 17-19 July 2013
+AB  - The following topics are dealt with: distributed optimization; time delays systems; manned and unmanned systems; system identification; model predictive control; distributed parameter systems; stochastic systems; discrete event systems; nonlinear systems; optimal control; consensus control; linear systems; aerospace control; adaptive control; fault detection and identification; automotive control; wind turbines; power grid stability; stochastic optimization; event based detection and control; game theory; mechatronic systems; vehicle dynamics and control; airborne wind energy systems control; distributionally robust optimization; fluid systems; uncertain systems; event-triggered control; iterative control; cooperative control; linear time-varying systems; automotive suspension and traction control; power electronic systems control; electrical energy systems control; stochastic filtering; hybrid systems analysis; algebraic and geometric methods; quadrotor control; linear parameter-varying systems; multi-agent systems; internal combustion engines control; microgrids control; road traffic control; observers; switched linear systems; networked control systems; robotics; robust control; communication channels control; fuel cells control; power systems control; cyber-secure control; sampled data control; delay systems; sliding mode control; model based control; linear matrix inequalities; process control; fractional dynamical systems; emerging control applications; state estimation; model reduction; railway control; and electrical motors control.
+ER  - 
+
+TY  - CONF
+TI  - [Front matter]
+T2  - 2012 4th Computer Science and Electronic Engineering Conference (CEEC)
+SP  - 1
+EP  - 2
+PY  - 2012
+DO  - 10.1109/CEEC.2012.6375411
+JO  - 2012 4th Computer Science and Electronic Engineering Conference (CEEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 4th Computer Science and Electronic Engineering Conference (CEEC)
+Y1  - 12-13 Sept. 2012
+AB  - The following topics are dealt with: power option pricing; special education; intelligent agent based system; wireless video streaming; Abelian group codes; IMU/GPS based pedestrian localization; wireless sensor networks; fault tolerant computing; Facebook threat scraping; ATR dove prism; genetic programming; envelope reduction problem; mobile sensor neetwork; socially-aware opportunistic routing; encrypted H.264 video; technology tree features; integrated data exfiltration monitoring tool; hybrid network; cloud datacenter; brain computer interface design; WLAN VOIP; multi-sink wireless sensor networks; computer role-playing game fantasy worlds; quasi-self-complementary ultra wideband antenna; IP infrastructure virtualization; distributed video coding; Gaussian mixture model; discrete cosine features; image segmentation; image classification; semantic modeling framework; service oriented networked media infrastructures; SIP-based internetwork system; IP networks; ZigBee based wireless personal area networks; underwater acoustic channel; NS2 simulator; wearable sensor fusion armband; motion control; evolutionary computation; super sEMG feature; and localized muscle fatigue classification.
+ER  - 
+
+TY  - CONF
+TI  - [Title pages]
+T2  - 2012 IEEE International Conference on Control Applications
+SP  - 1
+EP  - 21
+PY  - 2012
+DO  - 10.1109/CCA.2012.6402328
+JO  - 2012 IEEE International Conference on Control Applications
+IS  - 
+SN  - 1085-1992
+VO  - 
+VL  - 
+JA  - 2012 IEEE International Conference on Control Applications
+Y1  - 3-5 Oct. 2012
+AB  - The following topics are dealt with: control applications; robotics; automatic control in medicine and biomedical engineering; estimation; automotive applications; intelligent control systems; optimisation; Lyapunov methods and manufacturing systems; adaptive learning structures for real-time control and graphical games; identification and control of nonlinear systems; automotive control; cooperative control and game theory; mechanical systems; control synthesis; system modeling; robust control and real-time systems; complex systems; computational methods and sensor networks; control architecture and education; agents and intelligent methods; numerical analysis; aerospace applications; linear systems; networked control systems; observer design; bio-inspired flying robots; coordination; power systems; repetitive process and iterative learning control; predictive control; stochastic and uncertain systems; epileptic episode prediction; system and information theory; control of molecular purity, crystal structure, and particle size distribution in pharmaceutical crystallization; controller design; mobile robots; and fault detection and accommodation.
+ER  - 
+
+TY  - CONF
+TI  - Table of contents
+T2  - 2014 International Conference on High Performance Computing and Applications (ICHPCA)
+SP  - iii
+EP  - x
+PY  - 2014
+DO  - 10.1109/ICHPCA.2014.7045288
+JO  - 2014 International Conference on High Performance Computing and Applications (ICHPCA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 International Conference on High Performance Computing and Applications (ICHPCA)
+Y1  - 22-24 Dec. 2014
+AB  - The following topics are dealt with: greedy load balancing algorithms; heterogeneous distributed computing system; exploiting fault tolerance; cache memory structures; reconfigurable cache architecture; multiphase applications scheduling; identical parallel multiprocessor; MATLAB distributed computing server; AIM; resource provisioning strategy; dynamic cloud environment; cloud computing memory allocation; timestamped signature scheme; message recovery; CMMSPEED; reliable real-time protocol; industrial mesh network; MANET; TCP variants protocols; wireless network; selective cooperation method; dynamic traffic pattern; NS2; data hiding; halftone images; mathematical morphology; conjugate ordered dithering; secure group key agreement protocol design; elliptic curve cryptography; fingerprint based symmetric cryptography; BER performance comparison; MIMO System; STBC; MRC; different fading channels; fault node detection algorithm; wireless sensor networks; secured packet inspection; hierarchical pattern matching; incremental clustering algorithm; GPU; STBC-OFDM WiMAX system performance evaluation; graphics processing unit; string sorting; many-threaded architectures; multithreaded architectures; differential evolution; cost reduction cellular network; game theory; mobile wireless sensor network; GNU radio; error rate performance enhancement; hybrid equalization technique; MIMO-OFDM systems; BER; Brewster's angle; polarization diversity technique; indoor visible light communication system; route stability; AODV; parallel Hadamard transform; multimesh network; dense matrix multiplication; 2D mesh; scalable parallel clustering approach; parallel K means; firefly algorithms; apriori algorithm; HDFS; parameter optimization; nonlinear fitting; epidemic disease propagation detection algorithm; MapReduce; realistic social contact networks; leather defects identification; auto adaptive edge detection image processing algorithm; list scheduling algorithms analysis; parallel system; evolutionary Jordan Pi-sigma neural network; gradient descent learning; HDFS performance evaluation; big data management; securing financial network system; multilevel security; cyber physical system; data mining concepts; Web crawling; convex points; convex hull; image searching algorithm development; social network; graph mining techniques; clustering algorithm; binary data sets; human facial expression recognition; image color analysis; FPGA realization; particle swarm optimisation algorithm; floating point arithmetic; gradient local auto correlation; handwritten devanagari character recognition; feature extraction; feature matching; speech recognition; intelligent steganography detection; fuzzy logic; wind energy conversion system; solide oxide fuel; biobjective portfolio optimisation; muliobjective simulated annealing; test case prioritization technique; free-text user authentication technique; keystroke dynamics; weighted bag hybrid multiple classifier machine; boosting prediction accuracy; automated document indexing; intelligent hierarchical clustering; training feedforward neural network; novel gravitational search optimization; real time robotic arm control; hand gestures; hybrid differential evolution-flower pollination algorithm; function minimization; bijective mapping; arbitrary finite state machine; high performance computing application; lattice physics code VISWAM; stencil computation; CPU-GPU; threshold voltage roll-off; triple gate FinFET analysis; Ultra-Thin Si directly; cardiac pulse measurement; multicore architecture; optimum gene selection; gene expression dataset; cancer dataset; PKI; timestamped secure signing tool; e-documents; trigger action reaction model; artificial energy drinks; stability enhancement; differential evolution algorithm; molecular dynamics application optimization; Intel Xeon Phi Coprocessor; pair programming team;UTB-SG; DG MOSFET; security robot-SECBOT;AODV routing protocol modification; VANET; lifting biorthogonal wavelet design; edge detection; intrusion detection systems; fuzzy based median filter; generation reliability evaluation; wind energy penetrated power system; decoder segment optimization; ROM design; quantum dot cellular automata; reconfigurable viterbi decoder; SDR; mobile communications; texture analysis; medical images; adaptive background subtraction; impulse noise detection and neighborhood switching median filter.
+ER  - 
+
+TY  - CONF
+TI  - Content list of 50th IEEE conference on decision and control and European control conference
+T2  - 2011 50th IEEE Conference on Decision and Control and European Control Conference
+SP  - 1
+EP  - 158
+PY  - 2011
+DO  - 10.1109/CDC.2011.6161540
+JO  - 2011 50th IEEE Conference on Decision and Control and European Control Conference
+IS  - 
+SN  - 0743-1546
+VO  - 
+VL  - 
+JA  - 2011 50th IEEE Conference on Decision and Control and European Control Conference
+Y1  - 12-15 Dec. 2011
+AB  - The following topics are dealt with: system identification; customer side control; customer side management; fault detection; reinforcement learning; networked control system; game theory; optimal control; nonlinear system stability; adaptive control system; discrete event system; switched system; linear system; predictive control; distributed parameter system; robust control; robotics; stochastic system; autonomous system; decision making; electrical machine control; time-varying system; cooperative control; smart grid integration; Kalman filtering; integrated vehicle dynamics; event-triggered control; unmanned aerial vehicle delay system; distribution-retail level cyber enabled demand management; communication system control; Lyapunov method; fuzzy system; sampled data control; H infinity control; and sliding mode control.
+ER  - 
+
+

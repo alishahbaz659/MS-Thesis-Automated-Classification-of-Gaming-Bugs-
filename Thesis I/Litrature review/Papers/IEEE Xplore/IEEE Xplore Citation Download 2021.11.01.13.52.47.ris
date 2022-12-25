@@ -1,0 +1,3048 @@
+TY  - CONF
+TI  - Parametric analysis of two-terminal fault location methods based on unsynchronized data
+T2  - 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE)
+SP  - 1
+EP  - 6
+AU  - J. R. Gama
+AU  - E. J. Leite
+AU  - F. V. Lopes
+PY  - 2018
+KW  - Circuit faults
+KW  - Fault location
+KW  - Electrical engineering
+KW  - Transmission line measurements
+KW  - Global Positioning System
+KW  - Monitoring
+KW  - Transient analysis
+KW  - Fault location
+KW  - impedance-based fault location
+KW  - phasor
+KW  - transmission lines
+KW  - unsynchronized measurements
+DO  - 10.1109/SBSE.2018.8395713
+JO  - 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE)
+Y1  - 12-16 May 2018
+AB  - Most two-terminal fault location algorithms found in the literature require measurements to be synchronized. Such requirement has been reported as the main limitation of these approaches, thereby methods that work using unsynchronized two-terminal data have been increasingly proposed. This paper evaluates the performance of five methods able to locate faults using two-terminal unsynchronized records. Several fault scenarios were simulated in the Alternative Transients Program (ATP) to analyze, evaluate and compare the algorithms among themselves. To do so, different values of fault resistance, fault distance, power system load flow and source-to-line impedance ratio (SIR) were taken into account, highlighting the potentialities and limitations of each evaluated technique.
+ER  - 
+
+TY  - CONF
+TI  - Structural Defects in Domestic Buildings &amp; Propose Guidelines for a Safe and Economical Design
+T2  - 2020 Moratuwa Engineering Research Conference (MERCon)
+SP  - 343
+EP  - 347
+AU  - M. M. Mohamed-Zenith
+AU  - H. D. Hidallana-Gamage
+PY  - 2020
+KW  - Buildings
+KW  - Structural beams
+KW  - Manuals
+KW  - Guidelines
+KW  - Numerical analysis
+KW  - Bars
+KW  - Testing
+KW  - structural defects
+KW  - overall stability
+KW  - structural analysis
+KW  - proposed guidelines
+KW  - domestic construction
+DO  - 10.1109/MERCon50084.2020.9185364
+JO  - 2020 Moratuwa Engineering Research Conference (MERCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 Moratuwa Engineering Research Conference (MERCon)
+Y1  - 28-30 July 2020
+AB  - A proper shelter is one of the basic needs of a human being. Though everyone is dreaming for a nice-looking house, where they spend immense amount of money and still end up with cracks, deflections, settlements etc. even in their newly built houses on a normal basis presently. As per the literature available, these defects are mainly of two types as Structural and Non-structural defects. A research about structural defects, is of much importance as the overall stability of the buildings lies upon their structural elements. Once a defect is encountered in any of those elements, proper care and timely remedial actions to overcome it may avoid any possible damage to property or lives. Relying on the above background information, this research is focused upon addressing the structural defects in domestic buildings in Sri Lanka. The study followed with a questionnaire survey to identify the common problems, enhanced with field inspection, developed manual and computer based structural analysis on few important defects and finally proposed guidelines to overcome the issue with safe and economical approach. It is intended to give out a simple way of practice to the domestic construction industry to overcome structural defects in the domestic buildings.
+ER  - 
+
+TY  - CONF
+TI  - Power System Network Contingency Studies
+T2  - 2018 IEEE Student Conference on Research and Development (SCOReD)
+SP  - 1
+EP  - 6
+AU  - R. A. Gamboa
+AU  - C. V. Aravind
+AU  - C. A. Chin
+PY  - 2018
+KW  - Circuit breakers
+KW  - Circuit faults
+KW  - Power cables
+KW  - Power system stability
+KW  - Load flow analysis
+KW  - Capacitors
+KW  - etap
+KW  - load flow
+KW  - fault studies
+KW  - device duty check
+DO  - 10.1109/SCORED.2018.8711362
+JO  - 2018 IEEE Student Conference on Research and Development (SCOReD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE Student Conference on Research and Development (SCOReD)
+Y1  - 26-28 Nov. 2018
+AB  - Power system studies such as load flow analysis, fault analysis, and device duty check are essential to ensure the possible problems and challenging scenarios that can happen in the system. This paper presents scenario configurations consisting of normal and abnormal conditions of Taylor's University's Electrical Distribution System (TUEDS) using Electrical Transient Analysis Program (ETAP). Abnormal conditions include under voltage buses, overloading of cables, equipment, and protective device rating, and low system power factor. Solution techniques such as adding capacitor banks and load shedding were considered to bring the system to normal operating conditions for various system configuration and contingency situations.
+ER  - 
+
+TY  - CONF
+TI  - Characterization of X- and Gamma- ray CdTe radiation detectors
+T2  - 2011 IEEE Nuclear Science Symposium Conference Record
+SP  - 4795
+EP  - 4798
+AU  - A. Raulo
+AU  - M. Sowinska
+AU  - G. Hennard
+AU  - L. Campajola
+AU  - D. Marano
+AU  - G. Paternoster
+AU  - E. Perillo
+PY  - 2011
+KW  - Annealing
+KW  - Radio access networks
+KW  - Surface treatment
+KW  - Plasma measurements
+KW  - Spectroscopy
+KW  - Metals
+KW  - CdTe Growth
+KW  - CdTe characterization
+KW  - Detectors
+KW  - Defects
+KW  - Diffusion processes
+KW  - Ionizing radiation
+KW  - Particle beam measurements
+KW  - Semiconductor materials
+KW  - X-ray spectroscopy
+DO  - 10.1109/NSSMIC.2011.6154716
+JO  - 2011 IEEE Nuclear Science Symposium Conference Record
+IS  - 
+SN  - 1082-3654
+VO  - 
+VL  - 
+JA  - 2011 IEEE Nuclear Science Symposium Conference Record
+Y1  - 23-29 Oct. 2011
+AB  - CdTe crystals grown by the Traveling Heater Method (THM) often show a pronounced non-uniformity along the ingots due to the thermal irregularities, the Te-excess growth conditions resulting from the retrograde slope of the solidus line of the phase diagram, and to the introduced impurities. In addition, structural defects can be present that affect the electrical and optical properties of the crystals. X-ray and alpha particle spectroscopy measurements have been performed on differently prepared CdTe samples (as grown or annealed, different surface treatments, etc.) with Pt electrodes deposited by electroless technique in order to extract the typical figures of merit of the material and the detectors. Moreover, Rutherford Backscattering Spectrometry (RBS) using 8 MeV <sup>7</sup>Li<sup>+++</sup> ions and X-Ray Fluorescence (XRF) using a Pd-anode X-Ray generator were performed to characterize the crystal surface as well as the semiconductor-electrode interface. In addition, contactless resistivity and mutau product mapping technique, infrared microscopy imaging and electrical and spectroscopy measurements have been used for material characterisation. The aim of this work is to determine in a routine way the best suited method to fabricate high-quality X- and Gamma-ray detectors to be used both as large size simple detectors and as elements of imaging systems in medical or industrial applications as well as to understand and improve the structure of the material-electrode interface. The thickness, the stoichiometry and the concentration profiles of platinum, cadmium and tellurium present at the surface layers were determined. The distribution of Cd deficiency at the interface layers was profiled using simulations and showed complex profiles in the samples, which can greatly affect the electrical quality of the detectors
+ER  - 
+
+TY  - CONF
+TI  - Effects of radiation-induced changes in low-frequency noise of infrared detectors
+T2  - 2015 International Conference on Noise and Fluctuations (ICNF)
+SP  - 1
+EP  - 3
+AU  - W. Hu
+AU  - Y. Zhuang
+AU  - J. Bao
+AU  - Q. Zhao
+PY  - 2015
+KW  - Infrared detectors
+KW  - Thermistors
+KW  - Grain boundaries
+KW  - Fluctuations
+KW  - Low-frequency noise
+KW  - Conductivity
+KW  - infrared detector
+KW  - noise voltage
+KW  - irradiation
+KW  - defects
+DO  - 10.1109/ICNF.2015.7288620
+JO  - 2015 International Conference on Noise and Fluctuations (ICNF)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 International Conference on Noise and Fluctuations (ICNF)
+Y1  - 2-6 June 2015
+AB  - Low frequency noise is always used as a parameter to characterize the performance and reliability of electronics devices. In the study, a noise model of infrared detector which takes into account the grain and grain boundary was proposed. Then, the changes in low frequency noise, as an function of gamma irradiation at dose rate of 0.1 rad(Si)/s and 10 rad(Si)/s, are investigated. The experimental results shown that a lower dose rate irradiation induce more defects in infrared detector.
+ER  - 
+
+TY  - CONF
+TI  - Mechanical Faults Diagnosis of HVCB Based on Auditory Features and Sparse Representation Classification
+T2  - 2021 Power System and Green Energy Conference (PSGEC)
+SP  - 650
+EP  - 654
+AU  - Y. Shuai
+AU  - L. Pengyu
+AU  - W. Gaojie
+AU  - F. Dou
+AU  - T. Yong
+AU  - S. Yuwei
+PY  - 2021
+KW  - Fault diagnosis
+KW  - Signal processing algorithms
+KW  - Signal processing
+KW  - Feature extraction
+KW  - Power grids
+KW  - Encoding
+KW  - Classification algorithms
+KW  - HVCB
+KW  - mechanical faults diagnosis
+KW  - GFCC
+KW  - closing sound signals
+KW  - sparse representation classification
+KW  - LDA
+DO  - 10.1109/PSGEC51302.2021.9542694
+JO  - 2021 Power System and Green Energy Conference (PSGEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 Power System and Green Energy Conference (PSGEC)
+Y1  - 20-22 Aug. 2021
+AB  - The high-voltage circuit breaker(HVCB) plays an important part in power system. Detecting the mechanical faults of HVCB is of great significance to the operation of power grid. In this paper, the closing sound signals of HVCB are taken as the target signals of signal processing. In the feature extraction stage, the Gammatone Frequency Cepstrum Coefficients(GFCC) of target signals are extracted according to the response characteristics of cochlea basement membrane. Then the linear discriminant analysis(LDA) is applied to enhance the feature representation ability of GFCC. In the feature recognition stage, the sparse representation classification algorithm is used to identify the improved GFCC due to the dimension of GFCC is too high. Finally, a 110kV HVCB is taken as the experimental object to implement field experiments. The jamming and refusing to operate faults of HVCB are set artificially. And the experimental results show that the recognition method proposed in this paper can complete the mechanical faults diagnosis of HVCB well.
+ER  - 
+
+TY  - CONF
+TI  - Fourier spectrum based periodic cell pattern elimination in thin film transistor liquid crystal display cell image
+T2  - 2011 IEEE International Conference on Consumer Electronics (ICCE)
+SP  - 871
+EP  - 872
+AU  - C. Jung
+AU  - S. Kim
+AU  - H. Lee
+AU  - B. Yun
+AU  - J. Lee
+AU  - Y. Lim
+AU  - K. Park
+PY  - 2011
+KW  - Inspection
+KW  - Thin film transistors
+KW  - Algorithm design and analysis
+KW  - Discrete Fourier transforms
+KW  - Frequency domain analysis
+KW  - Digital signal processing
+KW  - Liquid crystal displays
+DO  - 10.1109/ICCE.2011.5722911
+JO  - 2011 IEEE International Conference on Consumer Electronics (ICCE)
+IS  - 
+SN  - 2158-4001
+VO  - 
+VL  - 
+JA  - 2011 IEEE International Conference on Consumer Electronics (ICCE)
+Y1  - 9-12 Jan. 2011
+AB  - This paper presents a hardware that inspects defects on TFT-LCD cell modules and packed in a PCI-board equipped with FPGA and DSP processors. Images of TFT-LCD cell modules normally contain periodic cell patterns which make it difficult to detect defects. We propose an efficient and powerful algorithm for elimination of the cell pattern using magnitude spectrum analysis.
+ER  - 
+
+TY  - CONF
+TI  - A survivability-centered research agenda for cloud computing supported emergency response and management systems
+T2  - 2014 IEEE Aerospace Conference
+SP  - 1
+EP  - 17
+AU  - Z. Ma
+AU  - L. Yang
+AU  - R. P. Neilson
+AU  - A. Hess
+AU  - R. Millar
+PY  - 2014
+KW  - Reliability theory
+KW  - Cloud computing
+KW  - Terminology
+KW  - Biological system modeling
+KW  - Computational modeling
+KW  - Cloud Computing
+KW  - Emergency Response and Management
+KW  - Reliability
+KW  - Survivability
+KW  - Three-Layer Survivability Analysis
+KW  - Extended Evolutionary Game Theory
+KW  - Dynamic Hybrid Fault Models
+KW  - Evolutionary Computing
+DO  - 10.1109/AERO.2014.6836515
+JO  - 2014 IEEE Aerospace Conference
+IS  - 
+SN  - 1095-323X
+VO  - 
+VL  - 
+JA  - 2014 IEEE Aerospace Conference
+Y1  - 1-8 March 2014
+AB  - Cloud computing is evolved from grid computing with a key support from the rapidly expanding virtualization technology. We argue that clouding computing is particularly suitable for supporting emergency response and management (ERM) because of some of its unique features such as rapid setup and deployment on ad hoc basis, highly flexible platforms (PaaS: Platform as a Service) and application services (SaaS: Software as a Service) with little time-space constraints. ERM is one of the seven critical national infrastructures and services mandated to protect by the 1999 US President's Executive Order (PCCIP). The paradigm of survivability and survivable network systems was a response of academia to the president's executive order. We concur that survivability should be the lifeline of any ERM, including the cloud computing supported (CCS) ERM systems. In this article, we present a research agenda that is aimed at developing a survivability-centered architecture for evolving reliable and survivable CCS-ERM systems. The research agenda suggests that biological and computational evolutions should be rich sources of biological inspirations as well as powerful optimization algorithm for designing (evolving) the ERM systems. The proposed research agenda advocates the application of three-layer survivability analysis, dynamic hybrid fault models, and extended evolutionary game theory modeling developed by Ma &amp; Krings [Ma &amp; Krings (2008a-e, 2011), Ma et al. (2009a), Ma (2008, 2009, 2010, 2011a,b). We use banking system survivability as an example to illustrate the proposed research agenda.
+ER  - 
+
+TY  - CONF
+TI  - A generalized monitor verdict for log trace triaging
+T2  - 2015 IEEE 6th International Workshop on Program Comprehension through Dynamic Analysis (PCODA)
+SP  - 13
+EP  - 18
+AU  - S. Varvaressos
+AU  - K. Lavoie
+AU  - S. Gaboury
+AU  - S. Halle
+PY  - 2015
+KW  - Monitoring
+KW  - Games
+KW  - Runtime
+KW  - Computer bugs
+KW  - XML
+KW  - Data structures
+KW  - Systematics
+DO  - 10.1109/PCODA.2015.7067178
+JO  - 2015 IEEE 6th International Workshop on Program Comprehension through Dynamic Analysis (PCODA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE 6th International Workshop on Program Comprehension through Dynamic Analysis (PCODA)
+Y1  - 2-2 March 2015
+AB  - This paper introduces a new approach at classifying event traces with respect to some property expressed in Linear Temporal Logic generalizing the classical Boolean outcome. We produce from the evaluation of the formula on a given trace a data structure called a trace hologram. When such holograms are interpreted as equivalence classes, we show how manipulating them produce a clustering of event traces into various categories, depending on the precise way in which each group of traces violate the specification. The approach has been integrated into in an existing bug tracker in an entirely automated fashion, and experimented on a set of traces extracted from the execution of a real-world program.
+ER  - 
+
+TY  - CONF
+TI  - Surface materials analysis of defect ring on image sensor
+T2  - 2011 IEEE 13th Electronics Packaging Technology Conference
+SP  - 691
+EP  - 694
+AU  - B. J. MacDonald
+AU  - Zhenxiang Xing
+AU  - Chao Fu
+AU  - Xiaomin Li
+PY  - 2011
+KW  - Image sensors
+KW  - Polymers
+KW  - Silicon
+KW  - Image color analysis
+KW  - Spectroscopy
+DO  - 10.1109/EPTC.2011.6184507
+JO  - 2011 IEEE 13th Electronics Packaging Technology Conference
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 IEEE 13th Electronics Packaging Technology Conference
+Y1  - 7-9 Dec. 2011
+AB  - CMOS (Complementary Metal - Oxide - Semiconductor) image sensors are commonly used in many modern electrical products such as digital cameras, camera phones, automotive applications, gaming applications, etc. In this paper, we will discuss unusual pinkish rings which are observed in a captured colored image. The image was captured using a CMOS VGA (640H × 480V) SOC (System-On-a-Chip) digital image sensor. The image sensor has a micron-scale thick film of organic polymer fashioned into an array of dome-like structures called micro-lenses. Each micro-lens helps to direct light towards photodiodes. The array of micro-lenses is aligned on top of a color filter layer in a similar array format. This Color Filter Array (CFA) with Bayer pattern only allows one color (red, green, or blue) to pass down below to the corresponding array of photodiodes. [1-3] It was thought that some surface analysis techniques such as AES (Auger Emission Spectroscopy) and XPS (X-ray Photoelectron Spectroscopy) would not be appropriate for analyzing this defect due to sensitivity limits, defect size, or charging effects. Therefore, we collected surface information with ToF SIMS (Time-of-Flight Secondary Ion Mass Spectrometry) which has certain advantages for this type of sample. [4-7] We supplemented this data with analysis from the following instruments: light microscopy, FIB (Focused Ion Beam), SEM (Scanning Electron Microscopy), and TEM-EDS (Transmission Electron Microscopy with Energy-dispersive X-ray Spectroscopy). By combining the data from these techniques, we evaluated possible causes of the pinkish ring color.
+ER  - 
+
+TY  - CONF
+TI  - Fault Diagnosis of Power Transformer by Acoustic Signals with Deep Learning
+T2  - 2020 IEEE International Conference on High Voltage Engineering and Application (ICHVE)
+SP  - 1
+EP  - 4
+AU  - X. J. Dang
+AU  - F. H. Wang
+AU  - W. J. Ma
+PY  - 2020
+KW  - Acoustics
+KW  - Power transformer insulation
+KW  - Filter banks
+KW  - Time-frequency analysis
+KW  - Spectrogram
+KW  - Deep learning
+KW  - Convolution
+KW  - acoustic signals
+KW  - convolution neural network
+KW  - gammatone filterbank
+KW  - power transformer
+KW  - voice print spectrum
+DO  - 10.1109/ICHVE49031.2020.9279751
+JO  - 2020 IEEE International Conference on High Voltage Engineering and Application (ICHVE)
+IS  - 
+SN  - 2474-3852
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on High Voltage Engineering and Application (ICHVE)
+Y1  - 6-10 Sept. 2020
+AB  - Acoustic signals of an operated transformer are continuously produced and closely related to its normal and typical fault conditions, including overload operation, mechanical failures, local overheating and discharge caused by insulation breakdown. Those signals can be easily collected with microphone sensors in substation. To better recognize the proper conditions of power transformer with acoustic signals, this paper presents a fault diagnosis method based on the GFCC voiceprint spectrum and convolution neural network (CNN). Here, the gammatone filterbank is used to match the real features of acoustic signals of transformer to calculate the feature parameters of GFCC for recognition by VGG16 CNN with high accuracy. The acoustic signals of a dry type transformer with the voltage rating of 10kV in load experiment under normal and typical fault conditions are measured and analyzed to verify the correctness of the proposed methods. Calculated results have shown that the recognition accuracy for the different conditions of power transformer is more than 95%.
+ER  - 
+
+TY  - CONF
+TI  - Cancer Cell Detection using 2D Photonic Crystal
+T2  - 2020 International Conference on Convergence to Digital World - Quo Vadis (ICCDW)
+SP  - 1
+EP  - 6
+AU  - K. Gamare
+AU  - R. B. Jain
+PY  - 2020
+KW  - Cancer
+KW  - Photonic crystals
+KW  - Gratings
+KW  - Structural rings
+KW  - Refractive index
+KW  - Reflection coefficient
+KW  - Breast
+KW  - 2D Photonic crystal
+KW  - Photonic Band Gap (PBG)
+KW  - Line defect
+KW  - Waveguide
+DO  - 10.1109/ICCDW45521.2020.9318699
+JO  - 2020 International Conference on Convergence to Digital World - Quo Vadis (ICCDW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Convergence to Digital World - Quo Vadis (ICCDW)
+Y1  - 18-20 Feb. 2020
+AB  - In this paper a fast, efficient and accurate method for the detection of a cancerous cell using Two-dimensional (2D) photonic crystal is proposed. Photonic crystal has many advantage of small size, portability, low cost, high sensitivity and accuracy. The detection of cancer cell is based on the fact that the refractive index of cancer cells differ from normal cells in human body. This difference in refractive index can be observed using optical techniques in 2D photonic crystal. The detection mechanism consists of shift in reflection or transmission coefficient on different wavelength, when a sample of cell is placed in to 2D photonic crystal structure with defect and this shift is different for different types of cancer cells. This helps in interpreting the type of cancer efficiently. For analysis of different cancer cells, refractive index of cancer cells have been taken instead of refractive index of air in the structure. This paper analyzes the shift in wavelength for various cancer cells such as PC12, Basal, Jurkat, Cervical, MCF-7, MDA-MB 231 with the help of grating structure, structure with defect and double ring structure. Finite Element Method based simulation tool, COMSOL Multiphysics has been used for analysis and results are presented in the form of reflection coefficient vs wavelength for various cancer cells.
+ER  - 
+
+TY  - CONF
+TI  - Data Augmentation Method for Fault Diagnosis of Mechanical Equipment Based on Improved Wasserstein GAN
+T2  - 2020 11th International Conference on Prognostics and System Health Management (PHM-2020 Jinan)
+SP  - 103
+EP  - 111
+AU  - W. Liu
+AU  - L. Duan
+AU  - Y. Tang
+AU  - J. Yang
+PY  - 2020
+KW  - Generative adversarial networks
+KW  - Training
+KW  - Data models
+KW  - Gallium nitride
+KW  - Fault diagnosis
+KW  - Two dimensional displays
+KW  - Predictive models
+KW  - generative adversarial networks
+KW  - imbalanced data
+KW  - data augmentation
+KW  - failure prediction
+DO  - 10.1109/PHM-Jinan48558.2020.00025
+JO  - 2020 11th International Conference on Prognostics and System Health Management (PHM-2020 Jinan)
+IS  - 
+SN  - 2166-5656
+VO  - 
+VL  - 
+JA  - 2020 11th International Conference on Prognostics and System Health Management (PHM-2020 Jinan)
+Y1  - 23-25 Oct. 2020
+AB  - Most of the time the mechanical equipment is in normal operation state, which results in high imbalance between fault data and normal data. In addition, traditional signal processing methods rely heavily on expert experience, making it difficult for classification or prediction algorithms to obtain accurate results. In view of the above problem, this paper proposed a method to augment failure data for mechanical equipment diagnosis based on Wasserstein generative adversarial networks with gradient penalty (WGAN-GP). First, the multi-dimensional sensor data are converted into two-dimensional gray images in order to avoid the interference of tedious parameters preset on the model and the dependence on the professional knowledge of signal preprocessing. Based on this foundation, the gray images of the minority sample are used as the input of WGAN-GP to carry out adversarial training until the network reaches the Nash Equilibrium. Then the generated images are added to the original failure samples, reducing the imbalance of the original data samples. Finally, by calculating the structural similarity index between the generated images and the original images, the difficulty of quantitative evaluation of WGAN-GP data generated by itself is solved. Taking the accelerated bearing failure dataset as an example, the classification prediction effects of different classifiers are compared. The results of multiple experiments shown that the proposed method can more effectively improve the prediction accuracy in the case of sparse fault samples.
+ER  - 
+
+TY  - CONF
+TI  - Large scale debugging of parallel tasks with AutomaDeD
+T2  - SC '11: Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis
+SP  - 1
+EP  - 10
+AU  - I. Laguna
+AU  - T. Gamblin
+AU  - B. R. de Supinski
+AU  - S. Bagchi
+AU  - G. Bronevetsky
+AU  - D. H. Anh
+AU  - M. Schulz
+AU  - B. Rountree
+PY  - 2011
+KW  - Debugging
+KW  - Gaussian distribution
+KW  - Image edge detection
+KW  - Clustering algorithms
+KW  - Complexity theory
+KW  - Runtime
+KW  - Probability distribution
+DO  - 10.1145/2063384.2063451
+JO  - SC '11: Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis
+IS  - 
+SN  - 2167-4337
+VO  - 
+VL  - 
+JA  - SC '11: Proceedings of 2011 International Conference for High Performance Computing, Networking, Storage and Analysis
+Y1  - 12-18 Nov. 2011
+AB  - Developing correct HPC applications continues to be a challenge as the number of cores increases in today's largest systems. Most existing debugging techniques perform poorly at large scales and do not automatically locate the parts of the parallel application in which the error occurs. The over head of collecting large amounts of runtime information and an absence of scalable error detection algorithms generally cause poor scalability. In this work, we present novel, highly efficient techniques that facilitate the process of debugging large scale parallel applications. Our approach extends our previous work, AutomaDeD, in three major areas to isolate anomalous tasks in a scalable manner: (i) we efficiently compare elements of graph models (used in AutomaDeD to model parallel tasks) using pre-computed lookup-tables and by pointer comparison; (ii) we compress per-task graph models before the error detection analysis so that comparison between models involves many fewer elements; (iii) we use scalable sampling-based clustering and nearest-neighbor techniques to isolate abnormal tasks when bugs and performance anomalies are manifested. Our evaluation with fault injections shows that AutomaDeD scales well to thousands of tasks and that it can find anomalous tasks in under 5 seconds in an online manner.
+ER  - 
+
+TY  - CONF
+TI  - Fault detection in quadrotor MAV
+T2  - 2017 7th IEEE International Conference on System Engineering and Technology (ICSET)
+SP  - 65
+EP  - 70
+AU  - C. S. Jing
+AU  - D. Pebrianti
+AU  - G. M. Qian
+AU  - L. Bayuaji
+PY  - 2017
+KW  - Artificial neural networks
+KW  - Fault detection
+KW  - Kalman filters
+KW  - Sensors
+KW  - Fault diagnosis
+KW  - Complex systems
+KW  - Mathematical model
+KW  - Kalman filter
+KW  - Artificial Neural Network
+KW  - Fault detection
+KW  - Fault Isolation
+KW  - Kalman-ANN
+KW  - Nonlinear Autoregressive Network with Exogenous Inputs
+DO  - 10.1109/ICSEngT.2017.8123422
+JO  - 2017 7th IEEE International Conference on System Engineering and Technology (ICSET)
+IS  - 
+SN  - 2470-640X
+VO  - 
+VL  - 
+JA  - 2017 7th IEEE International Conference on System Engineering and Technology (ICSET)
+Y1  - 2-3 Oct. 2017
+AB  - Unmanned Aerial Vehicle (UAV) is being used in a wide range of human life. Researcher preferred quadrotor as it can be brought into the first generation of simulator map of an aircraft. It can be developed into larger manned flight. In this regard, extensive research in Fault detection (FD) is necessary, so that it can enhance its safety features. FD is designed to respond and to exclude the wrong information and to quickly perceive and shoulder important regulation. The proposed method for the fault detection in this study uses hybrid technique which combines the Kalman filter and Artificial Neural Network (ANN). Two classes of approaches are analyzed: the system identification approach using ANN and the observer-based approach using Kalman filter. A representative Artificial Neural Network (ANN) model has been designed and used to simulate the system behaviors under various failure conditions. The Kalman filter recognizes data from sensors and indicates the fault of the system in sensor reading. Error prediction is based on the fault magnitude and the time occurrence of fault. The information will then be fed to ANN, which consists of a bank of parameter estimation that generates failure state. The result of the residual signal before filtered and after filtered showed that Kalman-ANN is able to identify multi fault and immediately correct the system to the normal state. The accuracy of the detection is 85 percent. The proposed method is able to detect fault in a short time with delay of 9.23E-05 seconds.
+ER  - 
+
+TY  - CONF
+TI  - Novel framework for sports video analysis: A basketball case study
+T2  - 2014 IEEE International Conference on Image Processing (ICIP)
+SP  - 961
+EP  - 965
+AU  - C. Chen
+AU  - L. Chen
+PY  - 2014
+KW  - Clocks
+KW  - Semantics
+KW  - Games
+KW  - Motion segmentation
+KW  - Feature extraction
+KW  - Multimedia communication
+KW  - Streaming media
+KW  - Basketball
+KW  - broadcast video
+KW  - semantic event extraction
+KW  - slow motion replay detection
+KW  - sports video analysis
+DO  - 10.1109/ICIP.2014.7025193
+JO  - 2014 IEEE International Conference on Image Processing (ICIP)
+IS  - 
+SN  - 2381-8549
+VO  - 
+VL  - 
+JA  - 2014 IEEE International Conference on Image Processing (ICIP)
+Y1  - 27-30 Oct. 2014
+AB  - Semantic event and slow motion replay extraction for sports videos have become hot research topics. Most researches analyze every video frame; however, semantic events only appear in frames with scoreboard, whereas replays only appear in frames without scoreboard. Extracting events and replays from unrelated frames causes defects and leads to degradation of performance. In this paper, a novel framework is proposed to tackle challenges of basketball video analysis. In the framework, a scoreboard detector is first provided to divide video frames to two classes, with/without scoreboard. Then, a semantic event extractor is presented to extract semantic events from frames with scoreboard and a slow motion replay extractor is proposed to extract replays from frames without scoreboard. Experimental results show that the proposed framework is practicable for basketball videos. It is expected that the proposed framework can be extended to other sports.
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Mechanism Design: Learning to Promote Cooperation
+T2  - 2020 International Joint Conference on Neural Networks (IJCNN)
+SP  - 1
+EP  - 7
+AU  - T. Baumann
+AU  - T. Graepel
+AU  - J. Shawe-Taylor
+PY  - 2020
+KW  - Games
+KW  - Planning
+KW  - Markov processes
+KW  - Learning (artificial intelligence)
+KW  - Symmetric matrices
+KW  - Gradient methods
+KW  - Task analysis
+DO  - 10.1109/IJCNN48605.2020.9207690
+JO  - 2020 International Joint Conference on Neural Networks (IJCNN)
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - 2020 International Joint Conference on Neural Networks (IJCNN)
+Y1  - 19-24 July 2020
+AB  - In the future, artificial learning agents are likely to become increasingly widespread in our society. They will interact with both other learning agents and humans in a variety of complex settings including social dilemmas. We consider the problem of how an external agent can promote cooperation between artificial learners by distributing additional rewards and punishments based on observing the learners' actions. We propose a rule for automatically learning how to create the right incentives by considering the players' anticipated parameter updates. Using this learning rule leads to cooperation with high social welfare in matrix games in which the agents would otherwise learn to defect with high probability. We show that the resulting cooperative outcome is stable in certain games even if the planning agent is turned off after a given number of episodes, while other games require ongoing intervention to maintain mutual cooperation. However, even in the latter case, the amount of necessary additional incentives decreases over time.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing precision in Process Conformance: Stability, confidence and severity
+T2  - 2011 IEEE Symposium on Computational Intelligence and Data Mining (CIDM)
+SP  - 184
+EP  - 191
+AU  - J. Munoz-Gama
+AU  - J. Carmona
+PY  - 2011
+KW  - Automata
+KW  - Measurement
+KW  - Analytical models
+KW  - Computational modeling
+KW  - Data mining
+KW  - Petri nets
+KW  - Stability analysis
+DO  - 10.1109/CIDM.2011.5949451
+JO  - 2011 IEEE Symposium on Computational Intelligence and Data Mining (CIDM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 IEEE Symposium on Computational Intelligence and Data Mining (CIDM)
+Y1  - 11-15 April 2011
+AB  - Process Conformance is becoming a crucial area due to the changing nature of processes within an Information System. By confronting specifications against system executions (the main problem tackled in process conformance), both system bugs and obsolete/incorrect specifications can be revealed. This paper presents novel techniques to enrich the process conformance analysis for the precision dimension. The new features of the metric proposed in this paper provides a complete view of the precision between a log and a model. The techniques have been implemented as a plug-in in an open-source Process Mining platform and experimental results witnessing both the theory and the goals of this work are presented.
+ER  - 
+
+TY  - CONF
+TI  - Creating Subsurface Defect Specimens for Deep Learning Analyzing of Radiographic Weld Testing
+T2  - 2019 Research, Invention, and Innovation Congress (RI2C)
+SP  - 1
+EP  - 6
+AU  - N. Panya
+AU  - S. Tanachutiwat
+PY  - 2019
+KW  - Radiography
+KW  - Deep learning
+KW  - Industries
+KW  - Technological innovation
+KW  - Welding
+KW  - Standards
+KW  - Testing
+KW  - Radiographic Testing (RT)
+KW  - Radiographic Images
+KW  - Welding Defects
+KW  - Lack of fusion
+KW  - X-Ray
+KW  - Gamma Ray
+DO  - 10.1109/RI2C48728.2019.8999893
+JO  - 2019 Research, Invention, and Innovation Congress (RI2C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 Research, Invention, and Innovation Congress (RI2C)
+Y1  - 11-13 Dec. 2019
+AB  - The purpose of this work is to create more defective specimen for development of deep learning model for non-destructive inspection of welding materials of the workpiece by radiographic testing. Inadequate amounts of defective samples in some rare cases poses a major challenge for the development of defect detection and classification deep learning models. Obtaining actual rare defects from real works is improbable in the industry. Therefore, an approach to create and collect defective welding sample are design and proposed. The specimen design and defect definition are according to international standards.
+ER  - 
+
+TY  - CONF
+TI  - Fault Detection Techniques for Analog/Mixed Signal SoC design
+T2  - 2019 IEEE 5th International Conference for Convergence in Technology (I2CT)
+SP  - 1
+EP  - 4
+AU  - A. A. Deshmukh
+AU  - R. Shyam Gamad
+AU  - D. K. Mishra
+PY  - 2019
+KW  - Wavelet analysis
+KW  - Discrete wavelet transforms
+KW  - Voltage-controlled oscillators
+KW  - Testing
+KW  - Circuit faults
+KW  - VLSI
+KW  - PLL
+KW  - DFT
+KW  - VCO
+KW  - AMS-SoC
+KW  - DWT
+DO  - 10.1109/I2CT45611.2019.9033900
+JO  - 2019 IEEE 5th International Conference for Convergence in Technology (I2CT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE 5th International Conference for Convergence in Technology (I2CT)
+Y1  - 29-31 March 2019
+AB  - This work reports fault detection techniques for Analog/Mixed signal SoC based applications with the help of wavelet transform. In this paper, phase and frequency faults are analyzed &amp; detected for mixed signal circuits. For the validation of the proposed technique, mixed signal circuit like phase locked loop, voltage controlled oscillator, analog to digital converter are tested for various AMS-SoC applications in various ranges of phase and frequency. If some deviations occur in phase and frequency of the given circuits then fault may detected according to the deviations. Previously fast fourier transform may use for some applications, but it was failed to analyzed non stationary signals whereas wavelet transform allows to analyze component of non-stationary signals. Paper presents performance of fast fourier transform for different frequency and channel power, SNR of VCO is -8.87 dBc, Total harmonic distortion is -19.27dB and discrete wavelet transform response for change in time period is 0.534sec and accordingly change in voltage will be -572. 0.368mv.
+ER  - 
+
+TY  - CONF
+TI  - Modelling of a directly coupled PV Water Pumping System using Soft Computing techniques
+T2  - Michael Faraday IET International Summit 2015
+SP  - 554
+EP  - 559
+AU  - N. A. Elsonbaty
+AU  - M. A. Enany
+AU  - M. M. Gamil
+PY  - 2015
+KW  - Computational modeling
+KW  - Mathematical model
+KW  - Artificial neural networks
+KW  - Adaptation models
+KW  - Data models
+KW  - Pumps
+KW  - Steady-state
+KW  - Power-Dense
+KW  - Interleaved-Boost
+KW  - DC-DC Converter
+KW  - Electric Vehicle
+KW  - Finite-Element-Analysis
+DO  - 10.1049/cp.2015.1692
+JO  - Michael Faraday IET International Summit 2015
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Michael Faraday IET International Summit 2015
+Y1  - 12-13 Sept. 2015
+AB  - Photo-Voltaic Water Pumping System (PVWPS) is the most suitable system for low head irrigation in the remote areas. PVWPS may be characterized by its multivariable-nonlinear equations; however, efficient water demand management necessitates fast and accurate water flow rate estimation at actual operating states. This can hardly be achieved with conventional mathematical -based methodologies. In this paper two of the Soft Computing (SC) techniques are due selected; Artificial Neural Network (ANN) and Adaptive Neuro-Fuzzy Inference System (ANFIS) for PVWPS novel modeling and performance pre-evaluation .The (ANN) model and (ANFIS) models are trained off-line to identify the water flow rate based on air temperature, solar irradiation, and static head as input parameters. An iteration technique which is mathematical-based is also presented for comparison and evaluation purposes. The paper indicates accuracy, robustness and effectiveness of the proposed models in water flow rate control, economic feasibility and fault detection.
+ER  - 
+
+TY  - CONF
+TI  - System Protection Coordination Study for Electrical Distribution System
+T2  - 2018 IEEE Student Conference on Research and Development (SCOReD)
+SP  - 1
+EP  - 6
+AU  - R. A. Gamboa
+AU  - C. V. Aravind
+AU  - C. A. Chin
+PY  - 2018
+KW  - Relays
+KW  - Circuit breakers
+KW  - Circuit faults
+KW  - Power cables
+KW  - Current transformers
+KW  - Load flow
+KW  - Fault currents
+KW  - protection coordination
+KW  - circuit breakers
+KW  - protective relays
+KW  - etap
+DO  - 10.1109/SCORED.2018.8710793
+JO  - 2018 IEEE Student Conference on Research and Development (SCOReD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE Student Conference on Research and Development (SCOReD)
+Y1  - 26-28 Nov. 2018
+AB  - System protection coordination studies are important in power system networks to ensure the continuity of service in the system. This paper presents relay coordination and tripping sequence of circuit breakers for Taylor's University Electrical Distribution System (TUEDS) using Electrical Transient Analysis Program (ETAP) by choosing appropriate relays and circuit breakers settings after conducting load flow and fault analysis to find the relay pick up current and plug setting multiplier. Two different buses were simulated for the three-phase fault to ensure the circuit breakers have proper tripping sequence and timing. The results obtained for transformer 2 load bus MSB 2 have short circuit value of 31.7 kA and tripping time for breakers CB-T2L as primary protection, CB-T2H, and CB-IF2 as backup protection is 30.6 ms, 472 ms, and 507 ms respectively. For transformer T4 load bus MSB 4, the fault current obtained is 46.8 kA and the tripping time for breakers CB-T4L as primary protection, CB-T4H, and CB-IF2 as back up protection are 30.7 ms, 196 ms, and 413 ms respectively. The back-up protection for each protective device is achieved by ensuring appropriate coordination time interval between the protective devices for a more reliable protection. The time-current characteristics curves (TCC) for relays and low voltage circuit breakers were presented to show the interrupting time of the devices based on the current level.
+ER  - 
+
+TY  - CONF
+TI  - Security situation prediction method of industrial control network based on ant colony-RBF neural network
+T2  - 2021 IEEE 2nd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)
+SP  - 834
+EP  - 837
+AU  - X. Wang
+AU  - Z. Han
+AU  - R. Yu
+PY  - 2021
+KW  - Neural networks
+KW  - Predictive models
+KW  - Prediction algorithms
+KW  - Market research
+KW  - Security
+KW  - Communication networks
+KW  - Internet of Things
+KW  - AI
+KW  - game theory algorithms
+KW  - ant colony algorithm
+KW  - RBF neural network
+DO  - 10.1109/ICBAIE52039.2021.9389864
+JO  - 2021 IEEE 2nd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE 2nd International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)
+Y1  - 26-28 March 2021
+AB  - To understand the future trend of network security, the field of network security began to introduce the concept of NSSA(Network Security Situation Awareness). This paper implements the situation assessment model by using game theory algorithms to calculate the situation value of attack and defense behavior. After analyzing the ant colony algorithm and the RBF neural network, the defects of the RBF neural network are improved through the advantages of the ant colony algorithm, and the situation prediction model based on the ant colony-RBF neural network is realized. Finally, the model was verified experimentally.
+ER  - 
+
+TY  - CONF
+TI  - Mystery Bug Theater
+T2  - 2011 24th IEEE-CS Conference on Software Engineering Education and Training (CSEE&T)
+SP  - 381
+EP  - 385
+AU  - R. Bryce
+AU  - V. Allan
+PY  - 2011
+KW  - Computer bugs
+KW  - Games
+KW  - Programming
+KW  - Motion pictures
+KW  - Software testing
+DO  - 10.1109/CSEET.2011.5876109
+JO  - 2011 24th IEEE-CS Conference on Software Engineering Education and Training (CSEE&T)
+IS  - 
+SN  - 2377-570X
+VO  - 
+VL  - 
+JA  - 2011 24th IEEE-CS Conference on Software Engineering Education and Training (CSEE&T)
+Y1  - 22-24 May 2011
+AB  - Introductory Computer Science students often encounter programming bugs. Our previous work gathers and classifies data for 450 programming bugs brought to our tutor lab over a one year period. We use the data to identify the most common bugs as the basis for activities that improve our curriculum. This paper discusses several activities that rely on this data: (1) the “Mystery Bug Theater” website contains games and movies about common bugs, (2) professors quickly respond to the common bugs in lectures, and (3) class exercises use buggy code from the repository. Future work will distribute software testing material across the curriculum to help students with the most common bugs in specific courses and will analyze whether bug patterns change based on curriculum changes.
+ER  - 
+
+TY  - CONF
+TI  - Comparative study of dislocation densities in CdZnTe ingots grown with different carbon coatings
+T2  - 2012 IEEE Nuclear Science Symposium and Medical Imaging Conference Record (NSS/MIC)
+SP  - 4241
+EP  - 4244
+AU  - W. Chan
+AU  - V. Sams
+AU  - K. Kim
+AU  - A. Kassu
+AU  - R. James
+PY  - 2012
+KW  - CdZnTe
+KW  - dislocations
+KW  - carbon-coating thickness
+KW  - ampoule's shape
+KW  - etch-pit densities
+DO  - 10.1109/NSSMIC.2012.6551967
+JO  - 2012 IEEE Nuclear Science Symposium and Medical Imaging Conference Record (NSS/MIC)
+IS  - 
+SN  - 1082-3654
+VO  - 
+VL  - 
+JA  - 2012 IEEE Nuclear Science Symposium and Medical Imaging Conference Record (NSS/MIC)
+Y1  - 27 Oct.-3 Nov. 2012
+AB  - Cadmium Zinc Telluride (CdZnTe) is known to be one of the best room temperature X-ray and gamma-ray radiation detector's materials. However, the supply of high-quality CdZnTe detectors is limited due to crystal defects such as dislocations, impurities, Te inclusions that are generated during the crystal growth process. Dislocations are generated due to the stress/strain in the growth process. In this study, we characterized dislocation densities in CdZnTe crystals grown by different techniques (i.e. different carbon-coating thickness and ampoule's shapes) for the suggestion of better growth techniques. Dislocations densities were revealed using a Saucedo solution and analyzed by an infrared microscope. The thick carbon-coated ampoules generated fewer dislocations than the thin carbon-coated ampoule and the ampoule design did not affect the etch pit densities (EPD) as much than carbon-coating thickness. Also, we concluded that a proper crystal growth rate and cooling down rate is one important factor in minimizing dislocations in CdZnTe crystals. The effects of dislocations on the CdZnTe detector's performance was evaluated from the <sup>241</sup>Am gamma-response, which fabricated from low and high densities of etch pit region.
+ER  - 
+
+TY  - CONF
+TI  - A Novel Methodology to Detect Faults on Anchor Rods Using Reflectometry and Machine Learning
+T2  - 2019 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC)
+SP  - 1
+EP  - 3
+AU  - M. d. S. Coutinho
+AU  - L. R. G. S. L. Novo
+AU  - H. B. D. T. L. Neto
+AU  - P. H. R. P. Gama
+AU  - L. H. A. d. Medeiros
+AU  - M. T. de Melo
+AU  - D. C. B. Pimentel
+AU  - M. M. Alves
+AU  - V. L. Tarragô
+AU  - R. G. M. d. Santos
+PY  - 2019
+KW  - Transmission line measurements
+KW  - Machine learning
+KW  - Poles and towers
+KW  - Logistics
+KW  - Circuit faults
+KW  - Frequency-domain analysis
+KW  - Corrosion
+KW  - anchor rod
+KW  - transmission lines
+KW  - frequency domain reflectometry
+KW  - machine learning
+KW  - non-destructive technique
+DO  - 10.1109/IMOC43827.2019.9317671
+JO  - 2019 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC)
+Y1  - 10-14 Nov. 2019
+AB  - This paper presents a new methodology based on a FDR technique and machine learning structure to detect faults on anchor rods used in guyed towers of power transmission lines. Such faults are due to material loss in the rods, which it may break them, and may case the tower falling. The methodology is a non-destructive technique (NDT) that is based on frequency domain reflectometry (FDR). For detection, high frequency pulses are inserted into anchor rod samples and the reflection coefficient is analyzed and compared to that obtained in the simulation results. Samples of anchor rods with and without faults were simulated, fabricated, measured and classified by a machine learning structure to determine the presence or absence of the faults.
+ER  - 
+
+TY  - CONF
+TI  - Ares: A High Performance and Fault-Tolerant Distributed Stream Processing System
+T2  - 2018 IEEE 26th International Conference on Network Protocols (ICNP)
+SP  - 176
+EP  - 186
+AU  - C. Lin
+AU  - J. Zhan
+AU  - H. Chen
+AU  - J. Tan
+AU  - H. Jin
+PY  - 2018
+KW  - Task analysis
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Resource management
+KW  - Topology
+KW  - Heuristic algorithms
+KW  - Throughput
+KW  - Distributed-stream-processing-system
+KW  - Task-allocation
+KW  - Fault-tolerance
+KW  - Game-theory
+KW  - Best-response-dynamics
+DO  - 10.1109/ICNP.2018.00027
+JO  - 2018 IEEE 26th International Conference on Network Protocols (ICNP)
+IS  - 
+SN  - 1092-1648
+VO  - 
+VL  - 
+JA  - 2018 IEEE 26th International Conference on Network Protocols (ICNP)
+Y1  - 25-27 Sept. 2018
+AB  - Distributed Stream Processing Systems (DSPSs) have been widely deployed to process infinite data streams. Short processing latency and short recovery time are both vital for many DSPS applications. Existing DSPS designs commonly leverage elaborated task allocation strategies to achieve short processing latency. Such designs, however, ignore the requirement of system fault tolerance. Indeed, providing fault tolerant capability in a DSPS can cause significant degradation of system performance. Especially, the intrinsic dependency between upstream and down-stream tasks can incur cascaded waiting during recovery, leading to prohibitively long recovery time. In this paper, we propose Ares, a high performance and fault tolerant DSPS. Ares considers both system performance and fault tolerant capability during task allocation. In the design of Ares, we formalize the problem of Fault Tolerant Scheduler (FTS) for finding an optimal task allocation which maximizes the system utility. We use a game-theoretic approach to solve the FTS problem and propose a novel Nirvana algorithm based on best-response dynamics. We mathematically prove the existence of Nash equilibrium in the FTS game. We implement Ares atop Apache Storm and conduct comprehensive experiments to evaluate this design. The results show that, compared to existing designs Ares achieves a 3.6× improvement of throughput, as well as reducing the processing latency and the recovery time by 50.2% and 52.5%, respectively.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of Cimandiri Fault Mechanism Type Based on Strain Pattern from GPS Observations in the Year 2010 – 2017
+T2  - 2018 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)
+SP  - 1
+EP  - 4
+AU  - I. H. Fitri
+AU  - A. B. Setyadji
+AU  - I. Meilano
+AU  - Susilo
+PY  - 2018
+KW  - Strain
+KW  - Global Positioning System
+KW  - Java
+KW  - Geoscience
+KW  - Conferences
+KW  - Remote sensing
+KW  - Geodesy
+KW  - velocity
+KW  - strain rate
+DO  - 10.1109/AGERS.2018.8554204
+JO  - 2018 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)
+Y1  - 18-19 Sept. 2018
+AB  - Cimandiri is an active fault located in the region of southern Sukabumi, West Java, that extends from Pelabuhan Ratu to Padalarang. Some researches done with the aim of defining the mechanism of Cimandiri Fault result in various outcomes. INA-CORS GPS observation data around the fault was processed using scientific software, GAMIT 10.6. The processing result in daily coordinates for each GPS site in ITRF2008 that were used to calculate velocity vector and strain around Cimandiri Fault. The results for principal strain around Segment I and II are dominated by both compression and extension, with most of the direction of principal strain axes are around 40°. While for Segment III, principal strain around the fault are much more dominated by compression and the direction is around 20°. According to the principal strain rate and velocity pattern around fault, Segment I and II of Cimandiri Fault have sinistral strike-slip mechanism, while Segment III of Cimandiri Fault has thrust mechanism.
+ER  - 
+
+TY  - CONF
+TI  - Self-Adaptation Strategies to Maintain Security Assurance Cases
+T2  - 2018 IEEE 12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO)
+SP  - 180
+EP  - 185
+AU  - S. Jahan
+AU  - A. Marshall
+AU  - R. Gamble
+PY  - 2018
+KW  - Security
+KW  - Information systems
+KW  - NIST
+KW  - Process control
+KW  - Adaptation models
+KW  - Certification
+KW  - Runtime
+KW  - security control
+KW  - assurance case
+KW  - self-adaptation
+KW  - Goal Structuring Notation
+KW  - adaptation operators
+DO  - 10.1109/SASO.2018.00031
+JO  - 2018 IEEE 12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO)
+IS  - 
+SN  - 1949-3681
+VO  - 
+VL  - 
+JA  - 2018 IEEE 12th International Conference on Self-Adaptive and Self-Organizing Systems (SASO)
+Y1  - 3-7 Sept. 2018
+AB  - Information system security certification involves guaranteeing that mechanisms are deployed to comply with selected security controls, such as those in the NIST SP800-53, at acceptable levels of confidence and risk. When a system can self-adapt at runtime, it may alter its functional behavior to address a defect or anomaly. This functional change can impact associated security controls, potentially making the adapted system vulnerable to security threats. Performing security control assurance adaptation along with functional adaptation would allow both compliance confidence and risk analysis to accompany functional adaptation analysis. The need for this dual assessment implies security control compliance should be expressed such that an adaptation can be reflected as part of its compliance status. In this paper, we represent security controls and their deployed mechanisms in terms of security assurance cases. We define a template using Goal Structuring Notation (GSN) that follows the NIST SP800-53 control statement structure. We define three adaptation operators to dictate how and where a change impacts relevant assurance cases. The objective is to express and manage the controls and adaptation operators so that changes to a security assurance case can be embedded and traced within the executing system to make it security aware. We illustrate the approach using a small case study and a security control for systems and communications protection, taken from the NIST SP800-53.
+ER  - 
+
+TY  - CONF
+TI  - Detection of replay attack on smart grid with code signal and bargaining game
+T2  - 2017 American Control Conference (ACC)
+SP  - 2112
+EP  - 2117
+AU  - T. Irita
+AU  - T. Namerikawa
+PY  - 2017
+KW  - Power systems
+KW  - Covariance matrices
+KW  - Sensors
+KW  - Fault diagnosis
+KW  - Control systems
+KW  - Mathematical model
+KW  - White noise
+DO  - 10.23919/ACC.2017.7963264
+JO  - 2017 American Control Conference (ACC)
+IS  - 
+SN  - 2378-5861
+VO  - 
+VL  - 
+JA  - 2017 American Control Conference (ACC)
+Y1  - 24-26 May 2017
+AB  - Ensuring cyber security of smart grid based on supervisory control and data acquisition using information and communications technology has been becoming a major challenge. Especially, a replay attack is a dangerous cyber attack affecting integrity and authorization. The goal of this paper is to detect replay attack that is one of cyber attacks on the sensors of a control system. We propose a detecting method adding intentional noise to not only sensors as code signal but also input. Replay attack can immediately be reflected by using fault diagnosis matrices that are composed of the estimator and observed values even if code signal is decrypted. Finally, we show simulation results to analyze effectiveness of the proposed method.
+ER  - 
+
+TY  - CONF
+TI  - An Adaptive Enhancement method for Low Contrast Color Retinal Images based on Strucural Similarity
+T2  - 2018 International Conference on Circuits and Systems in Digital Enterprise Technology (ICCSDET)
+SP  - 1
+EP  - 4
+AU  - G. Palanisamy
+AU  - P. Ponnusamy
+AU  - V. P. Gopi
+PY  - 2018
+KW  - Retina
+KW  - Image color analysis
+KW  - Discrete wavelet transforms
+KW  - Histograms
+KW  - Visualization
+KW  - Entropy
+KW  - Lesions
+KW  - component
+KW  - formatting
+KW  - style
+KW  - styling
+KW  - insert
+DO  - 10.1109/ICCSDET.2018.8821194
+JO  - 2018 International Conference on Circuits and Systems in Digital Enterprise Technology (ICCSDET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 International Conference on Circuits and Systems in Digital Enterprise Technology (ICCSDET)
+Y1  - 21-22 Dec. 2018
+AB  - In this paper, an adaptive luminosity and contrast adjustment technique is proposed for the improved visual perception of low contrast color retinal images. Luminosity improvement is achieved using adaptive gamma correction based on mean structural similarity index maximization performed on the luminosity channel of the original image in Hue, Saturation and Value (HSV) color space. Further, a local contrast enhancement technique is applied on the low frequency component obtained by performing discrete wavelet transform on the enhanced luminosity channel. The experimental results reveal that the image attributes are clearly defined and a better visualization of retinal defects is achieved. Quantitative evaluation based on peak signal to noise ratio, discrete entropy and Structural Similarity Index (SSIM) shows that the proposed method performs better than the existing methods considered. For comparison of results, 128 images from the proprietary database are considered.
+ER  - 
+
+TY  - CONF
+TI  - Shipper/receiver difference verification of spent fuel by use of PDET
+T2  - 2011 2nd International Conference on Advancements in Nuclear Instrumentation, Measurement Methods and their Applications
+SP  - 1
+EP  - 6
+AU  - Y. S. Ham
+AU  - S. Sitaraman
+PY  - 2011
+KW  - Fuels
+KW  - Assembly
+KW  - Neutrons
+KW  - Electron tubes
+KW  - Cooling
+KW  - Materials
+KW  - Partial discharges
+DO  - 10.1109/ANIMMA.2011.6172949
+JO  - 2011 2nd International Conference on Advancements in Nuclear Instrumentation, Measurement Methods and their Applications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 2nd International Conference on Advancements in Nuclear Instrumentation, Measurement Methods and their Applications
+Y1  - 6-9 June 2011
+AB  - Spent fuel storage pools in most countries are rapidly approaching their design limits with the discharge of over 10,000 metric tons of heavy metal from global reactors. Countries like UK, France or Japan have adopted a closed fuel cycle by reprocessing spent fuel and recycling MOX fuel while many other countries opted for above ground interim dry storage for their spent fuel management strategy. Some countries like Finland and Sweden are already well on the way to setting up a conditioning plant and a deep geological repository for spent fuel. For all these situations, shipments of spent fuel are needed and the number of these shipments is expected to increase significantly. Although shipper/receiver difference (SRD) verification measurements are needed by IAEA when the recipient facility receives spent fuel, these are not being practiced to the level that IAEA has desired due to lack of a credible measurement methodology and instrument that can reliably perform these measurements to verify non-diversion of spent fuel during shipment and confirm facility operator declarations on the spent fuel. In this paper, we describe a new safeguards method and an associated instrument, Partial Defect Tester (PDET), which can detect pin diversion from Pressurized Water Reactor (PWR) Spent Fuel Assemblies in an in-situ condition. The PDET uses multiple tiny neutron and gamma detectors in the form of a cluster and a simple, yet highly precise, gravity-driven system to obtain underwater radiation measurements inside a Pressurized Water Reactor (PWR) spent fuel assembly. The method takes advantage of the PWR fuel design which contains multiple guide tubes which can be accessed from the top. The data obtained in such a manner can provide spatial distribution of neutron and gamma flux within a spent fuel assembly. Our simulation study as well as validation measurements indicated that the ratio of the gamma signal to the thermal neutron signal at each detector location normalized to the peak ratio of all the detector locations gives a unique signature that is sensitive to missing pins. The signature is principally dependent on the geometry of the detector locations, and little sensitive to enrichment or burn-up variations. A small variation in the fuel bundle, such as a few missing pins, changes the shape of the signature to enable detection. After verification of the non-diversion of spent fuel pins, the neutron signal and gamma signal are subsequently used to verify the consistency of the operator declaration on the fuel burn-up and cooling time.
+ER  - 
+
+TY  - CONF
+TI  - A simple median-based resilient consensus algorithm
+T2  - 2012 50th Annual Allerton Conference on Communication, Control, and Computing (Allerton)
+SP  - 1734
+EP  - 1741
+AU  - H. Zhang
+AU  - S. Sundaram
+PY  - 2012
+KW  - Robustness
+KW  - Network topology
+KW  - Safety
+KW  - Heuristic algorithms
+KW  - Algorithm design and analysis
+KW  - Biological system modeling
+KW  - Convergence
+DO  - 10.1109/Allerton.2012.6483431
+JO  - 2012 50th Annual Allerton Conference on Communication, Control, and Computing (Allerton)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 50th Annual Allerton Conference on Communication, Control, and Computing (Allerton)
+Y1  - 1-5 Oct. 2012
+AB  - This paper studies the problem of reaching consensus resiliently in the presence of misbehaving nodes. We design a consensus algorithm where, at each time-step, each node updates its value as a weighted average of its own value and the median of its neighbors' values. This algorithm requires no global information about the network, and is computationally lightweight. We develop a novel graph property that we term excess robustness, and use this property to characterize the ability of the median algorithm to succeed under various fault models. We also provide a construction for excess robust graphs. We show that the sensitivity of this algorithm varies greatly under different fault models, and make connections to related ideas from the literature on contagion and graphical games.
+ER  - 
+
+TY  - CONF
+TI  - A controlled experiment on software clones
+T2  - 2012 20th IEEE International Conference on Program Comprehension (ICPC)
+SP  - 219
+EP  - 228
+AU  - J. Harder
+AU  - R. Tiarks
+PY  - 2012
+KW  - Cloning
+KW  - Maintenance engineering
+KW  - Games
+KW  - Computer bugs
+KW  - Software
+KW  - Switches
+KW  - Programming
+DO  - 10.1109/ICPC.2012.6240491
+JO  - 2012 20th IEEE International Conference on Program Comprehension (ICPC)
+IS  - 
+SN  - 1092-8138
+VO  - 
+VL  - 
+JA  - 2012 20th IEEE International Conference on Program Comprehension (ICPC)
+Y1  - 11-13 June 2012
+AB  - Most software systems contain sections of duplicated source code - clones - that are believed to make maintenance more difficult. Recent studies tested this assumption by retrospective analyses of software archives. While giving important insights, the analysis of historical data relies only on snapshots and misses the human interaction in between. We conducted a controlled experiment to investigate how clones affect the programmer's performance in common bug-fixing tasks. While our results do not exhibit a decisive difference in the time needed to correct cloned bugs, we observed many cases in which cloned bugs were not corrected completely.
+ER  - 
+
+TY  - CONF
+TI  - Awesome Bug Manifesto: Teaching an Engaging and Inspiring Course on Software Testing (Position Paper)
+T2  - 2021 Third International Workshop on Software Engineering Education for the Next Generation (SEENG)
+SP  - 16
+EP  - 20
+AU  - N. Silvis-Cividjian
+PY  - 2021
+KW  - Software testing
+KW  - Industries
+KW  - Engineering profession
+KW  - Conferences
+KW  - Education
+KW  - Computer bugs
+KW  - Insulin pumps
+KW  - software testing education
+KW  - student engagement
+KW  - fault-injection
+KW  - safety-critical systems
+KW  - gamification
+KW  - embedded software
+KW  - academia-industry cooperation
+DO  - 10.1109/SEENG53126.2021.00010
+JO  - 2021 Third International Workshop on Software Engineering Education for the Next Generation (SEENG)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 Third International Workshop on Software Engineering Education for the Next Generation (SEENG)
+Y1  - 24-24 May 2021
+AB  - Although testing software is paramount to safeguard our digitizing society, students are reluctant to consider a career in the field. A reason could be that dedicated courses on software testing are rare. However, even when such a course exists, students perceive testing as a boring, unrewarding and even dogmatic chore. For more than 10 years, we have been teaching a software testing course at the Vrije Universiteit in Amsterdam. Driven by our belief that an abundant exposure to software bugs makes good testers, we experimented with many ideas to engage students and make them love the topic. The most unorthodox, yet effective interventions we are proud of, were: (1) to scare students by analyzing past, software-related accidents, such as Therac-25 or Boeing 737-MAX; (2) to thrill them using bug-hunting gamification, enabled by the in-house developed VU-BugZoo; (3) to trust them an end-to-end testing of safety-critical software- intensive systems, such as model trains, automatic insulin pumps and even radiotherapy facilities, and (4) to inspire their career, by opening a dialog with test professionals from industry. The result is a mature course, read yearly by 50 computer science graduates, where almost 80% of the participants find the topic interesting and challenging, and 40% consider a future carrier in testing. These positive results make us confident that we found a formula that works. In this position paper, we would like to share our innovative ideas and lessons learned. Also in the future, we will stay committed to educate enthusiastic and responsible software testers.
+ER  - 
+
+TY  - CONF
+TI  - Architectural Choices for Implementing a Secure ECC-based Lightweight RFID Tag
+T2  - 2019 IEEE International Conference on Design & Test of Integrated Micro & Nano-Systems (DTS)
+SP  - 1
+EP  - 5
+AU  - S. Gabsi
+AU  - V. Beroulle
+AU  - H. Bilgacem
+AU  - M. Machhout
+PY  - 2019
+KW  - Authentication
+KW  - Protocols
+KW  - Servers
+KW  - RFID tags
+KW  - Elliptic curve cryptography
+KW  - RFID
+KW  - Authentication protocol
+KW  - SCA
+KW  - FA
+KW  - ECC
+DO  - 10.1109/DTSS.2019.8914902
+JO  - 2019 IEEE International Conference on Design & Test of Integrated Micro & Nano-Systems (DTS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE International Conference on Design & Test of Integrated Micro & Nano-Systems (DTS)
+Y1  - 28 April-1 May 2019
+AB  - RFID (Radio Frequency Identification) allows the remote identification of objects or people through a reader that captures the information contained in an RFID tag. If the transmission between the tag and the reader is not properly protected, it is then possible for an unauthorized user to access the transmitted data. To protect the transmission between the tag and the reader, the best solution is to implement a public key based cryptosystem. This cryptosystem will ensure the mutual authentication of the tags and the readers. However, it is also necessary consider both Side Channel Attacks (SCA) exploiting the cryptosystem leakage and the Fault Attacks exploiting the tag faulty behaviors. In this paper, we make a comparative study between some authentication protocols based on ECC cryptography and choose the most secured one for low cost and low power RFID tags. Then, we choose a scalar multiplication algorithm robust against the SCA and FA and taking into account the low resources available in the RFID tags. This work contains the main guidelines for implementing a low cost and low power RFID tag based on ECC cryptography and secure against SCA and FA.
+ER  - 
+
+TY  - CONF
+TI  - Improved Temperature Coefficient Modeling through the Recombination Parameter $\gamma$
+T2  - 2020 47th IEEE Photovoltaic Specialists Conference (PVSC)
+SP  - 0083
+EP  - 0087
+AU  - S. T. Kristensen
+AU  - A. S. Garcia
+AU  - S. Nie
+AU  - Z. Hameiri
+AU  - R. Strandberg
+PY  - 2020
+KW  - Temperature sensors
+KW  - Temperature measurement
+KW  - Temperature dependence
+KW  - Sensitivity
+KW  - Semiconductor device modeling
+KW  - Numerical models
+KW  - Silicon
+KW  - Crystalline silicon
+KW  - temperature coefficients
+KW  - temperature coefficient modeling
+KW  - performance prediction
+DO  - 10.1109/PVSC45281.2020.9300400
+JO  - 2020 47th IEEE Photovoltaic Specialists Conference (PVSC)
+IS  - 
+SN  - 0160-8371
+VO  - 
+VL  - 
+JA  - 2020 47th IEEE Photovoltaic Specialists Conference (PVSC)
+Y1  - 15 June-21 Aug. 2020
+AB  - This study presents an injection dependent numerical model relating Shocldey-Read-Hall defect parameters in crystalline silicon with the recombination parameter γ. We demonstrate how the model can be used to predict γ for various single level defects. Additionally, we show that γ can be significantly influenced by the injection level, in contrast to what is commonly assumed. The injection dependence is found to correlate with the temperature sensitivity of the Shocldey-Read-Hall lifetime. Finally, we demonstrate that the model can be used to predict the temperature coefficient of the open circuit voltage without the use of a temperature dependent measurement, enabling more accurate temperature coefficient modeling.
+ER  - 
+
+TY  - CONF
+TI  - Photodarkening in optical fibres: Comparative study of photo-induced defects using different photon sources
+T2  - 2013 Conference on Lasers & Electro-Optics Europe & International Quantum Electronics Conference CLEO EUROPE/IQEC
+SP  - 1
+EP  - 1
+AU  - D. Milanese
+AU  - M. Chiesa
+AU  - S. Taccheo
+AU  - K. Mattson
+AU  - H. Gebavi
+AU  - T. Robin
+AU  - L. Lablonde
+AU  - D. Mechin
+AU  - A. Monteville
+AU  - F. Freyria
+AU  - B. Bonelli
+PY  - 2013
+KW  - Photochromism
+KW  - Radiation effects
+KW  - Fiber lasers
+KW  - Educational institutions
+KW  - Optical fibers
+KW  - Power lasers
+DO  - 10.1109/CLEOE-IQEC.2013.6801001
+JO  - 2013 Conference on Lasers & Electro-Optics Europe & International Quantum Electronics Conference CLEO EUROPE/IQEC
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 Conference on Lasers & Electro-Optics Europe & International Quantum Electronics Conference CLEO EUROPE/IQEC
+Y1  - 12-16 May 2013
+AB  - In this paper, recent investigation on Ce-doped fibres is presented and for the first time, parallel irradiation with high intensity photons in the NIR, UV, X-Ray and gamma ray wavelength regions was performed in order to study the materials structure and its relationship with photodarkening. A set of preform core samples are prepared with appropriate Al/Yb and Yb/Ce concentrations. The obtained defects are identified by UV-VIS spectroscopy, fluorescence spectroscopy and electron paramagnetic resonance (EPR) spectroscopy.
+ER  - 
+
+TY  - CONF
+TI  - An Analysis on Blockchain Consensus Protocols for Fault Tolerance
+T2  - 2021 2nd International Conference for Emerging Technology (INCET)
+SP  - 1
+EP  - 4
+AU  - B. H. Swathi
+AU  - M. S. Meghana
+AU  - P. Lokamathe
+PY  - 2021
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Bitcoin
+KW  - Probabilistic logic
+KW  - Stability analysis
+KW  - Consensus protocol
+KW  - Peer-to-peer computing
+KW  - Blockchain technology
+KW  - Consensus Protocol
+KW  - Fault tolerance
+DO  - 10.1109/INCET51464.2021.9456310
+JO  - 2021 2nd International Conference for Emerging Technology (INCET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 2nd International Conference for Emerging Technology (INCET)
+Y1  - 21-23 May 2021
+AB  - The revolution with technologies happens very often, here is one such technology called “Blockchain” which will be a game-changer in many functional sectors of the society. Initially, this technology was developed to support cryptocurrencies (such as Bitcoin, Ethereum, and Litecoin etc).Now a days it is gaining the attention of the researchers in almost the entire field. The consensus protocol in the cryptography and peer to peer architecture is one of the essential parts of the blockchain technology. The best consensus protocol in a blockchain system provides the fault tolerance. These censuses in blockchain are broadly classified in to two types. The absolute-finality consensus protocol and probabilistic-finality consensus protocols. In this paper, the different types of censuses protocols are discussed along with their working, strength and weakness. It also gives the overview on the different types of blockchain technology with their advantages and disadvantages. At the last we also presented a comparison of these consensus protocols by considering different qualitative parameters.
+ER  - 
+
+TY  - CONF
+TI  - Effect of Clone Information on the Performance of Developers Fixing Cloned Bugs
+T2  - 2014 IEEE 14th International Working Conference on Source Code Analysis and Manipulation
+SP  - 1
+EP  - 10
+AU  - S. Bazrafshan
+AU  - R. Koschke
+PY  - 2014
+KW  - Cloning
+KW  - Maintenance engineering
+KW  - Software systems
+KW  - Games
+KW  - Java
+KW  - Testing
+KW  - software clones
+KW  - clone experiment
+KW  - clone management
+KW  - software maintenance
+DO  - 10.1109/SCAM.2014.10
+JO  - 2014 IEEE 14th International Working Conference on Source Code Analysis and Manipulation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 IEEE 14th International Working Conference on Source Code Analysis and Manipulation
+Y1  - 28-29 Sept. 2014
+AB  - Duplicated source code -- clones -- is known to occur frequently in software systems and bears the risk of inconsistent updates of the code. The impact of clones has been investigated mostly by retrospective analysis of software systems. Only little effort has been spent to investigate human interaction when dealing with clones. A previous study by Chatterji and colleagues found that cloned defects are removed significantly more accurately when clone information is provided to the programmers. We conducted a controlled experiment to extend the previous study on the use of clone information by investigating the effect of clone information on the performance of developers in common bug-fixing tasks. The experiment shows that developers are quite capable to compensate missing clone information through testing to provide correct solutions. Clone information does help to detect cloned defects faster, although developers may exploit semantic code relations such as inheritance to uncover cloned defects only slightly slower if they do not have clone information. If cloned defects lurk in semantically unrelated places however, clone information helps to find them faster at statistical significance. Developers without clone information needed 17 minutes longer on average or 140% more time in relative terms to complete the task successfully.
+ER  - 
+
+TY  - CONF
+TI  - Development of a digital spectrometric system for material studying by positron annihilation techniques
+T2  - 2012 7th International Forum on Strategic Technology (IFOST)
+SP  - 1
+EP  - 4
+AU  - Y. Bordulev
+AU  - R. Laptev
+AU  - A. Lider
+AU  - M. Kroening
+PY  - 2012
+KW  - Positrons
+KW  - Spectroscopy
+KW  - Materials
+KW  - Detectors
+KW  - Doppler effect
+KW  - Satellite broadcasting
+KW  - Semiconductor device measurement
+KW  - positron
+KW  - annihilation
+KW  - lifetime
+KW  - spectrometer
+KW  - doppler broadening
+DO  - 10.1109/IFOST.2012.6357732
+JO  - 2012 7th International Forum on Strategic Technology (IFOST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 7th International Forum on Strategic Technology (IFOST)
+Y1  - 18-21 Sept. 2012
+AB  - Positron annihilation spectroscopy techniques are sensitive laboratory methods of in-depth study of the material structure and processes occurring in it. The digital spectrometric system described in this paper is designed to study the defect structure of materials by positron annihilation spectroscopy techniques. This system combines the methods of positron annihilation lifetime spectroscopy and Doppler broadening spectroscopy. These two techniques can be implemented either in one complex or individually. Application of these experimental techniques simultaneously provides a temporal and energy distribution of annihilation gamma-quanta, i.e. the most comprehensive qualitative and quantitative information of the electronic structure of the substance can be obtained. Using the coincidence γ-γ measurements in the Dopler broadening spectroscopy technique also allows observing the high-momentum part of the spectrum of the annihilation of positrons with deep shell electrons. The analysis of this part of spectrum enables to obtain the information about the chemical composition of the material. In comparison with the traditional analog systems, this system is being developed using modern digital components to ensure the ease of setup and operation of the equipment, as well as enabling the development of the system in order to improve its characteristics.
+ER  - 
+
+TY  - CONF
+TI  - Radiation Hardness Study on a Fully Depleted Pinned Photodiode CMOS Image Sensor
+T2  - 2019 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)
+SP  - 1
+EP  - 2
+AU  - X. Meng
+AU  - K. D. Stefanov
+AU  - M. A. Holland
+AU  - A. D. Holland
+PY  - 2019
+KW  - Protons
+KW  - Radiation effects
+KW  - Dark current
+KW  - Sensor phenomena and characterization
+KW  - CMOS image sensors
+KW  - Photodiodes
+DO  - 10.1109/NSS/MIC42101.2019.9060009
+JO  - 2019 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)
+IS  - 
+SN  - 2577-0829
+VO  - 
+VL  - 
+JA  - 2019 IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)
+Y1  - 26 Oct.-2 Nov. 2019
+AB  - The radiation hardness of a fully depleted Pinned Photodiode (PPD) CMOS image sensor (CIS) has been evaluated with gamma and proton irradiations. The sensors employ an additional n-type implant in pixel which allows full depletion to be achieved by reversing biasing the substrate, and have been irradiated alongside reference devices in which the implant has been omitted. Event analysis under X-ray illumination has been used to study the charge collection and charge diffusion in the sensors. The results show no obvious charge collection degradation at 10 MeV equivalent proton fluence of up to 10<sup>11</sup> p/cm<sup>2</sup>. Moreover, it has been shown that charge diffusion is largely suppressed in the fully depleted sensors. After exposure to a total dose of 100 krad(Si), both the fully depleted and the reference sensors show high sense node leakage current. This is believed to be due to an exposed edge of the shallow trench insulation (STI) oxide near the sense node. Dark signal distribution shows that hot pixels are dominant for both sensors after proton irradiation. An activation energy of ~0.62 eV derived from the temperature-dependent dark current result suggests that irradiation induced bulk defects is the main dark current source.
+ER  - 
+
+TY  - CONF
+TI  - Snickometer Edge Detection by Feature Extraction in TF Plane and Wavelet Domain
+T2  - 2018 IEEE Applied Signal Processing Conference (ASPCON)
+SP  - 143
+EP  - 148
+AU  - A. Ghosh
+AU  - A. Chatterjee
+AU  - A. Roy
+AU  - A. Mukherjee
+AU  - M. K. Naskar
+PY  - 2018
+KW  - Feature extraction
+KW  - Discrete wavelet transforms
+KW  - Time-frequency analysis
+KW  - Continuous wavelet transforms
+KW  - Signal resolution
+KW  - Image edge detection
+KW  - Snickometer
+KW  - Time-Frequency Plane
+KW  - Wavelet
+KW  - Discrete Wavelet Transform
+KW  - Bat-Ball Snicko
+KW  - Ball-Pad Snicko
+DO  - 10.1109/ASPCON.2018.8748535
+JO  - 2018 IEEE Applied Signal Processing Conference (ASPCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE Applied Signal Processing Conference (ASPCON)
+Y1  - 7-9 Dec. 2018
+AB  - Technical faults leading to wrong decision making are quite common in the game of cricket. Snicko-meter signals show an edge even if the ball has not caught the edge of the bat. This paper distinguishes between bat-ball edge and ball-pad snickometer signals by feature extraction in Time-Frequency Plane (TF plane) and Discrete Wavelet Transform (DWT) domain. The feature vector of the training samples is clustered with Gaussian Mixture Model (GMM) after feature extraction in both TF plane and DWT domain. DWT is preferred over CWT for three reasons i) faster calculation, ii) less time complexity and iii) calculation of features for only a few number of scales as compared to the number of scales required for CWT. Feature vector classification using GMM in TF plane leads to clustering accuracy of 90% and in DWT domain it leads to 95%.
+ER  - 
+
+TY  - CONF
+TI  - On compensating synchronization errors in two-terminal based fault location approaches
+T2  - 2017 Workshop on Communication Networks and Power Systems (WCNPS)
+SP  - 1
+EP  - 4
+AU  - J. R. Gama
+AU  - F. V. Lopes
+PY  - 2017
+KW  - Synchronization
+KW  - Fault location
+KW  - Transmission line measurements
+KW  - Global Positioning System
+KW  - Error compensation
+KW  - Circuit faults
+KW  - Uncertainty
+KW  - Fault location
+KW  - synchronization angle
+KW  - transmission lines
+DO  - 10.1109/WCNPS.2017.8253082
+JO  - 2017 Workshop on Communication Networks and Power Systems (WCNPS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 Workshop on Communication Networks and Power Systems (WCNPS)
+Y1  - 16-17 Nov. 2017
+AB  - Two-terminal fault location methods have been increasingly used by utilities since they overcome limitations of single-ended approaches. Most two terminal fault location algorithms found in the literature require measurements to be synchronized, what has been reported as the main problem of these approaches. This paper demonstrates the application of a method able to correct synchronization errors in phasor-based fault location procedures that originally require the data to be synchronized. In order to illustrate its performance, a well known two-terminal fault location algorithm based on synchronized data is taken into account. Compared with other works, the method is simpler and does not require iterative processes. Fault simulations using the Alternative Transients Program (ATP) were carried out to analyze the algorithm performance. The obtained results show that traditional fault location methods based on two-terminal synchronized data may be used without a common time reference, provided that the synchronization error is properly compensated prior to the final fault location estimation.
+ER  - 
+
+TY  - CONF
+TI  - Passive Fault-tolerant Estimation under Strategic Adversarial Bias
+T2  - 2020 American Control Conference (ACC)
+SP  - 4644
+EP  - 4651
+AU  - S. Sarıtaş
+AU  - G. Dán
+AU  - H. Sandberg
+PY  - 2020
+KW  - Sensors
+KW  - Estimation
+KW  - Linear programming
+KW  - Games
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Voltage control
+DO  - 10.23919/ACC45564.2020.9147994
+JO  - 2020 American Control Conference (ACC)
+IS  - 
+SN  - 2378-5861
+VO  - 
+VL  - 
+JA  - 2020 American Control Conference (ACC)
+Y1  - 1-3 July 2020
+AB  - This paper is concerned with the problem of fault-tolerant estimation in cyber-physical systems. In cyber-physical systems, such as critical infrastructures, networked embedded sensors are widely used for monitoring and can be exploited by an adversary to deceive the control center by modifying measured values. The deception is modeled as a bias; i.e., there is a misalignment between the objective functions of the control center and the adversarial sensor. Different from previous studies, a Stackelberg equilibrium of a cheap talk setup is adapted to the attacker-defender game setting for the first time. That is, the defender (control center), as a receiver, is the leader, and the attacker (adversarial sensor), as a transmitter, is the follower. The equilibrium strategies and the associated costs are characterized for uniformly distributed variables and quadratic objective functions, and an analysis on the uniqueness of the equilibrium is provided. It is shown that the attacker and defender costs at the equilibrium are increasing with the bias and decreasing with the number of quantization levels. Our results surprisingly show that, under certain conditions, the attacker prefers a public bias rather than a private one.
+ER  - 
+
+TY  - CONF
+TI  - Practical scalable consensus for pseudo-synchronous distributed systems
+T2  - SC '15: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis
+SP  - 1
+EP  - 12
+AU  - T. Herault
+AU  - A. Bouteiller
+AU  - G. Bosilca
+AU  - M. Gamell
+AU  - K. Teranishi
+AU  - M. Parashar
+AU  - J. Dongarra
+PY  - 2015
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Government
+KW  - Context
+KW  - Libraries
+KW  - Scalability
+DO  - 10.1145/2807591.2807665
+JO  - SC '15: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis
+IS  - 
+SN  - 2167-4337
+VO  - 
+VL  - 
+JA  - SC '15: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis
+Y1  - 15-20 Nov. 2015
+AB  - The ability to consistently handle faults in a distributed environment requires, among a small set of basic routines, an agreement algorithm allowing surviving entities to reach a consensual decision between a bounded set of volatile resources. This paper presents an algorithm that implements an Early Returning Agreement (ERA) in pseudo-synchronous systems, which optimistically allows a process to resume its activity while guaranteeing strong progress. We prove the correctness of our ERA algorithm, and expose its logarithmic behavior, which is an extremely desirable property for any algorithm which targets future exascale platforms. We detail a practical implementation of this consensus algorithm in the context of an MPI library, and evaluate both its efficiency and scalability through a set of benchmarks and two fault tolerant scientific applications.
+ER  - 
+
+TY  - CONF
+TI  - An evader-centric strategy against fast pursuer in an unknown environment with static obstacles
+T2  - 2013 International Conference on Control, Automation, Robotics and Embedded Systems (CARE)
+SP  - 1
+EP  - 6
+AU  - A. Kumar
+AU  - A. Ojha
+PY  - 2013
+KW  - Extrapolation
+KW  - Computational complexity
+KW  - Robots
+KW  - Mobile communication
+KW  - pursuit-evasion game
+KW  - proportional navigation
+KW  - collision avoidance
+KW  - evader-centric strategy
+DO  - 10.1109/CARE.2013.6733717
+JO  - 2013 International Conference on Control, Automation, Robotics and Embedded Systems (CARE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2013 International Conference on Control, Automation, Robotics and Embedded Systems (CARE)
+Y1  - 16-18 Dec. 2013
+AB  - In this paper, we consider a pursuit-evasion game problem in a geometric setting, where a single pursuer and single evader are in motion with conflicting interests. The pursuer follows a recently introduced angular acceleration guidance law to catch the evader and the evader-centric strategy is supposed to keep the evader away from the pursuer for maximum possible time in an unknown environment having static obstacles. An evader-centric approach is proposed in the present paper that uses linear extrapolation to predict the future move of the evader and define its own strategy. The well-known tangent bug algorithm is employed to deal with static obstacles. Effectiveness of the proposed evader's strategy has been analyzed in terms of interception time and distance travelled by the players. Simulation results demonstrate effectiveness and efficiency of the proposed method.
+ER  - 
+
+TY  - CONF
+TI  - Analysis &amp; Implementation of Six Sigma Methods: The Case of PPSDM Migas Cepu
+T2  - 2019 International Seminar on Application for Technology of Information and Communication (iSemantic)
+SP  - 306
+EP  - 312
+AU  - P. E. Valdi
+AU  - A. Rohmani
+AU  - I. Gamayanto
+AU  - R. R. Sani
+AU  - S. A. Rahma
+PY  - 2019
+KW  - Six sigma
+KW  - Training
+KW  - Personnel
+KW  - Training data
+KW  - Telephone sets
+KW  - Data integrity
+KW  - Six Sigma
+KW  - data
+KW  - employee information systems
+KW  - innovation
+KW  - human resources
+DO  - 10.1109/ISEMANTIC.2019.8884339
+JO  - 2019 International Seminar on Application for Technology of Information and Communication (iSemantic)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 International Seminar on Application for Technology of Information and Communication (iSemantic)
+Y1  - 21-22 Sept. 2019
+AB  - The development of human and oil and gas resources is a place of education and training that is under the ministry of energy and mineral resources, where the services provided are also in the form of certification to the community. In this study found problems including inaccurate employee data, such as address data, telephone number, employee status, rank, position status, training data, and employee performance goals. The problem must be addressed immediately because it will have a negative impact on data defect factors, to be able to overcome this, then the six sigma method is one method that is useful to overcome the problem of data defects. This six sigma implementation will be able to help up to zero defects so that the data becomes more accurate. The final result of this research is the accuracy of data and innovation on employee data so that PPSDM Migas Cepu can develop and be better prepared to face globalization. Furthermore, PPSDM Oil and Gas Cepu require human resources who have high competence, so that the quality of data and the quality of human resources can be balanced.
+ER  - 
+
+TY  - CONF
+TI  - Asocial: Adaptive Task Re-Allocation in Distributed Computing Systems with Node Failures
+T2  - 2020 21st Asia-Pacific Network Operations and Management Symposium (APNOMS)
+SP  - 179
+EP  - 184
+AU  - W. Zheng
+AU  - Y. Shen
+AU  - T. Xiao
+PY  - 2020
+KW  - Task analysis
+KW  - Resource management
+KW  - Reliability
+KW  - Games
+KW  - Topology
+KW  - Adaptive systems
+KW  - Distributed computing
+KW  - —Task re-allocation mechanism
+KW  - distributed computing systems
+KW  - failure prediction
+DO  - 10.23919/APNOMS50412.2020.9236979
+JO  - 2020 21st Asia-Pacific Network Operations and Management Symposium (APNOMS)
+IS  - 
+SN  - 2576-8565
+VO  - 
+VL  - 
+JA  - 2020 21st Asia-Pacific Network Operations and Management Symposium (APNOMS)
+Y1  - 22-25 Sept. 2020
+AB  - Task allocation-the problem of efficiently allocating a set of M tasks to a set of N nodes-is a fundamental issue in distributed computing systems (DCSs). The problem is particularly challenging in the presence of fail-prone nodes. In this work, we design an adaptive task (re-)allocation mechanism, named Asocial. The Asocial allows us to optimize the utilization of system resources (including computing resources and network resources) while increasing service-level fault tolerance as well as failure resilience. In addition, we propose a cooperative game model based task (re-)allocation approach for cooperation among Physical Nodes (PNs). We consider both the performance states and reliability levels of candidate PNs when deploying tasks. Specifically, we exploit failure prediction techniques to evaluate PNs' reliability levels. As a result, we can utilize the resources efficiently and thus improve the service reliability (i.e., the probability of serving all the tasks before their delivery time). We show by means of numerical evaluations that the proposed Asocial can significantly improve service reliability, system availability as well as resource utilization. In particular, by using failure prediction result (F-measure is around 0.8), the application completion rate (ACR), the task completion rate (TCR) and the computing resource utilization (CRU) reach 85.20%, 85.67% and 78.34%, respectively. Compared with 67.30%, 70.07% and 65.79% of the initial allocation scheme, the performance achieves a significant improvement (26.60%, 22.26% and 19.08%, respectively).
+ER  - 
+
+TY  - CONF
+TI  - Testing Nearby Peer-to-Peer Mobile Apps at Large
+T2  - 2019 IEEE/ACM 6th International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+SP  - 1
+EP  - 11
+AU  - L. Meftah
+AU  - R. Rouvoy
+AU  - I. Chrisment
+PY  - 2019
+KW  - Google
+KW  - Testing
+KW  - Mobile applications
+KW  - Peer-to-peer computing
+KW  - Wireless fidelity
+KW  - Mobile handsets
+KW  - Computer crashes
+KW  - Google Nearby
+KW  - Integration Test
+KW  - Mobile apps
+KW  - Peer-to-peer communications
+DO  - 10.1109/MOBILESoft.2019.00009
+JO  - 2019 IEEE/ACM 6th International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 IEEE/ACM 6th International Conference on Mobile Software Engineering and Systems (MOBILESoft)
+Y1  - 25-25 May 2019
+AB  - While mobile devices are widely adopted across the population, most of their remote interactions usually go through Internet. However, this indirect interaction model can be assumed as inefficient and sensitive when considering communications with neighboring devices. To leverage such weaknesses, nearby peer-to-peer(P2P) communications are now included in mobile devices to enable device-to-device communications over standard wireless technologies (WiFi, Bluetooth). While this capability supports the design of collaborative whiteboards, local multiplayer gaming, multi-screen gaming, offline file transfers and many other applications, mobile apps using P2P are still suffering from app crashes, battery issues, and bad user reviews and ranking in app stores. We believe that this lack of quality can be partly attributed to the lack of tool support for testing P2P mobile apps at large. In this paper, we introduce a testing framework that allows developers to automate reproducible testing of nearby P2P apps. Beyond the identification of P2P-related bugs, our approach also helps to estimate the discovery settings to optimize the deployment of P2P apps.
+ER  - 
+
+TY  - CONF
+TI  - Automatic determination of peroxides and acidity of olive oil using machine vision in olive fruits before milling process
+T2  - 2015 IEEE International Conference on Imaging Systems and Techniques (IST)
+SP  - 1
+EP  - 6
+AU  - O. C. Morene
+AU  - D. M. Martínez Gila
+AU  - D. A. Puerto
+AU  - J. G. García
+AU  - J. G. Ortega
+PY  - 2015
+KW  - Indexes
+KW  - Image color analysis
+KW  - Estimation
+KW  - Image segmentation
+KW  - Computer vision
+KW  - Production
+KW  - Artificial neural networks
+KW  - Olive oil quality control
+KW  - Computer Vision
+KW  - Automatic Quality Control
+KW  - Acidity
+KW  - Peroxides index
+DO  - 10.1109/IST.2015.7294543
+JO  - 2015 IEEE International Conference on Imaging Systems and Techniques (IST)
+IS  - 
+SN  - 1558-2809
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Imaging Systems and Techniques (IST)
+Y1  - 16-18 Sept. 2015
+AB  - Ones of the most important parameters to measure of olive oil quality are acidity and peroxide index and, currently, they are measured in a laboratory using samples of olives extracted from a batch in the reception process. The aim of this work is to provide an automatic inspection system, based on computer vision-visible and infrared (IR) channels-, to infer automatically these parameters. The proposal uses the differences in superficial textures, the defects in IR pictures and a color estimation in CIELab. Furthermore, a different image preprocessing has been employed and an Artificial Neural Networks have been used as estimation technique. The system has reached good estimation results with R=96.3 in acidity and R=93.9 in peroxide index.
+ER  - 
+
+TY  - CONF
+TI  - Precision of volatile compound analysis in extra virgin olive oil: The influence of MOS electronic nose acquisition factors
+T2  - 2015 IEEE International Conference on Industrial Technology (ICIT)
+SP  - 1482
+EP  - 1487
+AU  - J. Beitrán Ortega
+AU  - J. G. García
+AU  - J. G. Ortega
+PY  - 2015
+KW  - Mathematical model
+KW  - Compounds
+KW  - Electronic noses
+KW  - Temperature
+KW  - Industries
+KW  - Chemicals
+KW  - Arrays
+KW  - Industrial Olfactometry Application
+KW  - Agri-food Industry
+KW  - EVOO
+KW  - Electronic Nose
+KW  - Acquisition Parameters
+KW  - DoE
+KW  - two level full factorial design
+KW  - Static Headspace
+DO  - 10.1109/ICIT.2015.7125306
+JO  - 2015 IEEE International Conference on Industrial Technology (ICIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE International Conference on Industrial Technology (ICIT)
+Y1  - 17-19 March 2015
+AB  - The Agri-Food Industry in developed countries is becoming a fully automated sector, integrating concepts such as sensory perception. Undoubtedly the ability to check the quality of the final product, especially its flavour and odour, are extremely important. To this end, a correctly tuned electronic nose can improve the early detection of flavour defects and quality control in modern automatic supervised systems. In the Extra Virgin Olive Oil (EVOO) Industry, sensory perception is a critical factor in increasing the value of the final product. In order to incorporate an olfactometric sensor in the EVOO extraction process, it is necessary to identify the probable factors that need to be controlled. A study of the acquisition factors of a general purpose metal oxide semiconductor electronic nose during the analysis of EVOO volatile compounds (VC) was conducted in order to understand which factors are critical for an online industrial olfactometric application. Also, a design of experiment (DoE) approach was undertaken, by means of a two level full factorial experiment focused on the headspace injection flow, the static headspace mass, time of stabilisation and temperature factors. The coefficient of variation (CV) in the steady state of the VC acquisition was the variable used to evaluate precision during the measurement.
+ER  - 
+
+TY  - CONF
+TI  - Using the Juliet Test Suite to compare static security scanners
+T2  - 2014 11th International Conference on Security and Cryptography (SECRYPT)
+SP  - 1
+EP  - 9
+AU  - A. Wagner
+AU  - J. Sametinger
+PY  - 2014
+KW  - Security
+KW  - Software
+KW  - Computer bugs
+KW  - Java
+KW  - Buffer overflows
+KW  - NIST
+KW  - juliet Test Suite
+KW  - Security Scanner
+KW  - Scanner Comparison
+KW  - Static Analysis
+DO  - 
+JO  - 2014 11th International Conference on Security and Cryptography (SECRYPT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2014 11th International Conference on Security and Cryptography (SECRYPT)
+Y1  - 28-30 Aug. 2014
+AB  - Security issues arise permanently in different software products. Making software secure is a challenging endeavour. Static analysis of the source code can help eliminate various security bugs. The better a scanner is, the more bugs can be found and eliminated. The quality of security scanners can be determined by letting them scan code with known vulnerabilities. Thus, it is easy to see how much they have (not) found. We have used the Juliet Test Suite to test various scanners. This test suite contains test cases with a set of security bugs that should be found by security scanners. We have automated the process of scanning the test suite and of comparing the generated results. With one exception, we have only used freely available source code scanners. These scanners were not primarily targeted at security, yielding disappointing results at first sight. We will report on the findings, on the barriers for automatic scanning and comparing, as well as on the detailed results.
+ER  - 
+
+TY  - CONF
+TI  - Luminescence properties of CZT crystals in the presence of tellurium inclusions
+T2  - 2011 IEEE Nuclear Science Symposium Conference Record
+SP  - 4668
+EP  - 4671
+AU  - N. Zambelli
+AU  - N. Armani
+AU  - L. Marchini
+AU  - G. Benassi
+AU  - D. Calestani
+AU  - A. Zappettini
+PY  - 2011
+KW  - ISO standards
+KW  - Materials
+KW  - Integrated optics
+KW  - Distance measurement
+DO  - 10.1109/NSSMIC.2011.6154755
+JO  - 2011 IEEE Nuclear Science Symposium Conference Record
+IS  - 
+SN  - 1082-3654
+VO  - 
+VL  - 
+JA  - 2011 IEEE Nuclear Science Symposium Conference Record
+Y1  - 23-29 Oct. 2011
+AB  - A 3D IR-mapping instrument has been developed at IMEM for the detection of Te inclusions inside CdZnTe crystals. By means of this apparatus, it is possible to reconstruct the position of each inclusion inside the sample. The use of such a high resolution instrument has been fundamental in this work for the identification of a large Te inclusion (20 μm) located just a few micrometers under the sample surface. Photoluminescence mapping of the region near the inclusion revealed the enhancement of a near mid-gap band emission (0.78 eV) close to the defected region surrounding the inclusion. This supports the evidences of trap-like behaviour of the Te inclusions on the charge collection induced by this localized mid-gap level.
+ER  - 
+
+TY  - CONF
+TI  - FAT: Training Neural Networks for Reliable Inference Under Hardware Faults
+T2  - 2020 IEEE International Test Conference (ITC)
+SP  - 1
+EP  - 10
+AU  - U. Zahid
+AU  - G. Gambardella
+AU  - N. J. Fraser
+AU  - M. Blott
+AU  - K. Vissers
+PY  - 2020
+KW  - Hardware
+KW  - Training
+KW  - Circuit faults
+KW  - Safety
+KW  - Fault tolerant systems
+KW  - Fault tolerance
+KW  - Fats
+KW  - Neural Networks
+KW  - Safety
+KW  - Functional Safety
+KW  - FPGA
+KW  - Quantized Neural Networks
+DO  - 10.1109/ITC44778.2020.9325249
+JO  - 2020 IEEE International Test Conference (ITC)
+IS  - 
+SN  - 2378-2250
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Test Conference (ITC)
+Y1  - 1-6 Nov. 2020
+AB  - Deep neural networks (DNNs) are state-of-the-art algorithms for multiple applications, spanning from image classification to speech recognition. While providing excellent accuracy, they often have enormous compute and memory requirements. As a result of this, quantized neural networks (QNNs) are increasingly being adopted and deployed especially on embedded devices, thanks to their high accuracy, but also since they have significantly lower compute and memory requirements compared to their floating point equivalents. QNN deployment is also being evaluated for safety-critical applications, such as automotive, avionics, medical or industrial. These systems require functional safety, guaranteeing failure-free behaviour even in the presence of hardware faults. In general fault tolerance can be achieved by adding redundancy to the system, which further exacerbates the overall computational demands and makes it difficult to meet the power and performance requirements. In order to decrease the hardware cost for achieving functional safety, it is vital to explore domain-specific solutions which can exploit the inherent features of DNNs. In this work we present a novel methodology called fault-aware training (FAT), which includes error modeling during neural network (NN) training, to make QNNs resilient to specific fault models on the device. Our experiments show that by injecting faults in the convolutional layers during training, highly accurate convolutional neural networks (CNNs) can be trained which exhibits much better error tolerance compared to the original. Furthermore, we show that redundant systems which are built from QNNs trained with FAT achieve higher worse-case accuracy at lower hardware cost. This has been validated for numerous classification tasks including CIFAR10, GTSRB, SVHN and ImageNet.
+ER  - 
+
+TY  - CONF
+TI  - A new diagnostic technique for real-time diagnosis of power converter faults in switched reluctance motor drives
+T2  - 2013 Twenty-Eighth Annual IEEE Applied Power Electronics Conference and Exposition (APEC)
+SP  - 1192
+EP  - 1198
+AU  - J. F. Marques
+AU  - J. O. Estima
+AU  - N. S. Gameiro
+AU  - A. J. Marques Cardoso
+PY  - 2013
+KW  - Reluctance motors
+KW  - Circuit faults
+KW  - Insulated gate bipolar transistors
+KW  - Switches
+KW  - Inverters
+KW  - Demagnetization
+KW  - Sensors
+DO  - 10.1109/APEC.2013.6520450
+JO  - 2013 Twenty-Eighth Annual IEEE Applied Power Electronics Conference and Exposition (APEC)
+IS  - 
+SN  - 1048-2334
+VO  - 
+VL  - 
+JA  - 2013 Twenty-Eighth Annual IEEE Applied Power Electronics Conference and Exposition (APEC)
+Y1  - 17-21 March 2013
+AB  - Accurate fault identification allows the adoption of procedures that minimize the fault impact on the machines operation. Switched reluctance motors (SRMs) have been recognized for their fault-tolerant capabilities and they present a very robust configuration, particularly due to the absence of windings or magnets in the rotor. All these attributes make the SRM a competitive solution for aircraft and automotive applications, where systems reliability is a crucial feature. Therefore, in this paper, a new algorithm for real-time diagnosis of power converter faults in SRM drives is proposed. In contrast to other methods that use additional sensors or devices, the presented technique uses the measured phase currents only, which are already available for the drive control. The proposed algorithm effectively detects the inverter faulty phase and is capable to localize the faulty power switch. Power switch open-and short-circuit fault occurrences in an asymmetric full-bridge converter are considered and analyzed.
+ER  - 
+
+TY  - CONF
+TI  - Fault reason analysis of 10kV cable lines of city power grid with OWTS state detection
+T2  - 2012 China International Conference on Electricity Distribution
+SP  - 1
+EP  - 8
+AU  - Z. Zhou
+AU  - Y. Zhang
+AU  - H. Li
+PY  - 2012
+KW  - state detection
+KW  - OWTS
+KW  - defect
+DO  - 10.1109/CICED.2012.6508413
+JO  - 2012 China International Conference on Electricity Distribution
+IS  - 
+SN  - 2161-749X
+VO  - 
+VL  - 
+JA  - 2012 China International Conference on Electricity Distribution
+Y1  - 10-14 Sept. 2012
+AB  - In order to supply power to Olympic Games in 2008, OWTS(Oscillating Wave Test System) was introduced to Beijing. Many tests proved that OWTS is an effective way to find faults in 10kV cable joints that are newly installed. In 2011 Beijing Electric Power Corporation detected the state of 10kV cable lines sent by Power Supply Company in Beijing with OWTS(oscillating wave test system). We disassemble 10kV cable joints and found that Partial Discharge exceeded. We found many faults in 10kV cable joints, then analyzed 4 major factors that can influence the quality of cable joints in details, and made suggestions for revision.
+ER  - 
+
+TY  - CONF
+TI  - A New approach of preprocessing with SVM optimization based on PSO for bearing fault diagnosis
+T2  - 13th International Conference on Hybrid Intelligent Systems (HIS 2013)
+SP  - 319
+EP  - 324
+AU  - T. Thelaidjia
+AU  - S. Chenikher
+PY  - 2013
+KW  - Vibrations
+KW  - Statistical learning
+KW  - Classification algorithms
+KW  - Polynomials
+KW  - Support vector machines
+KW  - Kernel
+KW  - Europe
+KW  - Condition monitoring
+KW  - Discrete wavelet transform
+KW  - Fault Diagnosis
+KW  - Kurtosis
+KW  - Machine learning
+KW  - Particle Swarm Optimization
+KW  - Roller Bearing
+KW  - Rotating machines
+KW  - Support Vector Machine
+KW  - Vibration measurement
+DO  - 10.1109/HIS.2013.6920452
+JO  - 13th International Conference on Hybrid Intelligent Systems (HIS 2013)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 13th International Conference on Hybrid Intelligent Systems (HIS 2013)
+Y1  - 4-6 Dec. 2013
+AB  - Bearing fault diagnosis has attracted significant attention over the past few decades. It consists of two major parts: vibration signal feature extraction and condition classification for the extracted features. In this paper, feature extraction from faulty bearing vibration signals is performed by a combination of the signal's Kurtosis and features obtained through the preprocessing of the vibration signal samples using Db2 discrete wavelet transform at the fifth level of decomposition. In this way, a 7-dimensional vector of the vibration signal feature is obtained. After feature extraction from vibration signal, the support vector machine (SVM) was applied to automate the fault diagnosis procedure. To improve the classification accuracy for bearing fault prediction, particle swarm optimization (PSO) is employed to simultaneously optimize the SVM kernel function parameter and the penalty parameter. The results have shown feasibility and effectiveness of the proposed approach.
+ER  - 
+
+TY  - CONF
+TI  - Fundamental characterization for state detectability of logical dynamical systems
+T2  - 2016 35th Chinese Control Conference (CCC)
+SP  - 95
+EP  - 101
+AU  - K. Zhang
+AU  - R. Su
+AU  - L. Xie
+PY  - 2016
+KW  - Heuristic algorithms
+KW  - Games
+KW  - Stress
+KW  - Fault diagnosis
+KW  - Optimal control
+KW  - Algorithm design and analysis
+KW  - Sequential circuits
+KW  - logical dynamical system
+KW  - state detectability
+KW  - semi-tensor product of matrices
+KW  - oxidative stress response
+KW  - sequential logic circuit
+KW  - finite-strategic dynamical noncooperative game
+DO  - 10.1109/ChiCC.2016.7553067
+JO  - 2016 35th Chinese Control Conference (CCC)
+IS  - 
+SN  - 1934-1768
+VO  - 
+VL  - 
+JA  - 2016 35th Chinese Control Conference (CCC)
+Y1  - 27-29 July 2016
+AB  - The problem of using input and output sequences to determine the current state of logical dynamical systems has applications in many fields such as systems biology, sequential logic circuits, finite-strategic dynamical noncooperative games, and etc., and has been widely investigated during the recent years. There is an algorithm for verifying whether all sufficiently long input sequences determine the corresponding current states that runs in time quadratic polynomial of the number of states, inputs and outputs in the literature. In this paper, under the framework of the semi-tensor product of matrices, we propose a quadratic polynomial time algorithm for verifying a weaker and more widely used state detectability stating that whether there is an input sequence that determines the current state. This algorithm is much more effective than the existing algorithms for verifying the weaker state detectability in the literature, and is also applied to the fault diagnosis problem of oxidative stress response and sequential logic circuits.
+ER  - 
+
+TY  - CONF
+TI  - The Other Human in The Loop – A Pilot Study to Find Selection Strategies for Active Learning
+T2  - 2018 International Joint Conference on Neural Networks (IJCNN)
+SP  - 1
+EP  - 8
+AU  - D. Kottke
+AU  - A. Calma
+AU  - D. Huseljic
+AU  - C. Sandrock
+AU  - G. Kachergis
+AU  - B. Sick
+PY  - 2018
+KW  - Computer bugs
+KW  - Task analysis
+KW  - Games
+KW  - Labeling
+KW  - Machine learning
+KW  - Uncertainty
+KW  - Mathematical model
+DO  - 10.1109/IJCNN.2018.8489637
+JO  - 2018 International Joint Conference on Neural Networks (IJCNN)
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - 2018 International Joint Conference on Neural Networks (IJCNN)
+Y1  - 8-13 July 2018
+AB  - Gathering data becomes increasingly simple whereas the labeling of collected instances remains difficult. Active learning provides methods to reduce the labeling effort by intelligent selection of instances. In contrast to building mathematical models or developing heuristics to solve this task, we pursue another approach: We let humans select the instances which should be labeled. Participants are asked to learn to predict the sex of 18 abstract illustrations of bugs as either male or female. This article describes the design, goal and the execution of this study with 14 groups (71 participants). In this exploratory study we analyze humans' balance between exploration and exploitation, the participants' learning behavior, the collaboration within the group as well as the question when to stop querying. The comparison of human performance with baseline active learning algorithms provides promising results which indicate that machine active learning might benefit from incorporating human strategies. Additionally, we provide the complete data and extracted spreadsheets for download.
+ER  - 
+
+TY  - CONF
+TI  - Analysis of Potential Distribution Efficiency of Polluted 132KV AC Transmission Line Insulators
+T2  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+SP  - 755
+EP  - 760
+AU  - R. Masinga
+AU  - D. E. Okojie
+AU  - A. F. Nnachi
+AU  - A. O. Akumu
+AU  - P. R. Tshubwana
+PY  - 2020
+KW  - Electric potential
+KW  - Power transmission lines
+KW  - Pollution
+KW  - Power transmission
+KW  - Flashover
+KW  - Insulators
+KW  - Matlab
+KW  - Insulators
+KW  - overhead transmission
+KW  - pollution
+KW  - flashover
+KW  - potential distribution
+KW  - efficiency
+DO  - 10.1109/ENERGYCon48941.2020.9236552
+JO  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 6th IEEE International Energy Conference (ENERGYCon)
+Y1  - 28 Sept.-1 Oct. 2020
+AB  - Flashover due to pollution of overhead transmission line insulators (OHTL) is a major source of faults in the electric power transmission system. Insulators are exposed to the outdoor environment and become polluted by different types of pollutants that end up causing faults, like flashover in the transmission of electric power. In this paper, the investigation of the potential distribution efficiency of polluted 132kV AC transmission line insulators was conducted. MATLAB was used to model and simulate the polluted insulators and comparison was made between not polluted and polluted insulators. Due to pollution of the OHTL, the potential distribution on a string of suspension insulators became non uniform leading to a decrease in efficiency. The results show that the value of a capacitance K ratio increases from 0.2 to 1.0 which led to an efficiency decrease from 99.9% to 31.07%.
+ER  - 
+
+TY  - CONF
+TI  - CrowdMine: Towards crowdsourced human-assisted verification
+T2  - DAC Design Automation Conference 2012
+SP  - 1250
+EP  - 1251
+AU  - W. Li
+AU  - S. A. Seshia
+AU  - S. Jha
+PY  - 2012
+KW  - Humans
+KW  - Games
+KW  - Debugging
+KW  - Image color analysis
+KW  - Human factors
+KW  - Design automation
+KW  - Pattern recognition
+KW  - Specification
+KW  - verification
+KW  - crowdsourcing
+KW  - human computation
+DO  - 
+JO  - DAC Design Automation Conference 2012
+IS  - 
+SN  - 0738-100X
+VO  - 
+VL  - 
+JA  - DAC Design Automation Conference 2012
+Y1  - 3-7 June 2012
+AB  - We propose the use of crowdsourcing and human computation to help solve difficult problems in verification and debugging that can benefit from human insight. As a specific scenario, we explain how non-expert humans can assist in the verification process by finding patterns in portions of simulation or execution traces which are represented as images. Such patterns can be used in a variety of ways, including assertion-based verification, improving coverage, bug localization, and error explanation. Several related issues are discussed, including privacy and incentive mechanisms.
+ER  - 
+
+TY  - CONF
+TI  - A Retrospect on Different side of CAPTCHA Techniques
+T2  - 2018 International Conference on Advanced Computation and Telecommunication (ICACAT)
+SP  - 1
+EP  - 6
+AU  - S. Pandey
+AU  - M. Kumar
+AU  - V. Kumar
+PY  - 2018
+KW  - CAPTCHAs
+KW  - Three-dimensional displays
+KW  - Image color analysis
+KW  - Games
+KW  - Security
+KW  - Image recognition
+KW  - Optical character recognition software
+KW  - CAPTCHA
+KW  - Artificial Problem
+KW  - Turing Test
+KW  - Attacks
+KW  - Web Security
+DO  - 10.1109/ICACAT.2018.8933746
+JO  - 2018 International Conference on Advanced Computation and Telecommunication (ICACAT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 International Conference on Advanced Computation and Telecommunication (ICACAT)
+Y1  - 28-29 Dec. 2018
+AB  - In today's digital world, security plays an important role in the field of web applications. CAPTCHA is a challenge reaction test that segregates human from machine based automatic program that may harm data credentials. It is required to protect the website or user data from different kind of machine attacks. To ensure the security, CAPTCHA is a tool through which a turing test can be performed that denied robots to intervene with the systems. CAPTCHA stands for Completely Automated Public Turing Test to tell Computers and Human Apart. Machine based attacks can harm the database by enrolling junk entries and an account can be hacked through brute force attack. By having these problems on mind, there are so many CAPTCHA techniques have been introduced such as text based CAPTCHA that involves 3D text, moving letters, distorted text and other than the text based CAPTCHA there are also graphical CAPTCHA, Audio CAPTCHA. One Time Password based CAPTCHA have been carried out for better security concerns. So, there are so many ideas have been developed till now which claim better security approach and the motive of this paper is to review the previously proposed systems that may have some bugs and complicated for human to solve in less time. The paper also emphasizes the proposed solution or system that replaces the existing system and provides better level of accuracy.
+ER  - 
+
+TY  - CONF
+TI  - Crustal Deformation Changes due to M4 Class Earthquake Near Kendeng Thrust Detected by Geodetic Data
+T2  - 2019 5th International Conference on Science and Technology (ICST)
+SP  - 1
+EP  - 4
+AU  - E. L. Isnaini
+AU  - L. S. Heliani
+AU  - D. Lestari
+AU  - C. Pratama
+AU  - S. T. Wibowo
+PY  - 2019
+KW  - Earthquakes
+KW  - Global Positioning System
+KW  - Strain
+KW  - Java
+KW  - Time series analysis
+KW  - Geospatial analysis
+KW  - Earth
+KW  - displacement rate
+KW  - time series
+KW  - GPS
+KW  - Kendeng Thrust
+KW  - Earthquake
+DO  - 10.1109/ICST47872.2019.9166337
+JO  - 2019 5th International Conference on Science and Technology (ICST)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2019 5th International Conference on Science and Technology (ICST)
+Y1  - 30-31 July 2019
+AB  - One of the intraplate faults in Java Island, which may significantly produce a future earthquake, is the Kendeng thrust. The shallow earthquake with magnitude 4.3 struck Madiun, East Java on June 25, 2015, causing damage in the region. In this study, we analyze the crustal deformation response based on Global Positioning System (GPS) observation data. A total of 11 GPS stations provided by BIG scattered near the Kendeng thrust. Observation data was processed based on the least squares computation method using GAMIT/GLOBK software. We obtained the daily solution of each GPS station and calculated velocity changes before and after the earthquake. The result shows that there was a change in the deformation rate before and after the earthquake. The deformation features consist of displacement in horizontal velocity from southeast to east, while vertical trend varies from subsidence (CSEM, CMAG, CNGA, CLMG, CBLR), uplift (CJPR) and changes from subsidence to uplift (CMJT, CPWD, CSBY, CSLO, CTBN).
+ER  - 
+
+TY  - CONF
+TI  - Building Ad-Hoc Clouds with CloudAgora
+T2  - 2019 38th Symposium on Reliable Distributed Systems (SRDS)
+SP  - 360
+EP  - 3602
+AU  - T. Bakogiannis
+AU  - I. Mytilinis
+AU  - K. Doka
+AU  - G. Goumas
+PY  - 2019
+KW  - Task analysis
+KW  - Cloud computing
+KW  - Contracts
+KW  - Blockchain
+KW  - Games
+KW  - Distributed databases
+KW  - Companies
+KW  - Blockchain, Cloud Computing, Marketplace, Verifiable Computation
+DO  - 10.1109/SRDS47363.2019.00050
+JO  - 2019 38th Symposium on Reliable Distributed Systems (SRDS)
+IS  - 
+SN  - 2575-8462
+VO  - 
+VL  - 
+JA  - 2019 38th Symposium on Reliable Distributed Systems (SRDS)
+Y1  - 1-4 Oct. 2019
+AB  - The following topics are dealt with: cloud computing; trusted computing; distributed databases; cryptography; security of data; storage management; protocols; data privacy; fault tolerant computing; software fault tolerance.
+ER  - 
+
+TY  - CONF
+TI  - Application of Test Case Selection and Fault Analysis Based on Orthogonal Experiment in Mobile Device Context-Aware Application Testing
+T2  - 2018 4th Annual International Conference on Network and Information Systems for Computers (ICNISC)
+SP  - 456
+EP  - 461
+AU  - Y. Guo
+AU  - L. Lu
+PY  - 2018
+KW  - Testing
+KW  - Fault detection
+KW  - Sensor phenomena and characterization
+KW  - Games
+KW  - Context-aware services
+KW  - Mobile handsets
+KW  - Software testing, Context-aware application, Test case selection, Orthogonal experiment design
+DO  - 10.1109/ICNISC.2018.00099
+JO  - 2018 4th Annual International Conference on Network and Information Systems for Computers (ICNISC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 4th Annual International Conference on Network and Information Systems for Computers (ICNISC)
+Y1  - 19-21 April 2018
+AB  - With the rapid development of mobile devices and the advent and application of various sensors, a large number of context-aware applications have emerged. As more and more contextual information is available for these applications, the functions implemented are becoming more complex. Due to the variety of contextual information, the design of test cases requires very complicated combination of conditions, which greatly increases the difficulty of software testing. This paper proposes a test case selection method based on orthogonal experiment design, which greatly reduces the number of test cases under the premise of ensuring effective coverage, and at the same time, the method also has the ability of error location. The experimental results show that the test cases designed by this method are evenly distributed and show good comprehensiveness. By separating the influence of each independent factor, it is helpful to find out the influencing factors of fault detection rate and thus locate the fault.
+ER  - 
+
+TY  - CONF
+TI  - Modeling, Simulation and Experimental Performance Analysis of PEM Fuel Cell
+T2  - 2018 Twentieth International Middle East Power Systems Conference (MEPCON)
+SP  - 856
+EP  - 861
+AU  - A. F. Nasef
+AU  - H. A. Khattab
+AU  - R. A. Amer
+AU  - G. A. Morsy
+PY  - 2018
+KW  - Fuel cells
+KW  - Mathematical model
+KW  - Load modeling
+KW  - Current density
+KW  - Matlab
+KW  - Power system dynamics
+KW  - Hydrogen
+KW  - PEMFC
+KW  - Dynamic Performance
+KW  - polarization curve
+KW  - Dr FuelCell Professional module
+KW  - MATLAB/SIMULINK
+DO  - 10.1109/MEPCON.2018.8635233
+JO  - 2018 Twentieth International Middle East Power Systems Conference (MEPCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 Twentieth International Middle East Power Systems Conference (MEPCON)
+Y1  - 18-20 Dec. 2018
+AB  - This paper aims to mathematically model and simulate the proton exchange membrane fuel cell (PEMFC) in steady state and dynamic operations. At first, the experimental measurements from The Dr FuelCell-Professional module under various loading conditions are obtained. Then, the modeling and implementation of PEMFC is provided and implemented using MATLAB/SIMULINK and the results have been validated by comparison with experimental measurements. It is illustrated from the results that the mathematical model represents accurately the physical PEMFC module. Also, the effect of temperature on the performance of PEMFC has been studied. Finally, the dynamic response of PEMFC stack has been studied when it is connected to the public grid via a DC-DC voltage booster and DC-AC inverter. The system response is obtained when subjected to a 3-phase short circuit fault in the tie line close to the infinite bus.
+ER  - 
+
+TY  - CONF
+TI  - Fault detection using marginalized likelihood ratio and uniform priors: Justifications and challenges
+T2  - 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)
+SP  - 579
+EP  - 585
+AU  - F. Kiasi
+AU  - J. Prakash
+AU  - S. L. Shah
+PY  - 2012
+KW  - Fault detection
+KW  - Sensors
+KW  - Actuators
+KW  - Estimation
+KW  - Equations
+KW  - Instruments
+KW  - Linear systems
+DO  - 10.1109/CDC.2012.6426003
+JO  - 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)
+IS  - 
+SN  - 0743-1546
+VO  - 
+VL  - 
+JA  - 2012 IEEE 51st IEEE Conference on Decision and Control (CDC)
+Y1  - 10-13 Dec. 2012
+AB  - The marginalized likelihood ratio (MLR) approach to fault detection as proposed by Gustafsson [2] is based on the assumption of improper flat priors with infinite support for fault magnitude. This assumption leads to the problem that the likelihood function cannot be uniquely defined after the occurrence of the fault. In another approach by Dos Santos and Yoneyama [9] the prior is assumed to follow a Gamma distribution which is hard to justify as this selection of prior penalizes low and high magnitude faults. However, with presence of safety shutdown systems as well as range constraints on sensors and actuators, all process variables are generally bounded and this motivates one to investigate the possibility of using uniform priors for fault magnitudes. This study aims to undertake this task and attempts to discuss the justification and the challenges associated with selection of such priors. The outcome of this analysis is a new fault detection and isolation (FDI) scheme that takes advantage of the modified MLR (MMLR) test to accurately estimate the time of the occurrence of the fault. The proposed FDI uses the MMLR as the detector of time of occurrence of the fault and the generalized likelihood ratio (GLR) test for the purpose of isolation of the fault and estimation of its magnitude.
+ER  - 
+
+TY  - CONF
+TI  - Industrial Fault Diagnosis using Hilbert Transform and Texture Features
+T2  - 2021 IEEE International Conference on Big Data and Smart Computing (BigComp)
+SP  - 121
+EP  - 128
+AU  - M. Zabin
+AU  - H. -J. Choi
+AU  - J. Uddin
+AU  - M. H. Furhad
+AU  - A. B. Ullah
+PY  - 2021
+KW  - Fault diagnosis
+KW  - Training
+KW  - Convolution
+KW  - Computational modeling
+KW  - Transforms
+KW  - Data models
+KW  - Convolutional neural networks
+KW  - Fault diagnosis
+KW  - Deep Convolutional Neural Network
+KW  - Hilbert Transform
+KW  - Industry 4.0
+DO  - 10.1109/BigComp51126.2021.00031
+JO  - 2021 IEEE International Conference on Big Data and Smart Computing (BigComp)
+IS  - 
+SN  - 2375-9356
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Big Data and Smart Computing (BigComp)
+Y1  - 17-20 Jan. 2021
+AB  - An automated fault detection is a vital issue in smart industries of Industry 4.0. This paper presents a model of industrial fault diagnosis using deep learning algorithms. In the proposed model, a standard induction motor dataset that consists of six different types of fault is used as an input. Then as a preprocessing method we utilized Hilbert transform to extract the pre-processed signals with absolute values. After that, texture images are generated from the pre-processed signals. The texture pattern of the images is used for training and testing the deep convolutional neural networks. For analyzing the performance of the proposed system, we used the F1-score which is derived from precision and recall. Experimental results demonstrate that the proposed model exhibited average 98.48% F1 score for the dataset, where HC (98.33%), IRF (98.57%), BF (98.41%), and ORF (98.56%), respectively. In addition, the proposed model shows comparatively higher classification accuracy compared to the four state-of-art models by showing the higher F1 score.
+ER  - 
+
+TY  - CONF
+TI  - A storage life modeling based on fuzzy stress-strength interface reliability model
+T2  - 2012 International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering
+SP  - 1010
+EP  - 1014
+AU  - P. Xue
+AU  - X. Li
+PY  - 2012
+KW  - Stress
+KW  - Degradation
+KW  - Computational modeling
+KW  - Temperature distribution
+KW  - Interference
+KW  - Reliability engineering
+KW  - storage life
+KW  - storage environment
+KW  - fuzzy reliability
+KW  - storage life modelin
+KW  - stress-strength interface reliability model
+DO  - 10.1109/ICQR2MSE.2012.6246395
+JO  - 2012 International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering
+Y1  - 15-18 June 2012
+AB  - System's storage life modeling is a highly discussed topic in reliability field. The tradition methods of System's storage life modeling include fault tree analysis, block diagram analysis and so on. In this article, we assume temperature as the main stress that should be considered and the strength of the system is the maximum temperature the system could bear. Under these assumptions, a new storage life modeling method is represented here to predict the system's storage life. In the model, the operating process of the strength and stress is modeled based on fuzzy stress-strength interface (SSI) reliability model. The degradation process of is taken to be a gamma process .For an illustration of the proposed model, a simulated example is presented along with the associated computational result.
+ER  - 
+
+TY  - CONF
+TI  - Addressing arc flash problems in low voltage switchboards: A case study in arc fault protection
+T2  - 2014 IEEE/IAS 50th Industrial & Commercial Power Systems Technical Conference
+SP  - 1
+EP  - 12
+AU  - H. B. Land
+AU  - T. Gammon
+PY  - 2014
+KW  - Switches
+KW  - Fires
+KW  - Navigation
+KW  - Cable insulation
+KW  - Time-frequency analysis
+KW  - Manuals
+KW  - Heating
+KW  - arc
+KW  - arc fault
+KW  - arc physics
+KW  - electric breakdown
+KW  - fires
+KW  - power system protection
+KW  - power distribution faults
+KW  - switchgear
+KW  - switchgear fires
+KW  - voltage breakdown
+KW  - fault detection
+DO  - 10.1109/ICPS.2014.6839161
+JO  - 2014 IEEE/IAS 50th Industrial & Commercial Power Systems Technical Conference
+IS  - 
+SN  - 2158-4907
+VO  - 
+VL  - 
+JA  - 2014 IEEE/IAS 50th Industrial & Commercial Power Systems Technical Conference
+Y1  - 20-23 May 2014
+AB  - Marine switchboards are manufactured to specifications similar to industrial switchboards, but sustain arcing faults more frequently. Thus the marine environment can serve as to accelerate aging, showing what industrial switchboards will experience over time. US Navy data are used to show that faulty connections are the primary cause of arcing faults in marine switchboards. Various approaches to arc detection and to the prevention of arcing failures will be examined. The approaches which were integrated into an automatic arc fault protection system for the Navy will be discussed. The historical effectiveness of arc fault protection systems on Navy ships will be discussed. The authors believe that the success achieved in this harsh marine environment is statistically significant and holds lessons for the deployment of arc fault protective systems in critical land-based, power distribution systems.
+ER  - 
+
+TY  - CONF
+TI  - Phrase-based extraction of user opinions in mobile app reviews
+T2  - 2016 31st IEEE/ACM International Conference on Automated Software Engineering (ASE)
+SP  - 726
+EP  - 731
+AU  - P. M. Vu
+AU  - H. V. Pham
+AU  - T. T. Nguyen
+AU  - T. T. Nguyen
+PY  - 2016
+KW  - Artificial neural networks
+KW  - Mobile communication
+KW  - Facebook
+KW  - Games
+KW  - Monitoring
+KW  - Batteries
+KW  - Computer bugs
+KW  - Opinion Mining
+KW  - Review Analysis
+KW  - Phrase Extraction
+DO  - 
+JO  - 2016 31st IEEE/ACM International Conference on Automated Software Engineering (ASE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 31st IEEE/ACM International Conference on Automated Software Engineering (ASE)
+Y1  - 3-7 Sept. 2016
+AB  - Mobile app reviews often contain useful user opinions like bug reports or suggestions. However, looking for those opinions manually in thousands of reviews is ineffective and time-consuming. In this paper, we propose PUMA, an automated, phrase-based approach to extract user opinions in app reviews. Our approach includes a technique to extract phrases in reviews using part-of-speech (PoS) templates; a technique to cluster phrases having similar meanings (each cluster is considered as a major user opinion); and a technique to monitor phrase clusters with negative sentiments for their outbreaks over time. We used PUMA to study two popular apps and found that it can reveal severe problems of those apps reported in their user reviews.
+ER  - 
+
+TY  - CONF
+TI  - Mixed ℋ<inf>2</inf>/ℋ<inf>∞</inf> fault-tolerant control for nonlinear stochastic systems: The finite-horizon case
+T2  - Proceeding of the 11th World Congress on Intelligent Control and Automation
+SP  - 1578
+EP  - 1583
+AU  - Yanchun Wu
+AU  - L. Ma
+AU  - Y. Bo
+AU  - X. Liu
+PY  - 2014
+KW  - Actuators
+KW  - Stochastic systems
+KW  - Equations
+KW  - Performance analysis
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Time-varying systems
+KW  - Fault-tolerant control
+KW  - Mixed ℋ2/ℋ∞ control
+KW  - Nonlinear stochastic systems
+KW  - Actuator failures.
+DO  - 10.1109/WCICA.2014.7052955
+JO  - Proceeding of the 11th World Congress on Intelligent Control and Automation
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceeding of the 11th World Congress on Intelligent Control and Automation
+Y1  - 29 June-4 July 2014
+AB  - This paper deals with the fault-tolerant control problem for a class of nonlinear stochastic time-varying system with actuator failures. Both ℋ<sub>2</sub> and ℋ<sub>∞</sub> performance requirements are taken into consideration. The proposed actuator failure model is quite general and cover several frequently seen actuator failure phenomena as special cases. The stochastic nonlinearities are quite general and could stand for several nonlinear systems. It is the purpose of this paper to find equilibrium strategies of a two-player Nash game, and meanwhile both ℋ<sub>2</sub> and ℋ<sub>∞</sub> performances are achieved via proposed state feedback control scheme which is characterized by the solution to a set of coupled matrix equations. The feedback gains can be solved recursively backward in k. A numerical computing algorithm is presented, and then a simulation example is given to illustrate the effectiveness and applicability of the proposed algorithm.
+ER  - 
+
+TY  - CONF
+TI  - NETIVAR: NETwork Information Visualization based on Augmented Reality
+T2  - 2018 12th International Conference on Software, Knowledge, Information Management & Applications (SKIMA)
+SP  - 1
+EP  - 8
+AU  - C. Flinton
+AU  - P. Anderson
+AU  - H. P. H. Shum
+AU  - E. S. L. Ho
+PY  - 2018
+KW  - Task analysis
+KW  - Education
+KW  - Visualization
+KW  - Cameras
+KW  - Augmented reality
+KW  - Switches
+KW  - Three-dimensional displays
+KW  - Network tasks
+KW  - Network switch
+KW  - Augmented reality
+KW  - Smartphone app
+DO  - 10.1109/SKIMA.2018.8631530
+JO  - 2018 12th International Conference on Software, Knowledge, Information Management & Applications (SKIMA)
+IS  - 
+SN  - 2573-3214
+VO  - 
+VL  - 
+JA  - 2018 12th International Conference on Software, Knowledge, Information Management & Applications (SKIMA)
+Y1  - 3-5 Dec. 2018
+AB  - Connecting network cables to network switches is a time-consuming and inefficient task, and requires extensive documentation and preparation beforehand to ensure no service faults are encountered by the users. In this paper, a new AR smartphone application that overlays network switch information over the user's vision is designed and developed for real working environment to increase user's efficiency in working with a network switch. Specifically, the prototype of the AR App is developed on the Android platform using both the Unity game engine and Vuforia AR library and connecting to the network switch to retrieve network information through telnet. By using the camera on the smartphone for capturing the visual information from the working environment, i.e. the network switch in this App, the network switch information such as speed, types, etc. will be overlaid on each port on the smartphone screen. A user study was conducted to evaluate the effectiveness of the AR App to assist users in performing network tasks. In particular, participants were tasked with connecting switchports to a patch panel to match up corresponding configurations. After three tests, it was found that the times for completion and mistakes made were reduced in the final test when compared to the first. This highlights the positive effects of the application in improving the user's efficiency.
+ER  - 
+
+TY  - CONF
+TI  - An Adaptive Modeling Framework for Bivariate Data Streams with Applications to Change Detection in Cyber-Physical Systems
+T2  - 2017 IEEE International Conference on Data Mining Workshops (ICDMW)
+SP  - 1074
+EP  - 1081
+AU  - J. Plasse
+AU  - J. Noble
+AU  - K. Myers
+PY  - 2017
+KW  - Adaptation models
+KW  - Mathematical model
+KW  - Monitoring
+KW  - Cyber-physical systems
+KW  - Data models
+KW  - Sensors
+KW  - Adaptive systems
+DO  - 10.1109/ICDMW.2017.151
+JO  - 2017 IEEE International Conference on Data Mining Workshops (ICDMW)
+IS  - 
+SN  - 2375-9259
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Data Mining Workshops (ICDMW)
+Y1  - 18-21 Nov. 2017
+AB  - Cyber-physical systems - systems that incorporate physical devices with cyber components - are appearing in diverse applications, and due to advances in data acquisition, are accompanied with large amounts of data. The interplay between the cyber and the physical components leaves such systems vulnerable to faults and intrusions, motivating the development of a general model that can efficiently and continuously monitor a cyber-physical system. To be of practical value, the model should be adaptive and equipped with the ability to detect changes in the system. This paper makes three contributions: (1) a new adaptive modeling framework for monitoring an arbitrary cyber-physical system in real-time using a flexible statistical distribution called the normal-gamma; (2) a novel streaming validation procedure, demonstrated on data streams from a cyber-physical system at Los Alamos National Laboratory, to justify the use of the normal-gamma and our new adaptive modeling approach; and (3) a new online change detection algorithm demonstrated on synthetic normal-gamma data streams.
+ER  - 
+
+TY  - CONF
+TI  - Automated Maneuvering Decision for UAVs in Forest Surveillance and Fire Detection Missions<sup>*</sup>
+T2  - 2018 International Conference on Unmanned Aircraft Systems (ICUAS)
+SP  - 1085
+EP  - 1090
+AU  - L. Zhang
+AU  - L. Mu
+AU  - Z. Liu
+AU  - Y. Zhang
+AU  - J. Ai
+PY  - 2018
+KW  - Unmanned aerial vehicles
+KW  - Task analysis
+KW  - Games
+KW  - Aircraft
+KW  - Forestry
+KW  - Surveillance
+KW  - Collision avoidance
+DO  - 10.1109/ICUAS.2018.8453322
+JO  - 2018 International Conference on Unmanned Aircraft Systems (ICUAS)
+IS  - 
+SN  - 2575-7296
+VO  - 
+VL  - 
+JA  - 2018 International Conference on Unmanned Aircraft Systems (ICUAS)
+Y1  - 12-15 June 2018
+AB  - As a flexible, efficient, and powerful platform for a variety of practical applications, the unmanned aerial vehicle (UAV) has attracted increasing attention in the field of forest re monitoring, detection, and tracking in recent years. Generally, more complicated and heavier tasks can be achieved by using a team of UAVs other than a single UAV. However, a possible problem is that faults may occur on a UAV in the formation or the power may gradually run out during the task, so that the disabled UAV must be replaced by a newly assigned UAV from the base. Hence, the problem becomes how to guide the new UAV to join the team in an optimal manner, and then to maintain the formation during the remaining task. Meanwhile, collision avoidance should be involved to avoid hazardous impacts from other formation members during the whole mission. To solve these challenges, an automated maneuvering decision strategy consisting of a tailored scoring function and a game tree decision algorithm is developed in this study. The newly assigned UAV can be guided to join the patrol team from arbitrary initial locations, and the formation can be maintained during the patrol task in the presence of disturbances. Numerical simulations are conducted to validate the proposed decision strategy.
+ER  - 
+
+TY  - CONF
+TI  - Communications-Capable Fault Indicators Improve Outage Response for Coastal Oregon
+T2  - 2016 IEEE Rural Electric Power Conference (REPC)
+SP  - 91
+EP  - 95
+AU  - J. W. Knapek
+AU  - S. Gamache
+AU  - J. Fowler
+PY  - 2016
+KW  - Circuit faults
+KW  - Reliability
+KW  - Smart grids
+KW  - Real-time systems
+KW  - SCADA systems
+KW  - Wide area networks
+KW  - Sea measurements
+KW  - Distribution automation
+KW  - DNP3
+KW  - faulted circuit indicators
+KW  - outage response
+KW  - radio communications
+KW  - SCADA
+DO  - 10.1109/REPC.2016.15
+JO  - 2016 IEEE Rural Electric Power Conference (REPC)
+IS  - 
+SN  - 2153-3636
+VO  - 
+VL  - 
+JA  - 2016 IEEE Rural Electric Power Conference (REPC)
+Y1  - 15-18 May 2016
+AB  - Overhead fault indicators have long been vital tools for utility line crews, helping them to find a faulted line section on a distribution circuit by providing local annunciation for where the fault occurred. Traditionally, a mechanical flag or light-emitting diode (LED) indication shows that the fault was detected by the sensor. Line crews have to patrol the lines by following the tripped sensors until the fault is no longer indicated and then backtracking down the line to find the faulted line section. This process can be time-consuming, which significantly slows outage recovery times in the densely forested and mountainous terrain of the Oregon coastline. By adding communications capabilities to these fault indicators, a centralized effort can be made for dispatching line crews, while providing precise fault details that are possible because there are several sources of information. Central Lincoln People's Utility District (PUD) is in the process of installing such a system and is expecting to see improvements to outage recovery times, crew dispatch management, situational awareness during outages, and post-event analysis through supervisory control and data acquisition (SCADA) integration. This paper discusses how the information provided by the overhead fault indicators will improve Central Lincoln PUD operations and includes lessons learned by the engineers and operators while installing and using the system. Being able to monitor overhead fault indicators via SCADA allows Central Lincoln PUD to reduce customer outage times, improve safety, and reduce risk to patrolling troubleshooters. By having fault indicators communicating through SCADA, Central Lincoln PUD is able to isolate and sectionalize the problem area much faster. Central Lincoln PUD operators can see the faulted indicators on a map in the SCADA system, and they are also notified about the faulted indicators via cell phone text messages that are sent to operations personnel, including troubleshooters. This allows the troubleshooters to minimize the area of line that needs to be patrolled, which in turn reduces outage times. An additional benefit to using the fault indicator device is a load-logging function that is tied to a historian. This load-logging function has been useful within the Central Lincoln PUD systems engineering planning department when reconfiguring distribution systems. A project of this magnitude does not come without its share of lessons learned. Central Lincoln PUD has grown from these lessons, which include design thoughts regarding proper configuration on all levels of installed devices, where and how to install not only the line sensors but also the radio links that provide the communications link between the field and SCADA, and other design lessons that are discussed in this paper.
+ER  - 
+
+TY  - CONF
+TI  - Probabilistic diagnosis of performance faults in large-scale parallel applications
+T2  - 2012 21st International Conference on Parallel Architectures and Compilation Techniques (PACT)
+SP  - 213
+EP  - 222
+AU  - I. Laguna
+AU  - D. H. Ahn
+AU  - B. R. de Supinski
+AU  - S. Bagchi
+AU  - T. Gamblin
+PY  - 2012
+KW  - Debugging
+KW  - Probabilistic logic
+KW  - Computational modeling
+KW  - Markov processes
+KW  - History
+KW  - Computer bugs
+KW  - Reliability
+KW  - Performance
+DO  - 
+JO  - 2012 21st International Conference on Parallel Architectures and Compilation Techniques (PACT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 21st International Conference on Parallel Architectures and Compilation Techniques (PACT)
+Y1  - 19-23 Sept. 2012
+AB  - Debugging large-scale parallel applications is challenging. Most existing techniques provide mechanisms for process control but little information about the causes of failures. Most debuggers also scale poorly despite continued growth in supercomputer core counts. Our novel, highly scalable tool helps developers to understand and to fix performance failures and correctness problems at scale. Our tool probabilistically infers the least progressed task in MPI programs using Markov models of execution history and dependence analysis. This analysis guides program slicing to find code that may have caused a failure. In a blind study, we demonstrate that our tool can isolate the root cause of a particularly perplexing bug encountered at scale in a molecular dynamics simulation. Further, we perform fault injections into two benchmark codes and measure the scalability of the tool. Our results show that it accurately detects the least progressed task in most cases and can perform the diagnosis in a fraction of a second with thousands of tasks.
+ER  - 
+
+TY  - CONF
+TI  - RECSRF: Novel Technique to Evaluate Program Security using Dynamic Disassembly of Machine Instructions
+T2  - 2019 21st International Conference on Advanced Communication Technology (ICACT)
+SP  - 545
+EP  - 551
+AU  - A. Wanniarachchi
+AU  - C. Gamage
+PY  - 2019
+KW  - Complexity theory
+KW  - Security
+KW  - Registers
+KW  - Microprocessors
+KW  - Software
+KW  - Information theory
+KW  - Runtime
+KW  - Software Complexity
+KW  - Information Security Risk Indexing
+DO  - 10.23919/ICACT.2019.8701914
+JO  - 2019 21st International Conference on Advanced Communication Technology (ICACT)
+IS  - 
+SN  - 1738-9445
+VO  - 
+VL  - 
+JA  - 2019 21st International Conference on Advanced Communication Technology (ICACT)
+Y1  - 17-20 Feb. 2019
+AB  - Modern software systems have nearly an uncontrolled growth in complex requirements that is fueled by the need to interact with multiple other complex systems. While some of the complexity increases are due to activities such as bug fixes which are unavoidable, other activities such as expanding and enhancing functionality of a software system becomes a risky endeavor to undertake with respect to security as responding to the potential vulnerabilities due to complexity increases require scarce resources including technical expertise and time. This paper introduces RECSRF; a novel framework to quantitatively evaluate the security of an execution in line with the security risk impact it makes over the particular microprocessor on which it executes. RECSRF consists of two components; a novel concept called The Run-time Execution Complexity (REC) of a program execution, which evaluates the trade-off between performance vs. security, while adhering to Control Flow Integrity (CFI) of programs, and an information theoretic technique to approximate the Security Risk Factor (SRF), which approximates the risk of a particular execution by analyzing dynamically disassembled machine instructions of a particular microprocessor. The RECSRF value allows software designers to select the most secure resource combination among a given set of resources, and software implementers to decide whether to proceed or not with a software change. The method can also be used to detect control flow hijacks at runtime by using it as an application level intrusion detection mechanism which allows transforming the same to an application level intrusion preventer upon successful implementation.
+ER  - 
+
+TY  - CONF
+TI  - Fault-tolerant control by using lexicographic multi-objective optimization
+T2  - 2011 8th Asian Control Conference (ASCC)
+SP  - 1078
+EP  - 1083
+AU  - T. Miksch
+AU  - A. Gambier
+PY  - 2011
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Valves
+KW  - Optimization
+KW  - Conductivity
+KW  - Actuators
+KW  - Reverse osmosis
+KW  - MPC
+KW  - fault tolerance
+KW  - lexicographic algorithm
+DO  - 
+JO  - 2011 8th Asian Control Conference (ASCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 8th Asian Control Conference (ASCC)
+Y1  - 15-18 May 2011
+AB  - The effect of component malfunction can be highly problematic for the normal operation of a control system particularly in the case of safety critical applications. Consequently, it is unrealistic to ignore during the control system design that faults can occur. It has been shown that Model-based Predictive Controllers (MPC) have good properties for fault-tolerance. However, an exhaustive analysis of faults in the real-time operation can lead to bad performance and even to controller infeasibility. In order to simplify the controller implementation and to overcome the mentioned difficulties, the control objectives for a plant under fault influence are prioritized according to required, degraded and unacceptable performances. In addition, a scheme for handling prioritized objectives based on the lexicographic multi-objective optimization together with a ℓ<sub>1</sub>-norm-MPC is proposed.
+ER  - 
+
+TY  - CONF
+TI  - FMI: Fault Tolerant Messaging Interface for Fast and Transparent Recovery
+T2  - 2014 IEEE 28th International Parallel and Distributed Processing Symposium
+SP  - 1225
+EP  - 1234
+AU  - K. Sato
+AU  - A. Moody
+AU  - K. Mohror
+AU  - T. Gamblin
+AU  - B. R. d. Supinski
+AU  - N. Maruyama
+AU  - S. Matsuoka
+PY  - 2014
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Overlay networks
+KW  - Runtime
+KW  - Peer-to-peer computing
+KW  - Resource management
+KW  - Hardware
+KW  - Fault tolerance
+KW  - MPI
+KW  - Checkpoint/Restart
+DO  - 10.1109/IPDPS.2014.126
+JO  - 2014 IEEE 28th International Parallel and Distributed Processing Symposium
+IS  - 
+SN  - 1530-2075
+VO  - 
+VL  - 
+JA  - 2014 IEEE 28th International Parallel and Distributed Processing Symposium
+Y1  - 19-23 May 2014
+AB  - Future supercomputers built with more components will enable larger, higher-fidelity simulations, but at the cost of higher failure rates. Traditional approaches to mitigating failures, such as checkpoint/restart (C/R) to a parallel file system incur large overheads. On future, extreme-scale systems, it is unlikely that traditional C/R will recover a failed application before the next failure occurs. To address this problem, we present the Fault Tolerant Messaging Interface (FMI), which enables extremely low-latency recovery. FMI accomplishes this using a survivable communication runtime coupled with fast, in-memory C/R, and dynamic node allocation. FMI provides message-passing semantics similar to MPI, but applications written using FMI can run through failures. The FMI runtime software handles fault tolerance, including check pointing application state, restarting failed processes, and allocating additional nodes when needed. Our tests show that FMI runs with similar failure-free performance as MPI, but FMI incurs only a 28% overhead with a very high mean time between failures of 1 minute.
+ER  - 
+
+TY  - CONF
+TI  - Iterative coarse to fine approach for interpretation of defect profiles using MFL measurements
+T2  - 2015 IEEE 10th Conference on Industrial Electronics and Applications (ICIEA)
+SP  - 1099
+EP  - 1104
+AU  - B. Wijerathna
+AU  - S. Kodagoda
+AU  - J. V. Miro
+AU  - G. Dissanayake
+PY  - 2015
+KW  - Mathematical model
+KW  - Analytical models
+KW  - Data models
+KW  - Magnetic flux leakage
+KW  - Saturation magnetization
+KW  - Computational modeling
+KW  - Gaussian processes
+DO  - 10.1109/ICIEA.2015.7334271
+JO  - 2015 IEEE 10th Conference on Industrial Electronics and Applications (ICIEA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE 10th Conference on Industrial Electronics and Applications (ICIEA)
+Y1  - 15-17 June 2015
+AB  - Magnetic Flux Leakage (MFL) is a commonly used technology for non destructive evaluation of ferromagnetic materials. MFL in general is used to estimate isolated defect geometry. In this study, a coarse to fine approach is proposed to interpret MFL measurements for continuous defect profiling. The coarse solution is implemented using a Gaussian Processes (GP) model and the fine approach is implemented using an unconstrained non-linear optimiser. This framework was tested on a 100 year old 600mm diameter cast iron pipe line. Some pipe sections were extracted, grit blasted and profiled using a sub millimetre accurate 3 - D laser scanner. The coarse to fine predictions were compared with the laser measured ground truth with just 1.2 mm RMS error.
+ER  - 
+
+TY  - CONF
+TI  - Fault tolerant control method to improve the torque and speed response in PMSM drive with winding faults
+T2  - 2011 IEEE Ninth International Conference on Power Electronics and Drive Systems
+SP  - 956
+EP  - 961
+AU  - C. J. Gajanayake
+AU  - B. Bhangu
+AU  - S. Nadarajan
+AU  - G. Jayasinghe
+PY  - 2011
+KW  - Mathematical model
+KW  - Windings
+KW  - Circuit faults
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Torque
+KW  - Inverters
+DO  - 10.1109/PEDS.2011.6147371
+JO  - 2011 IEEE Ninth International Conference on Power Electronics and Drive Systems
+IS  - 
+SN  - 2164-5264
+VO  - 
+VL  - 
+JA  - 2011 IEEE Ninth International Conference on Power Electronics and Drive Systems
+Y1  - 5-8 Dec. 2011
+AB  - Fault tolerant operation of motor drives is inevitable in many safety critical applications as failures could lead to complete shutdown or degrade the performance of the whole system. Therefore, it has become important to have fault tolerant capability to support continuous operation. This paper focus on the control of a star connected fault tolerant permanent magnet synchronous motor (PMSM) drive which suffers from open winding fault that may resulted from broken or disconnected stator phase winding. The considered fault tolerant derive has the reconfiguration capability to support open winding faults which connect the neutral point of the motor to the mid point of the dc link. This allows exciting the remaining two windings and supports the fault tolerant operation. One of the main problems of this topology is the high torque and speed ripple generated during the fault mode operation. In this paper, a comprehensive literature review is presented to identify different fault tolerant converters and published control techniques. Then faulty mode operation with standard techniques is re-evaluated and based on the findings a control method is proposed to improve the performance of PMSM drive under open phase fault. Furthermore, a method to detect and diagnose open phase faults and a control method to improve the faulty mode performance are also presented. Proposed control technique is verified in simulation result.
+ER  - 
+
+TY  - CONF
+TI  - Continuous software reliability models
+T2  - 2011 International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering
+SP  - 405
+EP  - 410
+AU  - L. Jin
+AU  - T. Dohi
+AU  - S. Osaki
+PY  - 2011
+KW  - Stochastic processes
+KW  - Software
+KW  - Differential equations
+KW  - Fault detection
+KW  - Shape
+KW  - Mathematical model
+KW  - Software reliability
+KW  - reliability growth modeling
+KW  - continuous-state models
+KW  - diffusion processes
+KW  - gamma wear processes
+KW  - software-fault data analysis
+DO  - 10.1109/ICQR2MSE.2011.5976641
+JO  - 2011 International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 International Conference on Quality, Reliability, Risk, Maintenance, and Safety Engineering
+Y1  - 17-19 June 2011
+AB  - For large scale software systems with a huge number of codes, it may be often useful to regard the fault-counting processes observed in testing phase as continuous-state stochastic processes. In this paper we introduce two types of continuous-state software reliability models; diffusion processes with time-dependent drift and non-stationary gamma wear processes, and compare them with the usual non-homogeneous Poisson processes. We expect that our models can provide the better goodness-of-fit performance than the existing software reliability models in many cases and provide convenient assessment tools to estimate the software reliability.
+ER  - 
+
+TY  - CONF
+TI  - Dictionary learning for dark image enhancement
+T2  - 2012 9th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+SP  - 94
+EP  - 97
+AU  - Jaesik Yoon
+AU  - Yuna Seo
+AU  - Jungyu Kang
+AU  - C. D. Yoo
+PY  - 2012
+KW  - Dictionaries
+KW  - Dark Image Enhancement
+KW  - Dual Dictionary
+KW  - Histogram Modification
+KW  - Sparse Coding
+KW  - Dictionary Learning
+DO  - 10.1109/URAI.2012.6462941
+JO  - 2012 9th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2012 9th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+Y1  - 26-28 Nov. 2012
+AB  - This paper proposes dark image enhancement algorithm based on dictionary learning(DL). When image is dark, many vision based robotic applications cannot work well. Existing dark image enhancement algorithms have defects. For example, histogram modification results in color information losses and gamma correction makes degradation in dark area. Proposed algorithm preserves color information and provides high performances in extreme conditions. Experimental results compared with existing algorithms will be also presented.
+ER  - 
+
+TY  - CONF
+TI  - A Hybrid Contrast Limited Adaptive Histogram Equalization (CLAHE) for Parathyroid Ultrasonic Image Enhancement
+T2  - 2019 Chinese Control Conference (CCC)
+SP  - 3577
+EP  - 3582
+AU  - R. Zheng
+AU  - Q. Guo
+AU  - C. Gao
+AU  - M. Yu
+PY  - 2019
+KW  - Histograms
+KW  - Transforms
+KW  - Image color analysis
+KW  - Ultrasonic imaging
+KW  - Acoustics
+KW  - Image edge detection
+KW  - Biomedical imaging
+KW  - Enhancement
+KW  - Contrast Limited Adaptive Histogram Equalization (CLAHE)
+KW  - ultrasonic parathyroid image
+KW  - Gamma transform
+KW  - High Pass
+DO  - 10.23919/ChiCC.2019.8866479
+JO  - 2019 Chinese Control Conference (CCC)
+IS  - 
+SN  - 1934-1768
+VO  - 
+VL  - 
+JA  - 2019 Chinese Control Conference (CCC)
+Y1  - 27-30 July 2019
+AB  - Histogram Equalization (HE) and its variations have been extensively used in image enhancement because of its easy realization and small computation. Although these methods may enhance image contrast effectively, they usually have some defects, for instance, lack of image details, noise amplification and undue enhancement. In this research, a strong hybrid algorithm is proposed to enhance the ultrasound parathyroid images. The algorithm introduces human-computer interaction to specify the region of interest (ROI), and combines Contrast Limited Adaptive Histogram Equalization (CLAHE) algorithm, Gamma transform and High Pass detail enhancement to get the final enhanced image. Experimental results show that the proposed hybrid γ-CLAHE algorithm is able to enhance the ultrasonic image in an effective and efficient way and get an output image of greater clarity for medical detection and diagnosis.
+ER  - 
+
+TY  - CONF
+TI  - A rigorous approach to the design of resilient cyber-physical systems through co-simulation
+T2  - IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN 2012)
+SP  - 1
+EP  - 6
+AU  - J. Fitzgerald
+AU  - K. Pierce
+AU  - C. Gamble
+PY  - 2012
+KW  - Monitoring
+KW  - Guidelines
+KW  - Computational modeling
+KW  - Fault tolerance
+KW  - Fault tolerant systems
+KW  - Collaboration
+KW  - Libraries
+KW  - cyber-physical systems
+KW  - co-simulation
+KW  - resilience
+KW  - fault tolerance
+KW  - formal methods
+DO  - 10.1109/DSNW.2012.6264663
+JO  - IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN 2012)
+IS  - 
+SN  - 2325-6664
+VO  - 
+VL  - 
+JA  - IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN 2012)
+Y1  - 25-28 June 2012
+AB  - The engineering of resilient cyber-physical systems requires collaborative development and analysis of models from different disciplines, including discrete-event models of software and continuous-time models of physical plant. This paper describes a rigorous approach to the model-based design of such systems through co-simulation of discrete-event models in the Vienna Development Method (VDM) and continuous-time models in 20-sim. These are coupled by a co-simulation tool that coordinates the execution of the models in their respective simulators. Co-models can be augmented with descriptions of potential failures and fault tolerance mechanisms, allowing early stage evaluation of alternatives before a commitment is made to realising functionality in the cyber or physical side. We describe the content of an emerging methodology for co-model development, co-simulation and design space exploration, presenting a case study and two examples from the library of design patterns developed for this setting.
+ER  - 
+
+TY  - CONF
+TI  - FAULT RIDE THROUGH CAPABILITY OF GRID FORMING WIND TURBINES: A COMPARISON OF CONTROL SCHEMES
+T2  - The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)
+SP  - 37
+EP  - 41
+AU  - A. Arasteh
+AU  - A. Jain
+AU  - O. Göksu
+AU  - L. Zeni
+AU  - N. A. Cutululis
+PY  - 2021
+DO  - 10.1049/icp.2021.1349
+JO  - The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)
+IS  - 
+SN  - 
+VO  - 2021
+VL  - 2021
+JA  - The 9th Renewable Power Generation Conference (RPG Dublin Online 2021)
+Y1  - 1-2 March 2021
+AB  - The prevalent trend towards converter-based generation, such as wind and solar, means that future power systems will be dominated by powerelectronic converters reducing the share of conventional generation units. In this regard, equipping the converter-based generation units with grid forming control schemes seems to be a promising solution. In this paper, the fault ride through capability of wind turbines with grid forming controls is investigated. The considered control schemes are Virtual Synchronous Machine, Distributed PLL-based and Power Synchronisation Control. These control schemes are implemented in an islanded wind turbine supplying a passive load and their performance during three-phase symmetrical faults are evaluated and compared. Based on the simulation results, the strengths and weaknesses of each grid forming control scheme during faults are identified.
+ER  - 
+
+TY  - CONF
+TI  - Stratify Mobile App Reviews: E-LDA Model Based on Hot "Entity" Discovery
+T2  - 2016 12th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS)
+SP  - 581
+EP  - 588
+AU  - Y. Liu
+AU  - Y. Li
+AU  - Y. Guo
+AU  - M. Zhang
+PY  - 2016
+KW  - Computational modeling
+KW  - Mobile communication
+KW  - Feature extraction
+KW  - Erbium
+KW  - Noise measurement
+KW  - Algorithm design and analysis
+KW  - Computer bugs
+KW  - App Review
+KW  - Bayes Probability
+KW  - Sentiment Computation
+KW  - Entity
+DO  - 10.1109/SITIS.2016.97
+JO  - 2016 12th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2016 12th International Conference on Signal-Image Technology & Internet-Based Systems (SITIS)
+Y1  - 28 Nov.-1 Dec. 2016
+AB  - Recent literatures have illustrated approaches that can automatically extract informative content from noisy mobile app reviews, however the key information such as feature requests, bug reports etc., retrieved by these methods are still mixed and what users really care about the app remains unknown to developers. In this paper we propose a novel model SAR: Stratify App Reviews, providing developers information about users' real reaction toward apps. SAR stratifies informative reviews into different layers, grouping the reviews based on what users concern, and we also develop a method to compute the user general sentiment on each entity. The model performs user-oriented analytics from raw reviews by (i) first extracting entities from each review, identifying hot entities of the app that users mostly care about, (ii) then stratifying all the reviews into different layers according to hot entities with a four-layer Bayes probability method, (iii) and finally computing user sentiments on hot entities. We conduct experiments on three genres of apps i.e. Games, Social, and Media, the result shows that SAR could identify different hot entities with respect to the specific categories of apps, and accordingly, it can stratify relevant reviews into different layers, the sentiment value of each entity can also represent users' satisfaction well, we also compared the result with human analysis, with the similar accuracy, the SAR can speed up the overall analysis automatically. Our model can help developers quickly understand what entities of the app users mostly care about, and how do they react to these entities.
+ER  - 
+
+TY  - CONF
+TI  - Designing Virtual Training Environments: Does Immersion increase Task Performance?
+T2  - 2020 International Conference on Cyberworlds (CW)
+SP  - 125
+EP  - 128
+AU  - J. Gisler
+AU  - C. Hift
+AU  - A. Kunz
+AU  - V. Holzwarth
+PY  - 2020
+KW  - Training
+KW  - Task analysis
+KW  - Vibration measurement
+KW  - Tools
+KW  - Particle measurements
+KW  - Motion measurement
+KW  - Legged locomotion
+KW  - Virtual Reality
+KW  - Training Simulator
+KW  - Immersion.
+DO  - 10.1109/CW49994.2020.00026
+JO  - 2020 International Conference on Cyberworlds (CW)
+IS  - 
+SN  - 2642-3596
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Cyberworlds (CW)
+Y1  - 29 Sept.-1 Oct. 2020
+AB  - The following topics are dealt with: learning (artificial intelligence); feature extraction; virtual reality; neural nets; helmet mounted displays; vision defects; data visualisation; biometrics (access control); solid modelling; and computer games.
+ER  - 
+
+TY  - CONF
+TI  - Characterization of Cd<inf>0.9</inf>Zn<inf>0.1</inf>Te schottky diodes for high resolution nuclear radiation detectors
+T2  - 2011 IEEE Nuclear Science Symposium Conference Record
+SP  - 4578
+EP  - 4583
+AU  - K. C. Mandal
+AU  - P. G. Muzykov
+AU  - R. M. Krishna
+AU  - T. C. Hayes
+PY  - 2011
+KW  - Image resolution
+KW  - Crystals
+KW  - Biomedical monitoring
+KW  - Monitoring
+DO  - 10.1109/NSSMIC.2011.6154738
+JO  - 2011 IEEE Nuclear Science Symposium Conference Record
+IS  - 
+SN  - 1082-3654
+VO  - 
+VL  - 
+JA  - 2011 IEEE Nuclear Science Symposium Conference Record
+Y1  - 23-29 Oct. 2011
+AB  - High barrier cadmium zinc telluride (CZT) Schottky diodes with very low reverse leakage current have been fabricated and characterized for high resolution gamma ray detectors. The diodes were made using Cd<sub>0.9</sub>Zn<sub>0.1</sub>Te detector grade crystals grown from zone refined Cd, Zn, and Te (7N) precursor materials using low temperature tellurium solvent method. Various crystallographic defects due to Te-inclusions/precipitates were identified and characterized using electron beam induced current (EBIC) measurement technique for the first time. The EBIC images were correlated very well with transmission infrared (TIR) images of CZT crystals and the EBIC contrast was attributed to the nonuniformities in spatial distribution of Te inclusions. Further characterization by the thermally stimulated current (TSC) spectroscopy revealed shallow and deep level centers with activation energies 0.25- 0.4 eV and 0.65 - 0.8 eV respectively, which was attributed to intrinsic defects associated with Te inclusions. Pulse height spectra (PHS) measurements were carried out using <sup>137</sup>Cs (662 keV) radiation source and energy resolution of ~1.51% FWHM was obtained from the as-grown boule.
+ER  - 
+
+TY  - CONF
+TI  - Deformation of West Sumatra Due to the 2016 Earthquake (M7.8) Based on Continuous GPS Data
+T2  - 2018 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)
+SP  - 1
+EP  - 7
+AU  - D. Khaerani
+AU  - D. A. Sarsito
+AU  - I. Meilano
+AU  - Susilo
+PY  - 2018
+KW  - Earthquakes
+KW  - Global Positioning System
+KW  - Strain
+KW  - Oceans
+KW  - Time series analysis
+KW  - Conferences
+KW  - Deformation
+KW  - Earthquake
+KW  - GPS
+KW  - Sumatra
+KW  - Strike-slip
+DO  - 10.1109/AGERS.2018.8554207
+JO  - 2018 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2018 IEEE Asia-Pacific Conference on Geoscience, Electronics and Remote Sensing Technology (AGERS)
+Y1  - 18-19 Sept. 2018
+AB  - Sumatra Island, one of the areas in Indonesia, has a very active tectonics in the world. It causes Sumatra to be prone to tectonic earthquake disaster due to the movement of the plates around it. On March 2nd, 2016, a Mw7.8 earthquake centered in the Wharton Indian Ocean Basin Zone, West of Sumatra island happened at a depth of 24 km. This earthquake was an intraplate earthquake that occurred due to the movement in the ocean plate as a type of left lateral strike-slip fault. The calculation of deformation in West Sumatra due to the earthquake was conducted through continuous GPS observation of SuGAr (Sumatran GPS Array) from January 1, 2015 until March 30, 2017 around west part of Sumatra areas. Data processing is done by using GAMIT/GLOBK 10.6 software and the results in daily solution shows that the horizontal component of co-seismic deformation of West Sumatra earthquake in 2016 ranged from 3,6 mm - 5,5 mm which moves toward to northwest. The difference in velocity movement of GPS observation before and after earthquake is used to calculate the strain of plate tectonic around West Sumatra region, where there is a compression pattern before earthquake equal to 2.72×10-8 strain and after earthquake equal to 5.98×10-8 strain. This indicates that there is an increase in compression value in the observation after the earthquake, and the observation area again show the interseismic deformation which means that there is still a considerable accumulation of energy and sometimes can cause the other earthquake.
+ER  - 
+
+TY  - CONF
+TI  - Understanding Widespread Changes: A Taxonomic Study
+T2  - 2013 17th European Conference on Software Maintenance and Reengineering
+SP  - 5
+EP  - 14
+AU  - S. Wang
+AU  - D. Lo
+AU  - X. Jiang
+PY  - 2013
+KW  - Cloning
+KW  - Java
+KW  - Software systems
+KW  - Games
+KW  - Libraries
+KW  - Computer bugs
+KW  - taxonomic study
+KW  - wdiespread changes
+DO  - 10.1109/CSMR.2013.11
+JO  - 2013 17th European Conference on Software Maintenance and Reengineering
+IS  - 
+SN  - 1534-5351
+VO  - 
+VL  - 
+JA  - 2013 17th European Conference on Software Maintenance and Reengineering
+Y1  - 5-8 March 2013
+AB  - Many active research studies in software engineering, such as detection of recurring bug fixes, detection of copy-and-paste bugs, and automated program transformation tools, are motivated by the assumption that many code changes (e.g., changing an identifier name) in software systems are widespread to many locations and are similar to one another. However, there is no study so far that actually analyzes widespread changes in software systems. Understanding the nature of widespread changes could empirically support the assumption, which provides insight to improve the research studies and related tools. Our study in this paper addresses such a need. We propose a semi-automated approach that recovers code changes involving widespread changes in software systems. We further manually analyze more than nine hundred widespread changes recovered from eight software systems and categorize them into 11 families. These widespread changes and their associated families help us understand better why these widespread changes are made.
+ER  - 
+
+TY  - CONF
+TI  - Effects of cloned code on software maintainability: A replicated developer study
+T2  - 2013 20th Working Conference on Reverse Engineering (WCRE)
+SP  - 112
+EP  - 121
+AU  - D. Chatterji
+AU  - J. C. Carver
+AU  - N. A. Kraft
+AU  - J. Harder
+PY  - 2013
+KW  - Cloning
+KW  - Computer bugs
+KW  - Software systems
+KW  - Maintenance engineering
+KW  - Games
+KW  - Java
+KW  - code clones
+KW  - software clones
+KW  - empirical studies
+KW  - clone management
+KW  - software maintenance
+KW  - developer behavior
+DO  - 10.1109/WCRE.2013.6671286
+JO  - 2013 20th Working Conference on Reverse Engineering (WCRE)
+IS  - 
+SN  - 2375-5369
+VO  - 
+VL  - 
+JA  - 2013 20th Working Conference on Reverse Engineering (WCRE)
+Y1  - 14-17 Oct. 2013
+AB  - Code clones are a common occurrence in most software systems. Their presence is believed to have an effect on the maintenance process. Although these effects have been previously studied, there is not yet a conclusive result. This paper describes an extended replication of a controlled experiment (i.e. a strict replication with an additional task) that analyzes the effects of cloned bugs (i.e. bugs in cloned code) on the program comprehension of programmers. In the strict replication portion, the study participants attempted to isolate and fix two types of bugs, cloned and non-cloned, in one of two small systems. In the extension of the original study, we provided the participants with a clone report describing the location of all cloned code in the other system and asked them to again isolate and fix cloned and non-cloned bugs. The results of the original study showed that cloned bugs were not significantly more difficult to maintain than non-cloned bugs. Conversely, the results of the replication showed that it was significantly more difficult to correctly fix a cloned bug than a non-cloned bug. But, there was no significant difference in the amount of time required to fix a cloned bug vs. a non-cloned bug. Finally, the results of the study extension showed that programmers performed significantly better when given clone information than without clone information.
+ER  - 
+
+TY  - CONF
+TI  - Deep Camera: A Fully Convolutional Neural Network for Image Signal Processing
+T2  - 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)
+SP  - 3868
+EP  - 3878
+AU  - S. Ratnasingam
+PY  - 2019
+KW  - Image color analysis
+KW  - Pipelines
+KW  - Noise reduction
+KW  - Image reconstruction
+KW  - Cameras
+KW  - Colored noise
+KW  - image signal processing
+KW  - demosaicng
+KW  - denoising
+KW  - image processing
+KW  - computer vision
+KW  - image enhancement
+DO  - 10.1109/ICCVW.2019.00480
+JO  - 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)
+IS  - 
+SN  - 2473-9944
+VO  - 
+VL  - 
+JA  - 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)
+Y1  - 27-28 Oct. 2019
+AB  - A conventional camera performs various signal processing steps sequentially to reconstruct an image from a raw Bayer image. When performing these processing in multiple stages the residual error from each stage accumulates in the image and degrades the quality of the final reconstructed image. In this paper, we present a fully convolutional neural network (CNN) to perform defect pixel correction, denoising, white balancing, exposure correction, demosaicing, color transform, and gamma encoding. To our knowledge, this is the first CNN trained end-to-end to perform the entire image signal processing pipeline in a camera. Through extensive experiments, we show that the proposed CNN based image signal processing system performs better than the conventional signal processing pipelines that perform the processing sequentially.
+ER  - 
+
+TY  - CONF
+TI  - Multi-target Defect Detection of Railway Track Based on Image Processing
+T2  - 2020 Chinese Control And Decision Conference (CCDC)
+SP  - 3377
+EP  - 3382
+AU  - Z. Anzhong
+AU  - H. Xinyang
+AU  - J. Minyu
+AU  - W. Xiukun
+PY  - 2020
+KW  - Fasteners
+KW  - Feature extraction
+KW  - Rail transportation
+KW  - Image edge detection
+KW  - Rails
+KW  - Histograms
+KW  - railway track
+KW  - multi-target defect detection
+KW  - image processing
+DO  - 10.1109/CCDC49329.2020.9164474
+JO  - 2020 Chinese Control And Decision Conference (CCDC)
+IS  - 
+SN  - 1948-9447
+VO  - 
+VL  - 
+JA  - 2020 Chinese Control And Decision Conference (CCDC)
+Y1  - 22-24 Aug. 2020
+AB  - The tracks, sleepers and fasteners are easy to appear defects in the running process of track vehicles. Though the rail transit operation in China has developed rapidly, the development of track defect detection technology which main method is still manual inspection is relatively backward. Therefore, a method for automatic multi-target defect identification of railway track line using image processing has been proposed in this paper. Firstly, mean filtering and histogram equalization are used to denoise and enhance original images, respectively. After that, a Gamma correction based illumination compensation algorithm is proposed to realize automatic grayscale correction under the condition of uneven illumination. Secondly, an image recognition method based on scale-invariant features is adopted to extract the target features and to store them in the database. Then, the fasteners and track in the preprocessed images are located according to the statistical difference between grayscale and vertical projection. Finally, the gray-scale variance rate is utilized to extract the defects on the rail surface and the absence of rivets, and LBP (Local Binary Patterns) method is applied to extract the features of each part after segmentation, which are compared with the features collected in the database. The experimental results demonstrate that the accuracy of classification can reach 90%.
+ER  - 
+
+TY  - CONF
+TI  - Some Features of the Radiation Resistance of Composite Scintillators
+T2  - 2018 IEEE Nuclear Science Symposium and Medical Imaging Conference Proceedings (NSS/MIC)
+SP  - 1
+EP  - 3
+AU  - A. Y. Boyarintsev
+AU  - N. Z. Galunov
+AU  - B. V. Grinyov
+AU  - A. V. Krech
+PY  - 2018
+KW  - Scintillators
+KW  - Luminescence
+KW  - Resistance
+KW  - Crystals
+KW  - Physics
+KW  - Optical variables measurement
+DO  - 10.1109/NSSMIC.2018.8824735
+JO  - 2018 IEEE Nuclear Science Symposium and Medical Imaging Conference Proceedings (NSS/MIC)
+IS  - 
+SN  - 2577-0829
+VO  - 
+VL  - 
+JA  - 2018 IEEE Nuclear Science Symposium and Medical Imaging Conference Proceedings (NSS/MIC)
+Y1  - 10-17 Nov. 2018
+AB  - This paper describes studying the radiation resistance of the composite scintillators based on grains of some inorganic crystals, namely, GSO:Ce, GPS:Ce, YSO:Ce, YAG:Ce, and Al<sub>2</sub>O<sub>3</sub>:Ti. The study of composite scintillators containing the inorganic grains shows that these scintillators are resistant to radiation up to doses of more than 125 Mrad, and some of them up to doses not lower than 550 Mrad. The paper studies possible processes of radiation-induced changes arising in scintillators under the irradiation as well as analyzes the effect of these processes on the radiation resistance. The grains are the crystalline material. All crystalline scintillation materials contain defects, which can play the role of either luminescence or quenching centers. The influence of irradiation results in destruction not only the main material, but such the centers. As a result, the luminescence intensity can grow for a while. The shape of the luminescence spectra does not change under various doses of irradiation because no new luminescent centers are generated. The modification of the luminescence centers should result in a change of the luminescence spectral characteristics. So, in the composite scintillators, which are containing grains of inorganic crystals, the variation of luminescence spectral characteristics either can or cannot take place. Therefore, to identify the possible processes giving rise to radiation-induced changes in scintillators, it makes sense to carry out such spectral researches before and after the irradiation.
+ER  - 
+
+TY  - CONF
+TI  - Tackling co-existence and fairness challenges in autonomous Demand Side Management
+T2  - 2012 IEEE Global Communications Conference (GLOBECOM)
+SP  - 3159
+EP  - 3164
+AU  - Z. Baharlouei
+AU  - H. Narimani
+AU  - H. Mohsenian-Rad
+PY  - 2012
+KW  - Autonomous Demand Side Management
+KW  - Energy Consumption Scheduling
+KW  - Co-existence
+KW  - Fairness
+KW  - Game Theory
+DO  - 10.1109/GLOCOM.2012.6503600
+JO  - 2012 IEEE Global Communications Conference (GLOBECOM)
+IS  - 
+SN  - 1930-529X
+VO  - 
+VL  - 
+JA  - 2012 IEEE Global Communications Conference (GLOBECOM)
+Y1  - 3-7 Dec. 2012
+AB  - Consider a smart grid system in which every user may or may not choose to participate in Demand Side Management (DSM). This will lead to a general co-existence problem between participant and non-participant users. To gain insights, first, we show that some existing electricity billing mechanisms suffer from severe fairness and co-existence defects. Next, we propose an alternative billing mechanism that can tackle the coexistence and fairness problems by taking into account not only the users' total load, but also the exact shape of their load profiles. Our analytical results provide mild sufficient conditions on the choice of system parameters to assure fairness. Furthermore, our simulation results confirm that the proposed billing mechanism significantly improves the fairness index of the DSM system.
+ER  - 
+
+TY  - CONF
+TI  - User feedback in the appstore: An empirical study
+T2  - 2013 21st IEEE International Requirements Engineering Conference (RE)
+SP  - 125
+EP  - 134
+AU  - D. Pagano
+AU  - W. Maalej
+PY  - 2013
+KW  - Communities
+KW  - Software
+KW  - Catalogs
+KW  - Social network services
+KW  - Games
+KW  - Google
+KW  - Navigation
+KW  - user needs
+KW  - user feedback
+KW  - mobile requirements
+DO  - 10.1109/RE.2013.6636712
+JO  - 2013 21st IEEE International Requirements Engineering Conference (RE)
+IS  - 
+SN  - 2332-6441
+VO  - 
+VL  - 
+JA  - 2013 21st IEEE International Requirements Engineering Conference (RE)
+Y1  - 15-19 July 2013
+AB  - Application distribution platforms - or app stores - such as Google Play or Apple AppStore allow users to submit feedback in form of ratings and reviews to downloaded applications. In the last few years, these platforms have become very popular to both application developers and users. However, their real potential for and impact on requirements engineering processes are not yet well understood. This paper reports on an exploratory study, which analyzes over one million reviews from the Apple AppStore. We investigated how and when users provide feedback, inspected the feedback content, and analyzed its impact on the user community. We found that most of the feedback is provided shortly after new releases, with a quickly decreasing frequency over time. Reviews typically contain multiple topics, such as user experience, bug reports, and feature requests. The quality and constructiveness vary widely, from helpful advices and innovative ideas to insulting offenses. Feedback content has an impact on download numbers: positive messages usually lead to better ratings and vice versa. Negative feedback such as shortcomings is typically destructive and misses context details and user experience. We discuss our findings and their impact on software and requirements engineering teams.
+ER  - 
+
+TY  - CONF
+TI  - A Review on Generating Random Numbers in Decentralised Environments
+T2  - 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)
+SP  - 1668
+EP  - 1673
+AU  - S. D. Simić
+AU  - R. Šajina
+AU  - N. Tanković
+AU  - D. Etinger
+PY  - 2020
+KW  - Knowledge engineering
+KW  - Fault tolerance
+KW  - Voting
+KW  - Fault tolerant systems
+KW  - Blockchain
+KW  - Games
+KW  - Task analysis
+KW  - Random number generation
+KW  - Blockchain
+DO  - 10.23919/MIPRO48935.2020.9245302
+JO  - 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)
+IS  - 
+SN  - 2623-8764
+VO  - 
+VL  - 
+JA  - 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)
+Y1  - 28 Sept.-2 Oct. 2020
+AB  - Recent advances in blockchain gained significant social attention, mainly due to substantial price fluctuations of Bitcoin and Ethereum cryptocurrencies. By its design, blockchain is an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way, providing solutions for many complex tasks without third party involvement. To achieve that, they employ a set of Byzantine Fault-tolerant consensus algorithms that require the implemented logic to be deterministic. The lacking source of randomness is a consequential limitation since many application domains, like games, lotteries, or random elections, require random sources. Given the Byzantine Fault-tolerance, generating random numbers should also be publicly-verifiable and tamper-resistant, but still hold the premises of being unpredictable.In this paper, we will provide an overview of the current research surrounding pseudo-random number generation on a decentralized network that satisfies those requirements.
+ER  - 
+
+

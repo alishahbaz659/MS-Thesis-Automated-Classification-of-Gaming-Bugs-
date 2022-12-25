@@ -1,0 +1,720 @@
+
+TY  - JOUR
+T1  - Identification of generator loss-of-excitation from power-swing conditions using a fast pattern classification method
+AU  - Pajuelo, Eli
+AU  - Gokaraju, Ramakrishna
+AU  - Sachdev, Mohindar S.
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - https://doi.org/10.1049/iet-gtd.2012.0340
+DO  - https://doi.org/10.1049/iet-gtd.2012.0340
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 24
+EP  - 36
+VL  - 7
+IS  - 1
+KW  - electric machine analysis computing
+KW  - pattern classification
+KW  - support vector machines
+KW  - synchronous generators
+KW  - generator loss-of-excitation identification
+KW  - power-swing conditions
+KW  - fast pattern classification method
+KW  - support vector machine based technique
+KW  - SVM-based technique
+KW  - external faults
+KW  - two-zone impedance method
+KW  - SVM-based classifier
+KW  - mho impedance zone
+KW  - LOE impedance zone
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2012.0340
+UR  - https://doi.org/10.1049/iet-gtd.2012.0340
+Y2  - 2021/11/08
+N2  - This study describes a support vector machine (SVM)-based technique for identifying loss-of-excitation (LOE) condition in synchronous generators from other disturbances such as external faults and power-swing conditions. In this new approach, only one zone of LOE is required and the time coordination is reduced significantly. The proposed method is compared with traditional two-zone impedance method. Several operating conditions within the generator capability are used to verify the generality of the SVM-based classifier. The proposed classifier identifies an LOE condition in all cases before the impedance enters the larger mho impedance zone. Faults and power-swing conditions are identified correctly, thereby preventing incorrect operation of the LOE impedance zone.
+ER  - 
+
+TY  - JOUR
+T1  - Faulty data detection and classification for bridge structural health monitoring via statistical and deep-learning approach
+AU  - Jian, Xudong
+AU  - Zhong, Huaqiang
+AU  - Xia, Ye
+AU  - Sun, Limin
+Y1  - 2021/11/01
+PY  - 2021
+DA  - 2021/11/01
+N1  - https://doi.org/10.1002/stc.2824
+DO  - https://doi.org/10.1002/stc.2824
+T2  - Structural Control and Health Monitoring
+JF  - Structural Control and Health Monitoring
+JO  - Structural Control and Health Monitoring
+JA  - Struct Control Health Monit
+SP  - e2824
+VL  - 28
+IS  - 11
+KW  - bridge structural health monitoring
+KW  - data classification
+KW  - deep learning
+KW  - frequency distribution
+KW  - one-dimensional convolutional neural network
+PB  - John Wiley & Sons, Ltd
+SN  - 1545-2255
+M3  - https://doi.org/10.1002/stc.2824
+UR  - https://doi.org/10.1002/stc.2824
+Y2  - 2021/11/08
+N2  - Summary Over the last several decades, a lot of bridges have been equipped with the bridge structural health monitoring system, leading to an accumulation of voluminous monitoring data. Since the sensors and associated transmission hardware are subjected to harsh environments, the monitoring data frequently contains various faults, and it is laborious to cleanse the data manually. For the purpose of automatically detecting and classifying faulty monitoring data in large quantities, this paper proposes a novel method that uses the relative frequency distribution histograms (RFDH) of monitoring data as well as the one-dimensional convolutional neural network (1-D CNN). The overall procedure of this method can be described as follows: First, RFDHs are constructed from different classes of hour-long data segments. Second, inverted envelopes of the RFDHs are labeled as the training data to train the 1-D CNN. Third, a well-trained 1-D CNN is used to detect and classify long-term monitoring data according to their RFDHs of hour-long data segments. Comprehensive validation of the proposed method is conducted with selective acceleration data collected from two long-span bridges. The validation yields satisfactory results, demonstrating the accuracy, efficiency, and generality of the method.
+ER  - 
+
+TY  - JOUR
+T1  - Support Vector Machine Classification of Seismic Events in the Tianshan Orogenic Belt
+AU  - Tang, Lanlan
+AU  - Zhang, Miao
+AU  - Wen, Lianxing
+Y1  - 2020/01/01
+PY  - 2020
+DA  - 2020/01/01
+N1  - https://doi.org/10.1029/2019JB018132
+DO  - https://doi.org/10.1029/2019JB018132
+T2  - Journal of Geophysical Research: Solid Earth
+JF  - Journal of Geophysical Research: Solid Earth
+JO  - Journal of Geophysical Research: Solid Earth
+JA  - J. Geophys. Res. Solid Earth
+SP  - e2019JB018132
+VL  - 125
+IS  - 1
+KW  - classification of seismic events
+KW  - support vector machine
+KW  - the Tianshan orogenic belt
+KW  - tectonic earthquakes, quarry blasts, and induced earthquakes
+KW  - b value
+KW  - the SVM classifiers
+PB  - John Wiley & Sons, Ltd
+SN  - 2169-9313
+M3  - https://doi.org/10.1029/2019JB018132
+UR  - https://doi.org/10.1029/2019JB018132
+Y2  - 2021/11/08
+N2  - Abstract Discriminating between various types of seismic events is of significant scientific and societal importance. We use a machine learning method employing support vector machine (SVM) to classify tectonic earthquakes (TEs), quarry blasts (QBs), and induced earthquakes (IEs) among 30,181 1.5 < ML <2.9 seismic events that occurred in the Tianshan orogenic belt in China from 2009 to 2017. SVM classifiers are derived based on discriminant features of a training data set consisting of 1,400 TEs selected from the aftershock sequences of 18 ML ≥ 5.0 earthquakes, 2,881 QBs from repeating events occurring in those areas with a percentage of event daytime occurrence greater than 0.9, and 987 IEs from events in the known oil/gas fields and water reservoirs. The discriminant features include spectral amplitudes of observed P and S wave signals in a frequency range of 1?15 Hz normalized by the P spectrum and averaged over the entire seismic network, and an optional feature of the percentage of event daytime occurrence. Statistics analyses indicate that the accuracies of the SVM classifiers are 99.81% for TEs, 99.93% for QBs, and 99.62% for IEs. Our classification indicates that 37.57% of the seismic events are QBs occurring in possible mine areas and appearing mostly as clusters with a percentage of event daytime occurrence greater than 0.9, 50.12% are TEs occurring in various thrust faults in the Tianshan orogenic belt, and 12.31% are IEs or shallow tectonic earthquakes occurring mostly as clusters near oil and gas fields and water reservoirs. We reevaluate b values in the region and obtain relatively uniform values for the classified TEs with most of them below 1.0, as opposed to a large range of values (0.5?2.7) when all the seismic events are used in the analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Classification of partial discharge severities of ceramic insulators based on texture analysis of UV pulses
+AU  - Ma, Danrui
+AU  - Jin, Lijun
+AU  - He, Jianming
+AU  - Gao, Kai
+Y1  - 2021/03/03
+PY  - 2021
+DA  - 2021/03/03
+N1  - https://doi.org/10.1049/hve2.12081
+DO  - https://doi.org/10.1049/hve2.12081
+T2  - High Voltage
+JF  - High Voltage
+JO  - High Voltage
+JA  - High Voltage
+VL  - n/a
+IS  - n/a
+PB  - The Institution of Engineering and Technology
+SN  - 2397-7264
+M3  - https://doi.org/10.1049/hve2.12081
+UR  - https://doi.org/10.1049/hve2.12081
+Y2  - 2021/11/08
+N2  - Abstract Inspection of partial discharge before contamination flashover is of great importance for preventing exterior insulation accidents. In this study, a new method for identification of discharge severities is proposed. Specifically, a low-cost ultraviolet (UV) sensor detection system was combined with time?frequency method, texture analysis and support vector machine (SVM) classifier to classify partial discharge severities for ceramic insulators. The visible images and the root-mean-square value of leakage currents detected simultaneously are used to classify the UV signals into different discharge faults. The frequency and amplitude integration of UV pulses are minimum in corona discharge and larger in arc discharge. The images of UV signal spectrograms differ significantly at different discharge stages. The density and brightness of image textures are minimal in corona discharge and larger in arc discharge. Valid and reliable features selected by two texture feature extraction methods with SVM classifier have a reliable classification accuracy of 90.6% for ceramic insulators, and outperform a single time feature or other texture features. SVM outperforms k-Nearest Neighbour, Naive Bayes and Decision Tree. Our new method with computational effectiveness and high practicality can solve the problem of high randomness and low accuracy of UV sensor detection. It can be further applied to the deterioration diagnosis of power facilities.
+ER  - 
+
+TY  - JOUR
+T1  - Arc detection in pantograph-catenary systems by the use of support vector machines-based classification
+AU  - Barmada, Sami
+AU  - Raugi, Marco
+AU  - Tucci, Mauro
+AU  - Romano, Francesco
+Y1  - 2014/06/01
+PY  - 2014
+DA  - 2014/06/01
+N1  - https://doi.org/10.1049/iet-est.2013.0003
+DO  - https://doi.org/10.1049/iet-est.2013.0003
+T2  - IET Electrical Systems in Transportation
+JF  - IET Electrical Systems in Transportation
+JO  - IET Electrical Systems in Transportation
+JA  - IET Electr. Syst. Transp.
+SP  - 45
+EP  - 52
+VL  - 4
+IS  - 2
+KW  - arcs (electric)
+KW  - condition monitoring
+KW  - cost reduction
+KW  - electric sensing devices
+KW  - electrical engineering computing
+KW  - pantographs
+KW  - preventive maintenance
+KW  - railway safety
+KW  - reliability
+KW  - support vector machines
+KW  - arc detection
+KW  - pantograph-catenary systems
+KW  - support vector machines-based classification
+KW  - predictive maintenance
+KW  - prognostics
+KW  - reliability centred maintenance approach
+KW  - railway sector
+KW  - costs reduction
+KW  - safety
+KW  - maintenance process
+KW  - fault location
+KW  - health condition monitoring
+KW  - component residual life estimation
+KW  - processing hardware
+KW  - arcing events detecting
+KW  - high-speed trains
+KW  - photosensors
+KW  - advanced classification technique
+KW  - overhead contact line
+PB  - The Institution of Engineering and Technology
+SN  - 2042-9738
+M3  - https://doi.org/10.1049/iet-est.2013.0003
+UR  - https://doi.org/10.1049/iet-est.2013.0003
+Y2  - 2021/11/08
+N2  - Predictive Maintenance, Prognostics and Reliability Centered Maintenance approach are becoming more and more important in the railway sector to reduce costs of operation and to increase reliability and safety. In fact, these are fundamental to optimize the maintenance process, to define new measures and algorithms which locate faults, to monitor health conditions of subsystems and to estimate residual life of components. In some cases it's possible to use existing sensors and existing processing hardware to extract new information from the existing available data. It's clear that this is usually the best option because the benefit can be achieved with little or no cost at all. This paper describes the result of a study performed with the aim of detecting arcing events without the need of additional equipment mounted on board the train. A set of data relative to voltage and current collected on high speed trains along with a set of measurements coming from photosensors are available. The data are processed by the use of an advanced classification technique, Support Vector Machines, with the aim of extracting important information such as the time coordinate related to anomalies in the overhead contact line and the status of the pantograph contact strip.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-class classification using kernel density estimation on K-nearest neighbours
+AU  - Tang, Xiaofeng
+AU  - Xu, Aiqiang
+Y1  - 2016/04/01
+PY  - 2016
+DA  - 2016/04/01
+N1  - https://doi.org/10.1049/el.2015.4437
+DO  - https://doi.org/10.1049/el.2015.4437
+T2  - Electronics Letters
+JF  - Electronics Letters
+JO  - Electronics Letters
+JA  - Electron. Lett.
+SP  - 600
+EP  - 602
+VL  - 52
+IS  - 8
+KW  - analogue circuits
+KW  - pattern classification
+KW  - fault diagnosis
+KW  - higher order statistics
+KW  - support vector machines
+KW  - circuit analysis computing
+KW  - kernel density estimation
+KW  - K-nearest neighbours
+KW  - multiclass classification method
+KW  - KDE
+KW  - KNN technique
+KW  - cumulative probabilities
+KW  - multiple parametric fault diagnosis
+KW  - analogue circuit
+KW  - support vector machine
+PB  - The Institution of Engineering and Technology
+SN  - 0013-5194
+M3  - https://doi.org/10.1049/el.2015.4437
+UR  - https://doi.org/10.1049/el.2015.4437
+Y2  - 2021/11/08
+N2  - A fast and accurate multi-class classification method based on the conventional kernel density estimation (KDE) and K-nearest neighbour (KNN) techniques is proposed. This method estimates the cumulative probabilities of the test sample on its KNNs which may belong to different classes, then selects the maximum weighted class as the classification result. Experiments are carried out to diagnose multiple parametric faults in an analogue circuit, and the classification performances of the proposed method as well as KNN, KDE and support vector machine are compared with each other in detail. The results show that the proposed method is generally better than the other methods not only in classification accuracy but also in test speed, and is promising for practical use.
+ER  - 
+
+TY  - JOUR
+T1  - Wavelet entropy analysis and machine learning classification model of DC serial arc fault in electric vehicle power system
+AU  - Xia, Kun
+AU  - Liu, Bangzheng
+AU  - Fu, Xiale
+AU  - Guo, Haotian
+AU  - He, Sheng
+AU  - Yu, Wei
+AU  - Xu, Jingjun
+AU  - Dong, Hui
+Y1  - 2019/12/01
+PY  - 2019
+DA  - 2019/12/01
+N1  - https://doi.org/10.1049/iet-pel.2019.0375
+DO  - https://doi.org/10.1049/iet-pel.2019.0375
+T2  - IET Power Electronics
+JF  - IET Power Electronics
+JO  - IET Power Electronics
+JA  - IET Power Electronics
+SP  - 3998
+EP  - 4004
+VL  - 12
+IS  - 15
+KW  - learning (artificial intelligence)
+KW  - fault diagnosis
+KW  - pattern classification
+KW  - regression analysis
+KW  - support vector machines
+KW  - wavelet transforms
+KW  - power engineering computing
+KW  - arcs (electric)
+KW  - entropy
+KW  - electric vehicles
+KW  - electric vehicle power system
+KW  - direct current arc
+KW  - wavelet entropy algorithm
+KW  - support vector machine
+KW  - DC serial arc fault
+KW  - EV power system
+KW  - machine learning classification model
+KW  - logistic regression
+PB  - The Institution of Engineering and Technology
+SN  - 1755-4535
+M3  - https://doi.org/10.1049/iet-pel.2019.0375
+UR  - https://doi.org/10.1049/iet-pel.2019.0375
+Y2  - 2021/11/08
+N2  - Electric vehicle (EV) power system is flammable and explosive when the direct current (DC) arc occurs at elevated temperature. Thus, DC serial arc real-time monitoring is an insurance to keep away from disaster. In this study, the detection algorithm of DC serial arc is proposed. The wavelet entropy algorithm, the classification model based on support vector machine and logistic regression are analysed separately. The above algorithms are combined to identify the DC serial arc faults effectively under different types of loads in EV power system. The results show that the combined algorithm has a good performance of DC serial arc detection with high accuracy and robustness compared with a simple approach. Meanwhile, the false detection rate of the detection algorithm is close to zero, which could ensure the safety and stable operation of the system.
+ER  - 
+
+TY  - JOUR
+T1  - Travelling wave protection with disturbance classification for distribution grids with distributed generation
+AU  - Davydova, Nadezhda
+AU  - Hug, Gabriela
+Y1  - 2018/10/01
+PY  - 2018
+DA  - 2018/10/01
+N1  - https://doi.org/10.1049/joe.2018.0176
+DO  - https://doi.org/10.1049/joe.2018.0176
+T2  - The Journal of Engineering
+JF  - The Journal of Engineering
+JO  - The Journal of Engineering
+JA  - The Journal of Engineering
+SP  - 830
+EP  - 835
+VL  - 2018
+IS  - 15
+KW  - distributed power generation
+KW  - power distribution protection
+KW  - power distribution faults
+KW  - power transmission faults
+KW  - voltage measurement
+KW  - power transmission protection
+KW  - electric current measurement
+KW  - wave protection
+KW  - disturbance classification
+KW  - distribution grids
+KW  - distributed generation
+KW  - high penetration
+KW  - conventional distribution level protection systems
+KW  - reliable speed
+KW  - high-speed
+KW  - cost-efficient protection systems
+KW  - active grids
+KW  - protection system
+KW  - medium voltage lines
+KW  - high-frequency current measurements
+KW  - power-frequency voltage measurements
+KW  - IEEE 34-bus distribution system
+PB  - The Institution of Engineering and Technology
+SN  - 2051-3305
+M3  - https://doi.org/10.1049/joe.2018.0176
+UR  - https://doi.org/10.1049/joe.2018.0176
+Y2  - 2021/11/08
+N2  - The high penetration of distributed generation in distribution grids and the development of microgrids may cause the malfunctioning of the conventional distribution level protection systems. Despite multiple works dedicated to addressing this problem, the development of reliable, high-speed, and cost-efficient protection systems for active grids remains a topical issue. This study proposes a protection system for medium voltage lines that relies entirely on the analytical description of travelling wave transients. This protection uses only local high-frequency current measurements and power-frequency voltage measurements, which potentially makes it a low-cost yet reliable solution. The protection system operates securely by not tripping healthy lines in case of disturbances that do not lead to any faults. The proposed protection is tested on the IEEE 34-bus distribution system with distributed generation.
+ER  - 
+
+PY  - 2018
+Y1  - 2018/10/01
+DA  - 2018/10/01
+Y2  - 2021/11/08
+DO  - https://doi.org/10.1002/9781118479308.ch7
+UR  - https://doi.org/10.1002/9781118479308.ch7
+N1  - https://doi.org/10.1002/9781118479308.ch7
+M3  - https://doi.org/10.1002/9781118479308.ch7
+N2  - Summary Chapter 7 firstly depicts status of single event effect (SEE) concerns/problems in various industry fields, emphasizsing the SEE impacts are spreading very rapidly and widely in industries and everyday lives. Prediction and detection techniques have primary importance to cope with the problems and screening studies are made for those techniques in each engineering layer. To establish mitigation techniques, it is also important to know the nature of faulty conditions. Towards this goal, classification techniques of faulty conditions are surveyed. Some limitations in current techniques are discussed.
+SP  - 157-205
+KW  - prediction
+KW  - detection
+KW  - classification
+KW  - space domain
+KW  - time domain
+KW  - fault
+KW  - error
+KW  - failure
+KW  - symptom detection
+KW  - TMR
+KW  - DMR
+KW  - replication
+KW  - OS
+KW  - software
+T1  - Prediction, Detection and Classification Techniques of Faults, Errors and Failures
+T2  - Terrestrial Radiation Effects in ULSI Devices and Electronic Systems
+T3  - Wiley Online Books
+SN  - 9781118479308
+
+AU  - Alippi, Cesare
+AU  - Boracchi, Giacomo
+AU  - Roveri, Manuel
+AU  - Ditzler, Gregory
+AU  - Polikar, Robi
+PY  - 2018
+Y1  - 2018/10/01
+DA  - 2018/10/01
+Y2  - 2021/11/08
+DO  - https://doi.org/10.1002/9781119036821.ch7
+UR  - https://doi.org/10.1002/9781119036821.ch7
+N1  - https://doi.org/10.1002/9781119036821.ch7
+M3  - https://doi.org/10.1002/9781119036821.ch7
+N2  - Summary Deployment of sensor/actuator networks designed to address industrial and environmental applications makes possible the online acquisition of a large set of data from a monitored environment. Predictive models developed to work in non-stationary environments must then be able to detect changes, characterize and isolate faults and, if requested, adapt itself to track the change to maximize performance. This chapter expands the adaptive classifier study by presenting methods to learn the concept drift. It discusses the presentation of strategies for adapting the classifier to the new working conditions. The chapter summarizes the most common change detection tests present in the literature to address variation in the process X, while it describes the use of these tests to inspect the output of adaptive classifiers. The chapter presents an overview of a new breed of algorithms, commonly referred as concept drift algorithms, which are designed to work in such non-stationary environments.
+SP  - 265-288
+KW  - actuator network
+KW  - adaptive classifiers
+KW  - change detection test
+KW  - concept drift algorithms
+KW  - environmental application
+KW  - industrial application
+KW  - nonstationary environments
+KW  - sensor network
+T1  - Adaptive Classifiers for Nonstationary Environments
+T2  - Contemporary Issues in Systems Science and Engineering
+T3  - Wiley Online Books
+SN  - 9781119036821
+
+TY  - JOUR
+T1  - Body stalk anomalies in pig—Definition and classification
+AU  - Martín-Alguacil, Nieves
+AU  - Avedillo, Luis
+Y1  - 2020/06/01
+PY  - 2020
+DA  - 2020/06/01
+N1  - https://doi.org/10.1002/mgg3.1227
+DO  - https://doi.org/10.1002/mgg3.1227
+T2  - Molecular Genetics & Genomic Medicine
+JF  - Molecular Genetics & Genomic Medicine
+JO  - Molecular Genetics & Genomic Medicine
+JA  - Mol Genet Genomic Med
+SP  - e1227
+VL  - 8
+IS  - 6
+KW  - BSA
+KW  - CBW
+KW  - LBWC
+KW  - pig
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119036821
+M3  - https://doi.org/10.1002/mgg3.1227
+UR  - https://doi.org/10.1002/mgg3.1227
+Y2  - 2021/11/08
+N2  - Abstract The presence of body wall closing defects (abdominoschisis and thoracoabdominoschisis) in combination with other congenital malformations was studied in the pig (Sus scrofa domesticus). After clinical examination and literature review, body wall defects with multiple congenital anomalies in eight pigs were described, and classified using anatomical and embryological criteria. Several BSA presentations were identified and classified as follows: (a) BSA Type I: fetus with spinal and UC defects, thoracoabdominoschisis, anal atresia and/or other internal organs structural defects, and structural limb defects; (b) BSA Type II: fetus with spinal and UC defects, thoracoabdominoschisis, anal atresia and/or other internal organs structural defects, and nonstructural limb defects; (c) BSA Type III: fetus with spinal and UC defects, abdominoschisis, anal atresia and/or other internal organs structural defects, and structural limb defects; and (d) BSA Type IV: fetus with spinal and UC defects, abdominoschisis, anal atresia and/or other internal organs structural defects, and nonstructural limb defects. Two types of LBWC were differentiated: LBWC Type I: characterized by thoracoabdominoschisis and structural limb defects, and LBWC Type II: characterized by abdominoschisis and structural limb defects, corresponding to BSA type I and type III. This is the first report on BSA and LBWC in the pig.
+ER  - 
+
+TY  - JOUR
+T1  - Automatic surface defects classification of Kinnow mandarins using combination of multi-feature fusion techniques
+AU  - Hadimani, Lingaraj
+AU  - Garg, Neerja Mittal
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - https://doi.org/10.1111/jfpe.13589
+DO  - https://doi.org/10.1111/jfpe.13589
+T2  - Journal of Food Process Engineering
+JF  - Journal of Food Process Engineering
+JO  - Journal of Food Process Engineering
+JA  - J Food Process Eng
+SP  - e13589
+VL  - 44
+IS  - 1
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119036821
+M3  - https://doi.org/10.1111/jfpe.13589
+UR  - https://doi.org/10.1111/jfpe.13589
+Y2  - 2021/11/08
+N2  - Abstract Analyzing the quality of biological products is a difficult task, as their physicochemical properties such as size, shape, color, and texture change over time. Among many quality attributes, automatic classification of defects is a challenging work due to similarity or diversity of defects in terms of shape, color, and texture within intra and inter cultivars. In this work, an image analysis and machine learning-based method to identify and classify four defects of Kinnow mandarins is proposed. A simple and fast adaptive thresholding technique was used to segment the defects. Defects discriminatory abilities of three prevalent texture descriptors namely local binary patterns, gray level co-occurrence matrix (GLCM), and gray level run length matrix (GLRLM) were explored. In order to measure the effectiveness of color models in food analysis techniques, texture features were extracted on individual and combined color channels of three popular color models, that is, RGB, HSV, and CIELAB. Two machine-learning techniques: random forest (RF) and artificial neural networks (ANNs) classifiers were trained with extracted features to predict the defects. The highest accuracies of 93.5 and 89.3% and average accuracies of 88.95 and 80.67% were achieved by ANN and RF classifiers, respectively, for the feature set {GLCM, GLRLM} on {H,S,V} color set. Practical applications Kinnow mandarins' cultivation area occupies around 50% of the total citrus farming regions in India. Currently, the expert laborers manually carry out the grading of Kinnow fruits based on the existence of external defects. This process is labor-intensive, inefficient, and time-consuming. However, now this labor-intensive task can be replaced with automatic fruit classification machines based on computer vision (CV) and machine learning (ML) technologies. Presently, there is a scarcity of studies as well as algorithms to automate the process of Kinnow fruit defects classification. The developed CV- and ML-based algorithm is capable to identify and discriminate four types of external defects pertaining to Kinnow mandarins. The classification accuracy and other performance measures achieved on the developed algorithm make it ideal for real-time online Kinnow defects classification systems.
+ER  - 
+
+TY  - JOUR
+T1  - Organic solar cells defects classification by using a new feature extraction algorithm and an EBNN with an innovative pruning algorithm
+AU  - Lo Sciuto, Grazia
+AU  - Capizzi, Giacomo
+AU  - Shikler, Rafi
+AU  - Napoli, Christian
+Y1  - 2021/06/01
+PY  - 2021
+DA  - 2021/06/01
+N1  - https://doi.org/10.1002/int.22386
+DO  - https://doi.org/10.1002/int.22386
+T2  - International Journal of Intelligent Systems
+JF  - International Journal of Intelligent Systems
+JO  - International Journal of Intelligent Systems
+JA  - Int J Intell Syst
+SP  - 2443
+EP  - 2464
+VL  - 36
+IS  - 6
+KW  - classification
+KW  - features extraction
+KW  - neural networks
+KW  - pattern recognition
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119036821
+M3  - https://doi.org/10.1002/int.22386
+UR  - https://doi.org/10.1002/int.22386
+Y2  - 2021/11/08
+N2  - Abstract Physical defects reduce the organic solar cells (OSC) functioning. Throughout the OSC fabrication process, the defects can occur, for instance, by scratches or uneven morphologies. In general, bulk defects, interface defects, and interconnect defects can promote shunt and series resistance of the cell. It is crucial to properly detect and classify such defects and their amount in the structure. Correlating such defects with the performance of the cell is important both during the R&D stages to optimize processes, and for mass production stages where defects detection is an integral part of the production line. For the recognition of texture variations in the scanning electron microscope images caused by these defects is crucial the definition of a set of features for texture representation. Because the low-order Zernike moments can represent the whole shape of the image and the high-order Zernike moments can describe the detail. Then, in our case, the feature of the image can be represented by a small number of Zernike moments. In fact, the feature set extracted and described by the Zernike moments are not sensitive to the noises and are hardly redundant. So it possible concentrate the signal energy over a set of few vectors. Finally, for classification, an elliptical basis function neural networks was used. The results show effectiveness of the proposed methodology. In fact, we obtained correct classification of 89.3% over testing data set.
+ER  - 
+
+TY  - JOUR
+T1  - Defects classification and failure modes of electrofusion joint for connecting polyethylene pipes
+AU  - Shi, Jianfeng
+AU  - Zheng, Jinyang
+AU  - Guo, Weican
+AU  - Qin, Yongquan
+Y1  - 2012/06/05
+PY  - 2012
+DA  - 2012/06/05
+N1  - https://doi.org/10.1002/app.35013
+DO  - https://doi.org/10.1002/app.35013
+T2  - Journal of Applied Polymer Science
+JF  - Journal of Applied Polymer Science
+JO  - Journal of Applied Polymer Science
+JA  - J. Appl. Polym. Sci.
+SP  - 4070
+EP  - 4080
+VL  - 124
+IS  - 5
+KW  - polyethylene pipe
+KW  - defect
+KW  - failure modes
+KW  - electrofusion joint
+KW  - strength
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119036821
+M3  - https://doi.org/10.1002/app.35013
+UR  - https://doi.org/10.1002/app.35013
+Y2  - 2021/11/08
+N2  - Abstract As electrofusion (EF) technology is widely used in connecting polyethylene (PE) pipes and other plastic pipes or composite pipes, research in safety assessment of EF joints has been of major concern. EF joints with defects are very common in practical applications. These defects may greatly reduce the mechanical performance of the EF joints and threat safety running of the pipeline system. To evaluate hazard of these defects and provide a basic understanding for the failure mechanism of EF joints, a comprehensive study on defects and failure modes is conducted in this work. The defects in EF joints are classified into four categories: poor fusion interface, over welding, voids, and structural deformity. The forming reasons of these defects are analyzed in detail. The mechanical properties of EF joint containing these defects are investigated by conducting peeling tests and sustained hydraulic pressure tests. Test results show that there are three main failure mode of EF joint under inner pressure, that is, cracking through the fusion interface, cracking through the fitting, and cracking through copper wire interface. ? 2011 Wiley Periodicals, Inc. J Appl Polym Sci, 2012
+ER  - 
+
+TY  - JOUR
+T1  - Anatomic and etiological classification of congenital limb deficiencies
+AU  - Gold, Nina B.
+AU  - Westgate, Marie-Noel
+AU  - Holmes, Lewis B.
+Y1  - 2011/06/01
+PY  - 2011
+DA  - 2011/06/01
+N1  - https://doi.org/10.1002/ajmg.a.33999
+DO  - https://doi.org/10.1002/ajmg.a.33999
+T2  - American Journal of Medical Genetics Part A
+JF  - American Journal of Medical Genetics Part A
+JO  - American Journal of Medical Genetics Part A
+JA  - Am. J. Med. Genet.
+SP  - 1225
+EP  - 1235
+VL  - 155
+IS  - 6
+KW  - classification
+KW  - congenital anomalies
+KW  - limb reduction defect
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119036821
+M3  - https://doi.org/10.1002/ajmg.a.33999
+UR  - https://doi.org/10.1002/ajmg.a.33999
+Y2  - 2021/11/08
+N2  - Abstract Limb deficiencies, the congenital absence or hypoplasia of a long bone and/or digits, vary greatly in their anatomy and etiology. Previous attempts to classify the range of possible phenotypes have not included all types of deficiencies. We present a new classification system, which includes all potential phenotypes. Infants with limb deficiencies were identified in the hospital-based Active Malformations Surveillance Program at Brigham and Women's Hospital in Boston, MA from the years 1972 to 1974 and 1979 to 2000. Affected infants were classified based on the anatomy and apparent cause of their deficiencies. The prevalence rate of all types of limb deficiency was 0.79/1,000. Upper limb deficiencies were significantly more common than lower limb deficiencies. There was no significant difference in frequencies between deficiencies on the left and right sides of the body. Longitudinal defects were more common than terminal transverse defects; intercalary defects were uncommon. Longitudinal defects were most likely to occur on the preaxial side of the limb. Almost half of affected infants had affected digits, with normal long bones. The most common apparent cause of limb deficiencies was vascular disruption defects (0.22/1,000), such as amniotic band-related limb deficiency. This new classification system includes deficiency of each long bone, as well as absence of any finger or toe. This system will make it possible to establish the prevalence of each specific phenotype. The large number of distinct apparent causes illustrates the marked etiologic heterogeneity of limb deficiencies. ? 2011 Wiley-Liss, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - Defects of the femoral head-neck junction: A new method of classification and observed frequency in Hamann-Todd skeletal collection
+AU  - Medlej, Bahaa
+AU  - Cohen, Haim
+AU  - Dar, Gali
+AU  - Peleg, Smadar
+AU  - Abbas, Janan
+AU  - Masharawi, Youssef
+AU  - Hershkovitz, Israel
+AU  - May, Hila
+Y1  - 2021/09/01
+PY  - 2021
+DA  - 2021/09/01
+N1  - https://doi.org/10.1002/oa.2991
+DO  - https://doi.org/10.1002/oa.2991
+T2  - International Journal of Osteoarchaeology
+JF  - International Journal of Osteoarchaeology
+JO  - International Journal of Osteoarchaeology
+JA  - Int J Osteoarchaeol
+SP  - 801
+EP  - 808
+VL  - 31
+IS  - 5
+KW  - Allen's fossa
+KW  - femoroacetabular impingement
+KW  - femur
+KW  - herniation pit
+KW  - osteoarthritis
+KW  - plaque
+KW  - Poirier's facet
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119036821
+M3  - https://doi.org/10.1002/oa.2991
+UR  - https://doi.org/10.1002/oa.2991
+Y2  - 2021/11/08
+N2  - Abstract Femoral head-neck defects (FHNDs) are commonly reported in the anatomical and anthropological literature. The best known types are Allen's fossa and Poirier's facet; however, their definition and etiology are still debated. The aims of this study were to revise the categorization and identification of FHNDs and to reveal their prevalence in a skeletal sample. The femora of 238 individuals (161 males and 77 females) aged between 21 and 93 years old from the Hamann-Todd osteological collections (Cleveland Museum of Natural History) were examined. FHNDs were classified according to their location, size, and appearance. Six different types of defects in the femoral head and neck were defined: ditch (it appears like Allen's fossa), tongue (it appears like Poirier's facet), indentate, sunken, groove, and pit. This classification method was found to be reliable (? ≥ 0.907). FHNDs are very common among adult human populations (69.3%), especially the ditch (25.2%) and the tongue types (38.2%). All types were sex and age independent; however, the age of onset varied. The tongue type was more prevalent among the elderly, whereas the ditch type was more prevalent among younger individuals. To conclude, there are six distinct types of FHNDs, which varied in their location, appearance, and prevalence. The most common defects, tongue and ditch, were sex and age independent. These defects are easily identified by naked eye or via CT images and therefore can be studied both in skeletal and modern populations, respectively.
+ER  - 
+
+TY  - JOUR
+T1  - A new classification of peri-implant bone morphology: a radiographic study of patients with lower implant-supported mandibular overdentures
+AU  - Zhang, Lei
+AU  - Geraets, Wil
+AU  - Zhou, Yongsheng
+AU  - Wu, Wuqing
+AU  - Wismeijer, Daniel
+Y1  - 2014/08/01
+PY  - 2014
+DA  - 2014/08/01
+N1  - https://doi.org/10.1111/clr.12193
+DO  - https://doi.org/10.1111/clr.12193
+T2  - Clinical Oral Implants Research
+JF  - Clinical Oral Implants Research
+JO  - Clinical Oral Implants Research
+JA  - Clin. Oral Impl. Res.
+SP  - 905
+EP  - 909
+VL  - 25
+IS  - 8
+KW  - bone loss
+KW  - bone morphology
+KW  - dental implant
+KW  - implant-supported overdenture
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119036821
+M3  - https://doi.org/10.1111/clr.12193
+UR  - https://doi.org/10.1111/clr.12193
+Y2  - 2021/11/08
+N2  - Abstract Objective This study aimed to classify peri-implant bone defects (PIBDs) on the basis of their radiographic appearance in a cohort of patients with lower implant-supported overdentures. Materials and methods Eighty-three patients with lower implant-supported overdentures were recruited to participate in the study, which was approved by the ethics committee of Ignatius Teaching Hospital. Details about the patients' smoking habits were recorded. The participants had a total of 224 implants involving 3214 implant sites. The mean observation time of the subjects was 10.7 years. Panoramic radiographs of all sites were evaluated in duplicate (first evaluation [t1], second evaluation [t2]) during 2 weeks by one experienced observer. PIBDs were classified into the following types: saucer-shaped, wedge-shaped, flat, undercut, and slit-like bone defects. Intra-examiner agreement was tested using crosstabs and Cohen's kappa coefficient. The association of PIBD type with gender, time after implant placement, smoking, and treatment strategy was investigated using multivariate test of independence on the basis of spatial signs. Results Intra-observer reliability was moderate (? = 0.51). Saucer-shaped defects were the most frequent (42.8% [t1] and 44.6% [t2]), followed by wedge-shaped (26.0% [t1] and 27.4% [t2]), flat (10.7% [t2] and 17.7% [t1]), undercut (8.8% [t1] and 11.9% [t2]), and finally slit-like defects (4.7% [t1] and 5.4% [t2]). Peri-implant bone defects morphology was significantly associated with gender, smoking, and treatment strategy. Conclusion The morphology of PIBDs can be classified into five meaningful classes, as opposed to the two described in the literature.
+ER  - 
+
+TY  - JOUR
+T1  - Convolutional neural network-based multi-label classification of PCB defects
+AU  - Zhang, Linlin
+AU  - Jin, Yongqing
+AU  - Yang, Xuesong
+AU  - Li, Xia
+AU  - Duan, Xiaodong
+AU  - Sun, Yuan
+AU  - Liu, Hong
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - https://doi.org/10.1049/joe.2018.8279
+DO  - https://doi.org/10.1049/joe.2018.8279
+T2  - The Journal of Engineering
+JF  - The Journal of Engineering
+JO  - The Journal of Engineering
+JA  - The Journal of Engineering
+SP  - 1612
+EP  - 1616
+VL  - 2018
+IS  - 16
+KW  - printed circuits
+KW  - image classification
+KW  - learning (artificial intelligence)
+KW  - feedforward neural nets
+KW  - convolution
+KW  - electronic engineering computing
+KW  - feature extraction
+KW  - automatic optical inspection
+KW  - convolutional neural network-based multilabel classification
+KW  - PCB defects
+KW  - printed circuit board design technology
+KW  - image classification
+KW  - multitask CNN model
+KW  - multilabel learning problem
+KW  - multiple binary classification tasks
+KW  - multicategory problem
+KW  - deep learning frameworks
+KW  - PCB surface defects inspection
+PB  - The Institution of Engineering and Technology
+SN  - 9781119036821
+M3  - https://doi.org/10.1049/joe.2018.8279
+UR  - https://doi.org/10.1049/joe.2018.8279
+Y2  - 2021/11/08
+N2  - Due to the rapid development of printed circuit board (PCB) design technology, inspection of PCB surface defects has become an increasingly critical issue. The classification of PCB defects facilitates the root causes of detects? identification. As PCB defects may be intensive, the actual PCB classification should not be considered as a binary or multi-category problem. This type of problem is called multi-label classification problem. Recently, as one of the deep learning frameworks, a convolutional neural network (CNN) has a major breakthrough in many areas of image processing, especially in the image classification. This study proposes a multi-task CNN model to handle the multi-label learning problem by defining each label learning as a binary classification task. In this study, the multi-label learning is transformed into multiple binary classification tasks by customising the loss function. Extensive experiments demonstrate that the proposed method achieves great performance on the dataset of defects.
+ER  - 
+
+TY  - JOUR
+T1  - HRIPCB: a challenging dataset for PCB defects detection and classification
+AU  - Huang, Weibo
+AU  - Wei, Peng
+AU  - Zhang, Manhua
+AU  - Liu, Hong
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1049/joe.2019.1183
+DO  - https://doi.org/10.1049/joe.2019.1183
+T2  - The Journal of Engineering
+JF  - The Journal of Engineering
+JO  - The Journal of Engineering
+JA  - The Journal of Engineering
+SP  - 303
+EP  - 309
+VL  - 2020
+IS  - 13
+KW  - image registration
+KW  - computer vision
+KW  - image recognition
+KW  - inspection
+KW  - object detection
+KW  - neural nets
+KW  - printed circuits
+KW  - RBCNN method
+KW  - deep neural networks
+KW  - HRIPCB
+KW  - challenging dataset
+KW  - PCB defects detection
+KW  - inspection
+KW  - printed circuit board
+KW  - synthesised PCB dataset
+KW  - 6 kinds
+KW  - classification
+KW  - registration tasks
+KW  - reference-based method
+KW  - end-to-end convolutional neural network
+KW  - RBCNN approach
+KW  - pixel-by-pixel processing
+PB  - The Institution of Engineering and Technology
+SN  - 9781119036821
+M3  - https://doi.org/10.1049/joe.2019.1183
+UR  - https://doi.org/10.1049/joe.2019.1183
+Y2  - 2021/11/08
+N2  - To cope with the difficulties in inspection and classification of defects in printed circuit board (PCB), many methods have been proposed in previous work. However, few of them publish their datasets before, which hinders the introduction and comparison of new methods. In this study, HRIPCB, a synthesised PCB dataset that contains 1386 images with 6 kinds of defects is proposed for the use of detection, classification and registration tasks. Besides, a reference-based method is adopted to inspect and an end-to-end convolutional neural network is trained to classify the defects, which are collectively referred to as the RBCNN approach. Unlike conventional approaches that require pixel-by-pixel processing, the RBCNN method proposed in this study firstly locates the defects and then classifies them by deep neural networks, which shows superior performance on the dataset.
+ER  - 
+
+TY  - JOUR
+T1  - Remodeling of the Embryonic Interventricular Communication in Regard to the Description and Classification of Ventricular Septal Defects
+AU  - Anderson, Robert H.
+AU  - Spicer, Diane E.
+AU  - Mohun, Timothy J.
+AU  - Hikspoors, Jill P.J.M.
+AU  - Lamers, Wouter H.
+Y1  - 2019/01/01
+PY  - 2019
+DA  - 2019/01/01
+N1  - https://doi.org/10.1002/ar.24020
+DO  - https://doi.org/10.1002/ar.24020
+T2  - The Anatomical Record
+JF  - The Anatomical Record
+JO  - The Anatomical Record
+JA  - Anat Rec
+SP  - 19
+EP  - 31
+VL  - 302
+IS  - 1
+KW  - development
+KW  - cardiac embryology
+KW  - outflow tract
+KW  - atrioventricular cushions
+KW  - outflow cushions
+PB  - John Wiley & Sons, Ltd
+SN  - 9781119036821
+M3  - https://doi.org/10.1002/ar.24020
+UR  - https://doi.org/10.1002/ar.24020
+Y2  - 2021/11/08
+N2  - ABSTRACT Ventricular septal defects are the commonest congenital cardiac malformations. Appropriate knowledge of the steps involved in completion of ventricular septation should provide clues as to the morphology of the different phenotypes. Currently, however, consensus is lacking regarding the components of the developing ventricular septum, and how best to describe the different phenotypes seen in postnatal life. We have reassessed the previous investigations devoted to closure of the embryonic interventricular communication. On this basis, we discuss how studies in the early part of the 20th century correctly identified the steps involved in the remodeling of the embryonic interventricular foramen subsequent to the stage at which the outflow tract arises entirely above the cavity of the developing right ventricle. There has, however, already been remodeling of the foramen from the stage at which the atrioventricular canal is supported exclusively by the developing left ventricle. We show how these temporal changes in morphology can provide explanations for the different ventricular septal defects seen in the clinical setting. Thus, muscular defects represent inappropriate coalescence of muscular ventricular septum. The channels that are perimembranous are due to failure of closure of the persisting embryonic interventricular foramen. Those that are doubly committed and juxta-arterial reflect failure of formation of the free-standing subpulmonary muscular infundibular sleeve. The findings also point to the importance of appropriate alignment, during development, between the developing atrial and ventricular septums, and between the apical component of the ventricular septum and the ventricular outlet components. Anat Rec, 302:19?31, 2019. ? 2018 Wiley Periodicals, Inc.
+ER  - 

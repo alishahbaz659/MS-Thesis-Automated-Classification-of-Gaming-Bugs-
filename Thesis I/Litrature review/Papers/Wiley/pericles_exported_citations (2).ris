@@ -1,0 +1,725 @@
+
+TY  - JOUR
+T1  - A novel probabilistic neural network-based algorithm for classifying internal fault in transformer windings
+AU  - Jettanasen, Chaiyan
+AU  - Ngaopitakkul, Atthapol
+Y1  - 2013/03/01
+PY  - 2013
+DA  - 2013/03/01
+N1  - https://doi.org/10.1002/tee.21831
+DO  - https://doi.org/10.1002/tee.21831
+T2  - IEEJ Transactions on Electrical and Electronic Engineering
+JF  - IEEJ Transactions on Electrical and Electronic Engineering
+JO  - IEEJ Transactions on Electrical and Electronic Engineering
+JA  - IEEJ Trans Elec Electron Eng
+SP  - 123
+EP  - 131
+VL  - 8
+IS  - 2
+KW  - internal faults
+KW  - transformer windings
+KW  - discrete wavelet transforms
+KW  - probabilistic neural network
+PB  - John Wiley & Sons, Ltd
+SN  - 1931-4973
+M3  - https://doi.org/10.1002/tee.21831
+UR  - https://doi.org/10.1002/tee.21831
+Y2  - 2021/11/08
+N2  - Abstract The major function of protective devices in a power system is to detect the occurrence of faults and to isolate the faulty sections from the rest of the system. Much progress has been made in the development algorithms for detecting faults in power transformers, which depend on transients-based techniques. This paper presents an algorithm based on a combination of discrete wavelet transforms and probabilistic neural networks (PNNs) for classifying internal faults in a two-winding three-phase transformer. Fault conditions of the transformer are simulated using alternative transients program/electromagnetic transients program (ATP/EMTP) in order to obtain current signals. The mother wavelet Daubechies4 is employed to decompose the high-frequency components from these signals. All three phases of the differential current signals are used in the fault detection decision algorithm. The variations of first-scale high-frequency component that detects fault are used as an input for the training pattern. The training process for the neural network and fault diagnosis decision is implemented using toolboxes on MATLAB/Simulink. Various cases and fault types based on the Thailand electricity transmission and distribution systems are studied to verify the validity of the algorithm. Backpropagation neural network is also compared with the PNN in this paper. It is found that the proposed method gives satisfactory accuracy with less training time, and will be particularly useful in the development of a modern differential relay for a transformer protection scheme. ? 2013 Institute of Electrical Engineers of Japan. Published by John Wiley & Sons, Inc.
+ER  - 
+
+TY  - JOUR
+T1  - A new intelligent scheme for power system faults detection and classification: A hybrid technique
+AU  - Balakrishnan, Pappan
+AU  - Gopinath, Singaram
+Y1  - 2020/09/01
+PY  - 2020
+DA  - 2020/09/01
+N1  - https://doi.org/10.1002/jnm.2728
+DO  - https://doi.org/10.1002/jnm.2728
+T2  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JF  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JO  - International Journal of Numerical Modelling: Electronic Networks, Devices and Fields
+JA  - Int J Numer Model
+SP  - e2728
+VL  - 33
+IS  - 5
+KW  - cuttlefish optimizer
+KW  - fault analysis
+KW  - linear discriminant analysis
+KW  - power system
+KW  - random forest algorithm
+KW  - transmission line faults
+PB  - John Wiley & Sons, Ltd
+SN  - 0894-3370
+M3  - https://doi.org/10.1002/jnm.2728
+UR  - https://doi.org/10.1002/jnm.2728
+Y2  - 2021/11/08
+N2  - Abstract This paper proposes a hybrid technique to detect and classify the transmission line faults in the power system. The proposed approach is the joint execution of linear discriminant analysis (LDA) and cuttlefish optimizer (CFO) learning process-based random forest algorithm (RFA), ie, named as LDA-CFRFA technique. Here, two modules are utilized for fault analysis in power system: fault detection and fault classification. The first procedure of the proposed method is the power system transmission line parameters in normal and abnormal condition dataset preparation by using LDA. LDA-based dataset preparation process consists of feature extraction of power flow parameters and defines the nature of signals occurred by the system. The extracted dataset is assessed by CFO-based RFA technique for classifying the fault type occurred in the transmission system. By then, the proposed model is executed in MATLAB/Simulink working stage, and the execution is assessed with the existing techniques such as CFO, RFA, Feed forward neural network (FNN), and artificial neural network (ANN). In our research, the faults implemented on test system are phase A, phase B, phase C, phase A to ground (AG), phase B to ground (BG), phase C to ground (CG), phase AB, phase AC and phase BC, phase AB to ground (ABG), phase AC to ground (ACG), and phase BC to ground (BCG). From the results, the proposed technique guarantees the system with less complexity and less consumption time for the detection and classification of the fault, and hence, the accuracy of the system is increased.
+ER  - 
+
+TY  - JOUR
+T1  - Detection and diagnosis of induction motor bearing faults using multiwavelet transform and naive Bayes classifier
+AU  - Saini, Manish Kumar
+AU  - Aggarwal, Akanksha
+Y1  - 2018/08/01
+PY  - 2018
+DA  - 2018/08/01
+N1  - https://doi.org/10.1002/etep.2577
+DO  - https://doi.org/10.1002/etep.2577
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int Trans Electr Energ Syst
+SP  - e2577
+VL  - 28
+IS  - 8
+KW  - motor bearing faults
+KW  - multiwavelet transform
+KW  - naive Bayes classifier
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/etep.2577
+UR  - https://doi.org/10.1002/etep.2577
+Y2  - 2021/11/08
+N2  - Summary A novel framework is proposed for the classification of motor bearing faults by using multiwavelet transform and naive Bayes classifier. This work has explored the application of multiwavelet transform to the vibration signatures for extracting the effective fault features. Geronimo-Hardin-Massopust multiwavelet filter bank has been employed in this work for multiresolution analysis up to fourth decomposition level. This work has relied upon multiwavelets as the multiwavelets are enriched with the properties which wavelets do not offer simultaneously like compact support and orthogonality without compromising with symmetricity and higher order of vanishing moments. After that, fault features have been extracted from the decomposed vibration signals to utilize the fault information present at different resolution levels. The fault classification has been accomplished with high success rate by using the extracted fault features with the naive Bayes classifier due to its inherent features like robustness to noise, simplicity, and quick convergence even with less training data. The efficacy of the proposed classifier has been verified with both the offline signals and the real-time signals having different fault severity levels. The outperformance of the proposed classifier has been shown by comparing the classification results with other established supervised classification techniques like probabilistic neural network, Gaussian-support vector machine, polynomial-support vector machine, and linear-support vector machine.
+ER  - 
+
+TY  - JOUR
+T1  - Power system fault detection and classification using probabilistic approach
+AU  - Rebizant, W.
+AU  - Szafran, J.
+Y1  - 1999/05/01
+PY  - 1999
+DA  - 1999/05/01
+N1  - https://doi.org/10.1002/etep.4450090307
+DO  - https://doi.org/10.1002/etep.4450090307
+T2  - European Transactions on Electrical Power
+JF  - European Transactions on Electrical Power
+JO  - European Transactions on Electrical Power
+JA  - Euro. Trans. Electr. Power
+SP  - 183
+EP  - 191
+VL  - 9
+IS  - 3
+PB  - John Wiley & Sons, Ltd
+SN  - 1430-144X
+M3  - https://doi.org/10.1002/etep.4450090307
+UR  - https://doi.org/10.1002/etep.4450090307
+Y2  - 2021/11/08
+N2  - Abstract Final decision of any digital power system protection is made in several steps including: fault recognition, estimation of criterion values and decision making concerning the state of protected plant. Whatever methods (deterministic or probabilistic) are used by digital signal processing, the protection system must identify fault instant and type at first, which starts all further required procedures. Since fault appearance and parameters are of probabilistic nature, some of the decision tasks may be solved on this basis. In the paper an extension of sequential decision method (first proposed by Sakaguchi) for fault detection and classification is presented. The algorithm is based on probabilistic characteristics of criterion values and hypothesis testing. Proposed method is optimized in sense of speed and accuracy together with measurement algorithm. Some indications for proper choice of criterion values based on probabilistic concept are also given. Intensive electromagnetic/alternative transients program (EMTP/ATP) simulations have been made to obtain required data and to test the developed algorithm. Results of its implementation on a 400-kV transmission line EMTP model are presented in comparison with an artificial-neural-network-(ANN-)based fault detection and classification method.
+ER  - 
+
+TY  - JOUR
+T1  - Locality-preserving data modelling and its application in fault classification
+AU  - Miao, Aimin
+AU  - Cheng, Zhishang
+AU  - Li, Peng
+AU  - Cui, Huawei
+AU  - Liu, Sitong
+AU  - Wu, Hong
+Y1  - 2021/04/25
+PY  - 2021
+DA  - 2021/04/25
+N1  - https://doi.org/10.1002/cjce.24149
+DO  - https://doi.org/10.1002/cjce.24149
+T2  - The Canadian Journal of Chemical Engineering
+JF  - The Canadian Journal of Chemical Engineering
+JO  - The Canadian Journal of Chemical Engineering
+JA  - Can J Chem Eng
+VL  - n/a
+IS  - n/a
+KW  - fault classification
+KW  - Fisher discriminant analysis
+KW  - manifold learning
+KW  - neighbourhood preserving embedding
+PB  - John Wiley & Sons, Ltd
+SN  - 0008-4034
+M3  - https://doi.org/10.1002/cjce.24149
+UR  - https://doi.org/10.1002/cjce.24149
+Y2  - 2021/11/08
+N2  - Abstract In this work, a new local fault classification technique named neighbourhood-preserving discriminant analysis (NPDA) was developed and applied for fault classification in industrial processes. Rather than using traditional global modelling methods, we used the neighbourhood-preserving embedding (NPE) algorithm, which describes data features stably and reliably. Taking the latent variables obtained by NPE and Fisher discriminant analysis (FDA) as the classification features, a classification model was constructed by NPDA and used to classify various types of faults. To evaluate fault classification, case studies on a continuous stirred tank heater process and a Tennessee Eastman benchmark process were conducted. The effectiveness of the proposed approach was confirmed, as improved classification results were obtained by NPDA.
+ER  - 
+
+TY  - JOUR
+T1  - Feature selection and fault-severity classification–based machine health assessment methodology for point machine sliding-chair degradation
+AU  - Atamuradov, Vepa
+AU  - Medjaher, Kamal
+AU  - Camci, Fatih
+AU  - Zerhouni, Noureddine
+AU  - Dersin, Pierre
+AU  - Lamoureux, Benjamin
+Y1  - 2019/06/01
+PY  - 2019
+DA  - 2019/06/01
+N1  - https://doi.org/10.1002/qre.2446
+DO  - https://doi.org/10.1002/qre.2446
+T2  - Quality and Reliability Engineering International
+JF  - Quality and Reliability Engineering International
+JO  - Quality and Reliability Engineering International
+JA  - Qual Reliab Engng Int
+SP  - 1081
+EP  - 1099
+VL  - 35
+IS  - 4
+KW  - fault severity
+KW  - fault-severity classification
+KW  - filter-based feature selection
+KW  - inferential statistics
+KW  - machine health assessment
+KW  - point machine sliding-chair degradation
+KW  - time series segmentation
+PB  - John Wiley & Sons, Ltd
+SN  - 0748-8017
+M3  - https://doi.org/10.1002/qre.2446
+UR  - https://doi.org/10.1002/qre.2446
+Y2  - 2021/11/08
+N2  - Abstract In this paper, we propose an offline and online machine health assessment (MHA) methodology composed of feature extraction and selection, segmentation-based fault severity evaluation, and classification steps. In the offline phase, the best representative feature of degradation is selected by a new filter-based feature selection approach. The selected feature is further segmented by utilizing the bottom-up time series segmentation to discriminate machine health states, ie, degradation levels. Then, the health state fault severity is extracted by a proposed segment evaluation approach based on within segment rate-of-change (RoC) and coefficient of variation (CV) statistics. To train supervised classifiers, a priori knowledge about the availability of the labeled data set is needed. To overcome this limitation, the health state fault-severity information is used to label (eg, healthy, minor, medium, and severe) unlabeled raw condition monitoring (CM) data. In the online phase, the fault-severity classification is carried out by kernel-based support vector machine (SVM) classifier. Next to SVM, the k-nearest neighbor (KNN) is also used in comparative analysis on the fault severity classification problem. Supervised classifiers are trained in the offline phase and tested in the online phase. Unlike to traditional supervised approaches, this proposed method does not require any a priori knowledge about the availability of the labeled data set. The proposed methodology is validated on infield point machine sliding-chair degradation data to illustrate its effectiveness and applicability. The results show that the time series segmentation-based failure severity detection and SVM-based classification are promising.
+ER  - 
+
+TY  - JOUR
+T1  - Modulated Gabor filter based deep convolutional network for electrical motor bearing fault classification and diagnosis
+AU  - Afrasiabi, Shahabodin
+AU  - Mohammadi, Mohammad
+AU  - Afrasiabi, Mousa
+AU  - Parang, Benyamin
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - https://doi.org/10.1049/smt2.12017
+DO  - https://doi.org/10.1049/smt2.12017
+T2  - IET Science, Measurement & Technology
+JF  - IET Science, Measurement & Technology
+JO  - IET Science, Measurement & Technology
+JA  - IET Sci. Meas. Technol.
+SP  - 154
+EP  - 162
+VL  - 15
+IS  - 2
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8822
+M3  - https://doi.org/10.1049/smt2.12017
+UR  - https://doi.org/10.1049/smt2.12017
+Y2  - 2021/11/08
+N2  - Abstract The high applicability of the electrical motor has led to gain attention in condition monitoring to diagnosis the most common type of fault in this machine, bearing element. The emergence of deep neural networks (DNN) provides the opportunity to design a network for early bearing fault diagnosis with high speed and without any additional feature extraction technique. However, robustness against the noise and some deficiencies in fully capturing features are still challenging issues. To resolve this problem, this paper proposes a one module Gabor filter based convolutional neural networks (CNN), namely Gabor convolutional neural network (GCNN), for bearing fault detection and classification. GCNN is a modulated Gabor filter to enhance the ability in capturing temporal features as well as enhance understanding spatial features with fewer parameters and higher robustness against noises and can be considered as a computational efficient deep structure. The simulation results of the bearing fault detection/classification are studied on two different experimental prototypes, including case Western Reserve University (CWRU) and Paderborn University (Paderborn) datasets. The superiority of this method is shown by comparison with accelerated CNN (ACNN), adaptive CNN, standard CNN, support vector machine (SVM), learning vector quantisation (LVQ), and feedforward neural network (FFNN).
+ER  - 
+
+TY  - JOUR
+T1  - Development of a new fault zone identification scheme for busbar using logistic regression classifier
+AU  - Jena, Soumitri
+AU  - Bhalja, Bhavesh R.
+Y1  - 2017/01/01
+PY  - 2017
+DA  - 2017/01/01
+N1  - https://doi.org/10.1049/iet-gtd.2016.0785
+DO  - https://doi.org/10.1049/iet-gtd.2016.0785
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 174
+EP  - 184
+VL  - 11
+IS  - 1
+KW  - busbars
+KW  - regression analysis
+KW  - signal classification
+KW  - power generation faults
+KW  - power generation protection
+KW  - power stations
+KW  - current transformers
+KW  - fault zone identification scheme
+KW  - logistic regression binary classifier
+KW  - cycle post-fault current signals
+KW  - Indian power generating station
+KW  - power system computer-aided design-electromagnetic transient design
+KW  - control software package
+KW  - external faults
+KW  - internal faults
+KW  - current transformer saturation
+KW  - differential protection scheme
+KW  - one-and-half breaker busbar arrangement
+KW  - double breaker busbar arrangement
+KW  - voltage 400 kV
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2016.0785
+UR  - https://doi.org/10.1049/iet-gtd.2016.0785
+Y2  - 2021/11/08
+N2  - This study presents the development of a new fault zone identification scheme for busbar using logistic regression binary classifier by utilising one cycle post-fault current signals of all the bays connected to the busbar. Practicability of the presented scheme has been verified by modelling an existing 400 kV Indian power generating station in power systems computer-aided design/electro-magnetic transient design and control software package. The presented scheme has been tested on enormous cases (38,400) which were generated by varying system and fault parameters. The proposed scheme provides effective discrimination between internal and external faults with a very high (99.69%) overall accuracy. Moreover, it remains stable in case of heavy through fault conditions particularly with current transformer saturation during which the conventional differential protection scheme mal-operates. Furthermore, it provides equally compatible accuracy for unknown system/unseen data set as well as for double/one-and-half breaker busbar arrangement. In addition, performance of the proposed scheme has been verified on the laboratory prototype and results are found to be satisfactory. The average tripping time is of the order of 23 ms in case of internal faults. At last, comparative evaluation of the proposed scheme with recently presented schemes in the literature indicates its superiority.
+ER  - 
+
+TY  - JOUR
+T1  - Cross-domain bearing fault diagnosis with refined composite multiscale fuzzy entropy and the self organizing fuzzy classifier
+AU  - Gituku, Esther W.
+AU  - Kimotho, James K.
+AU  - Njiri, Jackson G.
+Y1  - 2021/03/01
+PY  - 2021
+DA  - 2021/03/01
+N1  - https://doi.org/10.1002/eng2.12307
+DO  - https://doi.org/10.1002/eng2.12307
+T2  - Engineering Reports
+JF  - Engineering Reports
+JO  - Engineering Reports
+JA  - Engineering Reports
+SP  - e12307
+VL  - 3
+IS  - 3
+KW  - bearings
+KW  - cross domain diagnosis
+KW  - fuzzy entropy
+KW  - RCMFE
+KW  - self organizing classifier
+PB  - John Wiley & Sons, Ltd
+M3  - https://doi.org/10.1002/eng2.12307
+UR  - https://doi.org/10.1002/eng2.12307
+Y2  - 2021/11/08
+N2  - Abstract In this article, the use of refined composite multiscale fuzzy entropy (RCMFE) for cross-domain diagnosis of bearings is introduced and verified with two publicly available datasets of varying operating conditions, a factor that challenges the diagnostic ability of trained models. For classification, the self organizing fuzzy (SOF) classifier is used. The diagnostic framework which primarily only involves extracting RCMFE feature and training the SOF classifier, is able to detect and isolate faults with over 97% accuracy when the classes are comprised of a single fault type and size. Compared to related works, the proposed approach does not require deep learning for feature extraction nor any domain adaptation technique as the RCMFE feature is robust against changing operating conditions. Furthermore, the method does not need target domain data during training. With regard to fault isolation, when the classes in the training data contain all the available fault sizes instead of a single size, the classifier can distinguish inner race faults from outer race and ball fault with an average accuracy of 96%. However, the accuracy for differentiating ball and outer race faults falls slightly to an average of 86%. Thus even for the latter arrangement which poses a tougher transfer learning problem, the proposed approach still performs very well.
+ER  - 
+
+TY  - JOUR
+T1  - Acoustic signal-based approach for fault detection in motorcycles using chaincode of the pseudospectrum and dynamic time warping classifier
+AU  - Anami, Basavaraj S.
+AU  - Pagi, Veerappa B.
+Y1  - 2014/02/01
+PY  - 2014
+DA  - 2014/02/01
+N1  - https://doi.org/10.1049/iet-its.2012.0086
+DO  - https://doi.org/10.1049/iet-its.2012.0086
+T2  - IET Intelligent Transport Systems
+JF  - IET Intelligent Transport Systems
+JO  - IET Intelligent Transport Systems
+JA  - IET Intell. Transp. Syst.
+SP  - 21
+EP  - 27
+VL  - 8
+IS  - 1
+KW  - acoustic signal processing
+KW  - fault diagnosis
+KW  - mechanical engineering computing
+KW  - motorcycles
+KW  - signal classification
+KW  - wavelet transforms
+KW  - acoustic signal-based approach
+KW  - fault detection
+KW  - motorcycle
+KW  - pseudospectrum chaincode
+KW  - dynamic time warping classifier
+KW  - moving vehicle sound
+KW  - motorcycle sound signal
+KW  - chaincode feature
+KW  - Matlab
+KW  - wavelet transform
+KW  - traffic census
+KW  - traffic rule enforcement
+KW  - machine fault discovery
+KW  - automatic surveillance
+PB  - The Institution of Engineering and Technology
+SN  - 1751-956X
+M3  - https://doi.org/10.1049/iet-its.2012.0086
+UR  - https://doi.org/10.1049/iet-its.2012.0086
+Y2  - 2021/11/08
+N2  - The sound of a moving vehicle gives a clue of the fault. This study investigates fault detection of motorcycles using chaincode of the pseudospectrum. The motorcycle sound signals are analysed for spectral variations and these variations are traced by a chaincode. The chaincode features are used to classify the sample into healthy or faulty using dynamic time warping technique. MATLAB version 7.8.0.347 (R2009a) is used for effective implementation. The classification results obtained are over 91% and 93%, respectively, for faulty and healthy motorcycles. The results are comparable with the reported works based on wavelets. The proposed work finds applications in traffic census, traffic rule enforcement, machine fault discovery, automatic surveillance and the like.
+ER  - 
+
+TY  - JOUR
+T1  - Fault classification and faulted phase selection for transmission line using morphological edge detection filter
+AU  - Salehi, Moslem
+AU  - Namdari, Farhad
+Y1  - 2018/04/01
+PY  - 2018
+DA  - 2018/04/01
+N1  - https://doi.org/10.1049/iet-gtd.2017.0999
+DO  - https://doi.org/10.1049/iet-gtd.2017.0999
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 1595
+EP  - 1605
+VL  - 12
+IS  - 7
+KW  - fault diagnosis
+KW  - power transmission lines
+KW  - power transmission faults
+KW  - edge detection
+KW  - power filters
+KW  - mathematical morphology
+KW  - feature extraction
+KW  - fault classification
+KW  - faulted phase selection
+KW  - transmission line
+KW  - morphological edge detection filter
+KW  - fault detection
+KW  - mathematical morphology
+KW  - initial current travelling wave
+KW  - mathematical edge detection filter
+KW  - MED filter
+KW  - transient feature extraction
+KW  - fault signal design
+KW  - arrival time detection
+KW  - travelling wave polarity
+KW  - electromagnetic transient program
+KW  - MATLAB
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2017.0999
+UR  - https://doi.org/10.1049/iet-gtd.2017.0999
+Y2  - 2021/11/08
+N2  - In this study, a novel algorithm for detecting and classifying faults in transmission lines is proposed. The algorithm is based on mathematical morphology and initial current travelling waves. A new morphological edge detection (MED) filter to extract the transient features from the original fault signal is designed. This MED filter can fast and accurately detect the arrival time and polarity of travelling waves in all conditions. The appropriate criteria of fault classification and faulted-phase selection are introduced based on polarity of initial current travelling waves. The simulations based on the electromagnetic transients program and MATLAB have been done to evaluate the validity of the proposed algorithm.
+ER  - 
+
+TY  - JOUR
+T1  - Incipient fault classification using a combination of S-transform and Hilbert transform method
+AU  - Jin-qian, Zhai
+AU  - Min-you, Chen
+AU  - gang, Hu
+AU  - Zi-qiang, Lang
+AU  - yong, Huang
+Y1  - 2013/01/01
+PY  - 2013
+DA  - 2013/01/01
+N1  - https://doi.org/10.1002/etep.1644
+DO  - https://doi.org/10.1002/etep.1644
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int. Trans. Electr. Energ. Syst.
+SP  - 122
+EP  - 134
+VL  - 23
+IS  - 1
+KW  - incipient fault
+KW  - distribution network
+KW  - S-transform
+KW  - Hilbert transform
+KW  - least square support vector machine
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/etep.1644
+UR  - https://doi.org/10.1002/etep.1644
+Y2  - 2021/11/08
+N2  - SUMMARY Incipient faults such as those caused by tree contacts are difficult to detect by conventional relaying algorithms. These faults impact distribution feeder reliability by advancing ?over time? into a full-blown fault if not detected in time. This paper proposes a combined technique using S-transform technique and Hilbert transform to extract the features of incipient fault. A least square support vector machine classifier is developed based on the features so that incipient faults can be distinguished from the normal disturbances. The comparison of the results of different feature selection methods has been conducted. The simulation results show that the proposed feature selection method is feasible and suitable. Copyright ? 2012 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - A probabilistic neural network classifier-based method for transformer winding fault identification through its transfer function measurement
+AU  - Bigdeli, Mehdi
+AU  - Vakilian, Mehdi
+AU  - Rahimpour, Ebrahim
+Y1  - 2013/04/01
+PY  - 2013
+DA  - 2013/04/01
+N1  - https://doi.org/10.1002/etep.668
+DO  - https://doi.org/10.1002/etep.668
+T2  - International Transactions on Electrical Energy Systems
+JF  - International Transactions on Electrical Energy Systems
+JO  - International Transactions on Electrical Energy Systems
+JA  - Int. Trans. Electr. Energ. Syst.
+SP  - 392
+EP  - 404
+VL  - 23
+IS  - 3
+KW  - transformer
+KW  - fault type
+KW  - measurement
+KW  - transfer function
+KW  - vector fitting
+KW  - probabilistic neural network
+PB  - John Wiley & Sons, Ltd
+SN  - 2050-7038
+M3  - https://doi.org/10.1002/etep.668
+UR  - https://doi.org/10.1002/etep.668
+Y2  - 2021/11/08
+N2  - SUMMARY In this paper, a new method is introduced for identification of transformer winding fault through transfer function analysis. For this analysis, vector fitting and probabilistic neural network are used. The results of transfer functions estimation through vector fitting are employed for training of neural network, and consequently, probabilistic neural network is used for classification of faults. The required data for fault type identification are obtained by measurements on two groups of transformers (one is a classic 20?kV transformer, and the other is a model transformer) under intact condition and under different fault conditions (axial displacement, radial deformation, disc space variation, and short circuit of winding). Comparing the results of this new method with the well-known published work in the literature, the superior capabilities of this proposed method are demonstrated. Copyright ? 2011 John Wiley & Sons, Ltd.
+ER  - 
+
+TY  - JOUR
+T1  - Adaptive fault identification and classification methodology for smart power grids using synchronous phasor angle measurements
+AU  - Gopakumar, Pathirikkat
+AU  - Reddy, Maddikara Jaya Bharata
+AU  - Mohanta, Dusmanta Kumar
+Y1  - 2015/01/01
+PY  - 2015
+DA  - 2015/01/01
+N1  - https://doi.org/10.1049/iet-gtd.2014.0024
+DO  - https://doi.org/10.1049/iet-gtd.2014.0024
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 133
+EP  - 145
+VL  - 9
+IS  - 2
+KW  - power transmission faults
+KW  - phasor measurement
+KW  - fault diagnosis
+KW  - fast Fourier transforms
+KW  - frequency-domain analysis
+KW  - power system stability
+KW  - smart power grids
+KW  - power system protection
+KW  - adaptive fault identification
+KW  - fault classification methodology
+KW  - smart power grids
+KW  - synchronous phasor angle measurements
+KW  - SPG
+KW  - transmission line faults
+KW  - phasor measurement unit
+KW  - frequency domain analysis
+KW  - voltage phase angle
+KW  - current phase angle
+KW  - fast Fourier transformation
+KW  - system protection centre
+KW  - SPC
+KW  - wide-area control actions
+KW  - system stability
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2014.0024
+UR  - https://doi.org/10.1049/iet-gtd.2014.0024
+Y2  - 2021/11/08
+N2  - Smart power grids (SPGs) entail comprehensive real-time smart monitoring and controlling strategies against contingencies such as transmission line faults. This study proposes a novel methodology for identifying and classifying transmission line faults occurring at any location in a power grid from phasor measurement unit measurements at only one of the generator buses. The proposed methodology is based on frequency domain analysis of equivalent voltage phase angle and equivalent current phase angle at the generator bus. Equivalent voltage and current phase angles are the angles made by three-phase equivalent voltage and current phasors with respect to reference axis. These angles are estimated through Park's transformation and frequency domain analysis is performed over a fixed time span equal to inverse of system nominal frequency using fast Fourier transformation. The proposed methodology can be utilised for relaying purposes in case of single transmission lines as well as for system protection centre (SPC) applications in power grid. The significance of the fault information from the methodology is for assisting SPC in SPGs for transmission line fault detection and classification to restore the transmission lines at the earliest and initiate wide-area control actions to maintain system stability against disturbances generated by occurrence and clearance of fault.
+ER  - 
+
+TY  - JOUR
+T1  - Shallow Seismicity and the Classification of Structures in the Lau Back-Arc Basin
+AU  - Baxter, A. T.
+AU  - Hannington, M. D.
+AU  - Stewart, M. S.
+AU  - Emberley, J. M.
+AU  - Breker, K.
+AU  - Krätschell, A.
+AU  - Petersen, S.
+AU  - Brandl, P. A.
+AU  - Klischies, M.
+AU  - Mensing, R.
+AU  - Anderson, M. O.
+Y1  - 2020/07/01
+PY  - 2020
+DA  - 2020/07/01
+N1  - https://doi.org/10.1029/2020GC008924
+DO  - https://doi.org/10.1029/2020GC008924
+T2  - Geochemistry, Geophysics, Geosystems
+JF  - Geochemistry, Geophysics, Geosystems
+JO  - Geochemistry, Geophysics, Geosystems
+JA  - Geochem. Geophys. Geosyst.
+SP  - e2020GC008924
+VL  - 21
+IS  - 7
+KW  - back-arc basins
+KW  - stress regimes
+KW  - microplates
+KW  - Lau Basin
+KW  - earthquakes
+KW  - plate boundaries
+PB  - John Wiley & Sons, Ltd
+SN  - 1525-2027
+M3  - https://doi.org/10.1029/2020GC008924
+UR  - https://doi.org/10.1029/2020GC008924
+Y2  - 2021/11/08
+N2  - Abstract Back-arc basins open in response to subduction processes, which cause extension in the upper plate, usually along trench-parallel spreading axes. However, global seismic databases reveal that the majority of seismic events in the Lau Basin occur along transcurrent (strike-slip) rather than extensional faults. To better characterize active deformation in this region, we compared centroid moment tensors (CMTs), calculated for large (Mw > 5), shallow (<30 km) seismic events, to the orientations of seafloor lineaments mapped throughout the Lau Basin. Ship-based multibeam and satellite altimetry were combined with vertical gravity gradient data to create the lineament map. By comparing the possible focal planes of the CMTs to the orientations of the lineaments, the most likely fault plane solutions were selected, thus classifying the faults and establishing the nature of the highly variable stress regimes in the basin. We resolved the strike, dip, and dip direction of 308 faults and classified 258 additional structures by fault type. The analysis highlights a stress regime that is dominated by a combination of left-lateral and right-lateral strike-slip faults, large-scale transcurrent motion along rigid crustal-scale fault zones, and nonrigid diffuse deformation along preexisting seafloor structures, with extension mainly limited to the tips of propagating rifts and spreading centers. By resolving many of the uncertain motions on the mapped lineaments of the Lau Basin, the CMT analysis addresses a number of questions concerning basin-scale stress regimes and microplate development, complementing GPS measurements, and providing a more complete picture of the complexities of back-arc basin development.
+ER  - 
+
+TY  - JOUR
+T1  - Detection and classification of micro-grid faults based on HHT and machine learning techniques
+AU  - Mishra, Manohar
+AU  - Rout, Pravat Kumar
+Y1  - 2018/01/01
+PY  - 2018
+DA  - 2018/01/01
+N1  - https://doi.org/10.1049/iet-gtd.2017.0502
+DO  - https://doi.org/10.1049/iet-gtd.2017.0502
+T2  - IET Generation, Transmission & Distribution
+JF  - IET Generation, Transmission & Distribution
+JO  - IET Generation, Transmission & Distribution
+JA  - IET Gener. Transm. Distrib.
+SP  - 388
+EP  - 397
+VL  - 12
+IS  - 2
+KW  - distributed power generation
+KW  - fault diagnosis
+KW  - learning (artificial intelligence)
+KW  - power generation protection
+KW  - Hilbert transforms
+KW  - decomposition
+KW  - feature extraction
+KW  - power generation faults
+KW  - support vector machines
+KW  - Bayes methods
+KW  - power generation reliability
+KW  - power engineering computing
+KW  - microgrid fault detection
+KW  - microgrid fault event classification
+KW  - HHT
+KW  - extreme machine learning technique
+KW  - microgrid protection scheme
+KW  - Hilbert-Huang transform
+KW  - three-phase current signal extraction
+KW  - empirical mode decomposition method
+KW  - intrinsic mode function
+KW  - IMF
+KW  - feature extraction
+KW  - input vector
+KW  - symmetrical fault
+KW  - asymmetrical fault
+KW  - high impedance fault
+KW  - islanding
+KW  - grid connection
+KW  - naive Bayes classifier
+KW  - support vector machine
+KW  - IEC microgrid model
+KW  - reliability
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8687
+M3  - https://doi.org/10.1049/iet-gtd.2017.0502
+UR  - https://doi.org/10.1049/iet-gtd.2017.0502
+Y2  - 2021/11/08
+N2  - This study presents a novel micro-grid protection scheme based on Hilbert?Huang transform (HHT) and machine learning techniques. Initialisation of the proposed approach is done by extracting the three-phase current signals at the targeted buses of different feeders. The obtained non-stationary signals are passed through the empirical mode decomposition method to extract different intrinsic mode functions (IMFs). In the next step using HHT to the selected IMFs component, different needful differential features are computed. The extracted features are further used as an input vector to the machine learning models to classify the fault events. The proposed micro-grid protection scheme is tested for different protection scenarios, such as the type of fault (symmetrical, asymmetrical and high impedance fault), micro-grid structure (radial and mesh) and mode of operation (islanded and grid connected) and so on. Three different machine learning models are tested and compared in this framework: Naive Bayes classifier, support vector machine and extreme learning machine. The extensive simulated results from a standard IEC micro-grid model prove the effectiveness and reliability of the proposed micro-grid protection scheme.
+ER  - 
+
+TY  - JOUR
+T1  - Sequence-space-aided SVM classifier for disturbance detection in series compensated transmission line
+AU  - Patel, Ujjaval J.
+AU  - Chothani, Nilesh G.
+AU  - Bhatt, Praghnesh J.
+Y1  - 2018/11/01
+PY  - 2018
+DA  - 2018/11/01
+N1  - https://doi.org/10.1049/iet-smt.2018.5196
+DO  - https://doi.org/10.1049/iet-smt.2018.5196
+T2  - IET Science, Measurement & Technology
+JF  - IET Science, Measurement & Technology
+JO  - IET Science, Measurement & Technology
+JA  - IET Sci. Meas. Technol.
+SP  - 983
+EP  - 993
+VL  - 12
+IS  - 8
+KW  - power transmission faults
+KW  - fault diagnosis
+KW  - support vector machines
+KW  - discrete Fourier transforms
+KW  - smart power grids
+KW  - feature extraction
+KW  - pattern classification
+KW  - power transmission protection
+KW  - power transmission lines
+KW  - power system faults
+KW  - power system CAD
+KW  - SVM architecture
+KW  - SVM classifiers
+KW  - symmetrical fault detection
+KW  - sequence-space-aided SVM classifier
+KW  - disturbance detection
+KW  - series compensated transmission line
+KW  - power network
+KW  - smart power grid
+KW  - effective disturbance classifier scheme
+KW  - sequence-space-based support vector machine classifier
+KW  - power swing condition
+KW  - protective elements
+KW  - SCTL
+KW  - test data sets
+KW  - PSCAD software
+KW  - feature vector generation
+KW  - modified full cycle discrete Fourier transform
+KW  - MATLAB
+KW  - feature extraction
+KW  - training set
+PB  - The Institution of Engineering and Technology
+SN  - 1751-8822
+M3  - https://doi.org/10.1049/iet-smt.2018.5196
+UR  - https://doi.org/10.1049/iet-smt.2018.5196
+Y2  - 2021/11/08
+N2  - Sudden changes in loading or weak constitution of power network causes power swing which may aggravate miss-operation of protective elements. Consequently, it becomes utmost essential to rapidly and accurately distinguish between fault and power swing conditions to prevent instability in smart power grid equipped with compensation. This study demonstrates an effective disturbance classifier scheme for series compensated transmission line (SCTL) for discrimination during disparity in power grid contexts using sequence-space-based support vector machine (SVM) classifier. The test data sets are generated by performing extensive simulations in PSCAD software by varying system and fault context. SVM architecture has been trained and tested by generating feature vector using modified full cycle discrete Fourier transform in MATLAB. After proper extraction of features of the interest at the time of disturbance, a decision about power swing or fault has been carried out using SVM classifiers. Regulation and kernel function parameter have been tuned using ten-fold cross-validation applied on training set. The developed scheme is also evaluated for symmetrical fault detection during power swing and shows remarkable improvement in accuracy and speed for protection of SCTL in comparison to existing schemes.
+ER  - 
+
+TY  - JOUR
+T1  - A support vector clustering-based probabilistic method for unsupervised fault detection and classification of complex chemical processes using unlabeled data
+AU  - Yu, Jie
+Y1  - 2013/02/01
+PY  - 2013
+DA  - 2013/02/01
+N1  - https://doi.org/10.1002/aic.13816
+DO  - https://doi.org/10.1002/aic.13816
+T2  - AIChE Journal
+JF  - AIChE Journal
+JO  - AIChE Journal
+JA  - AIChE J
+SP  - 407
+EP  - 419
+VL  - 59
+IS  - 2
+KW  - unsupervised process monitoring
+KW  - fault detection
+KW  - fault classification
+KW  - support vector clustering
+KW  - probabilistic-like index
+KW  - Tennessee Eastman Chemical process
+PB  - John Wiley & Sons, Ltd
+SN  - 0001-1541
+M3  - https://doi.org/10.1002/aic.13816
+UR  - https://doi.org/10.1002/aic.13816
+Y2  - 2021/11/08
+N2  - A new support vector clustering (SVC)-based probabilistic approach is developed for unsupervised chemical process monitoring and fault classification in this article. The spherical centers and radii of different clusters corresponding to normal and various kinds of faulty operations are estimated in the kernel feature space. Then the geometric distance of the monitored samples to different cluster centers and boundary support vectors are computed so that the distance?ratio?based probabilistic-like index can be further defined. Thus, the most probable clusters can be assigned to the monitored samples for fault detection and classification. The proposed SVC monitoring approach is applied to two test scenarios in the Tennessee Eastman Chemical process and its results are compared to those of the conventional K-nearest neighbor Fisher discriminant analysis (KNN-FDA) and K-nearest neighbor support vector machine (KNN-SVM) methods. The result comparison demonstrates the superiority of the SVC-based probabilistic approach over the traditional KNN-FDA and KNN-SVM methods in terms of fault detection and classification accuracies. ? 2012 American Institute of Chemical Engineers AIChE J, 59: 407?419, 2013
+ER  - 
+
+TY  - JOUR
+T1  - Deep-learning–based method for faults classification of PV system
+AU  - Zaki, Sayed A.
+AU  - Zhu, Honglu
+AU  - Fakih, Mohammed Al
+AU  - Sayed, Ahmed Rabee
+AU  - Yao, Jianxi
+Y1  - 2021/01/01
+PY  - 2021
+DA  - 2021/01/01
+N1  - https://doi.org/10.1049/rpg2.12016
+DO  - https://doi.org/10.1049/rpg2.12016
+T2  - IET Renewable Power Generation
+JF  - IET Renewable Power Generation
+JO  - IET Renewable Power Generation
+SP  - 193
+EP  - 205
+VL  - 15
+IS  - 1
+PB  - The Institution of Engineering and Technology
+SN  - 1752-1416
+M3  - https://doi.org/10.1049/rpg2.12016
+UR  - https://doi.org/10.1049/rpg2.12016
+Y2  - 2021/11/08
+N2  - Abstract The installation of photovoltaic (PV) system, as a renewable energy source, has significantly increased. Therefore, fast and efficient fault detection and diagnosis technique is highly needed to prevent unpredicted power interruptions. This is obtained in this study in the following steps. First, an efficient meta-heuristic algorithm is proposed for extracting the optimal five parameters of the PV model in order to assist the MATLAB simulation model. It is used due to its simplicity and high efficiency in building the PV array simulation. Second, a new PV system deep-learning convolutional neural network (CNN) fault classification method is presented for the advantage of automatic feature extraction, which reduces the computational burden and increases the high classification capability. Finally, for the practical and theoretical validation of the employed CNN model, normal and six fault cases are selected based on different atmospheric conditions. At same time, three electrical indicators are analysed and accordingly chosen as inputs to the proposed classification model. Moreover, the proposed model is compared with other machine-learning models.
+ER  - 
+
+TY  - JOUR
+T1  - Software fault prediction using particle swarm algorithm with genetic algorithm and support vector machine classifier
+AU  - Alsghaier, Hiba
+AU  - Akour, Mohammed
+Y1  - 2020/04/01
+PY  - 2020
+DA  - 2020/04/01
+N1  - https://doi.org/10.1002/spe.2784
+DO  - https://doi.org/10.1002/spe.2784
+T2  - Software: Practice and Experience
+JF  - Software: Practice and Experience
+JO  - Software: Practice and Experience
+JA  - Softw: Pract Exper
+SP  - 407
+EP  - 427
+VL  - 50
+IS  - 4
+KW  - fault prediction
+KW  - genetic algorithm
+KW  - machine learning
+KW  - particle swarm algorithm
+PB  - John Wiley & Sons, Ltd
+SN  - 0038-0644
+M3  - https://doi.org/10.1002/spe.2784
+UR  - https://doi.org/10.1002/spe.2784
+Y2  - 2021/11/08
+N2  - Summary Software fault prediction is a process of developing modules that are used by developers in order to help them to detect faulty classes or faulty modules in early phases of the development life cycle and to determine the modules that need more refactoring in the maintenance phase. Software reliability means the probability of failure has occurred during a period of time, so when we describe a system as not reliable, it means that it contains many errors, and these errors can be accepted in some systems, but it may lead to crucial problems in critical systems like aircraft, space shuttle, and medical systems. Therefore, locating faulty software modules is an essential step because it helps defining the modules that need more refactoring or more testing. In this article, an approach is developed by integrating genetics algorithm (GA) with support vector machine (SVM) classifier and particle swarm algorithm for software fault prediction as a stand though for better software fault prediction technique. The developed approach is applied into 24 datasets (12-NASA MDP and 12-Java open-source projects), where NASA MDP is considered as a large-scale dataset and Java open-source projects are considered as a small-scale dataset. Results indicate that integrating GA with SVM and particle swarm algorithm improves the performance of the software fault prediction process when it is applied into large-scale and small-scale datasets and overcome the limitations in the previous studies.
+ER  - 
